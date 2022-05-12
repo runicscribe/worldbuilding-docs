@@ -4,6 +4,15 @@ Rough Timeline
      ↪ 	Migrations
      ⊗	Conflicts
 
+## Prehistory
+	 
+* 800 million BC
+** Early dragons and other large hexapedes
+* 400 million BC
+** First true dragons, decline of other megafauna.
+
+## History
+
 * 200,000 BC
 ** Common ancestor of all humanoid races rises on the Xuon continent.
 *100,000 BC
@@ -42,12 +51,12 @@ Rough Timeline
 ** Decline of the Eos civilization. Constant farming begins to take a substantial toll on the land, resulting in scarcer resources and famine.
    This leads to harsher taxes, and greater militarization in an attemt to conquer the more fertile, primitive lands further north.
    Eaosian mages begin researcing necromancy, in an attemt to form tireless zombie soldiers with no need for food.
-   Meanwhile, the opressed provinces of the Eaos empire begin openly rebelling. With the adven of zombie armies, many of these splinter groups also 
+   Meanwhile, the opressed provinces of the Eaos empire begin openly rebelling. With the advent of zombie armies, many of these splinter groups also 
    begin to research animancy and necromancy in an attemp to combat the undead.
    First liches arise among the empires necromancy researces. The increased focus on necromantic magic leads to other liches arising among the rebelling privinces.
 ** Æl'jinn break off from the 'daal.
 ** Uon civilization rises on Xuon. 
-* 3100 BC
+* 2900 BC
 ** Lich wars. Unrest between provinces breaks out into an all-out, multi-way war. The new liches quickly rise in prominence due to their power and near immortality. 
    New liches also arise durin this time. The war eventually devolves into liches fighting among themselves alongside thier minions. 
    Most of the common people flee north, to where it is less civilized but more stable. Over the course of the war, many liches are destroyed or imprisoned. 
@@ -68,20 +77,22 @@ Rough Timeline
 ** Reestablishmint of communications between the Æl‘jinn and 'daal.
 * 1600 BC
 ** 'daal – 'mið golden age.
-** Founding of the hollow cities.
+** Founding of the hollow cities (?).
 * 500 BC
 ** Start of the Uon – ‘daal war. Initially skirmishes and minor conflicts.
 ** Founding of the Academy of Magical and Martial Arts.
 * 400 BC
-** Æl‘dhal empire: Third Dynasty.
+** Fragments of the Æl‘dhal empire become the Elyos Republic.
 * 100 BC
 ** Uon – ‘daal war intensifies.
 ** Æl‘jinn join the war in earnest.
 ** Establishment of the Eldar Council.
 * 0 AC
 ** Uon cataclysm.
-* 50 AC
+* 20 - 40 AC
 ** Founding of Riftlander cities.
+* 50 AC
+** "Present Day"
 
 # Ælmos - Ancient Æl’daal civilization
 Centered in what is now the great Eos desert. 
