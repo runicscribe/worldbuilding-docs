@@ -40,7 +40,7 @@ The different sapient races inhabiting Dael.
 
 Past and current events.
 
-### [Organizations](./culture/organization)
+### [Organizations](./culture/organizations)
 
 Nations, political entities, religions, and other organizations
 

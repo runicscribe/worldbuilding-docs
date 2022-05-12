@@ -9,11 +9,12 @@ permalink: /schizotech/
 
 Modernish earth "with the serial numbers filed off"
 Mix of magic and technology
-Very vertical cities with ancient lower levels and modern upper levels.
+Very vertical [cities](./cities) with ancient lower levels and modern upper levels.
+Various flying and otherwise fantastical [creatures](./creatures.md)
 
 ## Cosmology
 
-Five realms:
+[Five realms](./realms.md):
 * Heaven - Realm of the gods. Above the clouds
 * Midgard - Mortal Realm. Flat and ringed with mountains.
 * Faerie - Realm of spirits and ghosts. Overlaid with Midgard world.
@@ -40,10 +41,11 @@ Fey can move between human and spirit worlds freely, and can use differneces bet
 
 ## People
 
-* Humans - Inhabitants of the mortal world.
-* Fae - Humanlike beings capable of travelling between the human and spirit worlds. Bound to always speak the truth.
+* [Humans](./humans.md) - Inhabitants of the mortal world.
+  * [Hybrids](./hybrids.md) - Part-human, part-fae
+* [Fae](./fae.md) - Immortal beings capable of travelling between the human and spirit worlds. Bound to always speak the truth.
   * Demons - Fae that have been imprisoned in hell for preying too much on humans. Main goal is to influence the human world by manipulating human magic users.
-* Spirits - Essences of natural phenemena, creatures, places that inhabit the spirit world.
+* [Spirits](./spirits.md) - Essences of natural phenemena, creatures, places that inhabit the spirit world.
 * Eldritch - Denzeins of the outer realms of the reality. Exist in both the human and spirit worlds concurrently.
 
 Between Warlocks, Summoners, and Fae revels, half-human hybrids are quite common.

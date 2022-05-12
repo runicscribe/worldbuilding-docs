@@ -11,7 +11,7 @@ permalink: /magepunk/world/races/
 
 There are three humanlike races native to the world. All of them were uplifted from native fauna by two races of transdimensional entities
 
-### Aviar
+### [Aviar](./aviar.md)
 
 Winged humanoids. Slight builds, large eyes, up to 5 1/2 ft. tall.
 Falcon-like wings, range of colors, feather color usually matches hair color to some degree.
@@ -19,14 +19,14 @@ A rare bat-winged subspecies exists.
 
 Native to western shores and central steppes.
 
-### Gnomen
+### [Gnomen](./gnomen.md)
 
 Short and stocky humanoids. 3 - 4 ft. Long lived, with a special talent for mechanical devices.
 Skilled miners and metalsmiths. Excellent hearing, vision extends into the infrared.
 
 Native to the northern mountains.
 
-### Ilyon
+### [Ilyon](./illyon.md)
 
 Humanoid. All Ilyon have a semi-unique natural magical ability. Brightly colored hair. Eyes glow when using their magic.
 Male Ilyon have a proactive or combative ability - eg. telekinesis, pyrokinesis, flight, enhanced strength, enhanced speed.
