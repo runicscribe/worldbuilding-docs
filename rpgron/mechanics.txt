@@ -1,0 +1,91 @@
+# Mechanics
+
+## Attributes
+
+3 Attributes:
+
+* Strength: Weapon damage and physical endurance
+* Personality: Persuasion & Barter, Disguise & Stealth 
+* Willpower: Spellcasting and Mental Fortitude
+
+Adventurers start with 1 point of each, plus 4 additional points to distrubute among them.
+
+Gain 1 extra point at Level 5 and again at Level 20
+
+### Attribute Tests
+
+Test attribute against a threshold
+
+Active: Add 1D4 to attribute value
+Passive: Use unmodified Attribute value
+
+Standard difficulty thresholds of active (A) and passive (P) tests follow (althogh higher thresholds are possible):
+
+           A  P
+Trivial:   3  1  
+Easy:      4  2
+Normal:    5  3
+Moderate:  6  4
+Hard:      7  5
+Epic:      8  6
+Legendary: 9  7
+
+## Encounters
+
+Before combat, can try to bargain, flee, or fight. Depending on circumstances and disposition, all options might not be possible.
+(There's also an ambush mechanic, that goes both ways - ambusher gets a bonus on acting)
+For lairs and dungeons, this only occurs on first encounter and bosses, results determine future combats in that zone.
+
+### Wandering monsters
+
+Strictly region specific
+
+### Lairs
+
+Small, with boss
+Usually themed to region, but not always
+
+### Dungeons
+
+Large, with minibosses and end boss
+
+
+## Appendix A: List of class attributes
+
+Adventurer Startin Classes
+
+Past Level 5 class attributes overlap somewhat;
+Class is still determined by starting distrubition, with increases determining specialization.
+For example, a Level 5 Cleric with Str 3 Per 2 Will 3 (War-Priest) might have the same attributes
+as a Level 5 Monk with Str 3 Per 2 Will 3 (Guru)
+
+Basic Classes: Warrior / Bard / Mage - Focus on one attribute, maybe with a small apeciallization.
+
+| Class    | Str | Per | Wil |
++----------+-----+-----+-----+
+| Barbarian|*****|  *  |  *  |
+|Guile Bard|  *  |*****|  *  |
+| Wizard   |  *  |  *  |*****|
+| Knight   |**** | **  |  *  |
+| Paladin  |**** |  *  | **  |
+|Valor Bard| **  |**** |  *  |
+| Lore Bard|  *  |**** | **  |
+| Druid    | **  |  *  |**** |
+| Sorcerer |  *  | **  |**** |
+
+Advanced Classes
+
+Less focused power, more generalist / synergistic
+
+| Ranger   | *** | **  | **  |
+| Warlord  | *** | *** |  *  |
+| Monk     | *** |  *  | *** |
+| Rogue    | **  | *** | **  |
+| Cleric   | **  | **  | *** |
+| Warlock  |  *  | *** | *** |
+
+NPC Classes
+
+| Commoner |  *  |  *  |  *  |
+| Merchant |  *  | *** |  *  |
+| Noble    | **  | **  | **  |

@@ -1,0 +1,437 @@
+
+New art / WB project
+DnD-style Fantasy Porn World, with vague Isekai overtones.
+
+# Magic
+
+Spells - A self contained, repeatable expression of magic. Most magic is of this form.
+
+Types of Spell:
+Cantrip
+Spell{Fire+forget vs Conc}
+Ritual
+
+## Spellcasters
+
+* Wizards - Can learn any spell. Must prepare spells before they can cast them, can only prepare a limited number of spells each day. Require spell components.
+* Sorcerers - Limited spell list, from a single school of magic (?). Do not need to prepare spells, but still limited to a certain number of casts per day. Require spell components.
+  * Unbound Spark - Rare sorcerer variant with limited control, but lots of power. Must always cast spells at max level, targeting all possible targets. Generally limited to a very narrow set of related spells. Hightly resistant to magic, and immune to their own spells. Also tend to be a bit crazy, with poor impulse control. Very little equipment is capable of standing up to their magic, so they generally don't have any, or sometimes just a single powerful artifact.
+* Warlocks
+* Clerics. Specific spell list based on their god. Requires divine focus, but no other spell components (what about high level spells?).
+* Druids 
+
+Other classes can cast certain spells, (e.g. bards). Casting method is class specific, spells are usually split into once-daily + cantrip (without anything in-between)
+
+
+## Magical Effects
+
+Shapeshifting magic doesn't include clothes (although summoning and dispelling clothes is simple)
+Resurrection is relatively cheap. The afterlife exists.
+Time travel is possible (stable time loop), but rare.
+
+# Pantheon
+
+Multiple gods exist. (OOC: Power equivalent to Server Moderators / Admins - cannot alter metaphysics of the world outside of very limited changes (permadeath, altering universal constants, etc.), but otherwise can do basically anything they want - but so can all the other gods, do there is some amount of order)
+They can spawn limited-strenght avatars in the mortal realm, but their powers are quite constrained in this form.
+
+# Metaphysics
+
+
+
+## Souls
+
+When a sapient dies they immediately become a ghost, and have the choice to either remain on the mortal plane or travel to the afterlife. Ressurection requires either a ghost or a body, so it is a lot easier to get resurected if your ghost sticks around.
+If a ghost does remain, they can only travel to the afterlife if:
+* They are resurected and killed again.
+* They are excorcised by a preist (the ghost must let itself be exorcised).
+* They willingly enter holy ground sanctified by a member of a religion compatible with their chosen afterlife.
+
+True ressurection requires a high-level cleric to cast (there's usually a cleric of sufficient level running a church in any medium or larger city). Lesser ressurection, which requires both the body and the ghist, is a much lower level spell (and available to more classes). Basically any cleric should be able to cast it.
+
+If a necromancer animates a body, the ghost can reclaim it, effectivley acting as a lesser ressurection. This is generrally not something necromancers want, so they usually avoid reanimating fresh bodies.
+
+Normally, ghosts can only barely affect the mortal world - a light breeze, a soft whisper, a candle going out, a shutter rattling.
+When many ghosts are in the same area, they all get stronger, and can have more of an effect.
+
+Technically, nonsapients also become ghosts on death, but lacking the ability to make a choice, their spirits immediately travel to the applicable afterlife (sylvan, elemental, demonic, etc.).
+
+
+## HP
+
+In-universe, everything works on a health system, and in general people are aware of this.
+As a consequence:
+ - "Nuisance injuries" like papercuts + slivers don't exist.
+ - Damage/injury has no physical effect unless your are near death or aflicted by a status effect (bleed, burning, etc.)
+ - Below 50% HP you'll look sligtly battered. You'll only look visibly injured when you are near death, or if you are affected by a status affect. The same goes for equipment.
+ - You can only get scars from a near-death experience, or after being ressurected by lesser ressurection. True ressurection removes all scars.
+ 
+Armor, weapons, and clothes also have health, and are damaged if they prevent/do damage, and by AOE effects. Magical gear has high damage resistance (so it only takes damage from major damage sources), but mundane gear breaks fairly easily. Mages are especially prone to this, as they tend to use lots of AOE damage, and robes have particularly low health (At higher levels, mage gear is so magical that damage resistance gets around this downside, although anti-magic zones and effects that bypass resistance still get around this). 
+This can lead to some inconvenient (and embarrasing) circumstances. 
+Low-level gear tends to have less material than high-level gear, although isn't necessarily any more skimpy.
+Everyone can wear one layer of clothing and one layer of armor, nothing more. There is no underwear layer - it is integrated into the clothing layer, where applicable. 
+ 
+## Levels
+
+XP to reach next level is equal to total XP for all previous levels (so, scales exponentially)
+XP provided by monsters/quests only scales linearly with danger, so higher levels require considerable grind
+
+If you die and are ressurected, your progress to the next level is reset to zero. This means that the main cost of death for low-level characters is money, but for high-level charachters it is XP.
+
+Level 1 requires 1000 XP -> Level 20 required ~1 billion XP (1.048e9)
+
+Most adventurers are between Level 3 and Level 8.
+Level 10 indicates considerable power - frontline generals, city commanders, archmages
+Level 20 are basically physical gods.
+ 
+## Planes
+
+There are many planes. Denzeins of one plane cannot physically travel to another. Instead, when traveling to another plane, only the travellers soul makes the journey, and manifests a body out of magic upon arrival. If "killed" in a foreign plane, their soul immediately returns to their real body. While plane shifted, the travellers body appears unconcious and is invulnerable.
+
+All summon spells are actually summoning the soul of an extraplanar entity.
+
+Except for the above, planes may have different metaphisics than the prime material plane. For example, most denzeins of the afterlife planes are immortal.
+
+
+# Society
+
+## Crime and Punishment
+
+Most crimes can be resolved by paying a fine; if you can't pay you're imprisoned and made to pay through labor.
+For more severe crimes like murder, you can still get off with just a fine - specifically, double the cost to ressurect the victim. However, in this case, if you can't pay you'll be executed.
+
+Executions are usually performed via hanging, or anything else that inflicts damage over time (burning, drowning, etc.) so as to bypass the damage resistances of certain adventurer classes - having an executionior flail at someone's neck for half-an-hour doesn't make a good spectacle.
+
+Prisoners are stripped nude before being imprisoned (and still watched closely after), since rogues are good at hiding things and mages often have small items with powerfull enchantments. Likewise, executions are carried out with the victim nude - trying to burn someone to death when they have a concealed amulet of fire immunity isn't very effective 
+
+Imprisonment is favored for particularly powerful or well-connected individuals (else somene will just ressurect them)
+
+This is a generalization, and mostly applies to the more civilizied regions - there is quite a bit of varience place-to-place, and smaller settlements without the infrastructure for state-enforced imprisonment and labor are more likely to execute criminals or sell them into slavery, even for less-severe crimes. Minor crimes in such jurrisdictions may be punished by something like being locked in public stocks for a few days.
+
+# World
+
+Mediterranean Climate, consisting of many city-states
+
+Some are mainly inhabited by one race, others are more egalitarian 
+
+## City-states
+
+### Arcadia
+
+Governed by dryads. 
+Strict no-violance policy, including a ban on all weapons. Enforced (in part) by a magical border that stripts anyone entering of all equipment (regained upon departure). 
+Otherwise, welcomes anyone. Relitively large population of satyrs. Also, proportionally high volume of nudists.
+
+### Abyssinya
+
+Desert city ruled by catfolk, and a large population of human slaves.
+
+### Kharna
+
+Desert city ruled by jackals. Perpetually in conflict with Abyssinya.
+
+### Flotsam
+
+Island-city frequented by privateers and slavers.
+
+### Port Tortle
+
+Ruins built on the back of a giant turtle. Moves aroubnd alot, sometimes underwater.
+Rendez-vous point for smugglers, pirates, and other ne'er-do-wells.
+No permanent residents.
+
+### Greenhold
+
+Large walled city surrounded by farms.
+Mainly populated by humans, although also has a substantial centaur population (many centaurs who dont like their traditional nomadic lifestyle move here). 
+In the middle of everywhere, surrounded by enemy city-states. The city itself has strong walls and is quite secure, but the surrounding farms are frequently raided 
+(although this rarely devolves into war, as most of the surrounding cities are also enemies with each other). Defense of these farms falls mainly to beginner adventurers.
+
+Relatively safe and egalitarian. 
+Minor crimes are punished by temporary indentured servitude (physical labor only - usually stuff like cleaning the city, repairing infrastructure, or farmhand work).
+Major crimes (or a repeated pattern of minor crimes) are punished by banishment, except for high treason, which is punished by execution (beheading).
+
+### Name TBD
+
+Independant Wizard School
+
+### Name TBD
+
+Religious-Militant human kingdom.
+
+Criminal code is strict, and very "eye-for-an-eye". Punishments are generally public (ostensibly as a deterrance)
+Theft is punished by branding (first offense, minor), removal of the right hand (2nd offense, or major) removal of one (3rd offense) or both (4th, or 2nd major) feet, or drowning (final offense, or grand larceny).
+Assault is punished by public whipping or beating.
+Prostitution is punished by being locked naked in public stockes.
+Rape is punised by castration plus several days locked in public stocks.
+Heresy and Wichcraft is punished by being burned alive.
+Failure to pay the required tithes to the church is punished by exposure (being locked in a cage outdoors with no food or water), with duration based on severity.
+Poaching is punished by flaying and disembowelment.
+Graverobbing is punished by being buried alive.
+Treason and Conspiracy is punished by torture and public execution.
+
+### Name TBD
+
+Jungle city-state ruled by catfolk
+
+### The Emerald Hills
+
+Centaur kingdom. Large, relative to other city-states, with lots of open space.
+The centaurs themselves are largely nomadic, and don't really have a permanent city, although they do have a number of monuments and temples.
+
+### The Shining Halls
+
+Ornate crystalline underwater city inhabited by tropical merrows
+
+## Lairs
+
+Places that are uninhabitable or innaccessible by most races and serve as a sanctum for a specifc (beast)race.
+
+
+### Foresaken Hills
+
+Foothils full of crumbling ruins, lamia, and gorgons. Somewhat less populous than most lair regions, as gorgons tend to be solitary.
+
+### Gloomwood
+
+Thick forrest. Arachnae Lair.
+
+### The Screaming Spires
+
+Cliffs and Pillar-like rock formations inhabited by harpies
+
+### The Golden Desert
+
+Inhabited by scorpion arachnae, mainly because they are the only ones comfortable there.
+A fairly well-travelled caravan route passes nearby
+
+#Races
+
+## Humans
+
+Resourceful and adventureous.
+
+Fertile with just about everything that is mamillian and vaguely humanoid (and more importantly, has no qualms about fucking just about everything) - Most hybrid races have either a human or a dragon progenitor.
+
+## Elves
+
+Long-lived and eternally youthful.
+Slightly Xenophobic, all though less so towards humans.
+Very low fertility, but high libido.
+
+##
+
+## Orcs
+6-7 ft tall
+
+Humanoid, with Green or Grey skin. Tusks and Pointed ears. 
+Exceptionally tough and durable.
+
+## Goblins
+
+3-4 ft. tall
+Humanoid, with exaggerated facial features (lomg ears, large noses, etc). Skin color can range from red to green to purple. Often have spiky hair.
+Unusually "bouncy" - resistant to blunt trauma & falls, and can be comfortably penetrated by much larger members than their size would indicate.
+
+
+## Dragons
+
+Intelligent. Fertile with everything. Can shapeshift.
+
+Different colors have different abilities
+Not split into good and evil across color lines; instead have a "good" tendancy and "evil" tendancy - some will tend towards one side, some to the other (and a few erratically jump between two extremes)
+
+Red - Fire - Wrath + Honor
+Green - Poison gas - Gluttony?Envy? + Nurturing
+Black - Acid - Avarice + Patience
+Blue - Lightning - Pride + Mindfulness
+White - Ice - Sloth?Envy? + Decicisveness
+
+
+
+## Kobolds
+
+3 ft tall.
+Avg lifespan ~10yrs, with max ~25.
+
+Created by dragons as a servitor race. Kobolds will usually obey anything considerably stronger then they are. 
+In general, kobolds have a poor/short memory, and generally forget most things that happened more than 2-3 weeks ago. This tends to have little effect on relationships within a brood, since those tend to be continuous, 
+but it does make kobold power structures quite maleable. This trait does make kobolds disturbinly resilient to mental trauma, and also means they adapt well to major changes in curcumstances. For this reason, they are commonly
+used as slaves and servants. Lone kobolds tent to fare poorly, since this trait makes long-term planning and self-sufficientcy difficult. 
+Kobolds are clever, but not industrious. All tech is scavenged from other races (including language and clothes, althgough they don't use clothing for modesty so much as for decoration). They pick up new languages quite quickly,
+but tend to have a permanently limited vocabulary.
+
+Kobolds are reptillian. Both male and female kobolds have a cloaca, and do not have breasts. Male kobolds have a retractile penis. Female kobolds lay one egg every month, regardless of whether or not it is fertilized. 
+Fertilized eggs incubate for 40-60 days before hatching. Incubation temperature affects sex of the embryo. Newborn Kobolds are self-sufficient, and take a year to reach adulthood.
+
+A pair of dragons can create a new brood of Kobolds through the following process: 
+1. The female dragon performs a simple spell on one of her unfertilized eggs, causing it to hatch into a Kobold matriarch (always female) after about a month and a half. 
+2. After hatching, the matriarh will reach adulthood in a little under two months, and will grow to be somewhat larger than an average kobold. 
+3. Once grown, the matriarch may be impregnated by a male dragon, which will always result in a male kobold child, who will similarly reach adulthood a couple months after hatching and grow larger than usual. 
+4. The offspring of the male kobold and the matriarch will be regular Kobolds.
+
+Kobold broods tend to be extreemely incestuous, but this will not normally result in any genetic problems.
+
+## Shades
+
+Solid black, with no shading or otherwise discernable edges, apart from a pair of glowing eyes. Humanoid.
+Sexless. Reproduces via mitosis. No orifices. Neutral temperature - feels neither cold nor warm. Feeds on emotions & magic. Empathic and telepathic - speak mind-to-mind rather than vocalizing. Have very limited and temporary shapeshifting abilities, and minor levitation abilities.
+
+Rare, and prety much always found in cities of other races, cities generally have the best sources for sustenance
+
+## Beast races
+
+Generally semi-civilized,
+
+All beast races have no nudity taboo, but to varing degrees - some normally wear clothes, but feel no shame when seen nude, others eschew clothing entirely.
+Many beastraces natively wear slings or belts for carrying tools. Individuals of such races that live in other cultures often wear pocketed jackets instead (but still no shoes or pants), for utility and to present an air of civility. 
+
+### Arachne
+
+#### Scorpios
+
+Paralyzing venom
+Have both scorpion claws and human arms.
+Frequently found in desert temples.
+Very good at maintaining / repairing ancient weapons and armor, and are often equipped in the garb of the original inhabitants of whatever site they've claimed.
+
+### Catfolk
+
+### Centaurs
+
+#### Cervid taurs
+
+### Fauns and Satyrs
+
+Friendly and generous, but also have a tendancy to eat all your food, drink all your booze, and fuck anyone who catches their interest (although they actually really like it when their partner takes charge).
+Nomadic.
+Wears clothing mostly for warmth and pockets, not modesty. Their fur keeps their goat legs warm, so while they may sometimes wear togas or kilts, they often go without bottomwear entirely, and have no shame in showing when they are aroused (which is often). Almost exclusively bi.
+
+### Gnolls
+
+Matriarchal
+
+Gnoll bandit groups prefer to capture male humans (or satyrs) as slaves
+
+### Harpies
+
+Bird wings instead of arms, clawed feet, and a feathery tail.
+
+Basically never wear clothing, as it restricts their flight, although may wear an anklet, belt, or sash for carrying small items. The only exception to this rule is city dwelling harpies that work indoors and don't fly much, but these individuals are considered strange by other harpies (Most city-dwelling harpies still work outdoors where they can fly free, often for delivery services).
+
+#### Sirens
+
+Irresistable song
+
+### Lamia
+
+#### Gorgons
+
+Petryifying gaze - requires about 1 second of sustained eye contact (although gorgons eyes have a mesmeric quality that makes it difficult to look away). The pertrifaction effect can't be "turned off" by the gorgon, which can be inconvenient for allies.
+Petrification is not permanent - it lasts only until dispelled by the gorgon, or the gorgon dies.
+While the victims of petrification take the appearance of stone, they are not truly turned to stone, but rather in a sort of stasis. In this state, they are impervious to harm and can still somewhat percieve their surroundings though touch and sound (but not sight or smell). Clothing and equipment may be included in the petrification or not at choice of the gorgon.
+
+### Lizardfolk
+
+
+#### Frogmen and Fishmen
+
+Hunched back and large tail. Amphibuous.
+Frogmen are poisionous with a extensible tongue.
+Fishemen are bioluminescent with webbed spines.
+
+#### Sharkfolk
+
+Phisique is closer to a merrow with legs. Amphibuous
+
+### Kelpies
+
+Creatures with the appearance of a naked human with ankle-length hair, often full of pondweed.
+Capable of breathing and seeing underwater, swimming seemingly without effort, and passing unhindered through mud, silt, and wet soil.
+Mainly eats fish.
+
+Attracted to shiny thing; collects lost and forgotton treasues. Very shy.
+Not naturally hostile to humans, but also doesn't really care about what happens to them, and if you walk by a kelpie's pond while wearing something that catches their eye, you might just get dragged underwater as they try and take it.
+
+Rarely, a kelpie will gift some magical artefact upon a "worthy" adventurer, allthough what criteria they use to determine worthiness is unknown.
+
+#### Cave Crawlers
+
+Underground variant of Kelpies. Can freely pass through stone and climb on sheer rock walls and ceilings without falling. Perfect night vision. Hair tends to be darker and bushier than kelpies, and skin is an almost-transluscent white.
+Avoids fire, mainly because it hurts their eyes. 
+Still has all the abilities of a regular kelpie, and mostly eats fish from underwater caves. As cave crawlers roam caves more than ponds, they're less likely to pull you underwater, but if you are exploring a cave you might just find your sword has dissapeared while you were sleeping.
+
+
+### Merrows
+
+#### Octopus
+
+#### Jellyfish
+
+Transluscent
+Electric stingers (nonlethal, but strong enough to stun or temporarily imobilize)
+
+## Extraplanar Creatures
+
+Innumerable Forms and Power Levels
+Each one requires a unique ritual to summon
+
+### Djinn
+
+Elemental entities. Unpredictable.
+Certain Djinn can only be summoned once, but will grant a boon when summoned (usually with specific limitiations)
+
+### Demons
+
+Mostly evil, hedonsistic, and violent.
+Abyssal planes frequently consist of unrestrained hedonism, without regard to life or limb (although demons are mostly immortal anyways)
+Includes more eldritch entities in addition to your more conventional demons.
+
+## Cursed Races
+
+No naturally born members, instead must infect others with their curse. Can effect most natural races (although not dragons)
+
+### Vampires
+
+Vampirism is transmited by exchange of blood - must be both ways
+
+### Werewolves
+
+Lycanthropy can be transmitted through scratches and bites, or through sex. Wolf form is more contagious, but can be transmitted by either.
+
+# Creatures
+
+## Slimes
+
+Magical creatures, reproduce asexually. (Usually) non-sapient.
+Initially created as dungeon cleaners, now quite common and can be found just about anywhere.
+Slimes are omnivorous, and will consume anything they can absorb nutrients from (they more corrosive slimes generrally have a larger pool of potential food)
+Generally ignore people if not attacked (although if you are in their way they won't change course, which might not end well for you)
+
+Color determines their attributes:
+ - Blue   - Inert - "Blue Slime"
+ - Pink   - Aphrodisiac - "Pink Slime"
+ - Red    - Paralytic venom (nonlethal) - "Ice Slime"
+ - Yellow - Poisonous - "Poison Slime"
+ - Purple - Dissolves cloth - "Rot Slime"
+ - Green  - Dissolves flesh - "Acid Slime"
+ - Orange - Dissolves metal - "Rust Slime"
+ - Grey   - Dissolves stone & dirt, and can excrete a concrete-like substance - "Dungeon Slime"
+ - Black  - Dissolves everything - "Death slime"
+ - Cyan   - Dissolves magic items, bypassing damage resistance. Immune to magic, and can become nearly invisible. - "Arcane Slime"
+
+## Tentacles
+
+Many varieties...
+
+Plant Tentacle creatures.
+Barnacle Tentacle Creatures.
+Actually part of a larger creatures
+Actually a bunch of really long worms
+
+### Lesser Tentacle Worm
+
+Parasitic variant that feeds on uterine lining and secretes a painkiller, acting as birth control and period relief.
+
+## Mimics
+
+Shapeshifting tentacle creature.
