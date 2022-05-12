@@ -1,0 +1,96 @@
+# Feral Anthro Mythos World
+
+Art-first project
+Sapient, stylized animals - curvy, compact builds with lots of hybrid creatures.
+All characters are quadrupeds of some description, although have opposable thumbs/front paws capable of grasping things.
+
+Characters may have accessories like scarves or stockings, but not clothing.
+
+Genitals are based on humans, but with some variation based on species - e.g. canines penises have knots and sheaths, cats have barbs, dragons have slits.
+
+Hybrids will basically always result from interspecies parents, although the resulting combinations can be somewhat arbitrary. All sapients have at least some draconic ancestry (this is also what allows eveything to interbreed)
+Predators and prey tend to stick together (respectively), so predator-predator and prey-prey hybrids are more common than predator-prey.
+Hybrid features are most prominent when crossing root bloodlines (e.g. dragon x wolf)- within bloodline hybrids (e.g. cat x wolf) will most often just look like one of their parents.
+Because all sapient races have at least some draconic ancestry, non-hybrids do not exist, but there are some almost-pure bloodlines that appear to be a single species. Members of these bloodlines are very rare, and are generally supernatural in some other way (e.g. elemental powers, although this could just as easily be caused by some Lóng ancestry).
+
+## Q/TBD: Level of civilization?
+
+Most creatures have a home, although its not necesarily a house - could be a secred grove, hollowed out tree, furnished cave, etc.
+Dragons and Abberations in particular almost always live in caves.
+
+No organized civilization - most goods produced by independant (and often magically gifted) craftspaws
+Largely post-scarcity - populations are sparse enough that food isn't really a concern. For predators, food typically comes from non-mamillian species and rodents 
+(in part to avoid even the appearance of eating sapient races, and in part because any species with a sapient hybrid have largely been out-competed to extinction)
+Handicrafts; Tea, Coffee, Chocolate and Spices; Crafts; and sparkly things are the main goods of value; trade in these is usually accomplished through barter (or gifts) 
+
+Q: Barter (mostly) makes sense for trading goods between craftspaws, but how are couriers paid? There's lots of stuff where a percentage-based cut doesn't make sense, e.g. furniture and the makers/buyers may not have access to other goods. ==> Room + Board + travel goods? With option of other favors to be collected, e.g. 1-day board for future delivery.
+
+Q: Writing/Books?
+   Civilization kinda required for widespread books. Could maybe do middle-ages-style illuminated manuscritps?
+   
+Crime and Police: No. Any problems handled by community militia (with all the downsides that come about that). Some dragon-kin have truth-detection magic that can be used in such cases, but this is not the norm.
+  - R*pe is relatively common, and while not tolerated per se, it is only really persecuted when provable (not just one word against another)
+  - Theft and vandalism are both quite rare - most everyone has what they need, and scent makes tracking down theives quite easy.
+  - Murder is uncommon, and punished by death when discovered.
+  - Superficial violence (fights, posturing; anything that doesn't result in serious injury) isn't really treated as a crime.
+
+
+
+## Root Bloodlines:
+
+### Draconic (Predators)
+
+Dragons - Firebreathing batwing dragons
+Coatls - Feathered dragons. Hypnotic and/or venemous
+Lóng - Wingless, highly magical
+Gryphs - Birdlike, with a beaked head, four birdlike legs, and a feathered tail.
+
+#### Draconic Hybrids 
+
+Draconic ferals are especially promiscuous, enjoy breeding with non-dragons, and are responsible for some very common hybrids:
+
+Griffons - Gryph x Feline
+Hippogrifs - Gryph x Equid
+Kirin - Lóng x Capras
+Unicorn - Lóng x Equid
+Pegasus - Coatl x Equid
+Winged Cats - Coatl x Feline or Dragon x Feline
+
+### Hooved (Herbivores)
+
+Capras - Goats, sheep, etc.
+Cervid - Deer, antelope, elk
+Equid - Horses
+
+### Canis (Predators)
+
+Canine - Wolves, foxes, Coyotes
+Feline - "Big" and "Small" cats (although both are about the same size)
+Mustelid - Otters & Ferrets
+Ursine - Bears and Racoons
+
+### Abberations
+
+Pureblood abberations are even rarer than other purebloods, and even hybrid abberations are rare. Pureblood abberations reproduce in unusual (and often unsettling) ways.
+
+Fractals - Macroscopic organs repeated ad nauseam - too many eyes, duplicate limbs, etc.
+Tentacles - Tentacles, in more or less arbitrary locations.
+Menagerie - Mixtures of many different animals (Chimera, snake hair, etc.).
+Shoggoths - Maleable and adabptable - can produce new organs and body parts as needed
+Awakened - Comprised of inorganic matter
+Void - Shadowy or spectral, amorphous
+
+## Locations
+
+Most creatures have a home, although its not necesarily a house - could be a secred grove, hollowed out tree, furnished cave, etc.
+Dragons and Abberations in particular almost always live in caves.
+
+Colocated creatures typically gather at the local watering hole. Only very close friends are normally invited into one's home.
+There are a few more organized settlements and gathering places (most commonly markets), but this is uncommon.
+
+Q: Scope? Europe-sized? Britain-sized? Smaller?
+Medetteranean climate, but high mountains on (at least) one side, with some settlements in the colder climates there.
+
+### Grand Market
+
+### Henge
