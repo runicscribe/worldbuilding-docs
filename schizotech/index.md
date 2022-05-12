@@ -108,7 +108,10 @@ Typically on good terms with the local spirits and fae.
 (Permanently) Merge essence with a spirit or fae for a variety of powers, (sometimes) including shapeshifting into a form similar to that of the spirit, or projecting the spirits essence outside of their body.
 Summoners occasionaly become warlocks (intentionally, or not).
 
-Because becoming a warlock is an irreversible alteration of one's essence, few attempt it, making it the rarest form of human magic.
+Some warlocks manifest their bond through an object rather than themselves, often a weapon. This is most common with elemental spirits and djinn, and less frequently demons.
+
+Becoming a warlock always involves some sort of permanent alteration of ones own spirit, although the exact nature of this change will depend on the entity you are bargaining with 
+(Spirits will typically merge with it, fae will typically take possesion of it). Because of this, few attempt it, making it the rarest form of human magic.
 
 * Spirit
   * Animal
@@ -117,6 +120,8 @@ Because becoming a warlock is an irreversible alteration of one's essence, few a
 * Fae
   * Demon
   * Djinn
+  * Lycan
+  * Elf-lord
 
 
 #### Artificer
@@ -143,3 +148,8 @@ Glammer - ability of all fae, expression varies
 Elfcraft - Learned magic. Similar to witchcraft and artifice, although less finnicky and more powerfull. Most commonly used by elves, but not limited to them. Power tied to connection with faerie; will be weaker "farther away"
 
 Abilities - subset of abilities unique to fae type. Also includes restrictions, and connection to Faerie. Tied to the core essence of the fae, cannot change.
+
+#### Soul Magic
+
+Sky & Winter Elves - ferrying
+Demons, and some Yokai, feed on souls.

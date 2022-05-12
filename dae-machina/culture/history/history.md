@@ -23,17 +23,17 @@ Rough Timeline
 *100,000 BC
 ** Divergence of Uon and Ældar races. Ældar migrate to Eaos plains.
 * 15,000 BC
-** Early Æl‘daal civilization (Ælmos) rises in what is now the great Eaos desert. Primitive argricultural villages. 
+** Early Ældar civilization (Ælmos) rises in what is now the great Eaos desert. Primitive argricultural villages. 
    Initially governed by chieftens (elected?). Over the course of millenia, these villages grew and gradually became more structured.
 * 10,000 BC 
 ** Various hunter-gather societies move further inland. 
-*** Some Æl‘daal migrate futher north, forming the early Æl‘mið civilization.
+*** Some Ældar migrate futher north, forming the precursor to the Æl‘mið civilization.
 *** Other hunter-gatherer tribes begin to develip shamanic shapeshifting abilities, forming the forerunners of the 'fae.
 *** Some of the more nomadic / adventurous tribes among the southwestern fishing villages migrate to the draconic isles, forming the forerunners of the 'xhal.
 * 8,000 BC
 ** Some Æl‘mið migrate west across the Dragonspine land bridge, forming the Æl'dhal civilization. Offshoot of this group settles on the Isle of the Celts.
 * 6,000 BC
-** Rise of the ancient Æl'daal civilization. One of the largest Eaos villages gradually grew into a thriving city. 
+** Rise of the ancient Æl' civilization. One of the largest Eaos villages gradually grew into a thriving city. 
    Trade was established with other burgeoning cities (as well as fishing and mining villages), and the roots of true civilization began.
 * 4,500 BC
 ** Æl'thal civilization: First Dynasty.
@@ -90,6 +90,7 @@ Rough Timeline
 ** Fragments of the Æl‘dhal empire become the Elyos Republic.
 * 100 BC
 ** Uon – ‘daal war intensifies.
+** Elyos capital moved north to Teylmos
 ** Æl‘jinn join the war in earnest.
 ** Establishment of the Eldar Council.
 * 0 AC
