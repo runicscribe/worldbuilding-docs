@@ -13,10 +13,10 @@ def proc_file(f):
 
     sp = subprocess.Popen("git checkout master "+f, shell=True)
     sp.wait()
-    fin = file(f, 'r')
+    fin = open(f, 'r')
     data = fin.read()
     fin.close()
-    fout = file(f, 'w')
+    fout = open(f, 'w')
     fout.write("---\n"+header+"permalink: "+permalink+"\n"+"---\n"+"\n"+data)
     fout.close()
       
