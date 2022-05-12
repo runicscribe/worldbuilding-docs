@@ -313,13 +313,15 @@ such, dominated are relatively rare. The Order of Sion employs some dominated se
 A mage can use animancy to capture an imprint or magical memory of a once living being and use this imprint to reanimate their body, creating an undead entity which will behave similar to how it did in life, but have no actual 
 soul or guiding intelligence. As they have no true will of their own and are instead guided by instinct, zombies make decent servants. However, imprinted undead will only be effective at tasks that they were good at in life. 
 Reanimation of zombies is often considered immoral as it seen as a desecration of the deceased corpse. Zombies are primarily employed by necromrancers, often in large numbers. Zombies are also found in many AElmos tombs.
+The same technique can be used to imprint this memory into an artificial body, known as an imprinted golem. Because this alternate body is foreign to the imprint, these tend to be clumsy and ineffective, and are therefore rare.
 
 ### Revenants
 
 A sufficiently skilled mage can use animancy to permanently bind the soul of a living being into their body or another repository. This is easiest at the moment of death of the natural body of the soul in question, and unlike 
 imprinting cannot be done if the target entity is already dead. Revenants retain all knowledge, skills and abilities they had in life, and are fundamentally the same person as they where when alive.
 Since revenants retain free will and are more difficult to create than zombies, revenants are used as servants much less often than zombies. Revenants are usually warriors or mages serving a powerful lich, in both life and 
-undeath.
+undeath. The same technique can be used with an artificial body to create a soulbound golem, which is usually more effective than an imprinted golem, but still more work than a conventional revenant, and since revenants are 
+rarer than zombies anywats, soulbound golems are also quite rare. 
 
 ### Soulbound Elementals
 

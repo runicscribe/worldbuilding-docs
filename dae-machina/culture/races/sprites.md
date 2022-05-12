@@ -1,5 +1,7 @@
 # Sprites
 
+[Still not finalized]
+
 Sprites are 4 to 6-inch tall humanoids with insectlike wings. 
 There are three major sprite sup-races, which are primarily distingushed by their wings (and coloration):
 
