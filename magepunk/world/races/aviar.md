@@ -21,3 +21,7 @@ Aviar tend towards feelings of superiority towards other races on account of the
 There are Aviar cities where no other races are permitted, although this is mostly due to them being inaccessible to races that cannot fly. Airships are permitted, although any non-Aviar crew are restricted to the dock areas.
 Aviar are considered flighty and unreliable by other races.
 Individual Aviar are often shunned as thieves, miscreants, or transients. This is partially deserved, as young aviar typically spend several years wandering the world.
+
+## Tribal Aviar
+
+Primitive tribes of aviar flew nude, but painted with colourfull geometric patterns in wide rectangular or triangular blocks.

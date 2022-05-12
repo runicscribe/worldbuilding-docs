@@ -60,7 +60,7 @@ TBD:
 
 <h3 id="aelfae">Æl'fae</h3>
 
-* [Queen of Ravens][./aeldar/queenofravens.md]
+* [Queen of Ravens](./aeldar/queenofravens)
 
 
 <h3 id="aeljinn">Æl'jinn</h3>
@@ -73,7 +73,7 @@ TBD:
 
 <h3 id="aelmixed">Mixed-blood</h3>
 
-* [Wysteria][./aeldar/wysteria.md]
+* [Wysteria](./aeldar/wysteria)
 
 <h2 id="dragons">Dragons</h2>
 
