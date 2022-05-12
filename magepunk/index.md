@@ -4,9 +4,9 @@ Post-industrial magitech world.
 
 Magic is primarly rune-based artifice. A fairly specific combination of runes and materials is required to produce a notable effect.
 
-## [Races](./world/races/races.md)
+## [Races](./world/races)
 
-### [Aviar](./world/races/aviar.md)
+### [Aviar](./world/races/aviar)
 
 Winged humanoids. Slight builds, large eyes, up to 5 1/2 ft. tall.
 Falcon-like wings, range of colors, feather color usually matches hair color to some degree.
@@ -14,14 +14,14 @@ A rare bat-winged subspecies exists.
 
 Native to western shores and central steppes.
 
-### [Gnomen](./world/races/gnomen.md)
+### [Gnomen](./world/races/gnomen)
 
 Short and stocky humanoids. 3 - 4 ft. Long lived, with a special talent for mechanical devices.
 Skilled miners and metalsmiths. Excellent hearing, vision extends into the infrared.
 
 Native to the northern mountains.
 
-### [Ilyon](./world/races/illyon.md)
+### Ilyon
 
 Humanoid. All Ilyon have a semi-unique natural magical ability. Brightly colored hair. Eyes glow when using their magic.
 Male Ilyon have a proactive or combative ability - eg. telekinesis, pyrokinesis, flight, enhanced strength, enhanced speed.
@@ -29,7 +29,7 @@ Female Ilyon have a passive or defensive ability - eg. healing (self and others)
 
 Native to southeast foothills and forests
 
-## [Other Creatures](./world/creatures/index.md)
+## [Other Creatures](./world/creatures)
 
 ### Outsiders
 
@@ -54,7 +54,7 @@ An older tree or stronger life creates a more powerfull spirit. Note that it wil
 
 Stitched together corpses animated by runic magic.
 
-## [Technology](./world/technology/index.md)
+## [Technology](./world/technology)
 
 Advanced metallurgy - Carbon steel, aluminum, titanium. No space age alloys.
 Firearms - Pistols, shotguns, rifles. No automatic weapons.
@@ -66,4 +66,4 @@ Magical airships.
 Printing press, mechanical loom.
 Magical communication (linked notebooks, quills).
 
-## [History](./world/history.md)
+## [History](./world/history)
