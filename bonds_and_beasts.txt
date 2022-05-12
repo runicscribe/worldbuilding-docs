@@ -1,0 +1,63 @@
+
+High Fantasy
+
+# Races
+
+Vast array of sapient races, both humanoid and not.
+
+## Humanoids:
+Humans, Elves, Dwarves, Orcs, ...
+
+## Demihumans:
+  Beastmen - humanoid animals
+  'taurs - various
+  Other hybrids - harpies, satyrs, nekos, ...
+  
+## Direbeasts
+Sapient beasts - Giant wolves, big cats, etc.
+Mythical creatures - gryphons, sphinxes, chimera, unicorns and pegasi, winged cats, dragons 
+
+## Constructs
+Ancient Golems, Warforged, Ensouled artifacts, AI Clockwork, Sapient slimes, Flesh Golems, etc.
+
+## Elementals
+Creatures of pure magic. Do not require a bond to cast spells (it may be more accurate to say that their entire essence composes a bond); 
+can create immensely powerful effects, but only ones aligned with their nature. Rare, varying power levels.
+
+
+# Magic System:
+
+## Source
+Power that fuels magic. Efectively endless.
+Generally available, but some areas have more, and some have less.
+Can be colored by local phenomena, which will affect the spells cast with it.
+
+## Bond
+
+Unshakeable conviction, virtue, or goal held by the caster.
+To be able to cast a spell, must focus on this to exclusion of all else.
+
+Without such a bond, spell will fail.
+
+Generally a caster will have only a single bond
+It is technically possible to change your bond, but this will significantly weaken your magic (since if you change your core convicton, its not much of a core conviction, now is it).
+A particulaly traumatic or momentus event may cause a casters bond to change without notable change in strength (usually the new bond is a stronger conviction)
+
+Nature of bond will color the nature of the spells cast with it, and may effect what magic you can actually perform.
+Strenght of this conviction affects the strength of magic you can cast. Can also spend more time casting a spell to accomplish something more powerfull than you'd be capable of otherwise
+All of the most powerful spellcasters are at least slightly insane, as to achieve such power they must have focused on a single conviction to the exclusion of all else.
+
+Examples:
+
+Relation with a person
+Vow of Vengeance
+Devotion to a deity
+
+Some spellcasters use a physical focus (like a locket or holy symbol) to channel their magic - this can assist in focusing on your bond, but is not necessary to cast magic. 
+
+## Casting Types
+
+<Fire and Forget>
+<Concentration>
+Enchantment - Permanent rule, does not require concentration. Effectively alters reality, requires an equivalent spell to reverse. 
+Usually simple localised stuff like "this sword will never dull", but rare powerful enchantments can affect all of reality.
