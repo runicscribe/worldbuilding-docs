@@ -9,7 +9,10 @@ Like humans, all fae are humaniod, although often have animal features. Like spi
 
 Cats can detect fae. Perhaps because of this, there are no feline fae.
 
-Fae must speak the truth, and bound to fulfill all vows. Often can't (or won't) harm (for some definition of harm) humans directly. 
+All fae strictly abide by three laws:
+ - Always speak the truth
+ - Fulfill any bargains they make
+ - Never harm a human unprovoked
 Elves have the strictest of these constrants, and are entirely incapable of harming humans (although typically have no issue seeing humans come to harm through their inaction)
 All fae have approximately human-level intelligence, but very differrent priorities.
 
@@ -73,6 +76,14 @@ There are two notable exceptions to this process:
 
 This reincarnated body will have the soul, personality, and abilities of the dead fae, but none of their memories. It will retain some of the knowledge of its former self - the ability to communicate with other fae, 
 the instinctive knowledge of how to navigate faerie and midgard, and the approximate location of their former home. Typically, the High Fae who guard the world tree will assist the reborn in returning to their home.
+
+### Twinsouled
+
+In extrordinarily rare cases, two (or in a few cases, three) fae may inhabit the same body. This is referred to as a "Twinsouled". The most common cause for such an occurence is when two fae lovers die at the same time,
+and choose to be reincarnated into the same body, but it may also occur with other close companions.
+
+A twinsoul fae is sometimes quite obvious, e.g. a troll with two heads, andsometimes less so, e.g. an otherwise normal-looking fae that speaks in two voices.
+
 
 ## Elves
 
@@ -141,7 +152,7 @@ If a humain is pulled into this lair, they will be stranded in Faerie.
 ### Changelings and Foundlings
 
 Changeling - Fae 'raised' (often unknowingly) by humans
-Foundling - Human raised by fae
+Foundling - Human raised by fae. See also: Goblin King.
 
 ## Yokai
 
@@ -152,56 +163,77 @@ Others are more monstrous, but still humaniod. Some rare Yokai look entirely mon
 Solitary Fae that lead travellers to their doom. Usually tied to a broad area, like a lake, swamp, or mountain range. Act as the embodiments of natuaral hazards - drowning, exposure, getting lost in the wilderness. 
 Cannot actively harm humans, only lead them into danger and/or restrain them. Most Onna look at least partially human.
    
-  Fieldmaid - Fields - Relatively benign, mostly wastes fieldworkers time.
-  Dryads - Forests
-  Siren - Ocean
-  Will 'o the Wisp - Swamps
+  Fieldmaid [F] - Fields - Relatively benign, mostly wastes fieldworkers time. Hair like Sheafs of Wheat
+  Dryads [F] - Forests
+  
+  Will 'o the Wisp [A] - Swamps - Their voice always sounds like that of the one you care for the most.
+  Echoes [A] - Caves - Can make their voice seem to come from multiple directions at once
   Yukki-Onna - Mountain and Tundra
-  Mirages - Deserts
+  Mirages - Deserts - Always appear closer to you than they actually are.
   
-
-  Kelpie - Lakes - Can't act out of water, but as soon as you enter their pool can and will drag you under
-  Selkies - Seashore
-  Merrow - Rivers
+  Selkies [F] - Seashore. Can trainsform their tail into a pair of legs, but only when touching sand, and can only transform back when touching saltwater.
+  Merrow [F] - Rivers
   
-  Lamia - Caves and Deep Jungle. Rare.
-  Arachnae - Caves and Deep Forest. Rare.
+  Siren [M/F] - Ocean - Song will gradually pull you into Faerie
+  Pipers [M/F] - Woodland Clearings - Sirens of the land. Six fingers per hand.
+  
+  
   
 ## Wardens - Guardian Fae. Just as dangerous as Onna, but less malevolent. Unlike Onna, can harm humans if whatever they guard is threatened / disrespected, but will always give a warning first.
   Bridge Trolls - [F/M] - Guard human-made paths between large cities, to limit inter-city communication. Typically require a toll that is not so exhorbitant to cause oughtright hostility, but still sufficient to stop casual travel.
   Harpies [F] - Guardians of Mt Olympus
-  Gorgons [F] - Guardians of Leylines. Exceptionally dangerous, as they can channel the power of the leylines to perform magical feats beyond that of a normal Yokai (most notably petrification). There is one Gorgon soul for each 
+  Gorgons [F/A] - Guardians of Leylines. Exceptionally dangerous, as they can channel the power of the leylines to perform magical feats beyond that of a normal Yokai (most notably petrification). There is one Gorgon soul for each 
                 great leyline in the world. Given that humans have claimed many of these, they now congregate in groups around the leylines that still remain under fae control, making them even more difficult to conquer.
 				More varied appearance and powers than their name would imply, but most still do have serpentine influences
   
 ## Tricksters - Wandering Fae. Often cause mischeif and mayhem. Will usually be benevolent when treated well, and malevolent if not (or if they are ignored or chased away). Most common fae to find near humans.
-  Kitsune - [F] City Tricksters. Can shapeshift between a fox and a human with fox ears and tail(s). One of the rare types of fae that are comfortable in cities. Interest in food, hospitality, precious things. 
-    When sated, bring good luck and prosperity. When shunned, bring misfortune, and will steal money and spoil food. In modern times, a surprising number of Kitsune wind up as roommates to university students.
-    * There are also similar fae that aren't foxes, but otherwise effectively the same, e.g. Coyote.
+  Tsuné - [F/M] City Tricksters. Can shapeshift almost instantaneously between an animal and human form, although the human form will retain some animalistic features, like ears and a tail.
+    Most commonly take the form of a fox, but other types exist such as coyotes and crows.
+    Tsuné are one of the rare types of fae that are comfortable in cities, and unlike many other types of fae are not harmed by iron or other human-made things. 
+	The can be pleased with gifts of food, hospitality, knowledge, and/or precious things. When sated, bring good luck and prosperity. When shunned, bring misfortune, and will steal money and spoil food. 
+	If they find a place they like, they will often stay for multiple generations. In modern times, a surprising number of Kitsune wind up as roommates to university students.
   Corvids - [F] Ooh, Shiny. Clawed feet, wings instead of arms. Steals shiny things. Least dangerous of the avian fae.
   Gremlins - [A] Tricksters found near machinery - anything from complex engines to waterwheels. Delight in sabotoging machinery in the most subtle, difficult ways to discover.
   Boggarts - [A] Little Nuisances. Short, goblin-like, sometimes furry (dustbunnies). Rarely seen. Cause minor troubles - damaged hinges, spoiled milk, etc. Can be appeased by a daily offering of food, 
     in which case they will instead cause minor boons (oiled hinges, polished metal). Avoids households with cats or dogs.
+  Goblins - [F/M] Pests, Thieves, and Raiders. Break into houses, steal things. Like bargains - can usually get whats stolen back by trading something else. No real convept of ownership, so you can trade something you don't own. 
+    Also accept things you don't yet have, but this is generally a bad idea - they will remember and come back for what has been promised to them. Trying to get back your stuff by other means is usually a bad idea, as they will treat this as theft and will be free to harm you.
+	Occasionally steal small children, but won't harm them. Can be bargained back like anything else (although if not, this is one of the best ways of keeping goblins busy and (mostly) out of trouble for quite a while, and are one of the primary causes of Foundlings)
+	Disproportionate features, but these differneces are highly variable among goblins.
   Pixies - [F/M] Small and mercurial, but mostly harmless. 4-6 inch tall glowing humanoid with translucent insect wings. Steals small things, leads travellers home or astray, collects berries, braids flowers into the hair of sleeping humans. 
     Unlike most tricksters, just as likely to congregate around elves or other fae as humans. Relatively fragile for fae (so they tend to reincarnate often). Often have exagerated personalities.
-  Woodkin - Humanlike, but with ankle-length hair made of leaves, and unusually large eyes. Very shy. Can change the layout of forests, redirect or erase paths, etc. Mostly focused on keeping people out of forests, especially those bent on exploitation.
-  Stonekin - Much like woodkin, but native to caves and tunnels.
-  Great Tricksters: Rare, capable of shapeshifting into anything and other powerful magic. May beg a small favor or charity, and will gift a great boon if obliged, or a great calamity if rebuffed. Alternativy may grant a wish unprompted, usually with a double-edged result.
-  Jinni - [*] Fae imprisioned somewhere in Midgard rather than in Hell, usually as a stopgap measure. Often grant a boon in return for their release.
+  Great Tricksters: Rare, capable of shapeshifting into anything and other powerful magic. May beg a small favor or charity, and will gift a great boon if obliged, or a great calamity if rebuffed. 
+    Alternativy may grant a wish unprompted, usually with a double-edged result. Usually travel from place to place, never staying anywhere for long and causing chaos in their wake.
+  
 
 ## Elf-kin - Passive fae that largely do not interact with humans. Often (but not always) asist the local elves
   Fairies - 4-6 inch tall humanoids with moth or buterfly-like wings. Maintain or improve natural beauty, and assist in the passing of the seasons.
-
+  Woodkin - Humanlike, but with ankle-length hair made of leaves, and unusually large eyes. Very shy. Can change the layout of forests, redirect or erase paths, etc. Mostly focused on keeping people out of forests, especially those bent on exploitation.
+  Stonekin - Much like woodkin, but native to caves and tunnels.
+  Frost Giants - Communal. Live in great halls carved out of the great icewall. Accomplished crafters - much of the Snow-fae's gear that isn't made by the Deep Fae is made by the Frost Giants. Also act as a deterrent to humans. 
+                 Not inherently hostile, but very prideful, and this extends to their relations with other fae, some giants have elf-bone trophies taken from visitors who didn't respect them.  
+  Stone Giants - Grey, stonelike flesh. Lazy, often slumber for many years. Mostly solitary. Sometimes awaken and devour a nearby herd of livestock, then go back to sleep.
+  Fire Dwarves - Flaming hair & beards. 
 
 ### Hunters
 
-Wide-ranging hunters. Medium groups. Actively dangerous.
+Wide-ranging hunters. Some are solitary, others travel in small-to=medium groups. Actively dangerous.
 
 
 Satyrs/Fauns - [M/F] Hedonists. Descend upon a place, drink & fuck everything they can, and move on to the next one in the morning. 
 Lycans - [M] Lupine predators. Can only harm humans while in moonlight. May enter into a warlock-like bond with one of their victims in exchange for their life; if this happens the host will transform into a wolf form on the full moon.
-Trow [M/F] - Steal children in the night and eat them or raise them as their own. 
-  
+Trow [M/F] - Steal children in the night and eat them. Good at mimicing voices.
+Yeti - [M] - Large, shaggy bipeds. Ambush predators, but can only harm those who have seen them, and only while not currently being observed. Solitary
+Storm Fury - [M/F] - Wings for arms. Only come out during storms. Can both fly and swim quite effectively.
+Kelpie [F] - Can't act out of water, but as soon as you enter their pool can and will drag you under. Looks like a beatiful woman when viewed through the surface of water, and monstrous otherwise.
+Arachnae [F] - Caves and Deep Forest. Dominion over Spiders. Solitary, and rare.
+
+## Jinni
+
+Fae imprisioned somewhere in Midgard rather than in Hell, usually as a stopgap measure. Often grant a boon in return for their release, although may be quite literal in its execution.
+
+Often mischaractirized as a type of trickster, but like demons, can be any type of Fae.
+
 ## Demons
 
 Demons are formerly ordinary fae (often Yokai) whose predations against mortals became so egregious that they were captured and imprisioned in Hell by other fae.
@@ -220,6 +252,35 @@ and to work together to acheive shared goals - sowing discord among the mortal r
 The Court of Temptation - Lust and Temptation. Mainly Sirens, Onna, and Satyrs.  
 The Bloodsoaked Citatel - Violence, Murder, and Vengeance. Trolls, Kelpies. Fae who turned to wrath after their domains were destroyed.
 The Chasm of Schemes - Greed, Envy, and Secrets. Kitsune, Faeries. The rare Elven demons most often wind up here.
+
+
+# Fae Festivals
+
+## Equinoxes and Solstices
+
+### Winter Solstice (Dec 21)
+
+### Spring Equinox  (Mar 21)
+
+### Summer Solstice (Jun 21)
+
+### Fall Equinox    (Sep 21)
+
+### 
+
+## Bachanalia
+
+## Beltane / Walpurgisnacht
+
+## Samhain (Oct 31)
+
+### The Wild Hunt
+
+Occurs when a total lunar eclipse appears on Samhain Night (Roughly every 100-200 years)
+
+## Selene
+
+Occurs on the 3rd full moon of a season with 4 full moons (roughly every two to three years)
 
 =====================
 
@@ -243,6 +304,8 @@ In general, high elves look like dark-skinned humans, except that they (usually)
 but small wings at the ankles or in place of ears is also frequent. Wings may appear disconected from body (although this is mostly illusory/glammer)
 
 High elves rarely bother with real clothing, although may garb themselves in glammers of shimmering light or auroras.
+
+Opposed to death of the soul, both literaly and metaphorically (i.e. loss of hope). This belief is emboidied by their role as messengers of the gods, shepherds of human souls, and guardians of the pool of rebirth.
 
 ## Responsibilities
 
@@ -279,6 +342,8 @@ Snow elves tend toward pale skin and dark hair, with blue or grey eyes. Unlike a
 or conventional magic.
 
 Snow elves also have the weakest glammer of all the elves, and in addition to their Deep-smithed armor, they usually wear clothing made of fur and hide, and covered in protective charms.
+
+Opposed to entrophy and the end of all things, which manifests in their ceaseless fight agains the far relms. This is paired with the knowledge of its inherent futility, and that what they are really fighting for is as much time as possible. 
 
 ## Responsibilities
 
@@ -319,6 +384,8 @@ Many sea elves like collecting trinkets they find in their travels, and often we
 
 Good relations with the high elves, whose messengers often uncover useful knowledge.
 
+Opposed to ignorance and loss of knowledge.
+
 ## Groups
 
 ### Leaders
@@ -348,6 +415,8 @@ Tanned appearance. Red, brown, or green hair, often with leaves or flowers growi
 Can speak with animals and control plants. Almost all wood elves have no weapons, relying instead on woodcraft and their relation with nature. 
 Generally, Wood Elf "clothing" consists entirely of glammer - because they are guardians of nature, they have a strict policy of not harming plants or animals, which leavs little in the way of raw materials.
 Wood fae are also the most skilled at changing their glamer, and can become nearly indistinguishable from humans when they need to.
+
+Opposed to civilization and its exploitation of nature, which drives their frequent conflicts with humans.
 
 ## Responsibilities
 
@@ -390,6 +459,8 @@ Because these materials come from Faerie, humans generally don't have access to 
 In addition to powerful armor and weapons, they make supernatuarally beautifull jewelry and jeweled clothing. However, they work entirely with minerals - metals and crystals. Their skill with crafting is so great, 
 it can often be difficult to tell what parts of a Deep Elves appearance is crafted and what is glammer.
 
+Opposed to corruption of elves or humans, as personified by demons.
+
 ## Magic
 
 Greater resistance to fire and heat than other Fae - effectively nonflammable, and can survive near lava (although prolonged immersion in magma is still dangerous to them)
@@ -431,4 +502,15 @@ The thrill of the hunt. Leader of the wild hunt.
 
 Chaos and Balance
 
+### The Wood Who Walks
+
+Ancient tree-fae
+
+### The Sphinx
+
+Riddling Trickster
+
+### The Wurm
+
+Massive Subterranean Wurm.
 
