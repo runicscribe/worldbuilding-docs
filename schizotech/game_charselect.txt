@@ -1,0 +1,50 @@
+Character Select:
+
+Race:
+  Human
+   + Any class
+  Faeblood
+   - No Demon pacts
+   * Winter
+     + Immune to cold weather and +25% frost resist
+   * Summer
+   * Celestial
+     + Bonus jump height and half fall damage.
+   * Dark
+     + Darkvision
+   * Sea
+     + Waterbreathing
+  Demonblood
+   - No Celestial pacts
+  Pact-scarred
+   - Warlock, Cleric or Summoner only.
+   + Bonus to pact magic
+   * Demon
+     + 25% fire resist
+	 + Bonus charisma against humans
+	 + Bonus damage against humans
+   * Elder
+     - Reduced charisma
+	 * Void
+	   + Telepathy
+	   + Doesn't need food
+	   - Cannot eat
+	   - Sexless
+	 * Flesh
+	   + Regenerates health
+	   + Can eat anything organic
+	 * Eye
+	   + Takes no extra critical or sneak attack damage
+	   + Darkvision
+	 * Tentacle
+	   + Increased meelee attack range and damage, with grapple.
+       + Improved climb, can grapple without rope/grappling hook.
+	 * Space
+	   + Short-range teleport ability (costs health)
+	   + Perfect dodge ability (costs health)
+   * Celestial
+   * Nature
+     + [prey|predator] Animals not hostile
+   * Elemental
+     + 50% [element] resistance
+   
