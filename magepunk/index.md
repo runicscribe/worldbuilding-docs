@@ -12,6 +12,8 @@ Winged humanoids. Slight builds, large eyes, up to 5 1/2 ft. tall.
 Falcon-like wings, range of colors, feather color usually matches hair color to some degree.
 A rare bat-winged subspecies exists.
 
+Native to western shores and central steppes.
+
 ### Gnomen
 
 Short and stocky humanoids. 3 - 4 ft. Long lived, with a special talent for mechanical devices.
@@ -19,18 +21,13 @@ Skilled miners and metalsmiths. Excellent hearing, vision extends into the infra
 
 Native to the northern mountains.
 
-### Canis
-
-Feline face, ears, and tail. Lightly furred body, with various coat colors and patterns.
-Sharp claws and fangs, strong sense of smell, night vision. Wolf and fox varieties also exist.
-
-Native to the southern tropics.
-
 ### Ilyon
 
 Humanoid. All Ilyon have a semi-unique natural magical ability. Brightly colored hair. Eyes glow when using their magic.
 Male Ilyon have a proactive or combative ability - eg. telekinesis, pyrokinesis, flight, enhanced strength, enhanced speed.
 Female Ilyon have a passive or defensive ability - eg. healing (self and others), invisibility, kinetic shielding, regeneration, limited invulnerability.
+
+Native to southeast foothills and forests
 
 ## Other Creatures
 
