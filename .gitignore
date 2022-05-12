@@ -1,0 +1,4 @@
+.sass-cache/**
+*.gitcredential
+Gemfile.lock
+_site/**
