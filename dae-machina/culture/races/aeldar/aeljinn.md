@@ -107,9 +107,28 @@ and can freely shift between human and elemental form despite being over 2000 ye
 Their great age also typically means they have accumulated a great deal of knowledge and magical power over the aeons, 
 and often have a variety of unique abilities.  
 
-## Ester's Lineage
 
-Adventurous & magically inclined water 'jinn ~ 1500 yrs ago.
+## False 'jinn
+
+"False Jinn" are shapeshifters that most Ael would consider to be 'jinn, but are not considered as true 'jinn by the Ael'jinn themselves.
+
+### Woodborn
+
+Woodborn are elemental shapeshifters with an affinity for trees and plants. They are sometimes confused for dryads.
+
+They are magically most similar to 'jinn, and as such are commonly classed as such. 
+However, philisophically they are closer to 'fae. They also predate the origin of the 'jinn by a couple millenia, starting as nature shamans much like the 'fae, but gravitating more towards plants than animals.
+Througout the ages, they have consistently been relatively rare, especially since they have a tendancy to permanently become "one with the forest" later in life.
+
+Over the milenia, practicing groups have died out, falling to conflict, cataclysm, or ennui (baring a handful of ascended that still retain something resembling a human mind)
+One large group of woodborn used to inhabit the Great Northwest forest of Mhidda, but the lack of other Ael civilization gave them no real reson to remnain in human form, and they all gradully melded with the forest.
+Even now, the northern Ael believe these woods have a mind of its own. 
+
+The only remaining woodborn lineage is found on the shards of Xuon at the northwest edge of the Riftscape.
+
+### Ester's Lineage
+
+Εσϑερ (Ester) was an adventurous & magically inclined water 'jinn ~ 1500 yrs ago.
 Travelled Eos. Spent time among High'fae remenants.
 
 Sired a new 'jinn (or 'fae) variant - Ester's descendants appear similar to water 'jinn at first glance, 

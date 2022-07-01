@@ -24,7 +24,7 @@ Rough Timeline
 ** Various hunter-gather societies move further inland. 
 *** Some Ældar migrate futher north, forming the precursor to the Æl‘mið civilization.
 *** Other hunter-gatherer tribes begin to develip shamanic shapeshifting abilities, forming the forerunners of the 'fae.
-*** Some of the more nomadic / adventurous tribes among the southwestern fishing villages migrate to the draconic isles, forming the forerunners of the 'xhal.
+*** Some of the more nomadic / adventurous tribes among the southwestern fishing villages migrate to the equatorial isles, forming the forerunners of the 'xhal.
 * 8,000 BC
 ** Some Æl‘mið migrate west across the Dragonspine land bridge, forming the Æl'dhal civilization. Offshoot of this group settles on the Isle of the Celts.
 * 6,000 BC
@@ -90,6 +90,7 @@ Rough Timeline
 ** Establishment of the Eldar Council.
 * 0 AC
 ** Uon cataclysm.
+** Free Cities formally seperate from the Elyos Republic.
 * 20 - 40 AC
 ** Founding of Riftlander cities.
 * 50 AC

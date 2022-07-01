@@ -26,9 +26,9 @@ any conflict with the Free Cities would have the potential to economically cripp
 ### Hollow Cities
 
 Jointly founded by 'jinn, 'midh, 'daal, sometime after the 'jinn reconnected with the Eosian Aeldar in the aftermath of the lich wars.
-Built underground, under the dragonspine mountains. Originally a single city, but has since expanded to multiple.
+Built underground, under the dragonspine mountains. Originally a single city, but has since expanded to multiple. Connected to the Elyos Republic and to the 'jinn cities by seperate teleporter networks.
 
-Primary exports are gems and metals. Import a significant proportion of their food from the Elyos Republic.
+Primary exports are gems, metals, and magically shaped tools and art. Import a significant proportion of their food from the Elyos Republic.
 
 
 ### Shapeshifter Commune

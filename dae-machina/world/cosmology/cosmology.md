@@ -18,7 +18,19 @@ The major celestial bodies all manifest as some element on earth. Each
 celestial shpere is comprised primarily of this material (plus
 impurities, meteor impacts, oxidization, etc.). They are also covered with arcane geometric patterns.
 
-Beyond the major celestial bodies there is a background of stars and celestial dust (comets, meteors, dust, gas, etc.)
+Beyond the major celestial bodies there is a background of stars and celestial dust (comets, meteors, dust, sunfire fragments, gas, etc.)
+
+# The Center - Terra Mendael 
+
+The planet upon which all life exists.
+9800 km in diameter/30787 km circumference (0.76911 the size of earth)
+0.011 degrees/km at equator (85.5 km/degree)
+
+Mass = 3.038e24 kg
+Volume = 4.928e20 m3
+Gravity is 8.445 m/s2 (0.86 of earth)
+Which gives density of 6165 kg/m3, 11.6% higher than earth; within acceptable bounds.
+
 
 ## Great Spheres ("Suns") - Oposing orbits. Orbital period of 6 days.
 Orbits approx <> m from the planet. Sky diameter of 33'.
@@ -39,20 +51,33 @@ Durable, but explodes violently if damaged, releasing a burst of arcana.
 
 The three lesser spheres come into convergence every 252 days. The [Daes calender](./calender) is based upon this convergence.
 
-???:
+## Wandering Stars:
+
+
+### Bright Wanderers
+
+About the same size as the lesser spheres, but further away, such that they appear as large stars. Rather more erratic orbits than the lesser spheres.
 
 Eternity - Iron.
-Essence - Starmetal. Highly sensitive to magic, and will fload in areas
+Essence - Starmetal. Highly sensitive to magic, and will float in areas
 of strong arcana. Responsible for the magical properties of meteoric
 iron.
 Clarity - Diamond
 
+### Dim Wanderers
+
+Gas giants. Significantly larger than the other spheres, but also much further away.
+Mostly distributed within the celestial dust.
+
 Firenze - Sulfer-Methane gas giant. Red-orange.
 Aqua - Hydrogen-Oxygen gas giant. Blue-orange.
 Aeris - Oxygen-Nitrogen gas giant. Yellow.
-Gaius - Silicon-Carbon-Oxide planet. Gray-green.
+Gaius - Silicon-Carbon-Oxide superplanet. Gray-green.
 
-Celestial Dust: Stars and Meteors
+## Celestial Dust
+
+Stars and Meteors
+
 The celestial dust is made of shards of the celestial spheres. Stars
 are comprised primarily of starfire shards, with their colors
 determined by impurities. Most meteors are comprised of fragments of
@@ -70,12 +95,18 @@ Naming of the Celestial bodies:
 | Goldmoon    | Robur       | Luna Roburus  | Luna Aurum      | Moon of Power/Gold Moon
 | Universe    |             | Dae'machina   | Dae Machina     | God's Machine
 | Stars       |             | Celestias     |                 |  |
-      
-      
-    
-  
-
 
 
 Physics Note:
 The materials that comprise the celestial spheres embody the known elements.
+
+# Celestial Magic
+
+Because each of the spheres is a pure material, their motions have significant effects on the tides of magic.
+
+The Eaosian Wizards are aware of this influence, and often make use of the power-amplifying effects of solar convergences. 
+However, they are dismisive of the more subtler asspects, believing it a crutch to be used by hedgemages and sorcerers.
+
+The Thal Wizards have cultivated a much deeper connection with the cosmos, and have comprehensively mapped its workings.
+This synergises well with their penchant for group workings, where individual magic users can channel a single sphere.
+The Thal are currently constructing a skyship to try and reach the heavens.

@@ -1,3 +1,9 @@
+# World
+
+Scale - TBD
+
+
+
 # Mhidda - Northeastern Continent: 
 
 The northernmost reaches of Mhidda are mostly wilderness, primarily alpine forest. There are numerous Æl'midh strongholds in or near the Dragonspine mountains. Fortified encampments of ‘midh can also be found near the shore, 
