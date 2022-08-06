@@ -26,7 +26,7 @@ Rough Timeline
 *** Other hunter-gatherer tribes begin to develip shamanic shapeshifting abilities, forming the forerunners of the 'fae.
 *** Some of the more nomadic / adventurous tribes among the southwestern fishing villages migrate to the equatorial isles, forming the forerunners of the 'xhal.
 * 8,000 BC
-** Some Æl‘mið migrate west across the Dragonspine land bridge, forming the Æl'dhal civilization. Offshoot of this group settles on the Isle of the Celts.
+** Some Æl‘mið migrate west across the Dragonspine land bridge, forming the Æl'thal civilization. Offshoot of this group settles on the Isle of the Celts.
 * 6,000 BC
 ** Rise of the ancient Æl' civilization. One of the largest Eaos villages gradually grew into a thriving city. 
    Trade was established with other burgeoning cities (as well as fishing and mining villages), and the roots of true civilization began.
@@ -65,7 +65,7 @@ Rough Timeline
 ** Xhal'fae diverge from the 'xhal.
 * 2500 BC
 ** New 'daal civilization re-emerges from the remenants of the Eaos Empire.
-** Zhal'fae – Uon conflict.
+** Xhal'fae – Uon conflict.
 * 2200 BC
 ** Miscellaneous border wars among the Æl'daal, and between the Æl'daal and Æl'mið.
 ** Founding of the Free Cities.

@@ -124,7 +124,7 @@ Over the milenia, practicing groups have died out, falling to conflict, cataclys
 One large group of woodborn used to inhabit the Great Northwest forest of Mhidda, but the lack of other Ael civilization gave them no real reson to remnain in human form, and they all gradully melded with the forest.
 Even now, the northern Ael believe these woods have a mind of its own. 
 
-The only remaining woodborn lineage is found on the shards of Xuon at the northwest edge of the Riftscape.
+There are only two remaining woodborn lineages - a small group scattered across the shards of Xuon at the northwest edge of the Riftscape, and larger group throughout northwest of Quon Xi.
 
 ### Ester's Lineage
 
@@ -142,6 +142,8 @@ Like most 'jinn, they are effectively immortal.
 
 Because they technically shapeshift into a creature, some consider them to be 'fae rather than 'jinn, even if their abilities
 are more like that of a 'water jinn than any 'fae.
+
+Like Oozes, they are capable of reproducing asexually through fission.
 
 
 # Culture
@@ -197,8 +199,13 @@ Live among variety of other races, and have adapted many aspects of their cultur
 Since hollow cities are underground, and the 'jinn are pivitol in their stability and upkeep, a large proportion of hollow-cities Earth'jinn are effectively laborers, 
 excavating new areas, reinforcing exiting ones, etc.
 
-Fewer philosophy and art are less common occupations than among eastern 'jinn, and researchers tend to have a more practical bent.  
+Fewer philosophy and art are less common occupations than among eastern 'jinn, and researchers tend to have a more practical bent.
 
+## Quon Xi 'jinn
+
+There is also a small number of 'jinn spread across Quon Xi, although mostly found in the western regions.
+These are mostly particularly adventurous Air and Water 'jinn, and their descendants. A large proportion of these are wanderers, travelling from place-to-place. 
+Others have settled down in mostly 'thal settlements. There are a small number of established 'jinn settlements on the continent, but they are not common, and are quite isolated. 
 
 
 

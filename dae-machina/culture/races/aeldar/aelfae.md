@@ -215,6 +215,8 @@ Xhal'fae tribes tend to be about 70% natural shapeshifters, 20%
 direbeasts and 10% non shapeshifter humanoids, although these retain the animalistic appearance 
 of the preferred half-forms of their parents.
 
+A small number of Snow-leopard and tiger Xhal'fae can be found in the mountanous areas of Quon Xi.
+
 During the Uon wars, most Xhal'fae got very good at masking their presence from magic.
 
 ### Xhao'fae
@@ -253,4 +255,19 @@ have a preferred form. High fae are quite rare, and most are from the
 age of the Ældar, before the modern fae tribes were formed, and as such
 are rather different than modern fae. 
 
+## Fae Cities
 
+Vast majority of fae populaton exist in small to medium size tribes (between 10 and 60 individuals) spanning a single extended familly.
+
+However, there are a few larger fae population centers.
+ - The shapeshifter comune in western Eaos is probably the largest of these, at several thousand individuals.
+ - There is one very large selkie settlement of a little over a thousand individuals on the Mhidda coastline, which also hosts a couple of wolf-fae families.
+ - Few more large selkie settlements of a few hundered individuals each, which probably qualify as small towns
+ - Steamspring den is an ancient wolf fae settlement encompassing an extensive network of caves and geothermal pools. It has grown to several hundred individuals, 
+an order of magnitude larger than what would otherwise be considered a large wolf fae tribe, and has a fairly unique hierarchy. 
+ - Midh'fae meeting place has a moderate number of permanent inhabitants, with a disproportionate volume of shamans, although is still smaller than most of the other examples here. 
+ It is mainly unique in that its population comes from a wide variety of tribes.
+ - Queen's Valley in Quon Xi hosts a large, mixed population of thal'fae.
+ - The Xhao'fae in Kita Lau have a couple of large towns (several hundered to a couple thousand individuals), which also host Ael'xhal and the occasional Xhal'fae.
+ 
+Additionally, the Free Cities hosts the largest population of fae permanantly living among primarly non-fae Ael.

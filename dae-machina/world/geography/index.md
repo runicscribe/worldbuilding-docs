@@ -1,7 +1,6 @@
-# World
+# Dae-Machina - The World
 
-Scale - TBD
-
+The central planet of Dae'machina is called Terra Mendael, and is 30787 km in circumference at the equator (About 77% the size of Earth).
 
 
 # Mhidda - Northeastern Continent: 
@@ -10,18 +9,25 @@ The northernmost reaches of Mhidda are mostly wilderness, primarily alpine fores
 but they are usually inhabited by barbarians and raiders.
 Many of the forests are inhabited by wolf fae, an offshoot of the daal’fae and the midh. Tribes of selkies (seal ‘fae) can be found in occasional coastal settlements.
 
+
+## The Great Northern Forest
+
+The northeast half of the continent is almost entirely free of civilization, inhabited only by Æl‘fae, elementals, and wildlife. 
+The southern reaches of the continent are inhabited by ‘daal, ‘midh, and midh'fae. Most settlements are fortified towns and castles surrounded by farmlands. Lone homesteads are rare; between ‘midh barbarian raids, dragons, wild animals, 
+direwolves, and ‘fae, isolated settlements usually don’t survive.
+
 ## Dragonspine Mountains
 
-The Dragonspine mountains are a large mountain chain stretching from the western edge of Mhidda to the southeastern edge of Eos. The mountains are full of ‘midh strongholds to the north, ‘jinn palaces to the south, and dragon 
-caves throughout. 
+The Dragonspine mountains are a large mountain chain stretching from the western edge of Mhidda to the southeastern edge of Eos, and serve as the dividing line between the two continents. 
+The mountains are full of ‘midh strongholds to the north, ‘jinn palaces to the south, and dragon caves throughout. 
 
 ## Runesea Isles
 
 This large island is off the northwestern coast of the continent, and is inhabited by a unique civilization of ‘primitive’ midh, who specialize in enchanted warpaint.
 
-The western half of the continent is almost entirely free of civilization, inhabited only by Æl‘fae, elementals, and wildlife. 
-The southern reaches of the continent are inhabited by ‘daal and ‘midh. Most settlements are fortified towns and castles surrounded by farmlands. Lone homesteads are rare; between ‘midh barbarian raids, dragons, wild animals, 
-direwolves, and ‘fae, isolated settlements usually don’t survive.
+## Isle of the Ancients
+
+To the far east of the continent is a lone isle in a large bay, hosting old Aeldar ruins. It is sometimes used as a meeting place for the Eldar council.
 
 # Eaos - Southeastern Continent:
 The northwestern region of this continent consists of the Elyos Republic, and is predominantly inhabited by Æl'daal. Major settlements are focused around shores and rivers. The near inland regions are primarily farmland. 
@@ -32,16 +38,22 @@ Farther inland is primarily wilderness. Near the Dragonspine mountains there are
 The free cities are a chain of independently governed cities on the southern border of the Elyos Republic, centred around a couple of large rivers. This region is densely populated, and most cities are rarely more than a days 
 travel apart. Farms, orchards and manor houses are found on the outskirts of the cities and between cities.
 
-The southeastern region of Eaos is mostly jungle and swampland, and contains a city of shapeshifters (fae and non-fae). Swamp contains a variety of unique flora and fauna, including fairies, oozes, floating jellyfish, and 
+The southwestern region of Eaos is mostly jungle and swampland, and contains a city of shapeshifters (fae and non-fae). Swamp contains a variety of unique flora and fauna, including fairies, oozes, floating jellyfish, and 
 various rare plants and ingredients. Many of the plants are active and hostile.
-Southwest of the free cities is savannah populated by various Daal'fae tribes. 
-Further southwest is a large desert, containing ruins of Ælmos, the original Ældar civilization and scattered oases.
-Past the desert are Æl‘jinn cities.
+Southeast of the free cities is savannah populated by various Daal'fae tribes. 
+
+## The Great Eaos Desert
+
+Further southeast is a large desert, containing ruins of Ælmos, the original Ældar civilization, scattered oases, and numerous other ruins dating from the lich wars, some still with liches sealed in them.
+
+## The 'Jinn Cities
+Past the desert is the eastmost tip if the continent, containing the a number of Æl‘jinn.
 
 # Quon Xi - Western Continent:
 
 Quon Xi consists primarily of mountainous jungle regions and lush lowlands. It is controlled by the Æl'thal Empire of the Rising Sun.
-The Dragon’s Teeth - Northern Archipelago: 
+
+# Dragon’s Teeth - Northern Archipelago: 
 The Dragon's Teeth is a small chain of barren islands between the northern ends of the Quon Xi and Mhidda continents. It is inhabited primarily by arctic dragons.
 
 # Kita Lau - Southern Archipelago
