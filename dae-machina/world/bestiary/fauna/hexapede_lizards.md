@@ -46,6 +46,10 @@ Blunted shape.
 Immune to all heat. Lives in swamps, and nests in decaying plant matter.
 Primrily eats Fire Flies, but will also eat other insects.
 
+### Simbiont Lizard
+
+Stout, frog-shaped lizard that has a symbiotic relation with a plant, which grows out of the lizard, getting nutrients and providing chamoflage. 
+Subspecies exist that bond with lichens which in turn look like mossy shale, for camoflague in mountainous refions
 
 ### Protean
 
@@ -81,7 +85,23 @@ About 40-60 cm long, including tail.
 Potent hypnotic abilities in crest 	
 Predatory. Eats lizards and small mammals. Hypnotic abilities allow it to catch prey larger than itself.
 
-### Simbiont Lizard
+### Maned Hexhunter
 
-Stout, frog-shaped lizard that has a symbiotic relation with a plant, which grows out of the lizard, getting nutrients and providing chamoflage. 
-Subspecies exist that bond with lichens which in turn look like mossy shale, for camoflague in mountainous refions
+Rather than the feathered or webbed crests common among other hexepede lizards, head is surrounded by medium-lenght tentacles, which serve several purposes - sensory organs (air/water currents, electromagnetic fields), 
+rudimentry gills (only sufficient to allow it to remain underwater for 30-40 minutes), protection for the face and neck, and an extra way to latch onto prey if the bite doesn't quite hit.
+Strong, bulky jaw with immense bite force.
+
+About the size of a tiger.
+
+Ambush predator. Hunts solo or in small packs. Amphibuous. Preys on just about anything smaller than it.
+Hindlimbs have broad, webbed toes.
+Both pairs of forelimbs are more addapted for climbing.
+
+Found in jungles and wooded swampland.
+
+### Mantis Lizard
+
+Walks on only its back two pairs of legs
+First pair of forelimbs have large, razor-sharp claws, and are not used for walking.
+
+50-90cm long, hunts mainly small animals.

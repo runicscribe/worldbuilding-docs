@@ -13,7 +13,7 @@ a neglegible axial tilt) means that there is no real seasonal climate
 variation. Instead, the climate and the seasons are controlled by
 elementals. Also, this means that there are no real lunar phases.
 Additionally, since the sun is inside of the orbit of the moons, there
-are no solar eclipses.
+are no solar eclipses. However lunar eclipses, both by Terra Mendael and by the Darksun, occur on roughly weekly intervals, with a pattern that changes throughout the year. 
 The major celestial bodies all manifest as some element on earth. Each
 celestial shpere is comprised primarily of this material (plus
 impurities, meteor impacts, oxidization, etc.). They are also covered with arcane geometric patterns.
@@ -46,8 +46,7 @@ Durable, but explodes violently if damaged, releasing a burst of arcana.
 
 * Aurum - Gold. Good Enchanting medium. Orbital period of 36 days. Orbits approx <> m from the planet. Sky diameter of 9.5'.
 * Argent - Silver. Disruptive to magic. Orbital period of 63 days. Orbits approx <> m from the planet. Sky diameter of 6.6'.
-* Alkyne - Copper. Imprints/stores magical signatures. Orbital period of
-84 days. Orbits approx <> m from the planet. Sky diameter of 5.4'.
+* Alkyne - Copper. Imprints/stores magical signatures. Orbital period of 84 days. Orbits approx <> m from the planet. Sky diameter of 5.4'.
 
 The three lesser spheres come into convergence every 252 days. The [Daes calender](./calender) is based upon this convergence.
 

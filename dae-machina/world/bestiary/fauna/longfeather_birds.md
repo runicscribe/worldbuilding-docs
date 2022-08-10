@@ -10,7 +10,16 @@ Long tail includes two vestigial limbs that give it exceptional maneuverability.
 
 ### Phoenix
 
-Always become a fire fury upon death
+Medium sized bird with an orange-red coloration and particularily long tailfeathers.
+Mainly eats insects, especially fireflies.
+
+Highly resistant to heat and fire.
+Eggs are completely immune to flame, and are highly sought after for this reason.
+
+Phoenixes are notable because they always become a fire fury upon death.
+Considered by some to be both an animal and an elemental.
+
+Found throughout Southeast Quon Xi, Kita Lau, and Western Eaos.
 
 ## Running Birds
 
