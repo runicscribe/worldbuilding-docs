@@ -4,6 +4,10 @@ The *Free Cities* (also called "The Eight" or "The Eight Lordships") are a serie
 This river is readily traversible and forms the backbone of trade across central Eaos.
 It is roughly 3000km long and takes 4-8 weeks to traverse by boat (depending upon whether you are travelling up or downstream)
 
+Methods of government vary between cities, although most are ruled by one person, generally a Lord or Guildmaster. 
+A council of Leaders from each city meets monthly to settle disputes and govern trade (and other interactions) between cities. There is frequent espionage and minor conflicts between cities (“squabbling”). 
+Varying amounts of corruption, smuggling and counter-espionage among the cities. The free cities are home to a wide and varied mix of races. 
+
 The Free Cities are politically seperate from the Elyos Republic, althrough relations are generally cordial between the two. Given their influence on trade, 
 any conflict with the Free Cities would have the potential to economically cripple the republic.
 
@@ -13,8 +17,8 @@ The free cities were originally part of the Elyos Republic, but became independa
 
 The "face" of the free cities. Not the most wealthy or influential, but still quite important. Contains the meeding place for the free cities council.
 Generally agreed upon as neutral ground among the cities. 
-Eosport is also the primary port of travel between the free cities and Teylmos, and hosts embassies for a number of nations.
-It is partly built on old Eos ruins (possibly the former Elyos capital?)
+Eosport is also the primary port of travel between the free cities and Teythmos, and hosts embassies for a number of nations.
+It is partly built on the ruins of the former Elyos capital, which was abandoned during the Uon war.
 
 ## Blackport
 
