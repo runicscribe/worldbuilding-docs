@@ -1,4 +1,5 @@
 # Daal'fae Caravans
+Among the Daal'fae, there are a number of large nomadic caravans that follow fairly rigid paths across certaon sections of Eaos.
 
 Size varies from extended family (30-50) to very large - some basically travelling towns, with thousands of members.
 Largest caravans are southeast of great river. Northwest caravans used to be larger, but were displaced by redistribution of Elyos Republic during Uon war.
@@ -103,6 +104,7 @@ NF 1.2 mth before i
 
 ## Caravan Meeting Calendar
 
+```
      1                           2                           3                           4                           5                           6                           7                           8                           9                          10                          11                          12                          13                          14                          15
      1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36  37  38  39  40  41  42  43  44  45  46  47  48  49  50  51  52  53  54  55  56
 GP   I         .          III    I    V    .           .     I    V    .           .     I        III          .     I    V    .           .     I    V    .           .     I         .          III    I    V
@@ -111,7 +113,7 @@ CI   I__           .             I         IV  i__        IV I             .    
 NF   I__                  .                    i__              VII .                    I__                  .                    i__                  .                    I__                  .                    i__                  .                    I__                  .                    i__                  .                    I__                  .                    i__              VII .                    I__                  .                    i__
 EV   I          .        .        .   V    .        .        .    V   .        .         I          .        .   VI   .   V    .        .        .    V   .        .         I     VI   .        .        .   V    .        .    VI  .    V   .        .         I      
 EM                  a                     a                     VII                    a                      a  VI                 a                     a                      a VI                  a                      a  VI                 a                     a                      a VI                  a                      a  VI                 a                     a                     VII                    a                      a  VI                 a
-
+```
 
 Meeting Points:
 I   Great Plains x Center Inland x (Northern Foothills) x (Eastern Valley)

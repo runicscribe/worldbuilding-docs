@@ -1,6 +1,7 @@
 # Organizations
 
 ## Nations
+Nations with a unified government spanning many cities.
 
 ### Empire of the Rising Sun
 
@@ -15,6 +16,24 @@ Made of mostly separate tribes, lead by a clan chief. Larger settlements (such a
 More civilized region near Quon Xi.
 Capitol: 水の上 都市 - Mizunoue Toshi - “City over Water”(City of bridges).
 
+
+
+### [Elyos Republic](./elyos_republic)
+
+#### [Academy of Magical and Martial Arts](./aomma)
+
+The Academy of Magical and Martial Arts is a prestigious academy governed by the Elyos military. It was constructed during the Uon-'daal war.
+
+### ['Jinn Principalities](./jinn_cities)
+
+Ael'jinn population is primarly found in a small number of very large cities.
+Hereditary rule by founding High-jinn and their descendants.
+
+
+## Independant States
+
+Smaller states whose main level of government is at the city/settlement level.
+
 ### Dhaigean Isles (Runesea Isles)
 Ael'midh tribes led by clan chiefs and/or shamans.
 
@@ -24,14 +43,8 @@ Ael'midh strongholds/city-states that are lead by a hereditary monarchy.
 ### Drakkar Clans
 Coastal Ael'midh clans led by warlords or clan elders
 
-### Elyos Republic
-
-#### [Academy of Magical and Martial Arts](./aomma)
-
-The Academy of Magical and Martial Arts is a prestigious academy governed by the Elyos military. It was constructed during the Uon-'daal war.
-
-
-## Independant States
+### [Daal'fae Caravans](./daalfae_caravans)
+Among the Daal'fae, there are a number of large nomadic caravans that follow fairly rigid paths across certaon sections of Eaos.
 
 ### [Free Cities](./free_cities)
 
