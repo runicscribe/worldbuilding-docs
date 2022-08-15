@@ -7,6 +7,11 @@ Jinn Capitol.
 Founded when the jinn first went east, and has remained inhabited since.
 Massive. Hosts about 60% of the worldwide jinn population. Largest city on Eos-Mhidda, and one of the two largest cities in the world.
 
+### Palace of the Kings
+
+### Grand Baazar
+
+
 ## The Crystal Dunes
 
 Glassed-over section of Eaos Desert

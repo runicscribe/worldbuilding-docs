@@ -46,10 +46,10 @@ Blunted shape.
 Immune to all heat. Lives in swamps, and nests in decaying plant matter.
 Primrily eats Fire Flies, but will also eat other insects.
 
-### Simbiont Lizard
+### Symbiont Salamander
 
-Stout, frog-shaped lizard that has a symbiotic relation with a plant, which grows out of the lizard, getting nutrients and providing chamoflage. 
-Subspecies exist that bond with lichens which in turn look like mossy shale, for camoflague in mountainous refions
+Stout, wide-bodied salamander that has a symbiotic relation with a plant, which grows out of the lizard, getting nutrients and providing camoflage. 
+Subspecies exist that bond with lichens which in turn look like mossy shale, for camoflague in mountainous regions
 
 ### Protean
 
@@ -105,3 +105,8 @@ Walks on only its back two pairs of legs
 First pair of forelimbs have large, razor-sharp claws, and are not used for walking.
 
 50-90cm long, hunts mainly small animals.
+
+### Vine Climber
+
+Medium sized hexapede lizard similar to a Symbiont Salamander, except that it hosts hanging vines.
+Found only in the Riftscape.
