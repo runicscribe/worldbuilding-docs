@@ -7,15 +7,22 @@ permalink: /dae-machina/culture/races/dragons
 
 Dragons look like large winged lizards. They have a long neck and even longer tail, four legs and and a pair of batlike wings. 
 Their front legs can also serve as arms, and their back legs are digitigrade. Each of foot has three front toes ending in long talons, plus one opposable claw. Their wings have for finger struts, plus one semi-opposable claw.
-They have a long mouth full of needle-like teeth. They have a narrow nose with side-mounted nostrils. Their eyes are large, slitted, and forward-facing. They have internal ears behind and below their eye level. Most dragons have a head surrounded with spines and horns, most prominant at the base of their jaw and behind their brows.
+They have a long mouth full of needle-like teeth. They have a narrow nose with side-mounted nostrils. Their eyes are large, slitted, and forward-facing. They have internal ears behind and below their eye level. Most dragons 
+have a head surrounded with spines and horns, most prominant at the base of their jaw and behind their brows.
 Their chest is quite deep, consisting primarily of wing muscles, with a much more narrow lower torso.
 Most dragons also have spikes or ridges running down the length of their spine, from the base of their skull to the tip of their tail.
 
 Female dragons are on average 20-25% larger than males.
 
-Dragons are sapient, and tend to be quite intelligent. All dragons have a tendency towards hoarding, although individual dragons will hoard different things. Many dragons hoard gems, gold, or wealth, but others may hoard magical artifacts, art, or knowledge. Dragons have their own spoken language, but can often speak and write in a variety of human languages. Many dragons are philosophers and researchers, devoting a great deal of time to unraveling how some aspect of the universe works. There have also been a number of dragon warlords and conquerors who have taken over local human civilizations over the ages, although these have generally limited their conquests to within their own territories. Since dragons are solitary and have an extremely low population density, there is no real dragon civilization, although some dragons have contributed to the success of certain human civilizations.
+Dragons are sapient, and tend to be quite intelligent. All dragons have a tendency towards hoarding, although individual dragons will hoard different things. Many dragons hoard gems, gold, or wealth, but others may hoard 
+magical artifacts, art, or knowledge. Dragons have their own spoken language, but can often speak and write in a variety of human languages. Many dragons are philosophers and researchers, devoting a great deal of time to 
+unraveling how some aspect of the universe works. There have also been a number of dragon warlords and conquerors who have taken over local human civilizations over the ages, although these have generally limited their 
+conquests to within their own territories. Since dragons are solitary and have an extremely low population density, there is no real dragon civilization, although some dragons have contributed to the success of certain 
+human civilizations.
 
-Because of their size and large appetite, dragons tend to be solitary, with territories ranging in size from 20,000 to 100,000 square kilometers (this is equivalent to a circular region with radius 80 to 180 kilometers). As a consequence, the global dragon population is around 1000 – 3000 dragons. Dragons will sometimes form agreements with the humans living in their area, usually something along the lines of the dragon not attacking their cities in return for a regular tribute of meat. Dragons usually eat large herd animals such as deer or sheep, although they may eat humans if given cause to. 
+Because of their size and large appetite, dragons tend to be solitary, with territories ranging in size from 20,000 to 100,000 square kilometers (this is equivalent to a circular region with radius 80 to 180 kilometers). 
+As a consequence, the global dragon population is around 1000 – 2000 dragons. Dragons will sometimes form agreements with the humans living in their area, usually something along the lines of the dragon not attacking 
+their cities in return for a regular tribute of meat. Dragons usually eat large herd animals such as deer or sheep, although they may eat humans if given cause to. 
 
 All dragons naturally have access to an imense amount of magical power. Most dragons are also skilled sorcerers, and often use magic to appear to “breathe” elemental blasts like fire or ice. Their magical nature also assists in their ability to fly. Some dragons can shapeshift into a human(like) form. When they shapeshift, they retain their mass (with a corresponding increase in density), and much of their original strength, as well as all their magical abilities. Due to the complex nature of this transmutation, it takes rather more time (around an hour) than conventional shapehifting.
 

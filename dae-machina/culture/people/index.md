@@ -25,7 +25,7 @@ permalink: /dae-machina/culture/people/
 **Race:** Male Æl'daal
 
 **Appearance:** Pale Skin. Dark, straight hair short-cropped pointed beard.
-Son of a minor Free Cities noble. Student at AoMMA, eventually established his own tower somewhere north of the Free Cities.
+Born 34 AC. Son of a minor Free Cities noble. Student at AoMMA, eventually established his own tower somewhere north of the Free Cities.
 Ultimately became a lich.
 
 **Affiliations:** Free Cities, AoMMA, Eldar Council (after ~500 AC)
@@ -65,7 +65,32 @@ TBD:
 
 <h3 id="aelfae">Æl'fae</h3>
 
-* [Queen of Ravens][./aeldar/queenofravens.md]
+* [Queen of Ravens](./aeldar/queenofravens)
+
+**Name:**
+
+**Race:** Genderfluid Panther Xhal'fae
+
+**Appearance:** 
+Dark-furred feline fae with faint Jaguar spots. 
+Shifts between male and female forms as expedient - sometimes to get an upper hand, somtimes just because they feel like it.
+Many members of the criminal underworld think they are actually brother and sister.
+
+Normally wears a wide leather belt around their waist, with daggers, poison, lockpicks, and various other tools, and nothing else.
+Occasionally sports a pair of bracers or anklets if they need to carry more.
+
+Assassin and high-end mercenary - murders, heists, etc. Doesn't do guard duty. Mostly in it of the thrill of the hunt. 
+Highly compettitive in all aspects - this extends to negotiating payment, and as a consequence they have ammassed quite a fortune. 
+Not wanting the hassle of managing this coin, they've hired stewards to take care of assets and maintain safehouses across most of the Free cities.
+This has only caused their fortune to grow, even with a generous percent going to their stewards. A couple have gotten greedy, and regretted it. 
+No one else has made the same mistake since news about what happend to them spread (the first one eaten alive, the second subjected to death by 1000 cuts over the course of a week, with his parts spread throught the city).
+
+Parents were displaced from Quon Xi by the Uon war and resulting cataclysm. Born in the shapeshifter city. 
+Parents returned to Quon Xi, they made there way to Blackport in their early teens
+
+**Affiliations:** Blackport, Free Cities 
+
+----------------
 
 
 <h3 id="aeljinn">Æl'jinn</h3>
@@ -78,7 +103,7 @@ TBD:
 
 <h3 id="aelmixed">Mixed-blood</h3>
 
-* [Wysteria][./aeldar/wysteria.md]
+* [Wysteria](./aeldar/wysteria)
 
 <h2 id="dragons">Dragons</h2>
 
@@ -115,7 +140,8 @@ An elemental shapeshifter, has transformed herself into an artificial dryad of t
 
 **Appearance:** Nested pairs of curved horns.
 
-Hoarder of Knowledge, especially arcane knowledge, as well as some magical artefacts. Has an extensive library. Particularly skilled in magic, notably: Sorcery (Fire, Lightning), Scrying (Future Sight, Premonition, Psychometry, Farsight, Object Finding), Encantation (Spell redirection and cancellation).
+Hoarder of Knowledge, especially arcane knowledge, as well as some magical artefacts. Has an extensive library. Particularly skilled in magic, notably: 
+Sorcery (Fire, Lightning), Scrying (Future Sight, Premonition, Psychometry, Farsight, Object Finding), Encantation (Spell redirection and cancellation).
 
 Despite being a dragon, is the youngest (and weakest) member of the Elder council, at approx 1200 yrs.
 
@@ -129,9 +155,34 @@ Despite being a dragon, is the youngest (and weakest) member of the Elder counci
 
 **Appearance:** Silvery scales, with a paler back and bluer underside. Bright purple eyes. Narrow horns.
 
-Hoarder of Power – Rather unique, as she has an almost entirely ephemeral horde. Collects political favours. Holds some high rank in almost all nations. A skilled shapeshifter, with many aliases across various races. Also a potent telepath.
+Hoarder of Power – Rather unique, as she has an almost entirely ephemeral horde. Collects political favours. Holds some high rank in almost all nations. A skilled shapeshifter, with many aliases across various races. 
+Also a potent telepath.
 
 **Affiliations:** Elder Council, most nations and religions
+
+----------------
+
+
+**Name:**
+
+**Race:** Male Tundra Dragon, Shapeshifter.
+
+**Appearance:** 
+
+In human form: Stark white hair, pale skin, ice-blue eyes. Faint scale pattern at his temples 
+White-dyed armor of horizontal leather strips, white cloak trimmed with silver fur, carries a claymore of ancient design.
+
+Fought with dragons in Ael-Dragon war.
+Afterwards, took human form, and sought out challenges. Spent time as the leader of various large Midh clan in the past.
+More recently, mostly fights monsters and bandits. Has slain at least one dragon while in human form.
+Fought with the Ael' in the Uon war.
+
+Inspired many legends.
+
+Hoards victories. Keeps a trophy from each worthy foe he has bested.
+
+
+**Affiliations:** 
 
 ----------------
 

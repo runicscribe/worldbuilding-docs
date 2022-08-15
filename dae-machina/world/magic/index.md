@@ -283,19 +283,48 @@ Most mages use various runes and sigils to help focus their spells or enchantmen
 rise of a number of runic scripts known as Mage Cants. The major mage cants are:
 The old Ældar script commonly used by Æl’jinn, and Æl’fae, as well as any still living Ældar (eg. Æl’syi, High fae, etc.)
 A modern variation of this script is used by the Æl’daal
-A variation of the Futhark is used by the Æl’midh.
+An angular runic script used by the Æl’midh.
 A variation of the western language (which is itself a logographic script consisting of thousands of characters) used by the Æl’dhal.
-The Uon use a unique set of runelike paterns on all their enchanted items, unrelated to any other script.
+The Uon also used a unique set of runelike paterns on all their enchanted items, unrelated to any other script.
 
-## Savants
 
-Many individuals are born with natural magical abilities. This most often occurs if their parents (especially their mother) were skilled in such abilities and used them frequently. This can also occur spontaneously in areas 
-where magic is used regularly. For example, many people born near some of the larger magical academies can see magic, and many Riftlander children have a natural resistance to magic. This process is also responsible for the 
-evolution of the Uon, ‘fae, and ‘djinn into their modern forms, and has also had some effect on dragons, allowing them to fly when their size should prevent it, and consequently accommodating the evolution of very large dragons.
+## Innate Magic
 
-Savant abilities are usually subtle or simple, and most often develop gradually over several generations. A very dramatic example of a magical savant is natural shapeshifters.
+Many individuals are born with natural magical abilities. The process through which this occurs is not fully understood.
+Some races and species have other, more consistent magical abilities.
 
-Note: Some rare animal savants exist (eg. ‘Nightmares’, Firemane lion).
+### Natural Magic Resistance
+All living things have a natural resistance to magic, which makes directly affecting them with magic quite difficult. For this reason, most combat magic tends to be inderict, like manipulating the environment or launching projectiles.
+Sympathy can be used in conjunction with a piece of the target like a drop of blood or a lock of hair to (partially) bypass this resistance.
+
+This does not affect magic used by a mage on themself. The one exception to this exeption is that if a mage is pregnant, the fetus' own natural magic resistance will affect magic the mage casts on themself. This effect scales with the age of the fetus, 
+but is generally is never powerful enough to prevent such magic, so serves more as a warning against body-altering magic than a significant obstacle.
+
+### Savants
+
+Some people develop random magical talents of varying strength and complexity. These indiduals are commonly refered to as Arcane Savants.
+
+These abilities may be present from birth, but most often do not fully manifest until young adulthood. This most often occurs if their parents (especially their mother) were skilled in such abilities and used them frequently. 
+
+This can also occur spontaneously in areas where magic is used regularly, or that are innundated in raw magic (such as the Riftscape). In this case, savant abilities can also develop later in life. For example, 
+many people born near some of the larger magical academies can see magic, and many Riftlander children have an especially potent natural resistance to magic. 
+
+Savant abilities are usually subtle or simple, but their exact nature is generally unpredictable - two people under similar arcane conditions may develop completely different abilities.
+
+Note: Some rare animal savants exist (eg. ‘Nightmares’, Firemane lions, Trolls).
+
+### Magical Bloodlines
+
+When innate magic develops and grows over many generations, it tends to follow more preditable patterns. In such cases, one particular expression of innate magic may be shared among the majority of descendants of one or more savants. 
+When this occurs, it is commonly refered to a magical bloodlines. The largest magical bloodlines are often consideres races or species of their own - the most notable example of this process is the development of the Uon, 'fae and 'jinn races.
+Many also consider dragons to be a magical bloodline (and perhaps the oldest example of one) - mainly due to the partly magical nature of their ability to fly, but also because of their raw magical power.
+
+Specific abilities of individuals in an established magical bloodline may still vary wildly, and it is entirely possible for a member of a magical bloodline to be a savant of some other sort of magic.
+
+Magical bloodlines are more common (or at least, more visible) among animal species than individual savants - examples include Timestone deer, wildmagic foxes, and more.
+
+
+
 
 ## Magical Servants
 

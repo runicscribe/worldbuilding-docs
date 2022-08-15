@@ -10,6 +10,7 @@ permalink: /magepunk/world/races/ilyon
 Humanoid. Avg height 5'6" - 6'6". Brightly colored hair and matching eyes.  Eyes (and mucus membranes) glow when using their magic. Slight subdermal glow as well. Pale Skin.
 Hair grows down the base of the neck. 30" hairless tail, with long tuft of hair on the end. 
 Hands have 4 fingers and a thumb, and feet have four toes. Palms of hands and middle of feet have a hole with a glowing spatial distortion in the middle.
+A chasm runs from this distortion to either the mid-forearm / mid-ankle (in females) or base of the fingers / toes (in males).
 
 ## Talents
 
@@ -65,4 +66,14 @@ Il'yon as a whole are considered mysterious and dangerous by other races.
  Southern. Gold-tinted skin, but still pale.
  More in touch with how Ilyon talents 'work' - can predict (and influence?) what talents manifest.
  Use attuned crystals in jewelry, which glow when mainifesting their talent.
- 
+
+## Biology and Reproduction
+
+In addition to the four visible glowing orbs (nexii) in an Ilyon's hands and feet, there are three internal orbs - head, heart, and groin.
+
+Ilyon are commonly known to glow brighter when using their power, but they also manifest a similar glow during sex with another Ilyon. 
+The proximity of the two groin nexii throw off sparks, which form the seeds of nexii in any potentiel child that may result from the coupling 
+(otherwise, the sparks dissipate harmlessly after a few days). Some sparks may also spill to the ground - these also persist for a few days.
+
+When born, the nexus chasms are still undeveloped, and form slowly over the first six months. In Ilyon culture, the sex of a child is determined solely 
+by the shape of these chasms, regardless of genitals. This can be challenging for intersex or transgender individuals.

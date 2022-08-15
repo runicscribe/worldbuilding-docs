@@ -156,6 +156,26 @@ excess meat to provide a backup food supply in the winter when prey is
 scarce. Wolf 'fae packs are comprised of 70% natural shapeshifters,
 20% direbeasts, and 10% non-shapeshifter humans
 
+All the mhid'fae clans - wolf, bear, and seal - periodically gather to exhange news and goods at an Aeldar fae ruin incorporating a dragon skull.
+
+### Bear Clan
+
+In the far northwest of Mhidda, there is a small community of fae who first took the form of bears long ago, during the origin of the midh fae.
+Initially, their animal forms were quite tiny, but over the course of several generations they gradualy became indistinguishable from the regular bears found throughout northern Mhidda.
+This size increase carried through to their human form, and they are now 8-9 ft tall giants when not in bear form.
+Most 'daal and many 'midh believe they don't exist and believe the rumors of giants to be merely rumors. 
+
+The bear clan is fairly peaceful, subsisting as mostly as gatherers, and also cultivate behives and berry patches.
+Of the Midh fae, they are perhaps the most sophisticated architects, building large houses out of rough-hewn wood.
+
+They also craft clothing out of cedar bark, with some fur and leather if they can trade it from the wolf fae.
+
+### Selkies 
+A few clans of seal shapeshifters in the far north. Culturally
+similar to inuit. Most similar to the 'midh and wolf fae.
+Form large communities of 100-200 individuals, may also include wolf fae. 
+Trades fish to wolf fae in exchange for furs and leather, and to bear fae in exchange for honey, berries, and wood.
+
 ## Jungle Tribes (Xhal'fae)
 
 Originating from the Æl'xhal, inhabit the jungle in the northwestern
@@ -165,6 +185,7 @@ form, but with notable animal features. They are competent
 shapeshifters, but tend to use this ability to optimize their shape to
 the current situation rather than taking on a purely human or animal
 form, although they are still able to do so.
+
 Xhal'fae care little for modesty regardless of what shape they are in,
 and will hunt, kill, and eat just about anything that is not 'fae. Most
 Xhal'fae do not wear clothing, use tools, or build structures. 
@@ -174,6 +195,7 @@ treetop nest, rudimentary hut or lean-to, or portion of ruins. In case
 of outside threats, the group will usually elect a warleader (generally
 through physical competition) but otherwise clans have no specific
 leader. 
+
 Xhal'fae are polygamous and rather prolific. Romantic relationships
 usually consist of heterosexual pairs, but may consist of larger groups
 as well. Relationships generally don't last longer than a few months to
@@ -181,6 +203,7 @@ a year, and may or may not result in a child, although longer
 relationships are not unheard of. As with most natural cat species,
 mothers usually raise their children alone (in part for the safety of
 the children) although may be assisted by other females.
+
 All 'fae are competent hunters. Some have other specialized skills,
 including herbalists, craftspeople, and shamans. Unlike most other fae
 clans, Xhal'fae tribes often include several different feline species. 
@@ -189,24 +212,17 @@ northeastern outskirts of the jungle. These 'fae often craft and wear
 jewelry made of gold, bronze, and various semiprecious stones, and live
 in modified ruins. Most Xhal'fae 'cities' are built in leftover Uon
 ruins, and many Xhal'fae groups simply live in the wilderness.
+Some Xhal have also formed alliances with certain Xhal'fae clans, providing 
+periodic sacrifices in exchange for being otherwise undisturbed by the Xhal'fae.
+
 Few Xhal'fae ever take a fully human form, but those that do look similar to the 'xhal.
 Xhal'fae tribes tend to be about 70% natural shapeshifters, 20%
 direbeasts and 10% non shapeshifter humanoids, although these retain the animalistic appearance 
 of the preferred half-forms of their parents.
 
-## Other 'fae
+A small number of Snow-leopard and tiger Xhal'fae can be found in the mountanous areas of Quon Xi.
 
-There are also a few small groups of unique 'fae not directly related to any of the major bloodlines:
-
-### Selkies 
-A few clans of seal shapeshifters in the far north. Culturally
-similar to inuit. Most similar to the 'midh and wolf fae.
-
-### Merfae
-Serpentfish shapeshifters most often found around the 'xhal
-islands. Often use a half-form with a fishlike tail and a humanlike
-body. Relatively civilized compared to the Xhal'fae, often wear jewelry and wield
-fishing spears or tridents. Otherwise most similar to the 'xhal and Xhal'fae
+During the Uon wars, most Xhal'fae got very good at masking their presence from magic.
 
 ### Xhao'fae
 An ancient offshoot of the Xhal'fae who mimic hexapede lizards, found across Kita Lau, and occasionally along east cost of Quon Xi. 
@@ -215,6 +231,17 @@ Despite being much shorter than most humans, the extra limbs and tail mean they 
 The only remanants of their fae ancestry are the ability to form and dismiss webbing between their digits for swimming, and membranes between their limbs for gliding.
 Additionally, magic-users among them retain a natural affinity for shapeshifting, so Xhao'fae shamans and mages often learn how to shapeshift.
 Xhao'fae civilization is most similar to that of the Ael'xhal, although they have a tendancy to build higher up in the trees. Despite their reptillian form, Xhao'fae are still fertile with other Aeldar.
+
+## Other 'fae
+There are also a few small groups of unique 'fae not directly related to any of the major bloodlines:
+
+
+### Merfae
+Serpentfish shapeshifters most often found around the 'xhal
+islands. Often use a half-form with a fishlike tail and a humanlike
+body. Relatively civilized compared to the Xhal'fae, often wear jewelry and wield
+fishing spears or tridents. Otherwise most similar to the 'xhal and Xhal'fae
+
 
 ### Deep Fae
 A more primal offshoot of the Daal'fae, these 'fae live northeast of the
@@ -233,4 +260,19 @@ have a preferred form. High fae are quite rare, and most are from the
 age of the Ældar, before the modern fae tribes were formed, and as such
 are rather different than modern fae. 
 
+## Fae Cities
 
+Vast majority of fae populaton exist in small to medium size tribes (between 10 and 60 individuals) spanning a single extended familly.
+
+However, there are a few larger fae population centers.
+ - The shapeshifter comune in western Eaos is probably the largest of these, at several thousand individuals.
+ - There is one very large selkie settlement of a little over a thousand individuals on the Mhidda coastline, which also hosts a couple of wolf-fae families.
+ - Few more large selkie settlements of a few hundered individuals each, which probably qualify as small towns
+ - Steamspring den is an ancient wolf fae settlement encompassing an extensive network of caves and geothermal pools. It has grown to several hundred individuals, 
+an order of magnitude larger than what would otherwise be considered a large wolf fae tribe, and has a fairly unique hierarchy. 
+ - Midh'fae meeting place has a moderate number of permanent inhabitants, with a disproportionate volume of shamans, although is still smaller than most of the other examples here. 
+ It is mainly unique in that its population comes from a wide variety of tribes.
+ - Queen's Valley in Quon Xi hosts a large, mixed population of thal'fae.
+ - The Xhao'fae in Kita Lau have a couple of large towns (several hundered to a couple thousand individuals), which also host Ael'xhal and the occasional Xhal'fae.
+ 
+Additionally, the Free Cities hosts the largest population of fae permanantly living among primarly non-fae Ael.

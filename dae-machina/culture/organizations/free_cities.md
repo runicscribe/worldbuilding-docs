@@ -7,6 +7,11 @@ permalink: /dae-machina/culture/organizations/free_cities
 
 The *Free Cities* (also called "The Eight" or "The Eight Lordships") are a series of loosly affiliated city-states along the Great Eaos River.
 This river is readily traversible and forms the backbone of trade across central Eaos.
+It is roughly 3000km long and takes 4-8 weeks to traverse by boat (depending upon whether you are travelling up or downstream)
+
+Methods of government vary between cities, although most are ruled by one person, generally a Lord or Guildmaster. 
+A council of Leaders from each city meets monthly to settle disputes and govern trade (and other interactions) between cities. There is frequent espionage and minor conflicts between cities (“squabbling”). 
+Varying amounts of corruption, smuggling and counter-espionage among the cities. The free cities are home to a wide and varied mix of races. 
 
 The Free Cities are politically seperate from the Elyos Republic, althrough relations are generally cordial between the two. Given their influence on trade, 
 any conflict with the Free Cities would have the potential to economically cripple the republic.
@@ -17,8 +22,8 @@ The free cities were originally part of the Elyos Republic, but became independa
 
 The "face" of the free cities. Not the most wealthy or influential, but still quite important. Contains the meeding place for the free cities council.
 Generally agreed upon as neutral ground among the cities. 
-Eosport is also the primary port of travel between the free cities and Teylmos, and hosts embassies for a number of nations.
-It is partly built on old Eos ruins (possibly the former Elyos capital?)
+Eosport is also the primary port of travel between the free cities and Teythmos, and hosts embassies for a number of nations.
+It is partly built on the ruins of the former Elyos capital, which was abandoned during the Uon war.
 
 ## Blackport
 
@@ -59,7 +64,7 @@ The farms and vinyards that feed Vindel overlap the borders of Elyos (even mores
 
 Grandel is Vindel's sister city. It is located in the center of a large swath of farmland, especially grain. The city produces a significant percent of the Free Cities food supplies, and also ships food overland to other regions.
 Like Vindel, the surrounding farmland extends into Elyos but still effectively belongs to the city.
-In addition to food, Grandel produces wines, textiles, and other goods.
+In addition to food, Grandel produces wines, textiles, and other goods. It is the furthest upriver of the major free cities.
 
 ## Kenford
 
@@ -71,6 +76,7 @@ It hosts a guild of mages, not beholden to the Elyos empire (unlike the AoM&MA).
 
 ## Others
 
-There are a number of smaller towns up and down river. These are much less important then the eight main cities, and are typically beholden to one of them.
+There are a number of smaller towns up and down river. These are much less important then the eight main cities, and are typically beholden to one of them. 
+For the most part, they are located about a days travel (by river) from the next nearest city, and partly serve as rest points.
 
 Armuth and The Academy of Magical and Martial Arts are both near the mouth of the great Eos river, but are not counted among them, as they are very much a part of the Elyos republc.
