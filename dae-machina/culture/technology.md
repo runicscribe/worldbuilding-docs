@@ -15,6 +15,8 @@ Sea travel - relatively sophisticated sailing ships - 100 - 200 km/day
   Upriver 5.6 km/h; **60** km/day for major rivers, 15 - 30 for smaller rivers.
   Downriver 11 - 22 km/h ; **120** - 240 km/day
   
+Some [beasts of burden](../world/bestiary/fauna/beasts_of_burden) are also used for travel.
+  
 ### Teleportation
 
 Over any significant distance, requires some form of potent focci at both source an destination

@@ -6,16 +6,29 @@ permalink: /dae-machina/culture/organizations/jinn_cities
 # Ael'jinn Cities
 
 Ael'jinn population is primarly found in a small number of very large cities.
+Hereditary rule by founding High-jinn and their descendants.
+
+Capitol of New Babylon is goverend by four founding families.
+Other cities are governed by their founders or founders descendants, who themselves are usually a direct descendant of one or more of the founding families.
+All are still subjects of New Babylon and the founding families.
 
 ## New Babylon
 Jinn Capitol.
 Founded when the jinn first went east, and has remained inhabited since.
+Home of the four founding families, and seat of the 'jinn government as a whole.
+
 Massive. Hosts about 60% of the worldwide jinn population. Largest city on Eos-Mhidda, and one of the two largest cities in the world.
+
 
 ### Palace of the Kings
 
+Mostly a monument to the founding families.
+Includes some government offices, mainly family tree archives.
+Surrounded by founding family villas.
+
 ### Grand Baazar
 
+Open-air market surrounding broad boulevard running from Palace of Kings to main gate.
 
 ## The Crystal Dunes
 

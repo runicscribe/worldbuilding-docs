@@ -29,6 +29,8 @@ elements: Fire, Air, Water, and Earth.
 Rarely, two elder Æl'jinn who have lost the ability to shift back to human form may permanently merge their forms, effectively
 creating a new individual with all of their memories.
 
+Ael'jinn ascribe a great deal of meaning to their lineages, and maintain detailed family trees stretching back to the time of the founding High 'jinn families.
+
 ## Fire 
 Fire 'jinn have black, auburn, or red hair. Their hair often
 incorporates perpetual flames. Their skin color ranges from black, to
@@ -110,7 +112,9 @@ Furthemore, they do not actually have natural shapeshifing abilities, shifting s
 This means that they do not have the same aging constraint as modern 'jinn, 
 and can freely shift between human and elemental form despite being over 2000 years old.
 Their great age also typically means they have accumulated a great deal of knowledge and magical power over the aeons, 
-and often have a variety of unique abilities.  
+and often have a variety of unique abilities.
+
+Many High 'jinn serve as leaders among the 'jinn communities.
 
 
 ## False 'jinn
