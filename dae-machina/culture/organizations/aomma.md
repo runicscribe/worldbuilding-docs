@@ -130,6 +130,77 @@ This section also houses the only gate in the outer wall.
 
 Outside the northern region of the outer wall is an extensive forest, adjoining the Dragonspine Mountains
 
+## Academy Classes
+
+Classes at the Academy are loosely divided into Magic and Martial tracks, with majority of Magic classes held in the inner circle, and martial classes held in the martial quarters of the outer circle.
+
+The Elyos military scholarship affords for 5 years of classes, includiong 2 years each of Magical and Martial classes, and an additional year for specilization, which can be either. This path awards its own certification, BM - Bachelor of Magical and Martial Arts
+All students (scholarship or not) are expected to take at least the introductory classes of both tracks - Introduction to Magic, Basic Magical Theory, and Basic Martial Training - even if they are 
+otherwise taking either pure magic or pure martial classes.
+
+### Magical Track  
+
+#### Introductory Classes
+
+For students who have not used magic before. Covers basics of the schools of magic, but is mainly focused on teaching beginners to cast their first spells. 
+Relatively unstructured, as some students grasp this quickly, and others take a while to learn how to use magic.
+
+To be accepted into the Magical Track, prospective students must first pass this course, or pass a "basic practitioners test", consisting of three tasks:
+
+- Light a candle
+- Tell the instructure the shape of an object hidden under a cup
+- Make an enchanted magelight go dark
+
+These three tasks broadly correspond to the three classes of magic: Physical, Etherial, and Arcane; while being general enough to be solvable through a variety of methods.
+
+#### First Year Classes - Basics of Magic
+
+Includes Basic Magical theory: Aether, Arcana and the 9 Schools of Magic; Practical use of each school (Barring Animancy, which is purely theoretical at this level; 
+Sympathy and Enchanting are also both mostly theory, as they require use of another school by their nature).
+
+#### Second Year Classes - Advanced Magic
+
+More advanced practical use - more comples techniques (e.g. teleportation), combining schools, practical sympathy and enchanting, very basic animancy.
+Advanced theory - Cosmology and conjunction events, magical history, an exhaustive coverage of known sympathetic relatiosn, etc.
+
+#### Third and Fourth Years - Specialized Magic
+
+Classes at this level cover the various specialized disciplines of magic, like shapeshifting, alchemy, artifice, etc.
+Advanced or dangerous classes like magical dueling and practical animancy are also covered at this level.
+
+In these latter years, students are expected to select one or two specialized disciplines to focus on.
+After gaining mastery of at least one specialization, a student is considered a graduate of the academy (BA = Bachelor of the Arcane).
+
+Many students remain at the academy for post-graduate classes, participating in advanced reasearch into their specialization, or mastering other disciplines.
+
+### Martial Track
+
+#### Basic Training
+
+A variable-length course, indended to bring everyone up to a baseline level of fitness.
+
+#### First Year Classes
+
+Basic Combat - Armed and unarmed
+Wilderness Survival, Travel, Camping, Orienteering, etc.
+
+#### Second Year Classes
+
+Advanced Combat - Fighting Mages and monsters, fighting in difficult terrain, use of artifacts and specialized weapons
+Survival in particularily hazerdous environs - The Riftscape, the Great Desert, Western Swamps, Northern Reaches.
+Siege Combat and assymetrical warfare. 
+
+#### Third Year - Specializations
+
+Officer Training, Siege Engineering, Basic Spycraft, etc.
+After completing a specialization, students are considered a graduate of the martial track (BC - Bachelor of Combat)
+
+#### Masterclasses
+
+Ongoing specialized training in a single combat or other Martial art - (Sword, Unarmed, Advanced Spycraft, etc.)
+These classes typically require a futher three to five years of study after completing three years of the martial track. 
+
+
 
 ## Arcmuth
 

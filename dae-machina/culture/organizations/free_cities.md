@@ -68,11 +68,12 @@ In addition to food, Grandel produces wines, textiles, and other goods. It is th
 
 ## Kenford
 
-This city straddles the river between Vindel and Grandel, and benefits from trade both up and down river. 
-It was founded by a renowned Mage-general of the Uon-'daal war, and is currently ruled by his son.
-
+This city straddles the river between Vindel and Grandel, and benefits from trade both up and down river.
 In addition to being a notable trade center (comparable to Eaosport, but not quite at large as Bridgeport or Haven), the city is also a respectable hub of magic.
-It hosts a guild of mages, not beholden to the Elyos empire (unlike the AoM&MA). 
+It hosts a guild of mages, not beholden to the Elyos empire (unlike the AoM&MA).
+
+Prior to the Uon War, Kenford was a small port city between Vindel and Grandel, of little renown. Afther the Free Cities split from the Elyos Republic in the aftermath of the war, it came under the leadership of a renowned
+Mage-general, who founded the Kenford Mages Guild, significantly increasing the cities importance. It is currently ruled by his son.
 
 ## Others
 
