@@ -181,7 +181,7 @@ that are built for only a single type of 'jinn. These are often dangerous other 
 All 'jinn cities still do have regions that are hospitible to natural humans, in order to provide a safe place for younger 'jinn who do not yet have full control over their abilities.
 These districts also often serve as trade hubs. 
 
-Outside the borders of these cities stretch sprawling farms, tended primarly by golems.
+Outside the borders of these cities stretch sprawling farms, tended primarly by magical constructs of various natures - mostly automatons, but some shells and soulbound.
 Much like the 'jinn themselves, the exact nature of farms varies, ranging from terraced mountansides and sprawling fields of grain 
 to watterlogged rice paddies and seaweed beds, to subteranean mushroom farms, and more, depending on the location of a specific city.
 The city outskirts also include grazing areas for a variety of livestock.

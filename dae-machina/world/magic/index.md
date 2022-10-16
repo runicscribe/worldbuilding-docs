@@ -333,7 +333,6 @@ animal or elemental familiers, or another form of magical servant.
 
 Some dragons take human familars, as a way to go among other humans without shapeshifting.
 
-
 #### Dominated
 
 Powerful psions are capable of altering the mind of another being to force them into servitude. This is very difficult to accomplish (although easier with animals as opposed to people), and generally considered immoral. As 
@@ -344,28 +343,30 @@ such, dominated are relatively rare. The Order of Sion employs some dominated se
 A mage can use animancy to capture an imprint or magical memory of a once living being and use this imprint to reanimate their body, creating an undead entity which will behave similar to how it did in life, but have no actual 
 soul or guiding intelligence. As they have no true will of their own and are instead guided by instinct, zombies make decent servants. However, imprinted undead will only be effective at tasks that they were good at in life. 
 Reanimation of zombies is often considered immoral as it seen as a desecration of the deceased corpse. Zombies are primarily employed by necromrancers, often in large numbers. Zombies are also found in many AElmos tombs.
-The same technique can be used to imprint this memory into an artificial body, known as an imprinted golem. Because this alternate body is foreign to the imprint, these tend to be clumsy and ineffective, and are therefore rare.
+The same technique can be used to imprint this memory into an artificial body, known as an imprinted construct. Because this alternate body is foreign to the imprint, these tend to be clumsy and ineffective, and are therefore rare.
 
 ### Revenants
 
 A sufficiently skilled mage can use animancy to permanently bind the soul of a living being into their body or another repository. This is easiest at the moment of death of the natural body of the soul in question, and unlike 
 imprinting cannot be done if the target entity is already dead. Revenants retain all knowledge, skills and abilities they had in life, and are fundamentally the same person as they where when alive.
 Since revenants retain free will and are more difficult to create than zombies, revenants are used as servants much less often than zombies. Revenants are usually warriors or mages serving a powerful lich, in both life and 
-undeath. The same technique can be used with an artificial body to create a soulbound golem, which is usually more effective than an imprinted golem, but still more work than a conventional revenant, and since revenants are 
-rarer than zombies anywats, soulbound golems are also quite rare. 
+undeath. The same technique can be used with an artificial body to create a soulbound construct, which is usually more effective than an imprinted construct, but still more work than a conventional revenant, and since revenants are 
+rarer than zombies anyways, soulbound constructs are also quite rare. 
 
 ### Soulbound Elementals
 
-Soulbinding can be used to trap the essence of an elemental into an object, in order to create items that can be used to “summon” the captured elemental. While the mage can control the summoning of the elemental, they generally
- have little control over the elemental after it has been summoned.
+Soulbinding can be used to trap the essence of an elemental into an object. Because elementals naturally form their own body through magic, this has a rather different effect than soulbonding something living, 
+resulting in an object that can be used to “summon” the captured elemental. While the mage can control the summoning of the elemental, they generally have little control over the elemental after it has been summoned.
 
-### Null Golem
+### Null Shell
 
-A null golem is an artificially created construct that can be controlled remotely by its creator, using a combination of animancy and scrying. Remotely controlled corpses also fall into this category. Note that null golems are 
-substantially more common than imprinted or soulbound golems, whereas conventional zombies are substantially more common than null zombies.
-Null golems must stay within a certain range of their controller to function. Null golems require a complex array of enchantments so that they can move at the command of their creator. Without these enchantments, the controller 
-of the golem would have to use evocation and transmutation to move the golem, which would be infeasible, especially over long distances. Null golems are most often used by Artificers. Null zombies are usually used by 
-necromancers for scouting purposes. Mages that make frequent use of null golems often eventually permanently transfer their soul into a golem body.
+A null or a null shell is an artificially created construct that can be controlled remotely by its creator, using a combination of animancy and scrying. 
+Remotely controlled corpses (typicaly called "null zombies") also fall into this category. Note that null shells are  substantially more common than imprinted or soulbound constructs, 
+whereas conventional zombies are substantially more common than null zombies.
+
+Null shells must stay within a certain range of their controller to function. Null shells require a complex array of enchantments so that they can move at the command of their creator. Without these enchantments, the controller 
+of the shell would have to use evocation and transmutation to move the shell, which would be infeasible, especially over long distances. Null shells are most often used by Artificers. Null zombies are usually used by 
+necromancers for scouting purposes. Mages that make frequent use of null shell may eventually permanently transfer their soul into an artificial body.
 
 ### Automaton
 

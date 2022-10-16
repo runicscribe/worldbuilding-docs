@@ -49,7 +49,7 @@
     - Metalurgy (Iron, bronze, gold, electrum, meteoric iron).
     - Alchemy - Black powder, greek fire, blackfire. Amalgam/foiling.
     - Coal, basic steam power, wind and water mills.
-    - Golemancy, early animancy.
+    - Early animancy, magical automatons
     - First deliberate enchanting - reinforced tools, magelights. 
 - 3,800 BC
   - ⚬ Queen of Ravens born.
