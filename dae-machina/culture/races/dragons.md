@@ -13,13 +13,42 @@ Dragons are sapient, and tend to be quite intelligent. All dragons have a tenden
 magical artifacts, art, or knowledge. Dragons have their own spoken language, but can often speak and write in a variety of human languages. Many dragons are philosophers and researchers, devoting a great deal of time to 
 unraveling how some aspect of the universe works. There have also been a number of dragon warlords and conquerors who have taken over local human civilizations over the ages, although these have generally limited their 
 conquests to within their own territories. Since dragons are solitary and have an extremely low population density, there is no real dragon civilization, although some dragons have contributed to the success of certain 
-human civilizations.
+human civilizations. Younger dragons (50-500 years of age) tend to be more likely to interact directly with humans, for a variety of reasons (there are less arrogant/assured of their superiority at this age; 
+they may not yet have the power/influence to carve out their own territory; they are physically smaller, such that they can be mostly comfortable among human architecture, etc.)
 
 Because of their size and large appetite, dragons tend to be solitary, with territories ranging in size from 20,000 to 100,000 square kilometers (this is equivalent to a circular region with radius 80 to 180 kilometers). 
 As a consequence, the global dragon population is around 1000 – 2000 dragons. Dragons will sometimes form agreements with the humans living in their area, usually something along the lines of the dragon not attacking 
 their cities in return for a regular tribute of meat. Dragons usually eat large herd animals such as deer or sheep, although they may eat humans if given cause to. 
 
-All dragons naturally have access to an imense amount of magical power. Most dragons are also skilled sorcerers, and often use magic to appear to “breathe” elemental blasts like fire or ice. Their magical nature also assists in their ability to fly. Some dragons can shapeshift into a human(like) form. When they shapeshift, they retain their mass (with a corresponding increase in density), and much of their original strength, as well as all their magical abilities. Due to the complex nature of this transmutation, it takes rather more time (around an hour) than conventional shapehifting.
+Dragons are extremely long-lived, with a natural lifespan of around 4000 - 6000 years. Due to their magical nature, most dragons learn to magically extend their life beyond their natural limits.
+Because of this immense longevity, dragons reproduce rarely, only one or two dragons born every few centuries. The one exception is after especially cataclysmic events that actually manage to impact the dragon population -
+in the wake of such events, there tend to be quite a few new dragons born. For this reason, there are quite a few dragons just over 5000 years old, (born just after the Dragon war), as well as a dozen or so born during or after the Uon war. 
+
+## Reproduction and Development
+
+Require specific nutirents (most comonnly found in members of the Cercis or Concha families) to be fertile. 
+(Exact nutrients requireed are different between male and female dragons - serpentfish or certain aquatic mammals are also sufficent for males)
+
+If these conditions are met, a female dragon will begin to ovulate (although never more that once in one year). 
+
+Similar to certain reptiles, female dragons may store sperm internally for up to 3 months before releasing an egg for fertilization.
+
+When an oocyte relized this way is fertilized, the other structures that make up the egg start to form around it, starting with the yolk, and ending with the shell.
+This process takes about 3-6 (? months), after which the egg is laid. The embryo must develop for a futher 6-12 (?) months before the egg hatches.
+
+Dragon eggs are relatively small compared to their body size, about 12 - 20 cm in diameter.
+
+Newly hatched dragons are likewise quite small - about the side of a housecat. 
+After hatching, they grow fairly rapidly for the first 100 years of their life, after which their growth slows down substantially, although it never quite stops. 
+Phisical development occurs quickly - at 3-6 months they can run, glide short distances, and hunt small game.
+Mental development is rather slower - for the first few years of their life, they operate mainly on instict. By 10 years, they have comparable intelligence to a young human child. 
+This is also when they start being able to fly (rather than just glide). Dragons reach sexual maturity at about 30-40 years of age, and mental maturity at 50-60, 
+although are still not truly considered an adult by other dragons until they reach 100. Upon reaching 1000 years, dragons are considered elders worthy of respect in the dragon community
+
+
+All dragons naturally have access to an imense amount of magical power. Most dragons are also skilled sorcerers, and often use magic to appear to “breathe” elemental blasts like fire or ice. 
+Their magical nature also assists in their ability to fly. Some dragons can shapeshift into a human(like) form. When they shapeshift, they typically retain their mass (with a corresponding increase in density), 
+and much of their original strength, as well as all their magical abilities. Due to the complex nature of this transmutation, it takes rather more time (up to an hour) than conventional shapehifting.
 
 Some dragons use their magical strength to petrify foes. These dragons are someties refered to as basilisks (or gorgons if they take human form).
 
@@ -43,7 +72,8 @@ Plains dragons are found in mountain and cliff regions near savannah and plains,
 Mountain dragons average 20-40 m long and 3.3-6.6m at the shoulder, with a 1-2m long head.
 Their head narrows to a vertical ridge at the front and has a single, diamond-shaped armor plate on top.
 They have a long neck and tail and a bulky torso and legs. 
-Their hide is covered in large, interlocking armor plates, especially along the neck, spine, underbelly, and tail. The legs are covered in smaller scales, and the wings are broad and leathery. The tail of mountain dragons tends to be broad and has an enlarged/swolen tip.
+Their hide is covered in large, interlocking armor plates, especially along the neck, spine, underbelly, and tail. The legs are covered in smaller scales, and the wings are broad and leathery. 
+The tail of mountain dragons tends to be broad and has an enlarged/swolen tip.
 
 Mountain dragons are generally some combination of red, orange, grey, or black in color, with a darker spine and lighter underbelly and wing membranes.
 Mountain dragons prefer to live in steep, rocky mountains, caves, and volcanic regions. Compared to other dragons, mountain dragons are relatively poor fliers, but very good at tunnelling.
@@ -56,14 +86,16 @@ They usually have two pairs (four total) of antler-like horns on the back of the
 Forest dragons have a long wingspan, but relatively narrow wings. Their body is covered in small scales, with larger plates on their underbelly. They often have a feathery mane and tail.
 
 Forest dragons tend to be brightly colors, and are usually green, red, blue and/or gold in color, often in a mottled pattern.
-Forest dragons are primarily found in rainforest regions on the western continent and the Xhal isles. They generally hunt medium sized rainforest animals (deer, pigs, monkeys) and will also catch fish. Like tundra dragons, they are capable swimmers.
+Forest dragons are primarily found in rainforest regions on the western continent and the Xhal isles. They generally hunt medium sized rainforest animals (deer, pigs, monkeys) and will also catch fish. 
+Like tundra dragons, they are capable swimmers.
 
 ### Blue / Spined / Valley Dragon
 
 Valley dragons are on the smaller side; 10-28m long and 2-6m at the shoulder, with a 0.7-2m long head. 
 Their head is framed by three or more pairs of curved similarily sized horns, and their tail ends in a curved blade.
 
-Valley dragons are puple, blue, black, or silver in color. They prefer jungle and forest regions, although they can also be found in cliffs and canyons, often with a brown or tan coloration. They are equaly comfortable moving in the sky or on the ground, where they move with a feline grace.
+Valley dragons are puple, blue, black, or silver in color. They prefer jungle and forest regions, although they can also be found in cliffs and canyons, often with a brown or tan coloration. 
+They are equaly comfortable moving in the sky or on the ground, where they move with a feline grace.
 
 ### White / Finned / Tundra Dragon
 
@@ -71,7 +103,4 @@ Tundra dragons are similar in size and appearance to spined dragons, but stouter
 Like spined dragons, they have three or more pairs of horns framing their head, but their horns are straight, flat, and broad.
 Tundra dragons have paired spines running the length of their body, which become in a pair of horizontal, webbed fins at the end of their tail.
 
-Tundra dragons are white, blue, or grey in color. They frequent arctic and tundra regions, as well as remote, rocky islands. They hunt a variety of aquatic animals.
-
-
-Hunts elk, reindeer and occasionally aquatic mammals. 
+Tundra dragons are white, blue, or grey in color. They frequent arctic and tundra regions, as well as remote, rocky islands. They hunt elk, reindeer and occasionally aquatic mammals. 

@@ -331,6 +331,8 @@ acquiring such servants.
 Familiars are creatures whose soul is magically linked to that of the mage using animancy. Animal familiars are favored by witches. Elemental familiars are favored by Sorcerers and Ellementalists. Shamans and Wizards may use 
 animal or elemental familiers, or another form of magical servant.
 
+Some dragons take human familars, as a way to go among other humans without shapeshifting.
+
 
 #### Dominated
 

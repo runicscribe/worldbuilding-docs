@@ -1,5 +1,5 @@
 # Home
-One hundred years ago, the Xuon continent was shattered by a great
+Fifty years ago, the Xuon continent was shattered by a great
 cataclysm, when the Uon atempted to birth an artifical god. This event
 wiped out the Uon, and heralded the end of the great Uon - Æl war.
 Now, Xuon is a shattered realm, ravaged by wild magic. Fractured islands float
@@ -15,7 +15,7 @@ countryside.
 To the south, The lords of the Free Cities continue their endless
 squabbling over wealth and power, while the Riftlanders scour the ruins
 left behind by the Xoun cataclysm for artifacts of immense power.
-Further east, the 'jinn have withdrawn into isolation.
+Further east, the 'jinn have once again withdrawn into isolation.
 Meanwhile, rumours arise of a forgotten empire across the western sea, set on conquest.
 
 Amidst these nations, other dangers flourish. 

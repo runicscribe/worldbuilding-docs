@@ -54,7 +54,7 @@ However, this constraint can be bypassed in a couple of ways:
 By adding in evocation magic to make up the difference of mass, a shapeshifter can shift to differently sized form. However, using evocation to significantly increase one's size requires a lot of magical power. 
 This means that shifting into a larger form through this method is very difficult, and returning to human form after using this method to shift to a smaller form is likewise difficult.
 
-One way of avoiding the power requirments for larger forms is called skinwalking. This process uses the freshly slain corpse of the target shape as a totem, merging ones body with it through the course of the tranmutation,
+One way of avoiding the power requirments for larger forms is called fleshwalking. This process uses the freshly slain corpse of the target shape as a totem, merging ones body with it through the course of the tranmutation,
 and discarding the excess mass when shifting back. It is rather visceral and only practiced by small number of shamans.
 
 The other way of shifting to a differently sized form is using what is effectively a more complex form of cosmetic shapeshifting, where a mage shifts just their surface appearnce to mimic the target form while staying the same 

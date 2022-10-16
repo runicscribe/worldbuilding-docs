@@ -24,6 +24,7 @@ Most oozes percieve their surroundings solely through touch, although some have 
 
 Because of their relative simplicity, Oozes have been independantly on several occasions, and as such many different lineages exist.
 
+
 ### Common Ooze
 
 Thick jelly-like consistency, ovoid shape. Ranges from 10 - 100 cm in diameter.
@@ -40,6 +41,7 @@ These days, frequently infests sewers.
 Can repair moderate damage, but cannot reform after being splattered over a wide area.
 Can be destroyed by extreme heat (greater than 200 C).
 If trapped in a place without food, will eventually consume itself and die.
+
 
 ### Swamp Ooze
 
@@ -61,7 +63,6 @@ Very difficult to kill while in their natual habitat, mainly because the terain 
 Vulnerable to some chemicals, especially strong alkalis, magic, and cold.
 
 
-
 ### Necromantic Ooze
 
 Created by one of the Lich-lords of old Eos as a bioweapon.
@@ -78,8 +79,29 @@ Not particularly active without a body - mostly sits arround as a puddle as unti
 Only capable of animating vertebrates - can consume other fauna but not animate them. Incapable of consiming vegetable matter.
 Can be destroyed through extreme dilution (~100 to 1), fire, or magic.
 
+
+### Mimic Ooze
+
+Passive ambush predator. Slow and mostly immobile.
+Mimics the shape and color of nearby objects or structures - trees, strubs, vines etc.
+Very sticky - adheres to any creature that lands on it; their struggles will entangle them further in the slime, eventually coccooning them within its body, 
+after which they gradually digest them  with acidic secretions. Usually, prey dies from suffocating inside coccoon, or from dehydration before succuming to the digestive acid.
+
+
 ## Shoggoth
 
 Animate mass of mutable flesh.
 Consumes living things, and can replicate organs of anything it has eaten.
 Alters its form to adapt to the situation - growing limbs, eyes, mouths, gills, etc. as needed.
+
+## Null Grub
+
+Also known as a chimeric blank. Null grubs are magically created creatures specially designed for use in chimeric magic, incorporating genetic material from every animal phyla (and sometimes even plants).
+They lack the natural magic resistance normally present in living things, making them very easy to reshape into new forms.
+
+Null Grubs typically look like a medium-sized amorphous blob of flesh, but a number of strains exist that vary in appearance - some with vestigial limbs, etc.
+Generally, they feed on basic nutrient solutions, lacking the organs to process more complex matter. Most can reproduce, but the means by which they do is kept a closely-guarded secret by their creator(s)
+
+Some variation of such a creature has existed since the time of the first Eaos Empire, but only in very small numbers, created by independant chimerists. 
+It has only become common relatively recently - with the establishment of larger mage schools and guilds, supplying such creatures to junior biomages has becume a good source of income for more skilled chimerists.
+

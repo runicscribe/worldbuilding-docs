@@ -41,6 +41,7 @@ The journey takes 3 months from start to end, for a 6 month round trip.
 
 One of the rougher caravan routes; includes travel through jungle, swampland, two river crossings, and touches upon the edge of the Riftscape. For this reason, the caravan has very few wagons - nearly everything is carried on
 the backs of the caravan members, fae or direbeast. Shelter primarily consists of hide tents.
+Elder caravaneers often retire in the Shapeshifter commune or among the center inland tribe.
 
 Consists of a number of smaller sub-caravans that share most of the same route, but often briefly diverge.
 Some of these follow the crescent route half the year, and run up and down the great river the other half, timing things to meet with the other caravans at the great gathering place.
@@ -54,6 +55,9 @@ Caravan route follows a half-year cycle, travelling counterclockwise around inla
 Every year and a half, meets with Northern Foothills tribe at site of great annual gathering (every other one of these also includes Great plains and Eastern Valley). 
 Travels with Northern Foothills for about a month following this meeting.
 When their schedules align also meets up with Crescent Route (Irregular cadence, avgeraging twice every three years)
+Less traditionalist than the Great Plains Tribe, but otherwise quite similar.
+
+Generally poor relations with the local Ael'daal, as each consider the other to be stealing from their land.
 
 Mostly Deer 'fae
 
@@ -130,7 +134,7 @@ VII Northern Foothils x Eastern Mountain
 Smaller, less interconnected tribes.
 - Handfull north of Teythmos, occasionally meet with NF - Sheep, Reindeer.
 - A couple small caravans travelling different segments of the Great River. Get on well with Crescent route, but more traditional tribes feel like they are too closely alligned with Free Cities.
-  Includes group maned wolves that actually sail the river, antelopes, 
-- A couple tribes along the coast south of Teythmos, which mostly interact with the Center Inland tribe - Deer, 
+  Includes group maned wolves that actually sail the river, antelopes, others/
+- A couple tribes along the coast south of Teythmos, which mostly interact with the Center Inland tribe - Mostly Deer-fae 
 - One small, especially hardy tribe that makes the trip accross the desert between the eastern great plains (starting at the eastmost terminus of the Eastern Mountain tribe) and the westmost 'jinn cities (some form of antelope)
 - A few other tribes near the boundary between the great plains and great desert. (Wide variety)

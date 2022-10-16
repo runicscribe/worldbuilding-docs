@@ -16,7 +16,13 @@ Made of mostly separate tribes, lead by a clan chief. Larger settlements (such a
 More civilized region near Quon Xi.
 Capitol: 水の上 都市 - Mizunoue Toshi - “City over Water”(City of bridges).
 
+#### Dragonhalls
 
+Built into and through the sides of a mountain chain in one of the central Kita Lau islands
+Founded during/after the dragon war, and has re
+Less servile relations between dragons and humans than Xeres Empire to the east.
+Modern times - closest relations between dragons and humans anywhere
+Also unique in that it hosts about a dozen dragons at any given time - mostly due to the fact it runs all the way through several different mountains over a very large area.
 
 ### [Elyos Republic](./elyos_republic)
 
@@ -82,9 +88,9 @@ While the commune does not actually forbid regular Ael, it is not especially hos
 In addition to these, there are a a moderate number of traders who pass through fairly often, drawn by both the various rare and valuable plants found in the jungle, and the other goods brought by the nomadic daal caravans.
 
 Very different set of rules and assumptions from a normal Ael city, or even a 'fae clan.
-Adopted the 'daal practice of identifying armbands.
+Adopted the 'daal practice of identifying armbands, although have developed their own system on top of this that also incorporates jewelry in different colors to indicate things such as sexual interest, etc. 
 No laws (or even cultural taboos) around nudity. 
-Puglic sex is permitted (even encouraged), but generally considered as an open invitation to join in.
+Public sex is permitted (even encouraged), but generally considered as an open invitation to join in.
 
 A ban on grievous violence and murder are the only truly hard laws in the commune. A small council is elected to enforce these laws, selected by nomination and confirmed through ritual combat.
 
@@ -98,7 +104,7 @@ The central gathering is perpetually active, as a significant number of inhabita
 In addition to communal meals, this area hosts are magic lessons, book clubs, markets (mainly barter), and more.
 
 The surrounding land, being mainly jungle and swamp, is not well-suited to farming. As such, the diet of the settlement is heavily seafood focused. In part do to the number of inhabitints, 
-it  is one of the few communities to actively hunt many of the larger ocean denzeins. This meat-based diet is supplemented by produce from visiting daal'fae caravans.
+it is one of the few communities to actively hunt many of the larger ocean denzeins. This meat-based diet is supplemented by produce from visiting daal'fae caravans.
 
 
 ### Riftlander Cities
@@ -208,5 +214,26 @@ The Il’vos were mostly wiped out in a war with the Uon 1000 years before the c
 ## Former Nations
 
 ### Uon Collective
+
+
+
+### Xeres Empire
+
+<< Reword to hint at beginnings of empire >> Ancient 'xhal empire formed in the wake of the Dragon war, and based around venerating dragons as gods.
+Only really becane a true empire a few hundered years after the war, as individual settlements consolidated power.
+
+Large cities adorned in gold.
+Sacrifice of gold, gems, livestock, and sometimes humans. (At central temple - step pyramid, but octagonal or circular)
+
+At its peak - continent-spanning trade, agriculture
+Tall spires and gliders (augmented by draconic magic?).
+Sub-nations divided by which dragon's teritorry they live in (Xuon - hosted 100 - 300 dragons total during this time period)
+
+Started to fall appart due to internal rebellion around 3100 BC
+Xhal'fae rose out of crumbling empire, as many of the rebelling 'xhal reverted to smaller settlements deep in the jungle
+
+Last vestiges of the empire fell in conflict with expanding Uon Collective.
+
+Some hidden enclaves inhabiting the ruins of the Empire's once-great cities still keep to the old ways, but no longer have the connectedness of a true empire
 
 

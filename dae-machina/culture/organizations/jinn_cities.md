@@ -1,15 +1,16 @@
-# Ael'jinn Cities
+# Ael'jinn Principalities
 
 Ael'jinn population is primarly found in a small number of very large cities.
 Hereditary rule by founding High-jinn and their descendants.
 
-Capitol of New Babylon is goverend by four founding families.
+Capitol of New Aelmos is goverend by four founding families.
 Other cities are governed by their founders or founders descendants, who themselves are usually a direct descendant of one or more of the founding families.
-All are still subjects of New Babylon and the founding families.
+All are still subjects of New Aelmos and the founding families.
 
-## New Babylon
+## New Aelmos
+
 Jinn Capitol.
-Founded when the jinn first went east, and has remained inhabited since.
+Founded when the jinn first went east, and has remained inhabited since. Named after the capitol of the 1st Era Daal Civilization, lomg since destroyed and lost to the desert.
 Home of the four founding families, and seat of the 'jinn government as a whole.
 
 Massive. Hosts about 60% of the worldwide jinn population. Largest city on Eos-Mhidda, and one of the two largest cities in the world.
