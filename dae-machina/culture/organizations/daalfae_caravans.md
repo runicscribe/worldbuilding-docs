@@ -46,6 +46,7 @@ The journey takes 3 months from start to end, for a 6 month round trip.
 
 One of the rougher caravan routes; includes travel through jungle, swampland, two river crossings, and touches upon the edge of the Riftscape. For this reason, the caravan has very few wagons - nearly everything is carried on
 the backs of the caravan members, fae or direbeast. Shelter primarily consists of hide tents.
+Elder caravaneers often retire in the Shapeshifter commune or among the center inland tribe.
 
 Consists of a number of smaller sub-caravans that share most of the same route, but often briefly diverge.
 Some of these follow the crescent route half the year, and run up and down the great river the other half, timing things to meet with the other caravans at the great gathering place.
@@ -59,6 +60,11 @@ Caravan route follows a half-year cycle, travelling counterclockwise around inla
 Every year and a half, meets with Northern Foothills tribe at site of great annual gathering (every other one of these also includes Great plains and Eastern Valley). 
 Travels with Northern Foothills for about a month following this meeting.
 When their schedules align also meets up with Crescent Route (Irregular cadence, avgeraging twice every three years)
+Less traditionalist than the Great Plains Tribe, but otherwise quite similar.
+
+The Center inlands tribe in particular has generally poor relations with the local Ael'daal, as the caravan route runs straight through the Elyos heartland, and each group considers the other to be stealing from their land.
+The 'fae will harvest whatever crops they find without care for Elyos land boundaries. Meanwhile, the Elyos will often threaten violence if they find the 'fae on their land.
+The more surly or superstitious farmers will string up butchered deer carcasses whenever a caravan is in the area, in the hope of warding the 'fae away.
 
 Mostly Deer 'fae
 
@@ -72,7 +78,7 @@ Clockwise circit following the foothils of the dragonspine mountain range, from 
 Travels west back to Tethmoys accross northern plains. The full trip takes three-quarters of a year; every year and a half (i.e. every other trip), travels w Center inland for the first month of this journy
 
 Bulk of polulation is Reindeer, plus some goat 'fae from Eastern Mountain tribe.
-During the Teythmos to Arcmuth segment, caravan hosts a moderate number of Aeldaal and Aelmidh travelling that route.
+During the Teythmos to Arcmuth segment, the caravan hosts a moderate number of Aeldaal and Aelmidh travelling that route.
 Occasionally hosts to small numbers of Wolf midh'fae travelling to the free cities or to the canid tribes in the great plains. 
 
 5.25 mth cycle (7 x 3/4)
@@ -135,7 +141,7 @@ VII Northern Foothils x Eastern Mountain
 Smaller, less interconnected tribes.
 - Handfull north of Teythmos, occasionally meet with NF - Sheep, Reindeer.
 - A couple small caravans travelling different segments of the Great River. Get on well with Crescent route, but more traditional tribes feel like they are too closely alligned with Free Cities.
-  Includes group maned wolves that actually sail the river, antelopes, 
-- A couple tribes along the coast south of Teythmos, which mostly interact with the Center Inland tribe - Deer, 
+  Includes group maned wolves that actually sail the river, antelopes, others/
+- A couple tribes along the coast south of Teythmos, which mostly interact with the Center Inland tribe - Mostly Deer-fae 
 - One small, especially hardy tribe that makes the trip accross the desert between the eastern great plains (starting at the eastmost terminus of the Eastern Mountain tribe) and the westmost 'jinn cities (some form of antelope)
 - A few other tribes near the boundary between the great plains and great desert. (Wide variety)

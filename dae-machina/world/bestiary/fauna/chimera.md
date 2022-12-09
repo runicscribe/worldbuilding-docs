@@ -26,7 +26,18 @@ In aggregate, about as smart as a dolphin, but indivudual heads can try and take
 Can fly (poorly) over short distances.
 Fertile with other Noble Chimera, Manticores, and Dragons. Lay eggs.
 
-### Horned Lion
+
+###  Woodlord
+
+Wolf-like head and forequarters. Stag-like antlers and hindquarters
+Omnivorous 
+
+#### Wearg
+
+Large, half-mood goat/antelope-like antlers.
+Hyena head and forequarters, goat-like hindquarters
+
+#### Horned Lion
 
 Head and forequarters of a lion. Deer-like antlers and hindquarters
 
@@ -37,6 +48,12 @@ Long, wide tail, with a toothed maw at the end. Primarly uses this tail to ambus
 
 Furred and feathered variants exist.
 
+### Rift Dregs
+
+Inadvertently created during the Uon cataclysm, Dregs are amophous amalgams of flora, fauna, and innanimate material. Some consider them to abberations instead of Chimera.
+There is a fixed numbe of dregs, and they cannot reproduce, but there are enough of them to be considered an established variant. 
+Dregs are solely found in the vicinity of the Riftscape. They are omnivorous, and universally hostile to all other forms of life. Many can also feed via photosynthesis.
+Dregs usually operate on the scrambled base instincts of their contingent forms, retaining just enough of a mind to find food and avoid cliff edges, although a rare few are more intelligent.
 
 ## Unique Chimera Variants
 

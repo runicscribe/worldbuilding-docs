@@ -25,7 +25,7 @@ Their are four main 'jinn subraces, originating from the four founding
 families of the original Ael'jinn and representing the four classical
 elements: Fire, Air, Water, and Earth.
 
-Æl'jinn can only reproduce in their human form (and as a consequencecan only do so in their first 100 years or so of life).
+Æl'jinn can only reproduce in their human form (and as a consequence can only do so in their first 100 years or so of life).
 Rarely, two elder Æl'jinn who have lost the ability to shift back to human form may permanently merge their forms, effectively
 creating a new individual with all of their memories.
 
@@ -41,11 +41,16 @@ of metals and other fireproof materials such as salamander leather or
 cloth tassels. They also tend to wear lots of jewelry, often
 incorporating diamond, ruby and/or quartz.
 
+Elder fire jinn tend towars flamboyand forms of pure flame. Wings or other extra limbs are common.
+
 ## Air
 Air 'jinn have blonde, silver, or white hair, pale tan or light
 blue skin, and blue or grey irises. Air 'jinn clothing is primarily
 comprised of ornate layered robes, usually with tassels and ribbons
 that will float dramatically in the wind. 
+
+Elder air 'jinn either go with forms of elemental cloud, lightning, and rain; or calm, invisible air defined only by their apparel.
+One rarer form is a floating mass of some sort of objects (coins, sand, etc.)
 
 ## Water
 Water 'jinn have blond, brown, or red hair, tan skin, and green
@@ -54,12 +59,16 @@ diaphanous. It is usually comprised of cloth that dries quickly. Water
 'jinn jewelry often incorporates ocean products such as pearl, abalone,
 and coral.
 
+Elder water jin ei9ther go with a combination of water and ice, or a watery form that showcases some bounty of the ocean.
+
 ## Earth
 Earth 'jinn have brown or black skin, brown or black hair, and
 green, blue, or amber eyes. Male earth 'jinn are often bald, or wear
 their hair very short. Earth 'jinn generally wear ornate robes or
 togas. Unique among the 'jinn, earth 'jinn retain a humanoid shape when
 fully shape-shifted.
+
+Most elder earth 'jinn prefer smooth sculpted stone bodies, perfect in every detail. Eyes are usually crystal or some semi-precious stone.
 
 ## Hybrids
 In addition to the four founding families, there are a number of other 'jinn sub-races and hybrids.
@@ -89,17 +98,11 @@ descendants of air and fire 'jinn. They are somewhat similar to shadow
 'jinn.
 
 ### Celestial 'jinn
-Celestial 'jinn have an affinity for three or more elements (High
-Celestial 'jinn have an affinity for all four of the classical
-elements). Celestial 'jinn shapeshift into a cloud of smoke and dust,
-interspersed with lightning, crystals, and small glowing balls of
-plasma. Their precise attributes vary depending on their elemental
-affinities. Celestial 'jinn almost always remain in a half form, with a
-humanoid torso, and a pillar of smoke in place of their legs. Celestial
-'jinn are uniquely well-suited to countering the abilities of other
-'jinn due to their larger range of abilities. The ofspring of celestial
-'jinn are almost always also celestial 'jinn, regardless of the
-elemental affinity of their other parent.
+Celestial 'jinn have an affinity for three or more elements (High Celestial 'jinn have an affinity for all four of the classical elements). 
+Celestial 'jinn shapeshift into a cloud of smoke and dust, interspersed with lightning, crystals, and small glowing balls of plasma. 
+Their precise attributes vary depending on their elemental affinities. Celestial 'jinn often remain in a half form, with a humanoid torso, and a pillar of smoke in place of their legs. 
+Celestial 'jinn are uniquely well-suited to countering the abilities of other 'jinn due to their larger range of abilities. 
+The ofspring of celestial 'jinn are almost always also celestial 'jinn, regardless of the elemental affinity of their other parent.
 
 
 
@@ -114,8 +117,9 @@ and can freely shift between human and elemental form despite being over 2000 ye
 Their great age also typically means they have accumulated a great deal of knowledge and magical power over the aeons, 
 and often have a variety of unique abilities.
 
-Many High 'jinn serve as leaders among the 'jinn communities.
+Many High 'jinn serve as leaders among the 'jinn principalities.
 
+High 'jinn also tend to accumulate a clique of younger 'jinn followers and hangers-on.
 
 ## False 'jinn
 
@@ -142,6 +146,7 @@ Travelled Eos. Spent time among High'fae remenants.
 
 Sired a new 'jinn (or 'fae) variant - Ester's descendants appear similar to water 'jinn at first glance, 
 but actually shapeshift into a unique variety of Ooze. They can change color at will, and secrete a powerful acid. 
+They also have mild psycic abilities, allowing them to better mimic others and communicate when in a form without a mouth.
 
 Often, when appearing in human form, are still technically ooze-like in substance, just reshaped and colored accordingly.
 This ability also allows them to mimic the form of others, but this is only really good for fooling visual inspection, 
@@ -181,7 +186,7 @@ that are built for only a single type of 'jinn. These are often dangerous other 
 All 'jinn cities still do have regions that are hospitible to natural humans, in order to provide a safe place for younger 'jinn who do not yet have full control over their abilities.
 These districts also often serve as trade hubs. 
 
-Outside the borders of these cities stretch sprawling farms, tended primarly by golems.
+Outside the borders of these cities stretch sprawling farms, tended primarly by magical constructs of various natures - mostly automatons, but some shells and soulbound.
 Much like the 'jinn themselves, the exact nature of farms varies, ranging from terraced mountansides and sprawling fields of grain 
 to watterlogged rice paddies and seaweed beds, to subteranean mushroom farms, and more, depending on the location of a specific city.
 The city outskirts also include grazing areas for a variety of livestock.

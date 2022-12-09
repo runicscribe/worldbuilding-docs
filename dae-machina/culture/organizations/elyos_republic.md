@@ -7,11 +7,13 @@ permalink: /dae-machina/culture/organizations/elyos_republic
 
 The Elyos Republic is the largest nation on Eaos, and is populated mainly by Æl’daal.
 
+It was founded from a coalition of countries, under the shadow of the Uon war. After the end of the war it reorganized somewhat, with the Free cities and some of the Futhern Dal splitting away from the republic,
+and the remainder truly unifying as a single country, albeit one with a number of distinct provinces.
+
 The republic is (ostensibly) democratic, and is jointly goverened from Teythmos by a parliament of elected representatives, and a grand council.
 The grand council includes major guildleaders, clergy leaders, army generals and ministers of government departments. These individuals are not elected, and instead rise to their positions through merit.
 The council manages the day-to-day operations of the republic. For the most part, individual guilds and ministires govern themselves. Inter-ministry projects and disputes are also managed and resolved by the Grand council.
 Major decisions (including any new laws) and foreign policy are managed by the elected parliament. Constitutional ammendments amd certain other particularly important decisions require a referendum of the citizenry. 
-
 
 The inland regions of the kingdom are primarily farmland. The kingdom has a very well developed system of roads, and advanced architecture and stonework.
 The Northern provinces bordering on Futhern Dhal strongholds are primarily fortified castles and strongholds surrounded by farms. Conrayd and Tayla com from one of these castles, near (32 N, 43 E).

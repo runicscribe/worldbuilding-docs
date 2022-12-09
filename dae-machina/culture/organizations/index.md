@@ -15,11 +15,13 @@ Magic in the Empire is highly  is hihly institutionalized and regulated. Cut tie
 
 Capitol: 山城 – Shānchéng - “City atop the Mountain”. 
 
-### Xhal Nations (Name pending)
+### [Xhal Nations](./xhal_nations)
 (Æl’xhal and xhal’fae)
 Made of mostly separate tribes, lead by a clan chief. Larger settlements (such as the city of bridges) are led by a chief and a clan council.
 More civilized region near Quon Xi.
 Capitol: 水の上 都市 - Mizunoue Toshi - “City over Water”(City of bridges).
+
+#### Dragonhalls
 
 
 
@@ -63,6 +65,7 @@ Varying amounts of corruption, smuggling and counter-espionage among the cities.
 The Free Cities are politically seperate from the Elyos Republic, althrough relations are generally cordial between the two. Given their influence on trade, 
 any conflict with the Free Cities would have the potential to economically cripple the republic.
 
+
 ### Hollow Cities
 
 Jointly founded by 'jinn, 'midh, 'daal, sometime after the 'jinn reconnected with the Eosian Aeldar in the aftermath of the lich wars.
@@ -73,7 +76,7 @@ Built underground, under the dragonspine mountains. Originally a single city, bu
 Primary exports are gems, metals, and magically shaped tools and art. Import a significant proportion of their food from the Elyos Republic.
 
 
-### Shapeshifter Commune
+### [Shapeshifter Commune](./shapeshifter_commune)
 
 Built on ruins of an old Aeldar city, fairly deep into a swampy jungle.
 Founded by a couple groups of Daal'fae, as a sanctuary for the fae.
@@ -83,13 +86,14 @@ Over the years, the settlement has collected an eclectic assortment of fae inhab
 
 The commune also grew substantially during the Uon war, as it took in a large number of Xhal'fae displaced by the conflict. Total pop is still less than 10k, and fairly spread out.
 
+
 While the commune does not actually forbid regular Ael, it is not especially hospitable to them, so only a few especially ecentric individuals live there full time. 
 In addition to these, there are a a moderate number of traders who pass through fairly often, drawn by both the various rare and valuable plants found in the jungle, and the other goods brought by the nomadic daal caravans.
 
 Very different set of rules and assumptions from a normal Ael city, or even a 'fae clan.
-Adopted the 'daal practice of identifying armbands.
+Adopted the 'daal practice of identifying armbands, although have developed their own system on top of this that also incorporates jewelry in different colors to indicate things such as sexual interest, etc. 
 No laws (or even cultural taboos) around nudity. 
-Puglic sex is permitted (even encouraged), but generally considered as an open invitation to join in.
+Public sex is permitted (even encouraged), but generally considered as an open invitation to join in.
 
 A ban on grievous violence and murder are the only truly hard laws in the commune. A small council is elected to enforce these laws, selected by nomination and confirmed through ritual combat.
 
@@ -103,7 +107,7 @@ The central gathering is perpetually active, as a significant number of inhabita
 In addition to communal meals, this area hosts are magic lessons, book clubs, markets (mainly barter), and more.
 
 The surrounding land, being mainly jungle and swamp, is not well-suited to farming. As such, the diet of the settlement is heavily seafood focused. In part do to the number of inhabitints, 
-it  is one of the few communities to actively hunt many of the larger ocean denzeins. This meat-based diet is supplemented by produce from visiting daal'fae caravans.
+it is one of the few communities to actively hunt many of the larger ocean denzeins. This meat-based diet is supplemented by produce from visiting daal'fae caravans.
 
 
 ### Riftlander Cities
@@ -125,22 +129,8 @@ Adventurers usually prefer a durable outfit that is predominantly leather. Merch
 
 #### Underhill Crater
 
-
-### Xeres Reborn
-
-The continent of Xuon was the most affected by the Uon Cataclysm, with over three quarters of its land mass being torn appart and incorporated in to the Riftscape.
-The survivors of this desctruction were mostly located on the intact northeastern portion of the continent.  They included a significant number of Uon slaves of various nationalities, and the remenants of the Ael'Xhal and Xhal'fae population of the island.
-The 'fae adapted to the change fairly readily (in part by utilizing some of the non-'fae as a readily available food source), while the other Ael survivors banded together into small encampents. 
-
-In the following years, weaker bands have gradually been absorbed by the stronger and better equiped ones. Now, 50 years after the cataclysm, the largest of these is known as The Xeres Reborn, 
-co-opting the name of an ancient Ael'xhal civilization that existed before the Xhal came in conflict with the Uon. 
-They are headquarted out of an ancient Xhal ruin, but also have settlements in a number of relatively intact Uon forts.
-
-The harsh nature of this rebuilding, coupled with the fact their population is almost entirely Xhal who have been at war for their entire lives, and/or former slaves, has caused them to take on some especially brutal practices.
-Their society consists mostly of warriors/hunters, elders, and slaves. They have also taken the ancestral Xhal practice of sacrificing animals to the dragons of the isles, and corrupted it into a human sacrifice ritual, offering
-blood to some unknowable god in exchange for protection from the riftscape (this is entirely superstitious, and does not actual have a tangible effect) 
-
-A number of Xeres Reborn settlements at the edges of their territory have made agreements with the local Xhal'fae to provide living human sacrifices as tribute every several days, in exchange for their members being safe from the Xhal'fae.
+Capitol of the Riftlanders, insomuch as they have one - at any rate, the largest and wealthiest of the Riftlander cities.
+Old Uon Citadel, in the center of a large, floating piece of stone.
 
 
 ### Mage Settlements
@@ -213,5 +203,26 @@ The Il’vos were mostly wiped out in a war with the Uon 1000 years before the c
 ## Former Nations
 
 ### Uon Collective
+
+
+
+### Xeres Empire
+
+<< Reword to hint at beginnings of empire >> Ancient 'xhal empire formed in the wake of the Dragon war, and based around venerating dragons as gods.
+Only really becane a true empire a few hundered years after the war, as individual settlements consolidated power.
+
+Large cities adorned in gold.
+Sacrifice of gold, gems, livestock, and sometimes humans. (At central temple - step pyramid, but octagonal or circular)
+
+At its peak - continent-spanning trade, agriculture
+Tall spires and gliders (augmented by draconic magic?).
+Sub-nations divided by which dragon's teritorry they live in (Xuon - hosted 100 - 300 dragons total during this time period)
+
+Started to fall appart due to internal rebellion around 3100 BC
+Xhal'fae rose out of crumbling empire, as many of the rebelling 'xhal reverted to smaller settlements deep in the jungle
+
+Last vestiges of the empire fell in conflict with expanding Uon Collective.
+
+Some hidden enclaves inhabiting the ruins of the Empire's once-great cities still keep to the old ways, but no longer have the connectedness of a true empire
 
 

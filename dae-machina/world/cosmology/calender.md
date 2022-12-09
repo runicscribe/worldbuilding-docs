@@ -7,7 +7,7 @@ permalink: /dae-machina/world/cosmology/calender
 
 The unique cosmology of this world leads to an equally unique calender.
 
-Each week is 6 days long. This is the same as the orbital period of the
+Each week (i.e. "hekad") is 6 days long. This is the same as the orbital period of the
 Sun and the Darksun.
 
 | Weekday | Common Name (Eaos) | Common Name (Mhidda) | Old Aeldar Name | Translated Name  |
@@ -19,10 +19,10 @@ Sun and the Darksun.
 | 5       | Raesday            | Hondas               |                 |  |
 | 6       | Easday             | Morndas              |                 | 'Resurgance'     |
 
-Each month is 36 days (6 weeks). This is the orbital period of the
+Each month (i.e. "kahda") is 36 days (6 weeks). This is the orbital period of the
 Coppermoon.
 
-Each year is 252 days (7 months; 42 weeks). The beginning of each year
+Each year (i.e. "lokan") is 252 days (7 months; 42 weeks). The beginning of each year
 coincides with a full alignment of the three moons.
 
 | Month | Common Name (Eaos) | Old Aeldar Name | Translated Name | Convergence events |

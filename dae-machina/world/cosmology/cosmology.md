@@ -38,7 +38,7 @@ Which gives density of 6165 kg/m3, 11.6% higher than earth; within acceptable bo
 
 
 ## Great Spheres ("Suns") - Oposing orbits. Orbital period of 6 days.
-Orbits approx <> m from the planet. Sky diameter of 33'.
+Orbits approx 1.113e8m m from the planet. Sky diameter of 30.9'.
 
 * Sunfire - Fragile, transparent crystal. Rapidly breaks down at low
 pressures (less than 1000 atm) or regions of low arcana, emmiting
@@ -49,11 +49,22 @@ Durable, but explodes violently if damaged, releasing a burst of arcana.
 
 ## Lesser Spheres ("Moons")
 
-* Aurum - Gold. Good Enchanting medium. Orbital period of 36 days. Orbits approx <> m from the planet. Sky diameter of 9.5'.
-* Argent - Silver. Disruptive to magic. Orbital period of 63 days. Orbits approx <> m from the planet. Sky diameter of 6.6'.
-* Alkyne - Copper. Imprints/stores magical signatures. Orbital period of 84 days. Orbits approx <> m from the planet. Sky diameter of 5.4'.
-
+Each of them are the same diameter - 1000 km.
 The three lesser spheres come into convergence every 252 days. The [Daes calender](./calender) is based upon this convergence.
+
+### Aurum
+Gold. Good Enchanting medium. 
+Orbital period of 36 days. Orbits approx 3.676e8 m from the planet. Sky diameter of 9.4'.
+
+### Argent
+Silver. Disruptive to magic. 
+Orbital period of 63 days. Orbits approx 5.339e8 m from the planet. Sky diameter of 6.4'.
+
+### Alkyne
+Copper. Imprints/stores magical signatures. 
+Orbital period of 84 days. Orbits approx 6.468e8 m from the planet. Sky diameter of 5.3'.
+
+
 
 ## Wandering Stars:
 
