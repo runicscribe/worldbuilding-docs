@@ -45,6 +45,7 @@ relationships.
 Most Daal'fae tribes wear beaded armbands, with each tribe having a unique pattern.
 These remain with them while in animal form, and can help other tribes recognize fellow 
 shapeshifters.
+Some daal'fae tribes have their own take on this practice, with Gazelle tribes stringing beadwork between their horns, and Canine daal'fae favoring piercings instead. 
 
 Direbeasts (usually family members of the tribe) of this animal also
 tend to follow the tribe. Daal'fae tribes tend to be about 70% natural

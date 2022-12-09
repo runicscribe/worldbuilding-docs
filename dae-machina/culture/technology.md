@@ -10,7 +10,7 @@ Sea travel - relatively sophisticated sailing ships - 100 - 200 km/day
   Upriver 5.6 km/h; **60** km/day for major rivers, 15 - 30 for smaller rivers.
   Downriver 11 - 22 km/h ; **120** - 240 km/day
   
-Some [beasts of burden](../world/bestiary/fauna/beasts_of_burden) are also used for travel.
+Some [beasts of burden](../world/bestiary/fauna/beasts_of_burden) are also used for travel, but mostly to carry goods, as they tend to be slower than just walking.
   
 ### Teleportation
 
@@ -42,7 +42,25 @@ Dedicated pair between AoM&MA and Teythmos
 
 Clandestine pair between Blakport and Elgate
 
+### Gliders
 
+Non-magical, single-person flying machine used by the Xeres Empire, as a way of mimicing the powers of the dragons.
+Constructed from wood and various light fabrics. Early designs were fragile and rather dangerous.
+
+However, between the warm climate and many volcanoes providing strong updrafts, they could often be used to travel great distances. 
+
+The technology was eventually adopted by the inhabitants of Dragonhalls. These designs typically use silk instead of plant fibre, but are othewise quite similar.
+After the fall of the empire, Dragonhalls is the only place the technology has persisted. Modern designs often have some form of magical reinforcment, and sometimes other enhancements.
+
+Dragonshalls also developed their own variant, consisting of a collapsible parasol/parachute on a two-meter pole, allowing safe descents from midair dismounts.
+
+### Channel-trains
+
+Magical Train system developed by the Empire of the Rising Sun, for transporting people and cargo medium-to-long distances, especially magical cargo that does not take well to teleportation.
+
+Uses a chanelling enchantment to levitate the trains and eliminate most fricton.
+Magical link to series of waterwheels and similar mechanisms to provide propulsion. 
+Relatively high-maintentance.
 
 ### Sample Travel Routes and Times
 

@@ -5,16 +5,28 @@ The central planet of Dae'machina is called Terra Mendael, and is 30787 km in ci
 
 # Mhidda - Northeastern Continent: 
 
-The northernmost reaches of Mhidda are mostly wilderness, primarily alpine forest. There are numerous Æl'midh strongholds in or near the Dragonspine mountains. Fortified encampments of ‘midh can also be found near the shore, 
-but they are usually inhabited by barbarians and raiders.
+The northernmost reaches of Mhidda are mostly wilderness, primarily alpine forest. 
+The western reaches of the continent are inhabited by ‘daal, ‘midh, and midh'fae. Most settlements are fortified towns and castles surrounded by farmlands. Lone homesteads are rare; between ‘midh barbarian raids, dragons, wild animals, 
+direwolves, and ‘fae, isolated settlements usually don’t survive.
+
+There are numerous Æl'midh strongholds in or near the western side of the Dragonspine mountains. 
+Fortified encampments of ‘midh can also be found near the shore, but they are usually inhabited by barbarians and raiders.
 Many of the forests are inhabited by wolf fae, an offshoot of the daal’fae and the midh. Tribes of selkies (seal ‘fae) can be found in occasional coastal settlements.
 
 
 ## The Great Northern Forest
 
 The northeast half of the continent is almost entirely free of civilization, inhabited only by Æl‘fae, elementals, and wildlife. 
-The southern reaches of the continent are inhabited by ‘daal, ‘midh, and midh'fae. Most settlements are fortified towns and castles surrounded by farmlands. Lone homesteads are rare; between ‘midh barbarian raids, dragons, wild animals, 
-direwolves, and ‘fae, isolated settlements usually don’t survive.
+
+### Tree of Ravens
+
+Sanctum of the Queen of Ravens. Appears as a giant, twisted tree, merged from many different species.
+The interior of the tree is full of shapeshifted biomass, mainly concerned with birthing more bodies for the Queen of Ravens.
+
+### Grove of Infinities
+
+Intersection of several Gyldraed domains, moslty of various forests, which unusually enough, have not merged.
+Closest thing that existis to a Gyldraed community. 
 
 ## Dragonspine Mountains
 

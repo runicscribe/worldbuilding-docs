@@ -23,13 +23,13 @@ Commonly considered easternmost city to lie under the influence Empire of the Ri
 ### Dragonhalls
 
 Built into and through the sides of a mountain chain in one of the central Kita Lau islands
-Founded during/after the dragon war, by a pair of dragons who mostly wanted to stay out of the whole thing, while still using the inffluence they had over their territory to protect the local humans.
+Founded during/after the dragon war, by a pair of dragons who mostly wanted to stay out of the whole thing, while still using the influence they had over their territory to protect the local humans.
 
-Has remained populated ever since. Remained independant during the time of the Xeres Empire, and maintained somewhat more equal relations between dragons and humans during that time.
+Has maintained a sizeable population ever since. Remained independant during the time of the Xeres Empire, and maintained somewhat more equal relations between dragons and humans during that time.
+Served as a haven for refugees from the empire during that time.
 Has grown extensively throughout the millenia, and now extends across several hundered kilomiters of mountain range, and hosts over a dozen dragons - the largest population of dragons in a single place anywhere in the world.
 The draconic inhabitants consist primarly of the two founders and their children's families. However, it has also collected a couple more eccentric dragons who prefer living among humans to the more traditional draconic lifestyle.
 A few of these dragons will even deign to be ridden by humans on a regular basis, most often on hunting trips.
-
 
 Modern times - closest relations between dragons and humans anywhere
 
@@ -43,10 +43,10 @@ Home to particular unique cuisine, which incorporates quite a lot of megafauna -
 
 ### Xencha Defiant
 
-Moderately sized, loosely organized tribe of Ael'xhal and xhal'fae that originated as a rebellion against the Xeres Empire. For 300 years, small tribes lived in the deep in the jungle, 
+Moderately sized, loosely organized tribe of Ael'xhal and xhal'fae that originated as a rebellion against the Xeres Empire. For 300 years, small tribes lived in the deep in the southern Xuon jungle, 
 within the bounds of the empire, but not subject to it, sowing the seeds of its fall and liberation of the xhal peoples. After the fall of the empire, some individuals kept to these ways, living within the jungle and subsisting on its bounty.
-The remenants of these groups still exist in the current day, living deep in the jungle and keeping many of the traditions of the original rebellion.
-Despite their isolation and relatively aesetic living conditions, retain a fairly hight level of tech, at least to the degree that is feasible with no industrialization.
+The remenants of these groups still exist in the current day, living deep in the jungle and keeping many of the traditions of the original rebellion, although they have moved to more hospitable regions in the wake of the cataclysm.
+Despite their isolation and relatively aesetic living conditions, retain a fairly high level of tech, at least to the degree that is feasible with no industrialization.
 
 One of the very few communities in which Ael'xhal and Xhal'fae live together in harmony.
 

@@ -7,11 +7,26 @@
 - ⚔ Conflicts
 
 ## Prehistory
-	 
+- 2 billion BC
+  - First life
+- 1 billion BC
+  - First vertabrates
 - 800 million BC
   - Early dragons and other large hexapedes
 - 400 million BC
   - First true dragons, decline of other megafauna.
+- 350 million BC
+  - Dragons exceed carrying capacity of the world, mass extinctions of large fauna.
+  - ⚔ First Dragon War
+  - ⚔ Second Dragon War
+  - Establishment of the first draconic accords
+  - Increase in biodiversity among invertabrates and early avians
+  - ⚔ Third Dragon War.
+- 200 million BC
+  - ⚔ Fourth Dragon war
+  - Second draconic accords
+  - Early mammilians
+
 
 ## History
 
@@ -33,7 +48,7 @@
   - ☉ Rise of the ancient Æl' civilization. One of the largest Eaos villages gradually grew into a thriving city. 
     Trade was established with other burgeoning cities (as well as fishing and mining villages), and the roots of true civilization began.
 - 5,000 BC
-  - ⚔ Dragon Wars
+  - ⚔ Dragon-Ael Wars
   - ⚬ Founding of Ironfire Citadel
   - Uon population is decimated, with survivors driven into hiding across southern Xuon 
 - 4,700 BC
@@ -76,6 +91,7 @@
     Eventually, one of the empire liches triumphs over the remaining armies. After stabilizing the remains of the empire, this lich tries to continue to expand the empire, 
     but is destroyed by the 'jinn nation when he encroches on their borders.
   - ☇ Xhal'fae diverge from the 'xhal.
+  - ⚬ Founding of the Shapeshifter Commune.
 - 2,500 BC 
   - ☉ Æl'daal civilization: Second Era
   - New 'daal civilization re-emerges from the remenants of the Eaos Empire.
@@ -125,7 +141,7 @@ a small handfull joing with the Ael armies, and some staying out of the conflict
 While this conflict was centered on Eaos, it did involve the worldwide dragon population. The effects on the Ael civilizations outside of Eaos-Mhidda was less significant, but still notable.
 
 - The Ael'thal formed an early truce with the dragons, giving up a significant amount of land in exchange for a more harmonious relationship. 
-- The Ael'xhal sided with dragons wholesale, eventually causing the start of the Dragon Empire, spanning Xuon and the
+- The Ael'xhal sided with dragons wholesale, eventually causing the start of the Dragon Empire, spanning Xuon and the eastern reaches of Kita Lau
 - The Uon (who were considered to be just another race of Ael by the dragons) were decimated, and went into hiding in northern Xuon for a few hundred years.
 
 Eventually, the dragon factions siding with the Ael were victorious, after many dragon casualties, and many more Ael casualties.

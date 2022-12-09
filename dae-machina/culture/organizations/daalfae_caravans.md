@@ -57,7 +57,9 @@ Travels with Northern Foothills for about a month following this meeting.
 When their schedules align also meets up with Crescent Route (Irregular cadence, avgeraging twice every three years)
 Less traditionalist than the Great Plains Tribe, but otherwise quite similar.
 
-Generally poor relations with the local Ael'daal, as each consider the other to be stealing from their land.
+The Center inlands tribe in particular has generally poor relations with the local Ael'daal, as the caravan route runs straight through the Elyos heartland, and each group considers the other to be stealing from their land.
+The 'fae will harvest whatever crops they find without care for Elyos land boundaries. Meanwhile, the Elyos will often threaten violence if they find the 'fae on their land.
+The more surly or superstitious farmers will string up butchered deer carcasses whenever a caravan is in the area, in the hope of warding the 'fae away.
 
 Mostly Deer 'fae
 
@@ -71,7 +73,7 @@ Clockwise circit following the foothils of the dragonspine mountain range, from 
 Travels west back to Tethmoys accross northern plains. The full trip takes three-quarters of a year; every year and a half (i.e. every other trip), travels w Center inland for the first month of this journy
 
 Bulk of polulation is Reindeer, plus some goat 'fae from Eastern Mountain tribe.
-During the Teythmos to Arcmuth segment, caravan hosts a moderate number of Aeldaal and Aelmidh travelling that route.
+During the Teythmos to Arcmuth segment, the caravan hosts a moderate number of Aeldaal and Aelmidh travelling that route.
 Occasionally hosts to small numbers of Wolf midh'fae travelling to the free cities or to the canid tribes in the great plains. 
 
 5.25 mth cycle (7 x 3/4)

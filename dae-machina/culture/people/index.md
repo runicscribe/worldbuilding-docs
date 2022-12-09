@@ -20,7 +20,8 @@
 **Race:** Male Æl'daal
 
 **Appearance:** Pale Skin. Dark, straight hair short-cropped pointed beard.
-Born 34 AC. Son of a minor Free Cities noble. Student at AoMMA, eventually established his own tower somewhere north of the Free Cities.
+Born 34 AC. Son of a minor Free Cities noble. First cousing to the heir of Vindel, and 2nd cousin to Lord of Kenford. 
+Grew up in an estate near vindel. Later, became a student at AoMMA. Eventually established his own tower somewhere north of the Free Cities.
 Ultimately became a lich.
 
 **Affiliations:** Free Cities, AoMMA, Eldar Council (after ~500 AC)
@@ -32,9 +33,11 @@ Ultimately became a lich.
 **Race:** 
 
 **Appearance:** 
-[Born 125 BC in the city of Armuth to a midh artificier-smith and a young daal battlemage.
+
+
+Born 125 BC in the city of Armuth to a midh artificier-smith and a young daal battlemage.
 Fought as a soldier right as the Uon - 'daal war began to get serious, from 108 BC - 97 BC. Leg was wounded in combat, and became a blacksmith for the war effort for another 20 years, until retiring to a small town far away 
-from the fighting in 77 BC.] Continued to forge masterwork swords for officers in the war, and was somewhat renowned among swordsmiths of the time.
+from the fighting in 77 BC. Continued to forge masterwork swords for officers in the war, and was somewhat renowned among swordsmiths of the time.
 --
 During retirement, was tempering sword for [?]
 Small geoup of Bandits (mostly hungry war deserters) march into town. Leader demands village's food.
@@ -44,7 +47,10 @@ Her body continues fighting long after she should have died, and once all the ba
 --
 While some of the other villagers were injured in the fighting, the smith and the headman were the only casualties.
 Nearby soldiers show up an (hour? day?) after the fighting. Aghast at the carnage, help with cleanup.
-Smith's son and apprentice (age 13) finds blade in pile of metal scrap after cleanup & finishes it in her memory. Takes it with him a year later when he goes to join the [Uon] war. Later takes it with him
+Smith's son and apprentice (age 13) finds blade in pile of metal scrap after cleanup & finishes it in her memory. Takes it with him a year later when he goes to join the [Uon] war.
+Gave sword to a young officer when he retired from active duty, knowing it would protect them.
+Near front lines during the cataclysm, and lost.
+The years following were rather chaotic. Eventually found by a riftlander, sold to a wandering mercenary, who was then killed by bandits.
 
 Soul remains in the sword. Guides combat of wielder, but can only be wielded by effectively by defenders of the innocent. Otherwise will sabotoge your actions, usually at a crucial junction.
 Telepathic, but not very talkative. Only speaks to a wielder she feels kinship with 
@@ -492,9 +498,10 @@ Exceptionally potent fire magic, capable of reaching temperatures in excess of 2
 **Appearance:** Gold and green scales. Exceptionally large and ornate antler-like horns
 
 Watches over a large valley, and discourages human exploitation and settlement.
-One of the eldest living dragons, at about 9,000 years old, predating the arrival of Ael on Quon Xi. Exceptionally wise and powerfull. Mostly ignores events external to the valley.
-
 An elemental shapeshifter, has transformed herself into an artificial dryad of the valley.
+One of the eldest extant dragons, at about 50,000 (perhaps much older - 200 - 300 mill?) years old, predating the arrival of Ael on Quon Xi. Exceptionally wise and powerfull. Mostly ignores events external to the valley.
+
+
 
 ----------------
 

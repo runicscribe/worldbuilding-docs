@@ -20,6 +20,21 @@ Generally agreed upon as neutral ground among the cities.
 Eosport is also the primary port of travel between the free cities and Teythmos, and hosts embassies for a number of nations.
 It is partly built on the ruins of the former Elyos capital, which was abandoned during the Uon war.
 
+### Layout
+
+The city layout roughly follows that of the ruins it was built on top of.
+The main city is built on the southeast coast of the river, and divided into three tiers, each being further inland and higher in elevation.
+These tiers are connected by three broad avenues, radiating from the city center.
+ - The first tier is the main working hub of the city, consisting primarly of docks and warehouses.
+ - The second tier is the middle city, with inns, merchants and marketplacess, dwellings, and artisans.
+ - The third tier is the domain of the higher classes, containing manor houses of lords and wealthy merchants, embassies, banks, and select luxury shops.
+
+The city center is about 1.5 km inland, and includes various government buildings, with the Council of Lords at the center, where the eight lords of the Free Cities council meet.
+
+On the opposute coast of the river are slums, housing much of the cities poorer residents.
+About 2km upstream of the main city is the Tower Bridge, connecting the two shores.
+There are also a number of ferry crossings closer to the core city.
+
 ## Blackport
 
 The "shady" city. Most illicit or morally dubious trade goes through Blackport. This includes drugs derived from swamp plants, slaves from the xhal isles, and any other goods 
@@ -27,7 +42,7 @@ that would be difficult to pass through Eosport or Haven. Rarely, this includes 
 
 The common wisdom is that you can get anything in Blackport, for the right price.
 
-The main city of Blackport is on a rocky isle at the mouth of the river delta, and is not directly connected to the mainland. The surrounding swamps are quite difficult to traverse, making the city especually isolated.
+The main city of Blackport is on a crescent-shaped rocky isle at the mouth of the river delta, and is not directly connected to the mainland. The surrounding swamps are quite difficult to traverse, making the city especually isolated.
 There are some fishermen and farmers along the banks of the river, but Blackport primarilly relies on trade for food.
 
 ## Haven
@@ -69,6 +84,10 @@ It hosts a guild of mages, not beholden to the Elyos empire (unlike the AoM&MA).
 
 Prior to the Uon War, Kenford was a small port city between Vindel and Grandel, of little renown. Afther the Free Cities split from the Elyos Republic in the aftermath of the war, it came under the leadership of a renowned
 Mage-general, who founded the Kenford Mages Guild, significantly increasing the cities importance. It is currently ruled by his son.
+
+### Layout
+
+
 
 ## Others
 

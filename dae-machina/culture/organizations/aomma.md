@@ -202,3 +202,10 @@ These classes typically require a futher three to five years of study after comp
 The city of Arcmuth is adjacent to the Academy, but it politically seperate from it - while the Acadamy is run directly by the Elyos military, Arcmuth is a civilian city, although still part of the Elyos Republic (rather than the Free Cities)
 Arcmuth is about half a day's travel from the Academy by foot. It serves as a gathering spot fort for people and endeavors that want to be near the AoM&MA, but want a bit less regulation.
 The city hosts a number of con artists, a few more legitimate peddlers of magical artifacts, and other diversions.
+
+## History
+
+While the Academy was built during the Uon war, several parts of it are older.
+Inner wards, teleportation circle, and bathhouse all from second Eoas Empire.
+
+There used to be other structures as well, but those were all that was left when the Academy was constructed.

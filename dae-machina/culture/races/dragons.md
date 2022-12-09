@@ -52,6 +52,16 @@ and much of their original strength, as well as all their magical abilities. Due
 
 Some dragons use their magical strength to petrify foes. These dragons are someties refered to as basilisks (or gorgons if they take human form).
 
+## Culture and Language
+
+Mostly solitary, and magically gifted enough that most dragons are capable of telepethy, little need for language among dragons.
+Many early dragons invented their own mutually unintelligble languages for reasoning and keeping records.
+
+After first dragon war, some started developing beginnings of a shared language.
+Took a while (few millenia) to catch on, and even then, primarily used as formality during rare gatherings.
+
+Gathering every 756 years
+
 ## Dragon Subraces:
 
 Dragon's typicaly present as one of five races, listed below. Note that these are not distinct species, and can (and often do) crossbreed. Consequently, some dragons may have a mix of traits.
