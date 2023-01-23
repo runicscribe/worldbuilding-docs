@@ -586,8 +586,34 @@ Every scale has been made into a different relief carving.
 Lives in Dragonhalls - child or granchiled of the founders. Between 1000 and 2000 years old.
 
 **Affiliations:** 
+Dragonhalls
 
 ----------------
+
+##Template
+
+**Name:** 
+
+**Race:** Female Western Dragon(s)
+
+**Appearance:** 
+
+Young twin dragons living in Dragonhalls.
+Born to cousins.
+
+Mirrored appearance - shorter horn and discolered scales on opposite sides.
+About as close as dragons get to looking sickly.
+
+Permanent telepathic bond - each can percieve any senses of the other at will (but cannot project their own senses to the twin, or block perception of their own senses)
+Strong Aetherial and Arcane magic skills.
+Just over 100 years old.
+
+**Affiliations:** 
+Dragonhalls
+
+----------------
+
+
 
 **Name:**
 
