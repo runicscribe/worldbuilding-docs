@@ -28,8 +28,7 @@ The planet upon which all life exists.
 
 Mass = 3.038e24 kg
 Volume = 4.928e20 m3
-Gravity is 8.445 m/s2 (0.86 of earth)
-Which gives density of 6165 kg/m3, 11.6% higher than earth; within acceptable bounds.
+Gravity is 8.445 m/s2
 
 
 ## Great Spheres ("Suns") - Oposing orbits. Orbital period of 6 days.

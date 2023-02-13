@@ -4,7 +4,8 @@ Fae serve as the bridge between the spirit (Faerie) and human (Midgard) realms. 
 
 Elves are the aristocracy of Faerie, and regularly act as a direct intermediary between humans and spirits. Most other fae eschew anything resembling civilization, and just protect or embody some aspect of the world.
 
-Like humans, all fae are humaniod, although often have animal features. Like spirits, they mirror the nature of some place or thing, which is reflected by their appearance and abilities. Fae are usually human-sized as well, but not always (e.g. sprites, archdemons)
+Like humans, all fae are humaniod, although often have animal features. Like spirits, they mirror the nature of some place or thing, which is reflected by their appearance and abilities. 
+Fae are usually human-sized as well, but not always (e.g. sprites, archdemons)
 
 
 Cats can detect fae. Perhaps because of this, there are no feline fae.
@@ -79,41 +80,20 @@ the instinctive knowledge of how to navigate faerie and midgard, and the approxi
 
 ### Twinsouled
 
-In extrordinarily rare cases, two (or in a few cases, three) fae may inhabit the same body. This is referred to as a "Twinsouled". The most common cause for such an occurence is when two fae lovers die at the same time,
+In extrordinarily rare cases, two (or, in a few cases, more than two) fae may inhabit the same body. This is referred to as a "Twinsouled". The most common cause for such an occurence is when two fae lovers die at the same time,
 and choose to be reincarnated into the same body, but it may also occur with other close companions.
 
-A twinsoul fae is sometimes quite obvious, e.g. a troll with two heads, andsometimes less so, e.g. an otherwise normal-looking fae that speaks in two voices.
+A twinsoul fae is sometimes quite obvious, e.g. a troll with two heads, and sometimes less so, e.g. an otherwise normal-looking fae that speaks in two voices.
 
+## Weaknesses
 
-## Elves
+Fae are generally repulsed by most manufactured or technological things, and stay away of human cities.
 
-Communal, with a complex hierarchy. All elves are humanoid. 
+Iron burns most fae, and causes them pain, but isn't very good at killing them.
+Silver can restrain them, and weaken their magic.
 
-High Elves - The Court of Heaven. Messengers of the Gods, and next most commonly seen by humans after the wood elves.
-Snow Elves - The Winter Court. Defenders of the Far Realms, and sword enemies of the eldritch. Skilled warriors.
-Sea Elves - The Court of the Sea. Scholars, Guardians of Forbidden Knowledge.
-Wood Elves - The Woodland Court. Native to the wild places of Midgard, and the most commonly seen by humans.
-Deep Elves - The Under Court. Guardians of Hell. Skilled smiths and architects.
+Many types of fae have other unique weaknesses based on their nature.
 
-Snow, and Deep elves look the most human, with only minor cosmetic variations like pointed ears and unusual colorations. 
-High elves also look quite human, but generally have wings. Wood elves look vaguely human, but also have many plantlike features.
-Sea elves are the least humanlike, with a tail (which sometimes replaces their legs) and fins.
-
-
-Other Groups 
-
-Wood Elves and Sea Elves are the most closely tied to the natural world, and as such the dividing line between a wood elf and (for example) a dryad, or a sea elf and a siren is very blurry. 
-For most individuals, it is pretty obvious which category they fit into, but there's a notable overlap that includes especially hermitlike elves and sociable Onna; there is no actual strict dividing line.
-
-The Guardians of the Underworld - Deep Elves responsible for guarding the gates of Hell.
-
-The Far Patrol - The first line of defense for the Snow Elves. They roam the far realms and watch for eldritch incursions.
-Valkyries - Snow Elves who wander Midgard and reanimate the dead to defend the far realms.
-The Great Hunt
-
-### Fae Hierarchy
-
-While the elves are the only Fae group to have a true heirarchy, many of the more powerfull wild fae command enough respect that they can be considered to fall within a greater hierarchy encompassing all fae.
 
 
 ## On Fae and the dangers of Faerie
@@ -154,12 +134,44 @@ If a humain is pulled into this lair, they will be stranded in Faerie.
 Changeling - Fae 'raised' (often unknowingly) by humans
 Foundling - Human raised by fae. See also: Goblin King.
 
-## Yokai
+## Categories of Fae
+
+### Elves
+
+Communal, with a complex hierarchy. All elves are humanoid. 
+
+High Elves - The Court of Heaven. Messengers of the Gods, and next most commonly seen by humans after the wood elves.
+Snow Elves - The Winter Court. Defenders of the Far Realms, and sword enemies of the eldritch. Skilled warriors.
+Sea Elves - The Court of the Sea. Scholars, Guardians of Forbidden Knowledge.
+Wood Elves - The Woodland Court. Native to the wild places of Midgard, and the most commonly seen by humans.
+Deep Elves - The Under Court. Guardians of Hell. Skilled smiths and architects.
+
+Snow, and Deep elves look the most human, with only minor cosmetic variations like pointed ears and unusual colorations. 
+High elves also look quite human, but generally have wings. Wood elves look vaguely human, but also have many plantlike features.
+Sea elves are the least humanlike, with a tail (which sometimes replaces their legs) and fins.
+
+
+Other Groups 
+
+Wood Elves and Sea Elves are the most closely tied to the natural world, and as such the dividing line between a wood elf and (for example) a dryad, or a sea elf and a siren is very blurry. 
+For most individuals, it is pretty obvious which category they fit into, but there's a notable overlap that includes especially hermitlike elves and sociable Onna; there is no actual strict dividing line.
+
+The Guardians of the Underworld - Deep Elves responsible for guarding the gates of Hell.
+
+The Far Patrol - The first line of defense for the Snow Elves. They roam the far realms and watch for eldritch incursions.
+Valkyries - Snow Elves who wander Midgard and reanimate the dead to defend the far realms.
+The Great Hunt
+
+#### Fae Hierarchy
+
+While the elves are the only Fae group to have a true heirarchy, many of the more powerfull wild fae command enough respect that they can be considered to fall within a greater hierarchy encompassing all fae.
+
+### Yokai
 
 Wild and dangerous (although not always malicious). Many Yokai (especially Onna and some Tricksters) are almost indistinguishable from humans, even moreso than elves. 
 Others are more monstrous, but still humaniod. Some rare Yokai look entirely monstrous, and can be quite large. Many of the rarer Yokai are entirely unique in appearance.
 
-## Onna/Otoko (Lurkers)
+#### Onna/Otoko (Lurkers)
 Solitary Fae that lead travellers to their doom. Usually tied to a broad area, like a lake, swamp, or mountain range. Act as the embodiments of natuaral hazards - drowning, exposure, getting lost in the wilderness. 
 Cannot actively harm humans, only lead them into danger and/or restrain them. Most Onna look at least partially human.
    
@@ -179,14 +191,14 @@ Cannot actively harm humans, only lead them into danger and/or restrain them. Mo
   
   
   
-## Wardens - Guardian Fae. Just as dangerous as Onna, but less malevolent. Unlike Onna, can harm humans if whatever they guard is threatened / disrespected, but will always give a warning first.
+#### Wardens - Guardian Fae. Just as dangerous as Onna, but less malevolent. Unlike Onna, can harm humans if whatever they guard is threatened / disrespected, but will always give a warning first.
   Bridge Trolls - [F/M] - Guard human-made paths between large cities, to limit inter-city communication. Typically require a toll that is not so exhorbitant to cause oughtright hostility, but still sufficient to stop casual travel.
   Harpies [F] - Guardians of Mt Olympus
   Gorgons [F/A] - Guardians of Leylines. Exceptionally dangerous, as they can channel the power of the leylines to perform magical feats beyond that of a normal Yokai (most notably petrification). There is one Gorgon soul for each 
                 great leyline in the world. Given that humans have claimed many of these, they now congregate in groups around the leylines that still remain under fae control, making them even more difficult to conquer.
 				More varied appearance and powers than their name would imply, but most still do have serpentine influences
   
-## Tricksters - Wandering Fae. Often cause mischeif and mayhem. Will usually be benevolent when treated well, and malevolent if not (or if they are ignored or chased away). Most common fae to find near humans.
+#### Tricksters - Wandering Fae. Often cause mischeif and mayhem. Will usually be benevolent when treated well, and malevolent if not (or if they are ignored or chased away). Most common fae to find near humans.
   Tsuné - [F/M] City Tricksters. Can shapeshift almost instantaneously between an animal and human form, although the human form will retain some animalistic features, like ears and a tail.
     Most commonly take the form of a fox, but other types exist such as coyotes and crows.
     Tsuné are one of the rare types of fae that are comfortable in cities, and unlike many other types of fae are not harmed by iron or other human-made things. 
@@ -206,16 +218,17 @@ Cannot actively harm humans, only lead them into danger and/or restrain them. Mo
     Alternativy may grant a wish unprompted, usually with a double-edged result. Usually travel from place to place, never staying anywhere for long and causing chaos in their wake.
   
 
-## Elf-kin - Passive fae that largely do not interact with humans. Often (but not always) asist the local elves
+#### Elf-kin - Passive fae that largely do not interact with humans. Often (but not always) asist the local elves
   Fairies - 4-6 inch tall humanoids with moth or buterfly-like wings. Maintain or improve natural beauty, and assist in the passing of the seasons.
   Woodkin - Humanlike, but with ankle-length hair made of leaves, and unusually large eyes. Very shy. Can change the layout of forests, redirect or erase paths, etc. Mostly focused on keeping people out of forests, especially those bent on exploitation.
   Stonekin - Much like woodkin, but native to caves and tunnels.
-  Frost Giants - Communal. Live in great halls carved out of the great icewall. Accomplished crafters - much of the Snow-fae's gear that isn't made by the Deep Fae is made by the Frost Giants. Also act as a deterrent to humans. 
-                 Not inherently hostile, but very prideful, and this extends to their relations with other fae, some giants have elf-bone trophies taken from visitors who didn't respect them.  
+  Frost Giants - Communal. Live in great halls carved out of the great icewall. Accomplished crafters - much of the Snow-fae's gear that isn't made by the Deep Fae is made by the Frost Giants. Most often work with enchanted bronze.
+                 Giants also act as a deterrent to humans, preventing them from encroaching on the far realms. They are not inherently hostile, but very prideful, and this extends to their relations with other fae. 
+				 Some giants have elf-bone trophies taken from visitors who didn't respect them.  
   Stone Giants - Grey, stonelike flesh. Lazy, often slumber for many years. Mostly solitary. Sometimes awaken and devour a nearby herd of livestock, then go back to sleep.
-  Fire Dwarves - Flaming hair & beards. 
+  Fire Dwarves - Flaming hair & beards. Good relations with the deep elves.
 
-### Hunters
+#### Hunters
 
 Wide-ranging hunters. Some are solitary, others travel in small-to=medium groups. Actively dangerous.
 
@@ -228,13 +241,13 @@ Storm Fury - [M/F] - Wings for arms. Only come out during storms. Can both fly a
 Kelpie [F] - Can't act out of water, but as soon as you enter their pool can and will drag you under. Looks like a beatiful woman when viewed through the surface of water, and monstrous otherwise.
 Arachnae [F] - Caves and Deep Forest. Dominion over Spiders. Solitary, and rare.
 
-## Jinni
+### Jinni
 
 Fae imprisioned somewhere in Midgard rather than in Hell, usually as a stopgap measure. Often grant a boon in return for their release, although may be quite literal in its execution.
 
 Often mischaractirized as a type of trickster, but like demons, can be any type of Fae.
 
-## Demons
+### Demons
 
 Demons are formerly ordinary fae (often Yokai) whose predations against mortals became so egregious that they were captured and imprisioned in Hell by other fae.
 
@@ -244,7 +257,7 @@ Demons (and anyone else in Hell), cannot enter Faerie, or otherwise leave Hell -
 
 The only exception to this is if their are summoned by a mortal warlock or summoner using a ritual incorporating .their true name, from when they roamed Midgard
 
-### The Courts of Hell
+#### The Courts of Hell
 
 Most demons align themselves with one of three courts according to their nature, althgough some choose to remain solitary. The courts main benefit is to spread knowledge of thier members among mortal summoners, 
 and to work together to acheive shared goals - sowing discord among the mortal realms and seeking vengeance on the fae who imprisioned them. 
@@ -254,31 +267,31 @@ The Bloodsoaked Citatel - Violence, Murder, and Vengeance. Trolls, Kelpies. Fae 
 The Chasm of Schemes - Greed, Envy, and Secrets. Kitsune, Faeries. The rare Elven demons most often wind up here.
 
 
-# Fae Festivals
+## Fae Festivals
 
-## Equinoxes and Solstices
+### Equinoxes and Solstices
 
-### Winter Solstice (Dec 21)
+#### Winter Solstice (Dec 21)
 
-### Spring Equinox  (Mar 21)
+#### Spring Equinox  (Mar 21)
 
-### Summer Solstice (Jun 21)
+#### Summer Solstice (Jun 21)
 
-### Fall Equinox    (Sep 21)
+#### Fall Equinox    (Sep 21)
 
-### 
+#### 
 
-## Bachanalia
+### Bachanalia
 
-## Beltane / Walpurgisnacht
+### Beltane / Walpurgisnacht
 
-## Samhain (Oct 31)
+### Samhain (Oct 31)
 
-### The Wild Hunt
+#### The Wild Hunt
 
 Occurs when a total lunar eclipse appears on Samhain Night (Roughly every 100-200 years)
 
-## Selene
+### Selene
 
 Occurs on the 3rd full moon of a season with 4 full moons (roughly every two to three years)
 

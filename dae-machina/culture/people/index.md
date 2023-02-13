@@ -9,6 +9,10 @@
   * [Æl'xhal](#aelxhal)
   * [Mixed-blood](#aelmixed)
 * [Dragons](#dragons)
+* [Elementals](#elementals)
+  * [Gyldraed](#gyldraed)
+  * [Vyldarthe](#vyldarthe)
+  * [Other Greater Elementals](#other-elementals)
 
 <h2 id="aeldar">Ældar</h2>
 
@@ -590,7 +594,6 @@ Dragonhalls
 
 ----------------
 
-##Template
 
 **Name:** 
 
@@ -632,10 +635,49 @@ ___ is notable in that she has amassed quite a collection, from a wide variety o
 
 Stored seperately, with a stasis enchantment delibratly designed so that it must be refreshed everey 100 years or so.
 
+**Affiliations:** 
+
+----------------
+
+<h2 id="elementals">Elementals</h2>
+
+<h3 id="gyldraed">Gyldraed</h3>
+
+
+
+**Name:** The Ghost of Aelmos
+
+**Race:** City Dryad
+
+**Appearance:** 
+About 6000 years old. First City Dryad to come into being.
+Diminished since fall of Aelmos, but still exceptionally powerfull.
+
+Typically manifests an avatar as a ruined statue garbed in shards of porcelein and veils of sand. Will often manifest more than one such avatar at a time.
+Ocassionally, when it wants to intimidate, if manifests a titanic form of pillars, ruined buildings, and waterfalls of sand.
+
+Fully capable of communicating telepathically, but prefers to shape the sand and stone of the ruins into moving images to communicate information.
+Most people who interact find it needlessly cryptic.
+Closer relations with humans than most dryads, especially after the fall - has formed enduring friendships with a number of especially adventurous historians who braved the journey to the ruins of Aelmos.
+A handful of these have remained in the ruins past their death, in the form of soulbound spirits, continuing this friendship beyond their death.
+
+Replays city life, filling in holes with sand and stone.
+Often speculative in nature - rather than mimic past events, constructs what-if scenerios based on the people of that time.
+
+Not especially dangerous, but will stop anyone from trying to take artifacts from the city. Also doesn't like fighting within its boundaries, and will forcibly try and prevent any violence.
+The biggest danger to humans in its domain is starvation or thirst - while it may want to help, there is virtually no food or water suitable for human consumption within its domain, so is unable to do so.
 
 **Affiliations:** 
 
 ----------------
+
+<h3 id="vyldarthe">Vyldarthe</h3>
+
+<h3 id="other-elementals">Other Greater Elementals</h3>
+
+
+
+
 
 ##Template
 

@@ -43,4 +43,22 @@ They primarily prey on burrowing animals in their dens, and on any herd animals 
 
 Various sizes and variants, including luminescent.
 
+### Stone Jellies
+
+Also known as: Floating colonies, helium barnacles, stinging riftrocks.
+
+A floating jellyfish variant most common to riftscape.
+Born in ocean. Juvenile form resembles a small aquatic jellyfish.
+Adult stage floats out of the water and anchors itself to the underside of the first rock it lands on - typically rift shards, although outside of the riftscape they can be found on seacliffs and coastal arches.
+Grow sillicate shell, taking the apperance of a large barnacle, with long, hanging tendrils.
+Adults tend to accumulate into large colonies, and feed by extending their stinging tentacles into water and snaring passing sealife
+
+When reproducing, they drop their spawn into the ocean below, where currents carry it to new locations.
+
+Because they are found on the underside of rock formations outside the water, very few things are able to prey on them.
+Adults start fairly large, with tendrils extending several meters (necessary to reach the ocean below), and grow over time.
+A large colony can consist of thousands of individuals, covering dozens of square meters, with tendrils up to fifty meters long, and be capable of consuming larger fish and seabirds, or even overly curios Aeldar.
+ 
+
+
 ### Sea Dragon

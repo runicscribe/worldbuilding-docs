@@ -1,5 +1,15 @@
 # Technology
 
+## Light
+
+Mage-lights (objects enchanted to glow indefinately) are extrememly common, because they are easy to make, 
+and often the first project of new or aspiring enchanters and artificiers (in the same way a blacksmith would have an apprentice make nails).
+
+## Agriculture
+
+## Heating and Cooling
+
+
 ## Travel
 
 Primary method of land travel is by foot. (16 - 30 km / day, **20** km/day avg)
@@ -23,7 +33,7 @@ Also some legacy systems by prior empires, but these are a bit risky / unreliabl
 Mostly used for transporting important people and food (esp. during emergencies).
 Damages sympathetic properties of raw materials, so cannot be used for transport of materials used in magical workings.
 Drains stored magical energy.
-Both these evects are only partial, but magnitude is proportional to distance and number of trips.
+Both these effects are only partial, but magnitude is proportional to distance and number of trips.
 Does not significanly harm worked goods or enchanted items.
 Long distance also requires a significant amount of magical power, so used sparingly.
 
@@ -40,7 +50,7 @@ Networks:
  - (Destroyed) Network between Eaosport, AoM&MA, and Teythmos; damaged in the Uon war during an attack on Eaos. No longer in active use, but a strong enough mage could still make it work for a small group of people.
 Dedicated pair between AoM&MA and Teythmos
 
-Clandestine pair between Blakport and Elgate
+Clandestine pair between Blackport and Elgate
 
 ### Gliders
 
@@ -77,3 +87,31 @@ Eaosport - 'jinn cities: 12532 km by sea; 84 days
 Eaos - Quon Xi by sea: 
  - 7196 km (open ocean); 48 days
  - 7836 km (By Kita Lau coastline); 52 days
+ 
+ ## Currency
+ 
+The cultures of Dae'machina use a wide variety of currencies.
+ 
+Sustinence-based cultures mostly care about utility - does it have real value in and of itself.
+Barter economies, grain, livestock, and similar are most common here.
+
+Plain metal currencies lie in an interesting spot - they do often have intrinsic value, but a substantial part of this value comes from its magical capabilities.
+With this comes many opportunities for counterfeiting - both mundane and magical. Magical counterfeiting is particularly troublesome, 
+as transmuted metal is physically identical to natural metal, but loses much of its magical properties. Without a mage on-hand to test coins, such fakes are impossible to spot.
+
+For this reason, while mid-sized nations may use regular metal coinage, many larger civilizations (especially those whose government's power is closely tied to the strength of its currency) 
+use currencies specially designed to be difficult to counterfeit.
+
+Examples include:
+ - Raw or partly cut gemstones; the unique natural shapes are much harder to counterfeit than cut stones (multiple coins looking identical is an obvious tell)
+ - Magically shaped currency, e.g. metal coin with a disconnected center part magically bound to the outer part - These reqiure too much work to be readily counterfeitable en-masse
+ - Quon Xi uses a system of magically signed paper currency, which can be verified using enchanted spectacles.
+
+For larger transactions, metal bullion or large gemstones is still practical, since at this level it is perfectly reasonable to have a mage on-hand to verify authenticity.
+
+Civilizations where most or all members are somewhat magical (Fae, Jinn, Dragons) also have a different approach.
+ - Jinn mostly use natural cut gemstones, as they can readily identify counterfeits by testing their ability to store arcana.	
+ - Dragons don't really have a currency, instead operating mostly on favors.
+ - Few fae societies have any form of economy. Those that do mostly use barter, although the Daal'fae caravans will keep a stock of Eoasian and Free cities currency, 
+   selkies sometime use pearls and discs of abalone as a simple currency, and the lizad Xhal'fae of Kita Lau share currencies with their Xhal neighbors 
+ 
