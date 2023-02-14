@@ -74,7 +74,7 @@ Kita Lau is a chain of tropical islands between Quon Xi and the Riftscape. It is
 
 # Riftscape
 
-The Riftscape is a large artificial magical phenomena created when the Uon tried to create an artificial god/racial power source. This caused a magical overload across the Uon race, and threw the magical energies of the region 
+The Riftscape is a large artificial magical phenomena created when the Uon tried to create an artificial god/racial power source. This caused a magical overload across the Uon species, and threw the magical energies of the region 
 into chaos. However, magic in this region is still strongly linked, and wizards are able to draw on vast amounts of magical power from any point in the riftscape. This effect becomes substantially more pronounced (and more 
 unpredictable) towards the centre of the riftscape. Given that it encompasses the region that was once the Uon Empire, various ruins and artifacts are commonly found within the riftscape. There exist many very powerful Uon and 
 Ældar artifacts within these ruins, which draws many adventurers to seek their fortune within the riftscape. Before the cataclysm, this region comprised a variety of landscapes, with jungles to the west, savannah and desert to 

@@ -4,7 +4,7 @@
 
 **Name:**
 
-**Race:** 
+**Demographics:** 
 
 **Appearance:** 
 
@@ -17,7 +17,7 @@ Lord of the City
 
 **Name:**
 
-**Race:** 
+**Demographics:** 
 
 **Appearance:** 
 
@@ -31,7 +31,7 @@ Pastor of the local Church of Daelios
 
 **Name:**
 
-**Race:** 
+**Demographics:** 
 
 **Appearance:** 
 
@@ -43,7 +43,7 @@ Wife of <Farrier>
 
 **Name:**
 
-**Race:** 
+**Demographics:** 
 
 **Appearance:** 
 
@@ -55,7 +55,7 @@ Rents top floor of inn.
 
 **Name:**
 
-**Race:** 
+**Demographics:** 
 
 **Appearance:** 
 
@@ -69,7 +69,7 @@ Blacksmith of middling skill. Primarily a farrier, but also fixed knives/kitchen
 
 **Name:**
 
-**Race:** 
+**Demographics:** 
 
 **Appearance:** 
 
@@ -82,7 +82,7 @@ Blacksmith of middling skill. Primarily a farrier, but also fixed knives/kitchen
 
 **Name:**
 
-**Race:** 
+**Demographics:** 
 
 **Appearance:** 
 

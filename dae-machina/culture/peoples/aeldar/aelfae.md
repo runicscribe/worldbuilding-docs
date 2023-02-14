@@ -185,7 +185,7 @@ Comprised of various feline tribes (jaguars, leopards, tigers). Most Xhal'fae ta
 form, but with notable animal features. They are still competent shapeshifters, but tend to use this ability to optimize their shape to
 the current situation rather than taking on a purely human or animal form.
 
-Xhal'fae are the newest, and most animalistic of all the fae races. They care little for modesty regardless of what shape they are in,
+Xhal'fae are the newest, and most animalistic of all the fae lineages. They care little for modesty regardless of what shape they are in,
 and will hunt, kill, and eat just about anything that is not 'fae. Most Xhal'fae do not wear clothing, use tools, or build structures. 
 Xhal'fae 'clans' consist of a loosely organized group of individuals. Clan members tend to have their own dwelling, be it a cave, crevice, treetop nest, rudimentary hut or lean-to, or portion of ruins. 
 In case of outside threats, the group will usually elect a warleader (generally through physical competition) but otherwise clans have no specific leader). 
@@ -239,7 +239,7 @@ body. Relatively civilized compared to the Xhal'fae, often wear jewelry and wiel
 Often have good relations with the Xhao'fae.
 
 ### Deep Fae
-A more primal offshoot of the Daal'fae, these 'fae live northeast of the Dragonspine mountains, and rarely come into contact with civilized races. 
+A more primal offshoot of the Daal'fae, these 'fae live northeast of the Dragonspine mountains, and rarely come into contact with civilized peoples. 
 They spend most of their time in full animal form and rarely take human form. For the most part they are indistinguishable from direbeasts. 
 Deep Fae tribes are about 30% natural shapeshifters and 70% direbeasts. 
 Tribes include Deer, Cougar, Bear, and Wolf. The Queen of Ravens makes her home in the territory of the Deep Fae.

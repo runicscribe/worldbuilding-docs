@@ -1,6 +1,6 @@
 # Æl'jinn
 
-The Æl'jinn are a race of elemental shapeshifters. Similar to the
+The Æl'jinn are a lineage of elemental shapeshifters. Similar to the
 Æl'fae, they originated from an Ældar offshoot that primarily
 practiced elemental magic circa 1,000 BC. Early Æl'jinn were naturally
 skilled at elemental magic, and often took elemental familiers. Over
@@ -16,7 +16,7 @@ elder 'jinn tend to spend more and more time in their elemental forms,
 to the extent that the oldest 'jinn are always in their elemental form.
 Half-jinn, and other weaker 'jinn who cannot shift into a full
 elemental form die of old age at about 100 to 200 years.
-Their are four main 'jinn subraces, originating from the four founding
+Their are four main kinds of 'jinn, originating from the four founding
 families of the original Ael'jinn and representing the four classical
 elements: Fire, Air, Water, and Earth.
 
@@ -66,7 +66,7 @@ fully shape-shifted.
 Most elder earth 'jinn prefer smooth sculpted stone bodies, perfect in every detail. Eyes are usually crystal or some semi-precious stone.
 
 ## Hybrids
-In addition to the four founding families, there are a number of other 'jinn sub-races and hybrids.
+In addition to the four founding families, there are a number of other 'jinn varieties.
 Shadow 'jinn shapeshift into a black smoke that absorbs ambient light.
 They have a natural affinity for air and fire. Shadow 'jinn are usually
 dark skinned. 
@@ -85,7 +85,7 @@ Magma 'jinn originate from earth and fire 'jinn, and can transform
 their body into molten rock of varying temperature. Magma 'jinn are
 fairly rare
 Clay 'jinn originate from earth and water 'jinn, and can transform their body into mud or clay. Clay 'jinn are quite rare.
-In addition to being a 'jinn sub-race in their own right, storm 'jinn
+In addition to being a unique kind of 'jinn in their own right, storm 'jinn
 can originate from air and water 'jinn or from fire and water 'jinn.
 Similarly, sand 'jinn can originate from earth and air 'jinn parents.
 Pyroclast 'jinn can shapeshift into hot, noxious smoke, and are the
@@ -158,7 +158,7 @@ Like Oozes, they are capable of reproducing asexually through fission.
 # Culture
 
 Since all 'jinn are powerful elemental mages, many things that would be
-accomplished by other races using technology are accomplished solely by
+accomplished by other peoples using technology are accomplished solely by
 magic by the 'jinn. Heat and light are provided by eternal fire and/or
 magma. Heavy lifting, mining, smithing, and architecture are all
 accomplished by the magic of earth-aligned 'jinn. Water, Ice, and
@@ -171,7 +171,7 @@ fire and magma at the core of the mountain.
 
 ## Eastern 'jinn
 
-Isolationist, although not entirely by choice astheir prefered enviroments are frequently dangerous to other races.
+Isolationist, although not entirely by choice as their prefered enviroments are frequently dangerous to other peoples.
 This is excacerbated by the large desert seperating the Eastern 'jinn cities from the other population centers on Eos.
 
 
@@ -204,7 +204,7 @@ Much more multicultural, and more comprimising in their environment.
 e.g. the home of a Fire Jinn may be fireproof, and have a special room with a lava pool for relaxation, 
 but otherwise would be entirely hospitible to non-'jinn guests.
 
-Live among variety of other races, and have adapted many aspects of their culture.
+Live among variety of other Ael, and have adapted many aspects of their culture.
 Since hollow cities are underground, and the 'jinn are pivitol in their stability and upkeep, a large proportion of hollow-cities Earth'jinn are effectively laborers, 
 excavating new areas, reinforcing exiting ones, etc.
 

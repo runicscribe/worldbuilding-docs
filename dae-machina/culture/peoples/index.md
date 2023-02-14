@@ -1,11 +1,10 @@
+# Peoples
 
-# Races
-
-text
+All across Dae'machina can be found a variety of sapient entities, both magical and mundane.
 
 ## Ældar
 
-The Ældar were a race of magically gifted humans who originated about
+The Ældar were a species of magically gifted humanoids who originated about
 200,000 years ago in central Eaos. lived between 100,000 and 10,000 BC.
 Ældar resembled stocky, swarthy humans with brown or black hair and
 eyes. The Ældar civilization rose to prominence on the southwestern
@@ -14,7 +13,7 @@ known world. The Ældar civilization was primarily agricultural, and
 relied one stone or bronze tools. However, many advanced feats of
 engineering were accomplished through magical means. By 10,000 BC, the
 Ældar civilization had divided into separate civilizations, which were
-the precursors to the modern human races. These are:
+the precursors to the modern Æl (i.e. human) lineages. These are:
 
   * [Æl'daal](./aeldar/aeldaal): Eastern humans.
   * [Æl'fae](./aeldar/aelfae): Nomadic natural shapeshifters
@@ -29,14 +28,14 @@ The Uon diverged from the same common ancestor Ældar about 100,000
 years ago. Early in their evolution, the Uon developed potent
 telepathic abilities that eventually defined their culture and
 appearance. Around 50,000 years ago, the Uon had developed a collective
-consciousness spanning their entire race, and the Uon physiology had
+consciousness spanning their entire species, and the Uon physiology had
 become substantially different than that of the Ældar. Around 2000 BC,
 the rapidly growing civilizations of the Uon and the Æl'daal came into
 contact with one another. Conflict between the Uon and the Æl'daal
 continued over the next 2000 years, with the Uon gradually gaining
 territory on the western continent. The Uon civilization was completely
 wiped out when an attempt to create an artificial god/racial power
-source. This caused a magical overload across the Uon race, and threw
+source. This caused a magical overload across the Uon species, and threw
 the magical energies of the region into chaos, creating the riftscape. 
 
 ## [Dragons](./dragons)

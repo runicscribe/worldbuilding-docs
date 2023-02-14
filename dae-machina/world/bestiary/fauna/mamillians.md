@@ -157,13 +157,13 @@ Troll variant common to the riftscape jungle regions. They have medium length sh
 ### Uon
 
 Hairless, eyeless bipeds originating in Xuon. Extinct as of the Uon Cataclysm.
-See [Races: Uon](../../../culture/races/uon)
+See [Peoples: Uon](../../../culture/peoples/uon)
 
 ### Aeldar
 
 Originated in central Eaos, in what is now the great Eaos Desert.
 Have since spread accross Terra Mendael.
 
-See [Races: Aeldar](../../../culture/races/index)
+See [Peoples: Aeldar](../../../culture/peoples/index)
 
 

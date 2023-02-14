@@ -27,9 +27,9 @@ This is the world of Dael.
 
 ## People and Cultures
 
-### [Races](./culture/races)
+### [Peoples](./culture/peoples)
 
-The different sapient races inhabiting Dael.
+The different kinds sapient peoples inhabiting Dael.
 
 ### [History](./culture/history/history)
 
@@ -43,7 +43,7 @@ Contemporary technology and how it varies accross nations.
 
 Nations, political entities, religions, and other organizations
 
-### [People](./culture/people)
+### [Individuals](./culture/individuals)
 
 Individual People
 

@@ -3,7 +3,7 @@
 [Still not finalized]
 
 Sprites are 4 to 6-inch tall humanoids with insectlike wings. 
-There are three major sprite sup-races, which are primarily distingushed by their wings (and coloration):
+There are three major sprite phenotypes, which are primarily distingushed by their wings (and coloration):
 
 * Butterfly/moth winged (coloquially refered to as faeries)
 * Dragonfly-winged

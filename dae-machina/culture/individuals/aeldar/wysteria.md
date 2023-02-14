@@ -1,7 +1,7 @@
 # Wysteria
 
 **Name:** Wysteria
-**Race:** Mixed-blood Æl'xhal/Æl'daal; Riftlander
+**Demographics:** Mixed-blood Æl'xhal/Æl'daal; Riftlander
 **Born**: 30 AC
 
 **Appearance:** 

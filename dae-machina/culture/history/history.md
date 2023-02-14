@@ -31,9 +31,9 @@
 ## History
 
 - 200,000 BC
-  - ☉ Common ancestor of all humanoid races rises on the Xuon continent.
+  - ☉ Common ancestor of the Uon and Ældar species rises on the Xuon continent.
 - 100,000 BC
-  - ☉ Divergence of Uon and Ældar races. Ældar migrate to Eaos plains.
+  - ☉ Divergence of the Uon and the Ældar. Ældar migrate to Eaos plains.
 - 15,000 BC
   - Early Ældar civilization (Ælmos) rises in what is now the great Eaos desert. Primitive argricultural villages. 
     Initially governed by chieftens (elected?). Over the course of millenia, these villages grew and gradually became more structured.
@@ -134,7 +134,7 @@
 Around when the Ael' truly began to develop as a nation, the native dragons objected to the encroachment upon their territory.
 After several skirmishes culminating in the complete destruction of a large Ael'daal settlement, a massive force of Ael banded together to hunt down and kill the dragon responsible.
 
-This caused a great clamour across the dragon race, who until then had never had to fear anything except for other dragons. Some dragons wished to destroy the Ael in their entirety, 
+This caused a great clamour among all dragons, who until then had never had to fear anything except for other dragons. Some dragons wished to destroy the Ael in their entirety, 
 while others councilled forging an aliance with them. This schism eventually grew into all-out war, with some dragons intent on wiping the Ael of the continent, others protecting Ael cities, 
 a small handfull joing with the Ael armies, and some staying out of the conflict altogether.
 
@@ -142,7 +142,7 @@ While this conflict was centered on Eaos, it did involve the worldwide dragon po
 
 - The Ael'thal formed an early truce with the dragons, giving up a significant amount of land in exchange for a more harmonious relationship. 
 - The Ael'xhal sided with dragons wholesale, eventually causing the start of the Dragon Empire, spanning Xuon and the eastern reaches of Kita Lau
-- The Uon (who were considered to be just another race of Ael by the dragons) were decimated, and went into hiding in northern Xuon for a few hundred years.
+- The Uon (who were considered to be just another type of Ael by the dragons) were decimated, and went into hiding in northern Xuon for a few hundred years.
 
 Eventually, the dragon factions siding with the Ael were victorious, after many dragon casualties, and many more Ael casualties.
 

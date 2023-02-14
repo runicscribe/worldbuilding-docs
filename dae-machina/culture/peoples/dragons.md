@@ -62,15 +62,15 @@ Took a while (few millenia) to catch on, and even then, primarily used as formal
 
 Gathering every 756 years
 
-## Dragon Subraces:
+## Types of Dragons:
 
-Dragon's typicaly present as one of five races, listed below. Note that these are not distinct species, and can (and often do) crossbreed. Consequently, some dragons may have a mix of traits.
-
-
+There is a great degree of variety in the apperances of individual dragons. Despite this, the Ael typically try to classify dragons into five types, based on common groups of characteristics.
+These are not distinct species (all dragons are fertile with each other), and don't always follow from parent to child as one might expect - incidental mountain dragon genes from a couple of generations up the family tree 
+(which, given the lifespan of dragons, could be thousands of years ago) might suddenly show up in the child of two plains dragons. Some dragons also show a mix of traits.
 
 ### Gold / Horned / Plains Dragon
 
-Plains dragons are the largest race of dragons. They average 25-45m long and 5-9m at the shoulder, with a 1.7-3m long head.
+Plains dragons are the largest type of dragon. They average 25-45m long and 5-9m at the shoulder, with a 1.7-3m long head.
 Their head has a pair of large, slightly curved horns, prodruding from the back of their head, and their jawline is lined with a row of smaller spines.
 They have long hind legs and broad, raptorlike talons.
 

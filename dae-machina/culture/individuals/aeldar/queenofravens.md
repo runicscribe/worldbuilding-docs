@@ -1,6 +1,6 @@
 # Queen of Ravens
 
-**Race**: Elder Ael'fae (Female) – Immortal Shapeshifter
+**Demographics:**: Elder Ael'fae (Female) – Immortal Shapeshifter
 
 **History**:
 

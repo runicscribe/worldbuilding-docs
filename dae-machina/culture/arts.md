@@ -17,7 +17,7 @@ Djinn - statues of individuals are uncommon, and those that do exist are almost 
 Statues of animals, or more stylized depictions (such as bas-reliefs, mosaics, or stained glass) are more common. Many styles derived from Old Aeldar forms. One divergence from Old Aeldar syles is they rarely use paint, instead using natural colors of materials.
 However, given their control over elements, this still often produces a quite colorful result.
 
-Thal. More often work in wood and metal than Eoasian races. Wood is painted or gilded, metal is typically left pristine. Occasional stonework varies - materials like jade left bare, duller minerals may be painted.
+Thal. More often work in wood and metal than Eoasian Æl. Wood is painted or gilded, metal is typically left pristine. Occasional stonework varies - materials like jade left bare, duller minerals may be painted.
 
 Xhal - Stylized releifs in wood or stone. Sharper lines and flatter surfaces than the smoother bas-reliefs of jinn and Old Aeldar.
 

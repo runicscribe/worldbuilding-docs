@@ -1,4 +1,8 @@
-# People
+# Individuals
+
+Individuals of note from the various peoples of Dae'machina
+
+## Index
 
 * [Ældar](#aeldar)
   * [Æl'daal](#aeldaal)
@@ -21,7 +25,7 @@
 
 **Name:** Unknown <Artificer Mage>
 
-**Race:** Male Æl'daal
+**Demographics:** Male Æl'daal
 
 **Appearance:** Pale Skin. Dark, straight hair short-cropped pointed beard.
 Born 34 AC. Son of a minor Free Cities noble. First cousing to the heir of Vindel, and 2nd cousin to Lord of Kenford. 
@@ -34,7 +38,7 @@ Ultimately became a lich.
 
 **Name:**
 
-**Race:** 
+**Demographics:** 
 
 **Appearance:** 
 
@@ -72,7 +76,7 @@ TBD:
 
 **Name:**
 
-**Race:** Female 'daal
+**Demographics:** Female 'daal
 
 **Appearance:** 
 
@@ -95,7 +99,7 @@ AoM&MA, Arcmuth.
 
 **Name:**
 
-**Race:** Genderfluid Panther Xhal'fae
+**Demographics:** Genderfluid Panther Xhal'fae
 
 **Appearance:** 
 Dark-furred feline fae with faint Jaguar spots. 
@@ -126,7 +130,7 @@ Parents returned to Quon Xi, they made there way to Blackport in their early tee
 
 **Name:** Enthu, the Eternal
 
-**Race:** Agender Eldar 'Daal
+**Demographics:** Agender Eldar 'Daal
 
 **Appearance:** 
 
@@ -143,7 +147,7 @@ Patron of Earth.
 
 **Name:** Weth, the Bounteous
 
-**Race:** Male Eldar 'Daal
+**Demographics:** Male Eldar 'Daal
 
 **Appearance:** 
 
@@ -167,7 +171,7 @@ Retains immense talent in weather and water magic from his youth. Now also skill
 
 **Name:** 
 
-**Race:** 
+**Demographics:** 
 
 **Appearance:** 
 
@@ -183,7 +187,7 @@ Retains immense talent in weather and water magic from his youth. Now also skill
 
 **Name:** Dawn
 
-**Race:** Female Air 'jinn
+**Demographics:** Female Air 'jinn
 
 **Appearance:** 
 
@@ -198,7 +202,7 @@ Grandaughter of Typhoon.
 
 **Name:** Aurora
 
-**Race:** Female Water 'jinn
+**Demographics:** Female Water 'jinn
 
 **Appearance:** 
 
@@ -211,7 +215,7 @@ Body is a mix of water and more ice shards.
 
 **Name:** Neptune
 
-**Race:** Male Water 'jinn
+**Demographics:** Male Water 'jinn
 
 **Appearance:** 
 
@@ -223,7 +227,7 @@ Lives in Sea's Bounty and rarely leaves the ocean. When above-water, looks like 
 
 **Name:** Michael
 
-**Race:** Male Earth 'jinn
+**Demographics:** Male Earth 'jinn
 
 **Appearance:** 
 
@@ -236,7 +240,7 @@ Body consists of white marble veined with raw gold. Has perfectly-rendered hair 
 
 **Name:** Waterfall
 
-**Race:** Agender hybrid (Earth/Water/Air) 'jinn
+**Demographics:** Agender hybrid (Earth/Water/Air) 'jinn
 
 **Appearance:** 
 
@@ -250,7 +254,7 @@ Ancient. Appears as a collection of floating rocks pouring water. Not discernabl
 
 **Name:** Shoal
 
-**Race:** Female Water 'jinn
+**Demographics:** Female Water 'jinn
 
 **Appearance:** 
 
@@ -267,7 +271,7 @@ Body also often contains some number of fish. Also wears fine silks, color coord
 
 **Name:** Umbra
 
-**Race:** Female Celestial 'jinn
+**Demographics:** Female Celestial 'jinn
 
 **Appearance:** 
 
@@ -285,7 +289,7 @@ Strong proponent of raising the celestial 'jinn to the same level of social reco
 
 **Name:** Arctis
 
-**Race:** 
+**Demographics:** 
 
 **Appearance:** 
 
@@ -297,7 +301,7 @@ Skin of water, hair of frost
 
 **Name:** Gemini
 
-**Race:** 
+**Demographics:** 
 
 **Appearance:** 
 
@@ -309,7 +313,7 @@ Skin of water, hair of frost
 
 **Name:** Pyrite
 
-**Race:** 
+**Demographics:** 
 
 **Appearance:** 
 
@@ -321,7 +325,7 @@ Skin of water, hair of frost
 
 **Name:** Typhoon
 
-**Race:** Male Air 'jinn 
+**Demographics:** Male Air 'jinn 
 
 **Appearance:** 
 
@@ -337,7 +341,7 @@ Carries four broad-tipped scimitars, which he levitates when wielding them.
 
 **Name:** Kaohi
 
-**Race:** Female Fire / Earth 'jinn
+**Demographics:** Female Fire / Earth 'jinn
 
 **Appearance:** 
 
@@ -353,7 +357,7 @@ Grandaughter of Uriel.
 
 **Name:** Uriel
 
-**Race:** Male Fire 'jinn
+**Demographics:** Male Fire 'jinn
 
 **Appearance:** 
 
@@ -369,7 +373,7 @@ Wields a two-pointed spear with an ever-burning flame in its center.
 
 **Name:**
 
-**Race:** Female Fire 'jinn / Water 'jinn (Fire dominant)
+**Demographics:** Female Fire 'jinn / Water 'jinn (Fire dominant)
 
 **Appearance:** 
 Twinn of. 
@@ -381,7 +385,7 @@ Twinn of.
 
 **Name:**
 
-**Race:** Female Fire 'jinn / Water 'jinn (Water dominant)
+**Demographics:** Female Fire 'jinn / Water 'jinn (Water dominant)
 
 **Appearance:** 
 Twin of.
@@ -394,7 +398,7 @@ Twin of.
 
 **Name:** Dervish
 
-**Race:** Female Fire 'jinn
+**Demographics:** Female Fire 'jinn
 
 **Appearance:** 
 
@@ -413,7 +417,7 @@ Will sometimes wear a gold and ruby torc and matching bracers.
 
 **Name:** Unknown
 
-**Race:** Female Earth jinn
+**Demographics:** Female Earth jinn
 
 **Appearance:** 
 
@@ -427,7 +431,7 @@ Skin of blue-veined marble. Eyes, nails, teeth, and interior all consist of amet
 
 **Name:**
 
-**Race:** Female Ael'daal / Fire dai'jinn
+**Demographics:** Female Ael'daal / Fire dai'jinn
 
 **Appearance:** 
 
@@ -443,7 +447,7 @@ Wears a fairly skimpy outfit of (fireproof) salamandar leather and dragonhide, a
 
 **Name:**
 
-**Race:** Male Fire dai'jinn
+**Demographics:** Male Fire dai'jinn
 
 **Appearance:** 
 Short black hair, with a moustache and goatee. Olive skin, orange eyes.
@@ -460,7 +464,7 @@ Scoundrel and wanderer, with a firey temper.
 
 **Name:**
 
-**Race:** F 'midh
+**Demographics:** F 'midh
 
 **Appearance:** 
 
@@ -482,7 +486,7 @@ AoM&MA
 
 **Name:** Ironfire; Lord of Dragonspire Citadel
 
-**Race:** Male Plated Dragon
+**Demographics:** Male Plated Dragon
 
 **Appearance:** Dark orange scales, with a lighter underbelly and dark grey back. Bulbous tail, long wingtip claws and jaw spine. Red eyes.
 
@@ -497,7 +501,7 @@ Exceptionally potent fire magic, capable of reaching temperatures in excess of 2
 
 **Name:** Queen of the Valley
 
-**Race:** Female Western Dragon
+**Demographics:** Female Western Dragon
 
 **Appearance:** Gold and green scales. Exceptionally large and ornate antler-like horns
 
@@ -511,7 +515,7 @@ One of the eldest extant dragons, at about 50,000 (perhaps much older - 200 - 30
 
 **Name:** Unknown
 
-**Race:** Male Spined Dragon
+**Demographics:** Male Spined Dragon
 
 **Appearance:** Nested pairs of curved horns.
 
@@ -526,11 +530,11 @@ Despite being a dragon, is the youngest (and weakest) member of the Elder counci
 
 **Name:** Unknown
 
-**Race:** Female Horned Dragon, Shapeshifter
+**Demographics:** Female Horned Dragon, Shapeshifter
 
 **Appearance:** Silvery scales, with a paler back and bluer underside. Bright purple eyes. Narrow horns.
 
-Hoarder of Power – Rather unique, as she has an almost entirely ephemeral horde. Collects political favours. Holds some high rank in almost all nations. A skilled shapeshifter, with many aliases across various races. 
+Hoarder of Power – Rather unique, as she has an almost entirely ephemeral horde. Collects political favours. Holds some high rank in almost all nations. A skilled shapeshifter, with many aliases across various peoples. 
 Also a potent telepath.
 
 **Affiliations:** Elder Council, most nations and religions
@@ -539,7 +543,7 @@ Also a potent telepath.
 
 **Name:**
 
-**Race:** Male Tundra Dragon, Shapeshifter.
+**Demographics:** Male Tundra Dragon, Shapeshifter.
 
 **Appearance:** 
 
@@ -561,7 +565,7 @@ Hoards victories. Keeps a trophy from each worthy foe he has bested.
 
 **Name:**
 
-**Race:** Male Spined Dragon
+**Demographics:** Male Spined Dragon
 
 **Appearance:** 
 Feathered spine. Head surrounded by a fan of golden horns with broad tips.
@@ -582,7 +586,7 @@ Lives in a cave system under the flooded caldera of a dormant volcano.
 
 **Name:**
 
-**Race:** Spined Dragon
+**Demographics:** Spined Dragon
 
 **Appearance:** 
 
@@ -597,7 +601,7 @@ Dragonhalls
 
 **Name:** 
 
-**Race:** Female Western Dragon(s)
+**Demographics:** Female Western Dragon(s)
 
 **Appearance:** 
 
@@ -620,7 +624,7 @@ Dragonhalls
 
 **Name:**
 
-**Race:** Female ___ Dragon
+**Demographics:** Female ___ Dragon
 
 **Appearance:** 
 
@@ -647,7 +651,7 @@ Stored seperately, with a stasis enchantment delibratly designed so that it must
 
 **Name:** The Ghost of Aelmos
 
-**Race:** City Dryad
+**Demographics:** City Dryad
 
 **Appearance:** 
 About 6000 years old. First City Dryad to come into being.
@@ -683,7 +687,7 @@ The biggest danger to humans in its domain is starvation or thirst - while it ma
 
 **Name:**
 
-**Race:** 
+**Demographics:** 
 
 **Appearance:** 
 

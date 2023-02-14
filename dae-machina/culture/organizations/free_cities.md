@@ -6,7 +6,7 @@ It is roughly 3000km long and takes 4-8 weeks to traverse by boat (depending upo
 
 Methods of government vary between cities, although most are ruled by one person, generally a Lord or Guildmaster. 
 A council of Leaders from each city meets monthly to settle disputes and govern trade (and other interactions) between cities. There is frequent espionage and minor conflicts between cities (“squabbling”). 
-Varying amounts of corruption, smuggling and counter-espionage among the cities. The free cities are home to a wide and varied mix of races. 
+Varying amounts of corruption, smuggling and counter-espionage among the cities. The free cities are home to a wide and varied mix of peoples. 
 
 The Free Cities are politically seperate from the Elyos Republic, althrough relations are generally cordial between the two. Given their influence on trade, 
 any conflict with the Free Cities would have the potential to economically cripple the republic.

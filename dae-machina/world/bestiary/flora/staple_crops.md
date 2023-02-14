@@ -1,6 +1,6 @@
 # Staple Crops
 
-There are a wide variety of crops which make up the dietary staples of the various Ael races
+There are a wide variety of crops which make up the dietary staples of the various Ael peoples
 
 
 Several varieties of wheat grain are found across Eaos, and are a common staple among the 'Daal, and Cervid daal'fae. The Ael'jinn also primarly cultivate grain, although of a more ancient variety.
