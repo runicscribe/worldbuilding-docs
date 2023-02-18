@@ -661,7 +661,7 @@ Typically manifests an avatar as a ruined statue garbed in shards of porcelein a
 Ocassionally, when it wants to intimidate, if manifests a titanic form of pillars, ruined buildings, and waterfalls of sand.
 
 Fully capable of communicating telepathically, but prefers to shape the sand and stone of the ruins into moving images to communicate information.
-Most people who interact find it needlessly cryptic.
+Most people who interact find this to be needlessly cryptic, but those that do manage to communicate telepathically with it often regret it, as they are assailed with a deep lonliness underlying all its mental communications.
 Closer relations with humans than most dryads, especially after the fall - has formed enduring friendships with a number of especially adventurous historians who braved the journey to the ruins of Aelmos.
 A handful of these have remained in the ruins past their death, in the form of soulbound spirits, continuing this friendship beyond their death.
 

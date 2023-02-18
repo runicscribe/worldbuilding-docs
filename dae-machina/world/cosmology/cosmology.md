@@ -8,8 +8,7 @@ actually going anywhere. Parallel universes may exist, and pocket
 dimensions are possible (As demonstrated by parts of the Riftscape)
 
 This geocentric structure gives a short solar year (1 week). This
-(coupled with
-a neglegible axial tilt) means that there is no real seasonal climate
+(coupled with a neglegible axial tilt) means that there is no real seasonal climate
 variation. Instead, the climate and the seasons are controlled by
 elementals. Also, this means that there are no real lunar phases.
 Additionally, since the sun is inside of the orbit of the moons, there
@@ -30,6 +29,9 @@ Mass = 3.038e24 kg
 Volume = 4.928e20 m3
 Gravity is 8.445 m/s2
 
+The planet spins counter to the spheres, with a period of 28.8 hours. Coupled with the rotation of the suns, this gives a 24 hour day, and a 6 day week.
+The suns rise in the east, and set in the west.
+
 
 ## Great Spheres ("Suns") - Oposing orbits. Orbital period of 6 days.
 Orbits approx 1.113e8m m from the planet. Sky diameter of 30.9'.
@@ -45,6 +47,9 @@ Durable, but explodes violently if damaged, releasing a burst of arcana.
 
 Each of them are the same diameter - 1000 km.
 The three lesser spheres come into convergence every 252 days. The [Daes calender](./calender) is based upon this convergence.
+This convergence also includes the Darksun
+The exact time of convergence occurs near dusk over much of Eaos, and near dawn over much of Quon Xi
+It is only visible from eastern Eaos and western Quon Xi.
 
 ### Aurum
 Gold. Good Enchanting medium. 
@@ -113,7 +118,7 @@ The materials that comprise the celestial spheres embody the known elements.
 
 Because each of the spheres is a pure material, their motions have significant effects on the tides of magic.
 
-The Eaosian Wizards are aware of this influence, and often make use of the power-amplifying effects of solar convergences. 
+The Eaosian Wizards (centered in the AoMMA) are aware of this influence, and often make use of the power-amplifying effects of solar convergences. 
 However, they are dismisive of the more subtler asspects, believing it a crutch to be used by hedgemages and sorcerers.
 
 The Thal Wizards have cultivated a much deeper connection with the cosmos, and have comprehensively mapped its workings.
