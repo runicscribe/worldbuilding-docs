@@ -4,12 +4,22 @@ import subprocess
 header = "layout: default\n"
 
 def proc_file(f):
-  if (f.endswith(".md")):
+  # Is this a file?
+  if f.endswith(".md"):
     permalink = f[1:]
-    if (f.endswith("index.md")):
+	# Index permalinks to folder, others permalink to self
+    if f.endswith("index.md"):
       permalink = permalink[:-8]
     else:
       permalink = permalink[:-3]
+    
+	# Apply subfolder styles
+    if f.startswith("./dae-machina"):
+      header="layout: dm_style\n"
+    if f.startswith("./magepunk"):
+      header="layout: mp_style\n"
+    if f.startswith("./schizotech"):
+      header="layout: st_style\n"
 
     sp = subprocess.Popen("git checkout master "+f, shell=True)
     sp.wait()
