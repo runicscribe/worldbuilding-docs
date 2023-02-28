@@ -25,49 +25,18 @@ Dragons dwell in the highest mountains, wielding immeasurable power.
 The wilderness is beset by rogue elementals, wild and uncontrollable.
 This is the world of Dael.
 
-## People and Cultures
+## Contents
 
-### [Peoples](./culture/peoples)
+- **[People and Cultures](./culture)**: The people inhabiting Dael and how they interact.
+  - [Peoples](./culture/peoples): The different kinds sapient peoples inhabiting Dael.
+  - [History](./culture/history/history): Past and current events.
+  - [Technology](./culture/technology): Contemporary technology and how it varies accross nations.
+  - [Organizations](./culture/organizations): Nations, political entities, religions, and other organizations
+  - [Individuals](./culture/individuals): Individual People
 
-The different kinds sapient peoples inhabiting Dael.
-
-### [History](./culture/history/history)
-
-Past and current events.
-
-### [Technology](./culture/technology)
-
-Contemporary technology and how it varies accross nations.
-
-### [Organizations](./culture/organizations)
-
-Nations, political entities, religions, and other organizations
-
-### [Individuals](./culture/individuals)
-
-Individual People
-
-## [Creatures](./world/bestiary/)
-
-Animals, plants, and other creatures.
-
-## [Magic](./world/magic)
-
-How magic works, and how it is used.
-
-## World
-
-### [Geography](./world/geography)
-
-Maps, locations, trade routes, and climate.
-
-### [Cosmology](./world/cosmology/cosmology)
-
-Celestial bodies and the calendar
-
-### [Science](./world/science)
-
-Physics, Chemistry, and base materials.
-
-
-
+- **[World](./world)**: The nature of Dae'machina and it's inhabitants
+  - [Magic](./world/magic): How magic works, and how it is used.
+  - [Bestiary](./world/bestiary/): Flora, fauna, and other more magical entities.
+  - [Geography](./world/geography): Maps, locations, trade routes, and climate.
+  - [Cosmology](./world/cosmology/cosmology): Celestial bodies and the calendar
+  - [Science](./world/science): Physics, Chemistry, and base materials.

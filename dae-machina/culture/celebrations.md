@@ -20,6 +20,41 @@ Other caravans mark the day, but do not celebrate it with such fervor, saving th
 
 The less nomadic predator tribes celebrate the great convergance with hunting and feasting, much in the way of the nomadic 'daal.
 
+#### The Great Gathering
+
+Spans the week preceeding and the week after the the full convergence, 13 days in total. 
+
+This gathering always includes the Great Plains tribe and Center Inland tribe, as well as a number of smaller daal caravans that operate in eastern Elyos and near the free cities.
+Every three years, the gathering also includes meeting includes Northern Foothills and Eastern Valley tribes. Individual groups may arrive late or leave early, as is necessary to stay on schedule, 
+but everyone is at least present for day of convergence.
+
+This gathering is an opportunity to share news and trade with other caravans, tell stories, feast, and generally celebrate a new year.
+The relatively long period of time in one place gives the opportunity for a number of things not typically feasible while traveling.
+In partucular, grinding grain into flour, building clay ovens for baking breads and other special holiday foods, and gathering wood for bonfires.
+It is also an opportunity to building new wagons, for those caravans which use them.
+
+The peak of the celebrations occur the day of convergence itself starting with moonset shortly before dawn and almost eight hours before the convergence.
+The morning is primarly concerned with final preparations. The initial ceremonies, consisting of songs and storrytelling, start at noon and continue to convergence, just over one hour later.
+The actual convergence is not visible from the great plains, as it takes place over the other side of the planet.
+After convergence, feasting begins, followed by communal dancing and singing, continuing into the night. The celebrations reach their peak at moonrise, shortly after dusk. 
+After moonrise, things break up into smaller groups, with celebrations continuing deep into the night.
+Some especially persistant revelers try to keep going all the way through to the first moonset of the new year, just before noon of the next day.
+
+#### Schedule
+
+| DOY | Hour  | Events                           |
+|-----|-------|----------------------------------|
+| 252 | 05:15 | Last Moonset of the old year     |
+| 252 | 06:00 | Dawn                             |
+| 252 | 12:00 | Noon                             |
+| 252 | 13:03 | Convergence                      |
+| 252 | 18:00 | Dusk                             |
+| 252 | 18:25 | Moonrise                         |
+| 252 | 24:00 | Midnight, moons at about 45 degrees above eastern horizon |
+|   1 | 01:30 | Moons reach their zenith         |
+|   1 | 06:00 | Dawn                             |
+|   1 | 11:45 | First Moonset of the new year    |
+
 ### Xhal'fae
 
 Specifically celebrate eclipse during grand convergence, and the mid-year convergence.
