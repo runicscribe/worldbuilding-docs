@@ -1,8 +1,6 @@
 import os
 import subprocess
 
-header = "layout: default\n"
-
 def proc_file(f):
   # Is this a file?
   if f.endswith(".md"):
@@ -14,6 +12,7 @@ def proc_file(f):
       permalink = permalink[:-3]
     
 	# Apply subfolder styles
+    header="layout: default\n"
     if f.startswith("./dae-machina"):
       header="layout: dm_style\n"
     if f.startswith("./magepunk"):

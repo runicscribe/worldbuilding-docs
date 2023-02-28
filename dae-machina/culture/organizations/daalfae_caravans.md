@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: dm_style
 permalink: /dae-machina/culture/organizations/daalfae_caravans
 ---
 

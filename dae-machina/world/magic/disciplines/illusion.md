@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: dm_style
 permalink: /dae-machina/world/magic/disciplines/illusion
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: mp_style
 permalink: /magepunk/world/races/ilyon
 ---
 
