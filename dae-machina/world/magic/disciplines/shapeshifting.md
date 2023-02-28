@@ -112,7 +112,7 @@ The probability of certain results for such pairings are described in the follow
 | Direbeast            | 25% Direbeast <br> 75% Natural Shapeshifter     | 75% Direbeast <br> 25% Natural Shapeshifter | 87.5% Direbeast <br> 12.5% Natural Shapeshifter | 75% Direbeast <br> 25% Natural Animal       |
 | Natural Animal       | 25% Direbeast <br> 75% Natural Shapeshifter     | 75% Direbeast <br> 25% Natural Shapeshifter | 75% Direbeast <br> 25% Natural Animal           | 100% Natural Animal                         |
 
-The most dramatic example of this phenomena is the AEl’jinn, who have become a race of natural shapeshifters over the course of several centuries.
+The most dramatic example of this phenomena is the AEl’jinn, who have become a lineage of natural shapeshifters over the course of several centuries.
 
 
 Even if the shapeshifter is in their natural form, there is still a possibility that their offspring will be natural shapeshifters. 

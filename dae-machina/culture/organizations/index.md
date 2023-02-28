@@ -60,7 +60,7 @@ This river is readily traversible and forms the backbone of trade across central
 
 Methods of government vary between cities, although most are ruled by one person, generally a Lord or Guildmaster. 
 A council of Leaders from each city meets monthly to settle disputes and govern trade (and other interactions) between cities. There is frequent espionage and minor conflicts between cities (“squabbling”). 
-Varying amounts of corruption, smuggling and counter-espionage among the cities. The free cities are home to a wide and varied mix of races. 
+Varying amounts of corruption, smuggling and counter-espionage among the cities. The free cities are home to a wide and varied mix of peoples. 
 
 The Free Cities are politically seperate from the Elyos Republic, althrough relations are generally cordial between the two. Given their influence on trade, 
 any conflict with the Free Cities would have the potential to economically cripple the republic.
@@ -69,7 +69,7 @@ any conflict with the Free Cities would have the potential to economically cripp
 ### Hollow Cities
 
 Jointly founded by 'jinn, 'midh, 'daal, sometime after the 'jinn reconnected with the Eosian Aeldar in the aftermath of the lich wars.
-Lead by council of representatives of constituent races.
+Lead by council of representatives of constituent Ael lineages.
 
 Built underground, under the dragonspine mountains. Originally a single city, but has since expanded to multiple. Connected to the Elyos Republic and to the 'jinn cities by seperate teleporter networks.
 
@@ -120,7 +120,7 @@ Riftscape, often among Uon ruins. In addition to adventurers, these towns also h
     • Hunters/Rangers who hunt the outskirts of the riftscape for food and sometimes discover lesser artifacts.
 Riftlander towns have many temporary residents, but also house some settled adventurers and families. A militia comprised of whatever adventurers and mages that are not currently exploring the riftscape handles defense 
 from outside threats. Due to the transitory nature of the population, towns tend to contain quite a few taverns and boarding houses.
-Riftlanders come from a mixture of races and cultures, including previous eldar slaves (Æl’daal, Æl’dhal, Æl’xhal and Xhal’fae), Æl’daal colonists and adventures, and various adventures mostly hailing from the free cities.
+Riftlanders come from a mixture of backgrounds and cultures, including previous eldar slaves (Æl’daal, Æl’dhal, Æl’xhal and Xhal’fae), Æl’daal colonists and adventures, and various adventures mostly hailing from the free cities.
 Riftlander architecture is primarly wood, with an Asian/Southeast Asian style, and often integrated Æl’uon ruins.
 
 Because the weather of the Riftscape tends towards warm with frequent monsoons, riftlander clothing tends to be fairly light, and made of materials that are either water resistant or dry easily. 

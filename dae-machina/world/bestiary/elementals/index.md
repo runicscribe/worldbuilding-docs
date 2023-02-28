@@ -168,5 +168,5 @@ domain and its residents.
 Vyldarche are smaller elementals of humanlike size and intelligence.
 They are primarily wanderers that constantly seek out new places and
 experiences. Of all elementals, Vyldarche are the only ones that have
-regular interactions with other sapient races.
+regular interactions with other sapient peoples.
 

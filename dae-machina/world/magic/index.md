@@ -295,7 +295,7 @@ The Uon also used a unique set of runelike paterns on all their enchanted items,
 ## Innate Magic
 
 Many individuals are born with natural magical abilities. The process through which this occurs is not fully understood.
-Some races and species have other, more consistent magical abilities.
+Some lineages and species have other, more consistent magical abilities.
 
 ### Natural Magic Resistance
 All living things have a natural resistance to magic, which makes directly affecting them with magic quite difficult. For this reason, most combat magic tends to be inderict, like manipulating the environment or launching projectiles.
@@ -320,7 +320,7 @@ Note: Some rare animal savants exist (eg. ‘Nightmares’, Firemane lions, Trol
 ### Magical Bloodlines
 
 When innate magic develops and grows over many generations, it tends to follow more preditable patterns. In such cases, one particular expression of innate magic may be shared among the majority of descendants of one or more savants. 
-When this occurs, it is commonly refered to a magical bloodlines. The largest magical bloodlines are often consideres races or species of their own - the most notable example of this process is the development of the Uon, 'fae and 'jinn races.
+When this occurs, it is commonly refered to a magical bloodlines. The largest magical bloodlines are often consideres distinct lineages or species their own - the most notable example of this process is the development of the Uon, 'fae and 'jinn lineages.
 Many also consider dragons to be a magical bloodline (and perhaps the oldest example of one) - mainly due to the partly magical nature of their ability to fly, but also because of their raw magical power.
 
 Specific abilities of individuals in an established magical bloodline may still vary wildly, and it is entirely possible for a member of a magical bloodline to be a savant of some other sort of magic.
