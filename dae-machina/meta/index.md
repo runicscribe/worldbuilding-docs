@@ -11,6 +11,20 @@ Volume = 4.928e20 m3
 Gravity is 8.445 m/s2 (0.86 of earth)
 Which gives density of 6165 kg/m3, 11.6% higher than earth; within acceptable bounds.
 
+## Chemistry
+
+Only 14 elements - 12 mundane, 2 magical.
+At the atomic scale, things are very different than earth materials, but at anything larger than that, things look basically the same.
+
+Broad equivalents of most earth materials exist, but aren't always quite the same.
+Loose equivalents to higher-order members of the elemental groups (outside the noble metals) are formed from compounds.
+
+Water (Agua) is an element, not a molecule.
+Silicon compounds instead are based on Calcus + Eter, so a silicate is a Calcus-Eter-Aer compound.
+Quicksilver is largely nontoxic, and has as much in common with nickel as with actual mercury.
+
+Radioactivity doesn't exist, but the magical decay caused by compounds containing both Starfire and Darksteel behaves similarly.
+
 ## Creatures
 
 The presence of dragons over the past several million years Dragons have had a notable affect on the presence of large mammals and megafauna in general.
@@ -36,5 +50,6 @@ Ael Xhal - Mix of Mesoamerica and oceanic islands
 
 City of bridges / other regions near Quon Xi are more like Korea / Japan
 
-
 Ael'Midh - Mix of Celtic, Norse, Medival Europe, and Fantasy Dwarf inspirations.
+
+Old Ael - Egypt/Babylon/Mesopotamia

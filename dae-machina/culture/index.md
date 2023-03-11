@@ -26,7 +26,7 @@ Contemporary technology and how it varies accross nations.
 
 - [Arts](./arts)
 - [Celebrations](./celebrations)
-- [Laws](./politics/laws)
+- [Laws](./politics/law)
 
 
 
