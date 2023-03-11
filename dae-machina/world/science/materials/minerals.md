@@ -1,0 +1,50 @@
+---
+layout: dm_style
+permalink: /dae-machina/world/science/materials/minerals
+---
+
+# Minerals
+
+Minerals tend to make good sympathetic focci because of their age. Crystals tend to be good at focusing or storing magic.
+
+
+| Material         | Physical Properties                                                       | Magical and Sympathetic Properties                             | Common Usage                | Occurence and Rarity    | 
+|------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|-----------------------------|-------------------------|
+| Amber            | Fossilized tree resin. Transluscent; Pale yellow to medium orange.        | Binding, Channeling. Good necromancy focus.                    | Jewelry                     | Worldwide - Uncommon    |
+| Azurite          | Copper-Eter-Aer mineral. Formed by weathering copper ore. Blue.           | Psionic focus, especially telepathy.                       | Blue pigment, Jewelry | Worldwide, near underground copper deposits - Uncommon |
+| Basalt           | Common igneous stone comprised of Eter-Calcus-Aer.                        | Magical Damper and Sink                                        | Building Material           | Worldwide - Very Common |
+| Bismuth          | Silver-Quicksilver-Eter metallic compound. Forms intricate rhombohedral crystals. | Magic sinks and locks. Mind-trapping magic.            | Pigment, Jewelry, Metalwork | Select locations worldwide - Rare |
+| Coral            | Calcus-Eter-Aer coral skeleton	Intuition. Stimulates pursuit of goals     | Transmutation. Water elementalism.                             | Jewelry, Folk Medicine, Building Material | Warm oceans (equatorial) - Common |
+| Desert Rose      | Gypsum (Calcus-Sulpher-Aer-Agua) crystal formed in sandy conditions. Flat, rounded layers. Pink tones. | Elemental chanelling, enhancing sharpness. | Decoration | Only found in deserts - Uncommon | 
+| Diamond          | Octahedral Eter crystal. Very hard, formed at high temperatures and pressures | Cannot be damaged or altered by magic. Many Sympathetic uses: Encantation; Draw or repel energy: Store power: Amplify Power; Protect or Break enchantments. | Jewelry, Cutting Tools | Select locations worldwide - Very Rare  |
+| Emerald          | Hexagonal columular crystal comprised of Eter-Calcus-Quicksilver. Green.  | Storing Arcana. Animancy. Contain, release, or trap souls.     | Jewelry                     | Worldwide - Rare        |
+| Feldspar         | Family of Quicksilver-Calcus-Eter-Aer minerals.                           | Scrying focus for finding what is lost, enchanting focus, but not one that is incorporated into the final product. General transmutation focus. | Glassmaking and pottery. Abrasives. | Worldwide - Common |
+| Fossil           | Mineralized remains (Sedimentary)                                         | Necromancy, Transmutation (Organic to Inorganic, eg. Petrify)  | Decoration                  | Worldwide - Uncommon    |
+| Garnet           | Calcus-Eter-Aer cubic crystal. Various colors.                            | Storing arcana (about as good as Quartz). Better for chanelling defensive/constructive/wide area magic | Jewelry, Abrasives | Select locations worldwide - Uncommon | 
+| Glass            | Calcus-Eter amorphous solid.                                              | Light, refraction. Invisibility.                               | Windows, Dishware, Jewelry  | Worldwide - Common      |
+| Granite          | Ingneus rock comprized of quartz, mica, and feldspar. Hard and durable.   | Decent media for enchanting - durability, arcane resonance     | Building Material           | Worldwide - Very Common |
+| Hematite         | Iron Oxide. Less magnetic than magnetite. Rhombohedral crystal structure. | Encantation; attract and repel arcana.                    | Jewelry, Pigments | Worldwide, near iron deposits - Common |		
+| Jade             | Microcrystaline Calcus-Eter-Aer-Niter metamorphic rock. Commonly green.   | Holds enchantments well. Focus for amplifying physical abilities and vigor | Jewelry, Decoration | Select locations worldwide - Uncommon |
+| Jet              | Coal variant. Formed from Eter compression in water                       | Fire focus                                                     | Jewelry                     | Worldwide - Uncommon    |
+| Lapis Lazuli     | Deep blue mineral. Often occurs with pyrite. Complex composition including Sulfer, Nitrus, Calcus, Eter, and Quicksliver. | Psionic focus, especially binding others wills and sharing senses | Jewelry, Pigment | Select locations worldwide - Rare|		
+| Limestone        | Calcus-Eter-Aer sedimentary mineral. Water soluble.                       | Transmutation (destruction) focus                 | Construction, Manufacturing, Agriculture | Worldwide - Common      |		
+| Magnetite (Lodestone) | Iron-Quicksilver-Aer compound, highly magnetic. Isometric crystal structure. | Naturally Gathers Magic. Encantation (attraction) focus. | Magnets     | Select locations worldwide - Uncommon |
+| Malachite        | Copper-Eter-Aer mineral similar to Azurite, but green/white in color.     | Psionic focus, communication with the 'other' - animals, undead, etc. Translation. | Green Pigment. Jewelry, Copper production | Worldwide, near underground copper deposits - Common |
+| Marble           | Metamorphic Eter-Aer mineral. Formed from metamorphised limestone.	       | Purification via transmutation. Encantation - deflection, repulsion, or containment of Arcana | Building Material, Sculpture | Select locations worldwide - Common |		
+| Meteorite        | Igneous or Metamorphic mineral comprised of a diverse mix of elements     | Kinetic Energy focus.                                           | Mineral source, Decoration  | Worldwide - Rare       |
+| Moonstone        | Nitrus-Quicksilver-Calcus-Eter-Aer compound. Unique sheen caused by feldspar layers | Enchanting focus; often embedded in artifacts to "anchor" enchantments. | Jewelry | Select locations worldwide - Uncommon|
+| Obsidian         | Volcanic Glass. Hard and brittle, forms very shap edges	               | Heat, light. Blood magic.                                       | Jewelry, Weapons         | Volcanic regions - Common |
+| Opal             | Hydrated amorphous Calcus-Eter compound. Diffracts light.	               | Water, Earth, Fire, Air; Elemental focus                        | Jewelry       | Select locations worldwid - Uncommon |
+| Pearl            | Layered Calcus-Eter-Aer mineral deposited by living organisms.            | Water focus, healing focus                                      | Jewelry     | Worldwide, in sea creatures - Uncommon |
+| Petrified Wood   | See fossils.                                                              | Transmutation. Scrying the past. Split halves make an exemplary Teleportation focus | Decoration | Worldwide - Uncommon |
+| Pumice           | Volcanic glass that is full of bubbles. Rough, opaque surface.            | Force chanelling; buoancy and slow fall. Heat chanelling. | Construction, Agriculture, Abrasives | Volcanic regions - Common |
+| Pyrite           | Iron-Sulfur-Aer crystal with Isometric (cubic) structure                  | Good Psionic focus, especially for illusions                     | Firestarter, metalurgy      | Worldwide - Common    |
+| Ruby             | Eter-Quicksilver-Aer (corrundum) variant. Red color from Sulphur-Quicksilver. | Storing Magic. Heat channelling.                             | Jewelry         | Select locations worldwide - Rare |		
+| Sandstone        | Quartz/feldspar sedimentary rock.                                         | Elemental Focus. Weathered sandstone is a particularly good Aer focus | Building Material, Sculpture | Worldwide - Very Common |
+| Sapphire         | Eter-Quicksilver-Aer (corrundum) variant. Color from Nitrus, Iron, and/or Copper | Storing Magic. Cold Channelling                           | Jewelry         | Select locations worldwide - Rare |	
+| Slate            | Planar metamorphic rock. Dark brown or gray.                              | Conjoined focci. Damping and shielding effects.                  | Building material | Worldwide - Common              |
+| Tiger Eye	       | Fibrous Calcus-Eter mineral                                               | Scrying, especialy seeing hidden things and seeing over distances. Detection enchantments / magical traps. | Jewelry | Worldwide - Uncommon |
+| Topaz            | Quicksilver-Nitrus-Eter-Calcus-Aer crystal                                 | Store Arcana - better than Quartz, not as good as Diamond. Focus for Transmuting energy (e.g. heat to light, etc.). | Jewelry | Worldwide - Uncommon|					
+| Quartz           | Calcus-Eter-Aer mineral with a trigonal Crystal structure. Many variations. | Good focus for earth magic due to how common it is. Crystaline structure also makes it a suitable encantation focus. | Jewelry, Decoration | Worldwide - Common |
+| Chalcedony       | Microcrystiline Quartz                                                    | Earth Magic focus. Certain variants can help to redirect, focus, or disrupt magic, depending on structure. | Jewelry, Decoration | Worldwide - Common |
+| Crystal Quartz   | Macrocrystiline Quartz. Various colors.                                   | Good focus for storing magic, but not nearly as good as diamond. Better for chanelling offensive,destructive/focused magic. | Jewelry, Decoration | Worldwide - Common |

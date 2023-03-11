@@ -44,7 +44,7 @@ This orbit is approx 1.113e8m m from the planet, resulting in a sky diameter of 
 ### Brightsun
 
 Composed of "Sunfire", a fragile, transparent crystal. This crystal rapidly breaks down at low pressures (less than 1000 atm) or regions of low arcana, emmiting massive amounts of heat, light, and arcana. 
-Due to this, it is extremely rare on Dael and seldom lasts for long.
+Due to this, it is extremely rare on Dael and seldom lasts for long. 
 
 
 ### Darksun
@@ -67,15 +67,15 @@ The three lesser spheres come into convergence every 252 days. The [Daes calende
 This convergence coincides with a lunar eclipse by the Darksun. The exact time of convergence occurs near dusk over much of Eaos, and near dawn over much of Quon Xi. It is only visible from eastern Eaos and western Quon Xi.
 
 ### Aurum
-Composed entirely of gold. Good Enchanting medium. 
+Composed entirely of gold. 
 Orbital period of 36 days. Orbits approx 3.676e8 m from the planet. Sky diameter of 9.4'.
 
 ### Argent
-Composed entirely of silver. Disruptive to magic. 
+Composed entirely of silver. 
 Orbital period of 63 days. Orbits approx 5.339e8 m from the planet. Sky diameter of 6.4'.
 
 ### Alkyne
-Composed entirely of copper. Imprints/stores magical signatures. 
+Composed entirely of copper. 
 Orbital period of 84 days. Orbits approx 6.468e8 m from the planet. Sky diameter of 5.3'.
 
 ## Wandering Stars:
@@ -88,20 +88,18 @@ Some follow eliptical orbits, and some orbits are slightly off the axis of the c
 About the same size as the lesser spheres, but further away, such that they appear as large stars. Rather more erratic orbits than the lesser spheres.
 
 Eternity - Iron.
-Essence - Starmetal. Highly sensitive to magic, and will float in areas
-of strong arcana. Responsible for the magical properties of meteoric
-iron.
-Clarity - Diamond
+Essence - Quicksilver.
+Clarity - Diamond (Eter). Effectively invisible from Dael, even with a telescope.
 
 ### Dim Wanderers
 
 Gas giants. Significantly larger than the other spheres, but also much further away.
 Mostly distributed within the celestial dust, but still show motion relative to it.
 
-Firenze - Sulfer-Methane gas giant. Red-orange.
-Aqua - Hydrogen-Oxygen gas giant. Blue-orange.
-Aeris - Oxygen-Nitrogen gas giant. Yellow.
-Gaius - Silicon-Carbon-Oxide superplanet. Gray-green.
+Firenze - Nitrus-Sulfer-Aer gas giant. Red-orange.
+Aqua - Agua-Sulpher-Dormis gas giant. Blue-orange.
+Aeris - Nitrus-Aer-Dormis gas giant. Yellow.
+Gaius - Agua-Calcus-Eter superplanet. Gray-green.
 
 ## Celestial Dust
 
@@ -113,8 +111,16 @@ Over human timescales, the shards do not move relative to each other, and can be
 While many cultures do identify constellations, these classifications are quite varied across both time and place, and rarely hold significant cultural significance. Certain individual stars demonstrate rather greater importance
 due to their use in navigation - even with drift, bright stars are still quite valuable, especially those near the northern or southern extremes of the night sky.
 
-Shards of other celestial bodies are largely invisible from Dael, but are the source of most meteors that hit the planet(or any other celestial sphere). Such meteors generally occur when one of the Dim Wanders passes 
-especially close to one of these shards and its gravity deflects it into the inner system.
+Shards of other celestial bodies are largely invisible from Dael, but are the source of most (90%) meteorites that hit the planet(or any other celestial sphere). Such meteors generally occur when one of the Dim Wanders passes 
+especially close to one of these shards and its gravity deflects it into the inner system, and gnerally have a varied composition, consisting of many different elements collected from many years bouncing around the celestial dust.
+
+Secondary meteorites can be caused when a meteor from the celestial dust impacts one of the inner spheres. These are typically quite pure - mainly one material.
+When these form from shards of the brightsun, they decay rapidly. If they manage to hit Dael before exiting the inner system, they will form a variety of exotic alloys and compounds upon impact, 
+with whatever pure sunfire that remains dissipating rapidly. If they miss, they will dissipate before their orbit would bring them back to the inner spheres. These make up 3% of meteorites that hid Dael.
+When these form from the shards of the darksun, they can last for a bit longer. If they do hid Dael, they impact with a fairly violent magical explosion, and also form a variety of alloys, 
+but there will typically be some shards of darkstone left over as well. These make up 6% of meteorites that hid Dael.
+Meteorites formed from shards of either of the three moons will simply be a large chunk of that respective metal, and upon impact can be found fused with the bottom of the impact crater. 
+These make up the remaining 1% of meteorites, with gold being the most common and copper being the rarest. Bright wanderer shards technically fall in this category too, but are exceptionally rare - less than 0.1% of all meteorites.
 
 # Naming of the Celestial bodies
 
