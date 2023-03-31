@@ -50,7 +50,10 @@ Due to this, it is extremely rare on Dael and seldom lasts for long.
 ### Darksun
 
 Composed of "Darkstone", a brittle, opaque black crystal that excludes arcana and aether. This material is durable, but explodes violently if damaged, releasing a burst of arcana.
-The Darksun excludes all light, and is only known about due to the lunar eclipses it causes.
+The Darksun excludes all light, and is only known about due to the lunar eclipses it causes.*
+* These are always acompanied by a planetary lunar eclipse, so even this may not be sufficient. Perhaps magical effects?
+
+
 
 ### Auroras
 
@@ -78,6 +81,19 @@ Orbital period of 63 days. Orbits approx 5.339e8 m from the planet. Sky diameter
 Composed entirely of copper. 
 Orbital period of 84 days. Orbits approx 6.468e8 m from the planet. Sky diameter of 5.3'.
 
+#### Eclipses
+
+In addition to the eclipse at the start of the year, each of the moons are eclipsed by the Darksun every 6 to 7 days.
+Full eclipses only occur within 5 degrees of the equator, and last about 10 minutes.
+Between 5 and 8/9/11 degrees (depending on the moon), there are partial eclipses, and past 11 degrees, there are no eclipses.
+
+Occur every 7.17 / 6.69 / 6.39 days (Aurum / Argent / Alkyne, respectively), for XXX per year, worldwide.
+However, since the moons are not always visible in the night sky (spending half their time on the opposite side of the planet), the actual number of observable eclipses from any given location is less than half this number, 
+and does not follow nearly as regular a schedule. There can be up to 21 days between eclipses, and up to 35 days between eclipses of the same moon.
+The shortest and largest gaps both appear near convergences, when all the moons are close together in the sky.
+Because the Brightsun orbits exactly opposite the Darksun, lunar eclipses are always acompanied by a planetary eclipse, which lasts up to three hours, and can be seen from any lattitude.*** verify this ***
+
+ 
 ## Wandering Stars:
 
 Beyond the two suns and three moons, there are seven more well-defined celestial bodies. Their motions are less predictable, but still follow distict paths.

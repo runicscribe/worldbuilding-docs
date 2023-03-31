@@ -32,7 +32,7 @@ Individuals of note from the various peoples of Dae'machina
 
 **Demographics:** Male Æl'daal
 
-**Appearance:** Pale Skin. Dark, straight hair short-cropped pointed beard.
+**Description:** Pale Skin. Dark, straight hair short-cropped pointed beard.
 Born 34 AC. Son of a minor Free Cities noble. First cousing to the heir of Vindel, and 2nd cousin to Lord of Kenford. 
 Grew up in an estate near vindel. Later, became a student at AoMMA. Eventually established his own tower somewhere north of the Free Cities.
 Ultimately became a lich.
@@ -45,7 +45,7 @@ Ultimately became a lich.
 
 **Demographics:** 
 
-**Appearance:** 
+**Description:** 
 
 
 Born 125 BC in the city of Armuth to a midh artificier-smith and a young daal battlemage.
@@ -83,7 +83,7 @@ TBD:
 
 **Demographics:** Female 'daal
 
-**Appearance:** 
+**Description:** 
 
 Dark, straight, shoulder-length hair. Broad shoulders.
 Typically wears an outfit consisting of knee-lenght leather boots, a knee-lenght diagonal-cut skirt, a cropped, diagonal cut vest with flared sleves, and a leather satchel.
@@ -106,7 +106,7 @@ AoM&MA, Arcmuth.
 
 **Demographics:** Genderfluid Panther Xhal'fae
 
-**Appearance:** 
+**Description:** 
 Dark-furred feline fae with faint Jaguar spots. 
 Shifts between male and female forms as expedient - sometimes to get an upper hand, somtimes just because they feel like it.
 Many members of the criminal underworld think they are actually brother and sister.
@@ -137,7 +137,7 @@ Parents returned to Quon Xi, they made there way to Blackport in their early tee
 
 **Demographics:** Agender Eldar 'Daal
 
-**Appearance:** 
+**Description:** 
 
 Dark, brown-grey skin, bald, and androgynous. Indeterminate Age. 
 Mineral veins show through their few wrinkles. Nails appear to be made of polished gold. Looks otherwise human.
@@ -154,7 +154,7 @@ Patron of Earth.
 
 **Demographics:** Male Eldar 'Daal
 
-**Appearance:** 
+**Description:** 
 
 
 Typically maintains the form of a muscular, dark-skinned male 'daal, much the same as how he appeared at 35.
@@ -174,17 +174,26 @@ Retains immense talent in weather and water magic from his youth. Now also skill
 
 ----------------
 
-**Name:** 
+**Name:** The Stoneshaper
 
-**Demographics:** 
+**Demographics:** Male Earth 'jinn / Chimeric Shapeshifter
 
-**Appearance:** 
+**Description:** 
 
+Normally appears as a 9 foot tall centaur chimera formed from sandstone or marble, with a humanoid torso, and the heads of mythical beasts at the base of his torso.
+Other times, takes the form of a sandworm, with a humanoid torso in place of a tongue.
+Unique among chimeric shapeshifters in that he is just as adept at shaping limbs from stone as from flesh, or converting between the two.
+Also unusually capable at changing his size, mostly because spare stone is a lot easier to acquire than spare flesh.
 
+One of the few non-Dragons who can and does use petrification magic.
+
+Was a protoge of the shaper of new Aelmos, some hundered years after the founding of the city.
 
 **Affiliations:** 
 
 ----------------
+
+
 
 <h4 id="modernjinn">Contemporary 'jinn</h4>
 
@@ -194,7 +203,7 @@ Retains immense talent in weather and water magic from his youth. Now also skill
 
 **Demographics:** Female Air 'jinn
 
-**Appearance:** 
+**Description:** 
 
 Invisible body (comprised of tighly-controlled air) with hair like cumulous clouds, lit by an inner radience
 Often wears a thin white gown.
@@ -209,7 +218,7 @@ Grandaughter of Typhoon.
 
 **Demographics:** Female Water 'jinn
 
-**Appearance:** 
+**Description:** 
 
 Hair consists of precisely shaped ice shards that precisely refract light, shading them with a brilliant array of colors
 Body is a mix of water and more ice shards. 
@@ -222,7 +231,7 @@ Body is a mix of water and more ice shards.
 
 **Demographics:** Male Water 'jinn
 
-**Appearance:** 
+**Description:** 
 
 Lives in Sea's Bounty and rarely leaves the ocean. When above-water, looks like the crest of the breaking wave. When underwater, nearly invisible. 
 
@@ -234,7 +243,7 @@ Lives in Sea's Bounty and rarely leaves the ocean. When above-water, looks like 
 
 **Demographics:** Male Earth 'jinn
 
-**Appearance:** 
+**Description:** 
 
 Body consists of white marble veined with raw gold. Has perfectly-rendered hair and beard of pure gold.
 
@@ -247,7 +256,7 @@ Body consists of white marble veined with raw gold. Has perfectly-rendered hair 
 
 **Demographics:** Agender hybrid (Earth/Water/Air) 'jinn
 
-**Appearance:** 
+**Description:** 
 
 Ancient. Appears as a collection of floating rocks pouring water. Not discernably humanoid.
 
@@ -261,7 +270,7 @@ Ancient. Appears as a collection of floating rocks pouring water. Not discernabl
 
 **Demographics:** Female Water 'jinn
 
-**Appearance:** 
+**Description:** 
 
 360 years old, with a body fully comprised of water.
 Usually acompanied by two or three levitating spheres of water, each containing a different live tropical fish.
@@ -278,7 +287,7 @@ Body also often contains some number of fish. Also wears fine silks, color coord
 
 **Demographics:** Female Celestial 'jinn
 
-**Appearance:** 
+**Description:** 
 
 Celestial jinn with a body of stars and shadow.
 Usually wears a robe of grey, black, and purple, with bronze ornamentation.
@@ -296,7 +305,7 @@ Strong proponent of raising the celestial 'jinn to the same level of social reco
 
 **Demographics:** 
 
-**Appearance:** 
+**Description:** 
 
 Skin of water, hair of frost
 
@@ -308,7 +317,7 @@ Skin of water, hair of frost
 
 **Demographics:** 
 
-**Appearance:** 
+**Description:** 
 
 
 
@@ -320,7 +329,7 @@ Skin of water, hair of frost
 
 **Demographics:** 
 
-**Appearance:** 
+**Description:** 
 
 
 
@@ -332,7 +341,7 @@ Skin of water, hair of frost
 
 **Demographics:** Male Air 'jinn 
 
-**Appearance:** 
+**Description:** 
 
 Hair and beard appears to be comprised of white clouds.
 The rest of his body is a pillar of stormclouds, with no discernable arms.
@@ -348,7 +357,7 @@ Carries four broad-tipped scimitars, which he levitates when wielding them.
 
 **Demographics:** Female Fire / Earth 'jinn
 
-**Appearance:** 
+**Description:** 
 
 Fase is sculped marble. Body is pure fire, but tightly controlled.
 Hands are encased in segmented basalt.
@@ -364,7 +373,7 @@ Grandaughter of Uriel.
 
 **Demographics:** Male Fire 'jinn
 
-**Appearance:** 
+**Description:** 
 
 Body of pure fire, with a large pair of flaming wings.
 Torso ends in a long tail of fire instead of legs
@@ -380,7 +389,7 @@ Wields a two-pointed spear with an ever-burning flame in its center.
 
 **Demographics:** Female Fire 'jinn / Water 'jinn (Fire dominant)
 
-**Appearance:** 
+**Description:** 
 Twinn of. 
 
 
@@ -392,7 +401,7 @@ Twinn of.
 
 **Demographics:** Female Fire 'jinn / Water 'jinn (Water dominant)
 
-**Appearance:** 
+**Description:** 
 Twin of.
 
 
@@ -405,7 +414,7 @@ Twin of.
 
 **Demographics:** Female Fire 'jinn
 
-**Appearance:** 
+**Description:** 
 
 Young but talented Fire jinn.
 Lower half is usually a vortex of flame.
@@ -424,7 +433,7 @@ Will sometimes wear a gold and ruby torc and matching bracers.
 
 **Demographics:** Female Earth jinn
 
-**Appearance:** 
+**Description:** 
 
 Skin of blue-veined marble. Eyes, nails, teeth, and interior all consist of amethyst.
 
@@ -438,7 +447,7 @@ Skin of blue-veined marble. Eyes, nails, teeth, and interior all consist of amet
 
 **Demographics:** Female Ael'daal / Fire dai'jinn
 
-**Appearance:** 
+**Description:** 
 
 Red hair, which catches fire when she feels strong emotions. Generally poor control over her abilities
 
@@ -454,12 +463,32 @@ Wears a fairly skimpy outfit of (fireproof) salamandar leather and dragonhide, a
 
 **Demographics:** Male Fire dai'jinn
 
-**Appearance:** 
+**Description:** 
 Short black hair, with a moustache and goatee. Olive skin, orange eyes.
 Mostly skilled at fire evocation, poor transmutation skills.
 
 Scoundrel and wanderer, with a firey temper.
 
+
+**Affiliations:** 
+
+----------------
+
+**Name:**
+
+**Demographics:** Female Ester's Lineage 'jinn / Chimeric shapeshifter
+
+**Description:** 
+
+In her most personable shape, looks like an olive-skinned Aeldar of indeterminate lineage.
+Opaque black ooze covers her body from collarbones to the ground, miming the form of a black dress, and extending into the ground itself, innundating the earth and filling cracks between stone.
+In this manner, she carries quite a bit of biomass with her, like most chimeric shapeshifters, albiet in a concealed way.
+This guise does not really work well far to the north, where the ground is impermeable due to permafrost, or in any other locations covered in an impenetrable surface.
+
+Her specuialty is shaping disconected body parts out of her ooze - eyes, teeth, tentacles, etc.
+She can also spread her body over fairly large areas - up to a couple kilometers in diameter - in order to keep an eye or an ear on things. However, she is not a full multiform shapeshifter. 
+
+A little over 200 years old.
 
 **Affiliations:** 
 
@@ -471,7 +500,7 @@ Scoundrel and wanderer, with a firey temper.
 
 **Demographics:** F 'midh
 
-**Appearance:** 
+**Description:** 
 
 Sword instructor at AoM&MA
 
@@ -480,6 +509,48 @@ AoM&MA
 ----------------
 
 <h3 id="aelthal">Æl'thal</h3>
+
+**Name:** Emperor ___ the Eternal
+
+**Demographics:** Ascended M Æl'thal Gestalt
+
+**Description:** 
+
+
+Immortal ruler of the Empire of the Rising Sun
+
+The emperor's consciousness is actually held in a thick gold and jade necklace with a large emerald at its center.
+Whoever wears this necklace is considered the emporer; when a new emporer is crowned, they are bestowed the necklace as a symbol of their position.
+Initially, it acts as a repository of knowledge, and can provide guidance. As the years go by, the thoughts of the new emperor merge with the conciousness of the necklace, until they are indistinguishable.
+In this manner, it can be said that the Empire has had the same ruler for the last 2100 years, even if the body sitting in the throne has been different.
+
+The necklace is capabale of fully dominating the mind of new bearers, but generally reserves this for cases of theft and asssasination. If its body is killed, it can also puppet the corpse, but cannot do so indefinately.
+The gestalt conciousness within the neclace also provides its bearer with supernatural perception, the ability to have multiple parallel streams of conciousness, an eidedic memory spaning the entire Second 'Thal Dynasty, 
+mastery over several martial art forms, and exemplary persuasion skills.
+
+The necklace also hosts a number of other enchantments: enhanced durability, an enchantment which grants the wearer improved vitality and faster healing, 
+and a minor charm enchantment which, when worn, can be used to capture the attention of observers, and when not worn will compel anyone who picks up the necklace to put it on.
+
+The true nature of the emperor is known only to a select few. Most think the neclace is a baddge of office and historical relic, and the title of is "Eternal" either a descriptor of the Empire itself, 
+or a reference to the fact that the title of Emperor has been held by the same unbroken family line since the beginning of the 2nd dynasty.
+
+
+Unlike most autocratic governments, rulership of the Empire passes onto the heir (typically the Emperor's firstborn son) upon their coming-of age, instead of the death of the current emperor.
+This tradition started because the entity in the necklace much prefers a younger body, and has now been going on long enough that it is just seen as normal.
+Often, the new Emperor retains some of the wives he had in his past incarnation.
+
+There have been a few instances where the emperor did not produce a son, only daughters. Usually, this resulted in the rulership passing to the Emperor's first grandson by his eldest daughter, but in at least one instance,
+there were no male heirs when the current Emperor died, and the title instead passed to a female heir.
+
+When the mantle of emporer does pass over, the old Emporer's conciousness has typically entirely merged with the necklace, and if his old body is still alive it reverts to a semi-vegetative state, 
+and is moved to a secret retreat where it is cared for, in part as a backup in case something unfortunate happens to the Emperor's new body.
+
+
+**Affiliations:** 
+Empire of the Rising Sun
+
+----------------
+
 
 <h3 id="aelxhal">Æl'xhal</h3>
 
@@ -493,7 +564,7 @@ AoM&MA
 
 **Demographics:** Male Plated Dragon
 
-**Appearance:** Dark orange scales, with a lighter underbelly and dark grey back. Bulbous tail, long wingtip claws and jaw spine. Red eyes.
+**Description:** Dark orange scales, with a lighter underbelly and dark grey back. Bulbous tail, long wingtip claws and jaw spine. Red eyes.
 
 6,200 years old. Fought on the side of the Ael during the Dragon war, and again during the Uon war.
 Hoarder of Minerals - mostly gold, silver and gemstones. Master of Dragonspire Citadel. Lends his fire to the forges in return for a tithe of the mines.
@@ -508,7 +579,7 @@ Exceptionally potent fire magic, capable of reaching temperatures in excess of 2
 
 **Demographics:** Female Western Dragon
 
-**Appearance:** Gold and green scales. Exceptionally large and ornate antler-like horns
+**Description:** Gold and green scales. Exceptionally large and ornate antler-like horns
 
 Watches over a large valley, and discourages human exploitation and settlement.
 An elemental shapeshifter, has transformed herself into an artificial dryad of the valley.
@@ -522,7 +593,7 @@ One of the eldest extant dragons, at about 50,000 (perhaps much older - 200 - 30
 
 **Demographics:** Male Spined Dragon
 
-**Appearance:** Nested pairs of curved horns.
+**Description:** Nested pairs of curved horns.
 
 Hoarder of Knowledge, especially arcane knowledge, as well as some magical artefacts. Has an extensive library. Particularly skilled in magic, notably: 
 Sorcery (Fire, Lightning), Scrying (Future Sight, Premonition, Psychometry, Farsight, Object Finding), Encantation (Spell redirection and cancellation).
@@ -537,7 +608,7 @@ Despite being a dragon, is the youngest (and weakest) member of the Elder counci
 
 **Demographics:** Female Horned Dragon, Shapeshifter
 
-**Appearance:** Silvery scales, with a paler back and bluer underside. Bright purple eyes. Narrow horns.
+**Description:** Silvery scales, with a paler back and bluer underside. Bright purple eyes. Narrow horns.
 
 Hoarder of Power – Rather unique, as she has an almost entirely ephemeral horde. Collects political favours. Holds some high rank in almost all nations. A skilled shapeshifter, with many aliases across various peoples. 
 Also a potent telepath.
@@ -550,7 +621,7 @@ Also a potent telepath.
 
 **Demographics:** Male Tundra Dragon, Shapeshifter.
 
-**Appearance:** 
+**Description:** 
 
 In human form: Stark white hair, pale skin, ice-blue eyes. Faint scale pattern at his temples 
 White-dyed armor of horizontal leather strips, white cloak trimmed with silver fur, carries a claymore of ancient design.
@@ -572,7 +643,7 @@ Hoards victories. Keeps a trophy from each worthy foe he has bested.
 
 **Demographics:** Male Spined Dragon
 
-**Appearance:** 
+**Description:** 
 Feathered spine. Head surrounded by a fan of golden horns with broad tips.
 
 5,000 years old. Rules over one of the handful of 'xhal settlements who retained alliance with dragons after the Dragon Empure crumbled.
@@ -593,7 +664,7 @@ Lives in a cave system under the flooded caldera of a dormant volcano.
 
 **Demographics:** Spined Dragon
 
-**Appearance:** 
+**Description:** 
 
 Every scale has been made into a different relief carving.
 Lives in Dragonhalls - child or granchiled of the founders. Between 1000 and 2000 years old.
@@ -608,7 +679,7 @@ Dragonhalls
 
 **Demographics:** Female Western Dragon(s)
 
-**Appearance:** 
+**Description:** 
 
 Young twin dragons living in Dragonhalls.
 Born to cousins.
@@ -631,7 +702,7 @@ Dragonhalls
 
 **Demographics:** Female ___ Dragon
 
-**Appearance:** 
+**Description:** 
 
 Young - around 400-500 years. 
 Born on Xuon, lair on one of the outlying islands.
@@ -658,7 +729,7 @@ Stored seperately, with a stasis enchantment delibratly designed so that it must
 
 **Demographics:** City Dryad
 
-**Appearance:** 
+**Description:** 
 About 6000 years old. First City Dryad to come into being.
 Diminished since fall of Aelmos, but still exceptionally powerfull.
 
@@ -694,7 +765,7 @@ The biggest danger to humans in its domain is starvation or thirst - while it ma
 
 **Demographics:** 
 
-**Appearance:** 
+**Description:** 
 
 
 

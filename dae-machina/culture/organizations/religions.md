@@ -26,11 +26,39 @@ Animal Spiritualism
 Elder fae occasionally show up as minor deities in myths
 Midh-fae mostly follow Midh religon, although venerate (Wolf-god) over the others.
 
+## Riftlanders
+
+Many riftlanders hold to the religion of their parents.
+
+### Children of the Rift
+
+Some have started a fairly popular folk religion venerating the riftscap itself, and featuring figures based upon Uon statues found in the ruins of their citadels.
+Central themes revolve around not falling victim to hubris, which is both thematically appropriate to the fallen Uon, and good advice for people who regularly venture into the most dangerous magical anomaly on Dael.
 
 
+## Xhal
 
+### Xeres Orthodoxy
+
+Founded on the concept that dragons are physical gods.
+Creation mythos are a retelling of the dragon war. Draconic leaders of various Xeres Empire cities feature in their own myths.
+Mostly extinct after fall of Xeres empire - Xeres Reborn have retained some of the trappings.
+
+Core themes are Dragons are superiour to humans and deserving of worship and tribute.
+
+#### 
+
+The religion of the Dragonhalls is technicaly an offshoot of the Xeres Orthodoxy, although they would be considered heretics by the Xeres.
+Much less severe than the Orthodoxy, and focused rather more on the founders of Dragonhalls, but retains many of the underlying myths.
+
+Core themes are Dragons are more powerfull than humans, so you should cooperate with them to build great works together.
 
 ## Other Mythological Figures
+
+### Eldar Ascended
+
+Many ancient immortals have become mythological figures in their own right.
+They are not usually worshiped directly, more often appearing in myths as folk heroes or bogeymen.
 
 ### Deities
 

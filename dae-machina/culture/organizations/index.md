@@ -11,18 +11,23 @@ Nations with a unified government spanning many cities.
 ### Empire of the Rising Sun
 
 Æl’dhal empire on the western continent. Run by an emperor and an array of councilors and bureaucrats. Has a powerful and well-organized army, with an equally powerful military cadre of mages. 
-Magic in the Empire is highly  is hihly institutionalized and regulated. Cut ties with the eastern continent during the Uon war.
+Magic in the Empire is highly is highly institutionalized and regulated. Cut ties with the eastern continent during the Uon war.
 
 Capitol: 山城 – Shānchéng - “City atop the Mountain”. 
 
 ### [Xhal Nations](./xhal_nations)
 (Æl’xhal and xhal’fae)
 Made of mostly separate tribes, lead by a clan chief. Larger settlements (such as the city of bridges) are led by a chief and a clan council.
-More civilized region near Quon Xi.
-Capitol: 水の上 都市 - Mizunoue Toshi - “City over Water”(City of bridges).
+The western reaches of Kita Lao are have been colonized by the Empire of the Rising sun, and are more uniform.
+
+#### City of Bridges
+Also known as 水の上 都市 - Mizunoue Toshi - “City over Water”
+Semi-independant city state marking the eastern edge of the Empire's control.
 
 #### Dragonhalls
 
+Built into and through the sides of a mountain chain in one of the central Kita Lau islands
+Founded during/after the dragon war, by a pair of dragons who mostly wanted to stay out of the whole thing, while still using the influence they had over their territory to protect the local humans.
 
 
 ### [Elyos Republic](./elyos_republic)
@@ -172,13 +177,14 @@ Sage of Life
 
 The Order of Sion is a clandestine organization of users of mental magic, scattered across Eoas and Middha.
 
-The order was founded at the height of the Uon-Eos war, as conflict with the Uon caused ever-increasing increasing distrust of all users of mental magic, driving the more notable practicioners 
-and their networks of like-minded mages underground.
-Originally, the primary goals of the order were the protection of any at-risk practitioners of mental magic, and preservation of their techniques.
-Even though they were distrusted or shunned by most, the order still worked towards Eaosan interests during the war, collecting military intelligence and damping Uon magic.
+The order as it exists today was borne out of the Uon-Eos war. The conflict with the Uon caused ever-increasing increasing distrust of all users of mental magic, 
+driving the more notable practicioners and their networks of like-minded mages underground. At the same time, the Eaos government saw the need to take advantage of such magic-users, as a contingency against the Uon.
+The combination of these pressures led to the formation of the order,  which would protect at-risk practitioners of mental magic, preserve their techniques, and support Elyos against the Uon.
+During the war, the order helped collect military intelligence and dampen Uon magic duiring assaults on Eaosian cities.
 
-In the aftermath of the war, the average Eaosian had not become any more accepting of mind magic, so the Order remained underground. Baring an external threat, the Order became ever more self-interested, 
-shifting their focus to political influence and espionage. The order now maintains agents in most major governments, subtly working to protect the order and expand its power.
+In the aftermath of the war, the average Eaosian had not become any more accepting of mind magic, so the Order remained underground. Baring an external threat, and preocupied by rebuilding everything destroyed during the 
+conflict, the Elyos Republic largely lost track of the Order, which became ever more self-interested, shifting their focus to political influence and espionage. 
+The Order now maintains agents in most major governments, subtly working to protect the Order and expand its power.
 In order to augment their resources, the order also pivoted slightly towards mercenary work - if you know the right person to contact, you may be able hire their unique talents for a considerable fee.
 This work mostly political machinations instigated by wealthy lords, but also encompasses the manufacture of scandals, general espionage, and influencing mariages among the high and mighty.
 
