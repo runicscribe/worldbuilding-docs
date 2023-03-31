@@ -1,6 +1,7 @@
 # Necromancy
 
 Necromancy refers to any usage of Animancy that manipulates the soul or essence of the (un)dead. The two primary applications of Necromancy are Imprinting and Soulbinding.
+In practice, most forms of necromrancy also incorporate enchanting (to make the effect permanent) and various physicall magics (to allow the imprint or soul to manipulate its body).
 
 ## Imprinting
 

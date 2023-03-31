@@ -5,6 +5,14 @@
 Across Dael, all people celebrate the six convergences in some way or another, with the full convergence held in particular regard. 
 The exact nature of such celebrations varies from culture to culture.
 
+### Midyear convergence
+
+The Uon cataclysm occured during the midyear convergence, so while in the past it may have been celebrated, this date has now become a day of mourning and remembrance for the nations most affected by both the Uon war and the 
+cataclysm itself. These groups include: The Elyos Republic, The Free Cities, the Riftlanders, the eastern 'xhal of Kita Lau, and any surviving 'xhal who were native to Uon, as well as most dragons, 
+as the cataclysm caused the largest number of Dragon deaths since the Dragon - Ael wars 5000 years ago.
+
+Quon Xi, Western Kita Lau, Mhidda, and the 'jinn principalities were all affected much less severely by both the war and the Cataclysm, so mostly still celebrate this date.
+
 ### Elyos Republic
 
 Week leading up to convergence - holiday, with grand feast following the solar eclipse.
@@ -57,16 +65,20 @@ Some especially persistant revelers try to keep going all the way through to the
 
 ### Xhal'fae
 
-Specifically celebrate eclipse during grand convergence, and the mid-year convergence.
+
+Rather than the lunar convergences, the main celestial events celebrated by the Xhal'fae are the lunar eclipses by the Darksun, which occur (...).
+They used to celebrate the week surrounding midyear convergence, as that marks a period where the moons do not appear in the night sky, but this has somewhat fallen out of favor of late, particularly among the 'fae native to Xuon, 
+as it now marks the aniversary of the Uon cataclysm.
 
 ### 'Jinn
 
-All six convergences are minor holidays for the 'Jinn principalities, with the great convergence of slightly higher importance than the others.
+All six convergences are minor holidays for the 'Jinn principalities, with the great convergence and midyear convergence both being of slightly higher importance than the others.
 
 
 ### Quon Xi and Kita Lau
 
-The western continents celebrate the renewal of the year on the eve of the great convergence, with additional celebrations in the two weeks folowing.
+Quon Xi cellebrates the renewal of the year for the two weeks following the great convergence. The actual day of convergence, marked by a total lunar eclipse, is a day of fasting and prayer.
+
 
 ## Tournaments
 
@@ -86,11 +98,11 @@ Group performances.
 
 ### Great Wyrm Games
 
-Ball game with two teams competing for sport. Originally began in the Xerxes Empire, with the losers fed to dragons
+Ball game with two teams competing for sport. Originally began in the Xerxes Empire, with the losers gifted to the dragons
 Ran annually, with city level competitions starting in the second month the year.
 Finals and Semifinals were held at Xerxes Capitol in the fifth month of the year.
 
-After fall of the empire, many individual Cities accross Xuon and eastern Kita Lau continued to hold games, althoguh mostly without the dragon sacrifice aspects.
+After fall of the empire, many individual Cities accross Xuon and eastern Kita Lau continued to hold games, althoguh (mostly) without the dragon sacrifice aspects.
 
 When the Xeres Reborn rose in the wake of the Uon cataclysm, they also brought back the more bloody aspects of the games, and added some twists of their own.
 More conventional versions of the games are still held across eastern Kita Lau. In both cases, they span rather less of the year, occuring across 2-3 months in the middle.

@@ -9,7 +9,7 @@ and can only influence others (many ensouled object and spirit ascended fall int
 A sufficiently powerfull Enchanter / Nullmage is often capable of killing the weakest of Ascended. Any stronger Ascended are extraordinarily difficult to kill, requiring the cooperation of many magic users or other Ascended. 
 Multiform ascended in particular are especially tenacious.
 
-After the lich wars of the middle Aeldar, ascended generally became less overt in their actions, so as to avoid another large-scale purge. Most now work from the shadows, or conduct their buisness in isolation.
+After the lich wars of the middle Aeldar, Easoian ascended generally became less overt in their actions, so as to avoid another large-scale purge. Most now work from the shadows, or conduct their buisness in isolation.
 
 Broadly speaking, all ascended become immortal by copying or binding their soul to an object or place. The more powerfull or magically inclined can also rewrite or copy their soul on the fly to jump between hosts.
 
@@ -19,12 +19,12 @@ to immortality. However, some of these may become true Ascended later in undeath
 Types:
 
 - Necromancers 
--- Liches - Ascended who have bound their soul into their own undead body.
+-- Liches - Ascended who have bound their soul into their own undead body. One of the easier paths towards ascension (though still quite difficult), with the main downside of being repulsive to living people.
 
 - Animancers
 -- Ensouled objects - Ascended who have bound their soul into an object; a weapon, book, piece of jewelery, or similar. Such ascended most commonly come about as a last resort of wizards in an unwinable situation, 
    and are usually relatively weak, only capable of influencing whomever posseses the object. If they remain in the possiesion of a single person long enough, they are usually able to take over that person entirely, 
-   and eventually constuct a more powerfull form.
+   and eventually construct a more powerfull form.
 -- Spirits (rare) - Ascended who have bound themselves to a location, or the Aether itself. They tend to be weak, and fragile, but entirely unconstrained by physical limitations (althogh those bound to a location are 
    constrained to remain in that location).
 

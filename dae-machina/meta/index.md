@@ -11,6 +11,10 @@ Volume = 4.928e20 m3
 Gravity is 8.445 m/s2 (0.86 of earth)
 Which gives density of 6165 kg/m3, 11.6% higher than earth; within acceptable bounds.
 
+## Cosmology
+
+Earth-centric layout, with a small, close, sun means that the sun's rays are less parallel than on earth and that dawn and dusk last longer.
+
 ## Chemistry
 
 Only 14 elements - 12 mundane, 2 magical.

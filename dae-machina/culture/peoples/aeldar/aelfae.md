@@ -8,7 +8,7 @@ Larger groups also exist, but only where resources are particularly plentiful, a
 Æl'fae have an average lifespan of 35-50 years. They reach physical maturity at age 9-10 if born in human form, or age 3-4 if born in animal form. They reach their adult size at around age 12 - 16 (regardless of birth form). 
 Æl'fae usually manifest their shapeshifting abilities shortly before they reach physical maturity. All types of Æl'fae tend to adopt many of the mannerisms and behaviors of the animal forms they favor. 
 Æl'fae do not have a shared spoken language. Instead, they communicate using a complex combination of vocalizations and body language similar to that used by the forms they favor 
-(with some modifications for expressing more complex concepts). This allows for communication between 'fae who are in animal forms, 'fae in human forms, and direbeasts. 
+(with some modifications for expressing more complex concepts). This allows for communication between 'fae who are in animal forms, 'fae in human forms, and direbeasts ('fae who were born in animal form and are unable to shapeshift). 
 Different groups of 'fae can usually understand each other reasonably well if their animal forms are similar. Fae who often interact with other disparate groups generally learn their language as well. 
 Many 'fae tribes can also speak the common human language(s) of the region they inhabit, especially if they regularily interact with humans.
 Like all Eldar, most High fae can speak a wide range of languages.
@@ -18,7 +18,10 @@ They are capable of healing from most injuries while shifting forms, but scars a
 Natural cycles like menses or heat will generally match what is normal for the form an individual is in, although there can be some bleed-over.
 Pregnacy inhibits the ability to shapeshift. Æl'fae who become pregnant in animal form will generally produce produce smaller litters than in natural animals. 
 
-Æ'fae social practices are usually loosly modeled on those of the animal form they favor. Various groups will also have their own unique cultural affects, like any other group of people.
+Æl'fae social practices are usually loosly modeled on those of the animal form they favor. Various groups will also have their own unique cultural affects, like any other group of people.
+The specific subspecies represented by the animal forms of the varuios 'fae tribes generally do not exist as mundane animals. Many of them did exist at one time, but were outcompeted by their 'fae counterpart, 
+or interbred with the fae so as to become indistinguishable. In either case, direbeasts were the primary driver for this dissaperance.
+Mundane and magical animals that are rather similar do exist. They are typically adapted to a slighly different ecological niche, or have some unique ability which puts them on a more even footing with the local 'fae.
 
 There are three main 'fae bloodlines, each originating from a different group of Ældar, along with a handful of offsoots:
 
@@ -38,7 +41,7 @@ differentiate animal-form 'fae from mundane animals, and acts as the underpinnin
 Direbeasts (usually family members of the tribe) of this animal also tend to follow the tribe. Daal'fae tribes tend to be about three-quarters natural shapeshifters, and one-fifth direbeasts, 
 with the remainder being 'fae in their humanoid form, that lack the ability to shapeshift.
 
-Daal'fae are found across Eaos and Sourthern Mhidda.
+Daal'fae are found across Eaos and Southern Mhidda.
 
 ### Cervid Tribes - Deer, Gazelle, Antelope, etc.
 
@@ -169,7 +172,7 @@ When moving sites, Hyena clans will take very little with them, instead collecti
 
 Clans subsist through hunting, scavenging, and gathering. The Hyena clans are found over a similar range to the lion tribes, although extending further north and west, into the more temeperate regions near the Free cities.
 They make little use of weapons, relying mostly on their powerful jaws when hunting, but will construct pit traps, sinkholes, and hobbles which they drive prey towards. They also set more passive traps, such as snares.  
-While hyenid 'fae will not hunt other sapient peoples, they have no issue scavenging the corpse of someone who is already dead. Certain clans also practice a form of ritualized cannabalism.
+While hyenid 'fae will not hunt other sapient peoples, they put great importance on not wasting anything, and they have no issue scavenging the corpse of someone who is already dead. Certain clans also practice a form of ritualized cannabalism.
 
 Some hyena 'fae practice magic, most often focusing on earth-shaping, psychometry, and/or necromancy.
 
@@ -283,33 +286,36 @@ the current situation rather than taking on a purely human or animal form.
 Xhal'fae are the newest, and most animalistic of all the fae lineages. They care little for modesty regardless of what shape they are in,
 and will hunt, kill, and eat just about anything that is not 'fae. Most Xhal'fae do not wear clothing, use tools, or build structures. 
 Xhal'fae 'clans' consist of a loosely organized group of individuals. Clan members tend to have their own dwelling, be it a cave, crevice, treetop nest, rudimentary hut or lean-to, or portion of ruins. 
-In case of outside threats, the group will usually elect a warleader (generally through physical competition) but otherwise clans have no specific leader). 
+In case of outside threats, the group will usually elect a warleader (generally through physical competition) but otherwise clans have no specific leader. 
 
 Xhal'fae are frequently polygamous and rather prolific. Romantic relationships usually consist of heterosexual pairs, but may consist of larger groups as well. 
 Relationships generally don't last longer than a few months to a year, and may or may not result in a child, although longer relationships are not unheard of. 
 As with most natural cat species, mothers usually raise their children alone (in part for the safety of the children) although may be assisted by other females.
 
-All Xhal'fae are competent hunters. Some have other specialized skills, including herbalists, craftspeople, and shamans. Unlike most other fae clans, Xhal'fae tribes often include several different feline species. 
-There are some slightly more 'civilized' tribes of Xhal'fae on the northeastern outskirts of the jungle. These 'fae often craft and wear jewelry made of gold, bronze, and various semiprecious stones, and live
-in modified ruins. Most Xhal'fae 'cities' are built in leftover Xeres or Uon ruins, and many Xhal'fae groups simply live in the wilderness.
-Some Xhal have also formed alliances with certain Xhal'fae clans, providing  periodic sacrifices in exchange for being otherwise undisturbed by the Xhal'fae.
+All Xhal'fae are competent hunters. Some have other specialized skills, including herbalists, craftspeople, and shamans. Unlike most other fae clans, Xhal'fae tribes often include members representing a variety of feline species. 
+There are some slightly more 'civilized' tribes of Xhal'fae on the northeastern outskirts of the Xuon jungle. These 'fae often craft and wear jewelry made of gold, bronze, and various semiprecious stones, and live
+in modified ruins. Aditionally, there are the Xencha Defiant in southern Xuon and southeastern Kita Lau, comprised of a mix of Xhal'fae and Ael'xhal.
 
-Few Xhal'fae ever take a fully human form, but those that do look similar to the 'xhal.
-Xhal'fae tribes tend to be about 70% natural shapeshifters, 20% direbeasts and 10% non shapeshifter humanoids, 
-although these retain the animalistic appearance of the preferred half-forms of their parents.
+Most Xhal'fae 'cities' are built in leftover Xeres or Uon ruins, and many Xhal'fae groups simply live in the wilderness.
+Some Xhal have also formed alliances with certain Xhal'fae clans, providing periodic sacrifices in exchange for being otherwise undisturbed by the Xhal'fae.
 
+
+Xhal'fae tribes tend to be about two-thirds natural shapeshifters and two-fifths direbeasts with the remainder comprised of non shapeshifter humanoids, which retain the animalistic appearance of the typical Xhal'fae humanoid form.
 A small number of Snow-leopard and tiger Xhal'fae can be found in the mountanous areas of Quon Xi. While they still keep to a fairly austere lifestyle, they tend to retain more of the trappings of civilization - 
-cloths, architecture, tools, etc. - than the 'fae of Kita Lau
+clothes, architecture, tools, etc. - than the 'fae of Kita Lau.
 
-During the Uon wars, most Xhal'fae got very good at masking their presence from magic, and many modern Xhal'fae now have some form of magic resistance or evasion as a natural savant ability.
+During the Uon wars, most Xhal'fae got very good at masking their presence from magic, and as a consequence, many modern Xhal'fae naturallu have some form of magic resistance or evasion.
 
 ### Xhao'fae
-An ancient offshoot of the Xhal'fae who mimic hexapede lizards, found across Kita Lau, and occasionally along east cost of Quon Xi. 
-Normally appear as 4 to 4 1/2 foot tall humanoid reptilians with four arms, a long tail, and a line of feathers running down their spine.
+
+Xhao'fae are an ancient offshoot of the Xhal'fae who mimic hexapede lizards, found across Kita Lau, and occasionally along the west cost of Quon Xi. 
+They normally appear as 4 to 4 1/2 foot tall humanoid reptilians with four arms, a long tail, and a line of feathers running down their spine.
 Despite being much shorter than most humans, the extra limbs and tail mean they weigh about the same. Unlike most 'fae, Xhao'fae have no inherent shapeshifting ability. 
 The only remanants of their fae ancestry are the ability to form and dismiss webbing between their digits for swimming, and membranes between their limbs for gliding.
 Additionally, magic-users among them retain a natural affinity for shapeshifting, so Xhao'fae shamans and mages often learn how to shapeshift.
-Xhao'fae civilization is most similar to that of the Ael'xhal, although they have a tendancy to build higher up in the trees. Despite their reptillian form, Xhao'fae are still fertile with other Aeldar.
+Xhao'fae civilization is most similar to that of the Ael'xhal, although they have a tendancy to build higher up in the trees. 
+
+Despite their reptillian form, Xhao'fae are still fertile with other Aeldar, though less so than with other Xhao'fae. Children of such pairings most often look like their mother.
 
 ## Thal'fae
 
@@ -334,17 +340,19 @@ body. Relatively civilized compared to the Xhal'fae, often wear jewelry and wiel
 Often have good relations with the Xhao'fae.
 
 ### Deep Fae
+
 A more primal offshoot of the Daal'fae, these 'fae live northeast of the Dragonspine mountains, and rarely come into contact with civilized peoples. 
 They spend most of their time in full animal form and rarely take human form. For the most part they are indistinguishable from direbeasts. 
-Deep Fae tribes are about 30% natural shapeshifters and 70% direbeasts. 
-Tribes include Deer, Cougar, Bear, and Wolf. The Queen of Ravens makes her home in the territory of the Deep Fae.
+Deep Fae tribes are about one-third natural shapeshifters and two-thirds direbeasts. Tribes include Deer, Cougar, Bear, and Wolf. The Queen of Ravens makes her home in the territory of the Deep Fae.
+Because the wild regions where they live are quite extensive, and are not inhabited by any other sapient peoples apart from dragons, the Deep fae have a rather large population relative to other fae groups, 
+comprising about one fifth of all 'fae.
 
 ## High fae
 High fae are incredibly powerful shapeshifters capable of taking any number of forms at will. 
 High fae are effectively immortal due to their shapeshifting magic, and generally have no 'true' form, although often have a preferred form. 
 High fae are quite rare, and most are from the age of the Ældar, before the modern fae tribes were formed, and as such are rather different than modern fae. 
 
-Unlike the High 'jinn, High 'fae rarely take part in modern 'fae society.
+Unlike the High 'jinn who regularly live among modern 'jinn, High 'fae rarely take part in modern 'fae society.
 
 ## Fae Cities
 
