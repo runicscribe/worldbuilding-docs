@@ -207,7 +207,7 @@ Like the hyena 'fae, the canid tribes muzzle shape makes them incapable of speak
 The canid 'fae body language is better understood by other 'fae tribes than the hyenid language, so this isn't much of an issue among the Daal'fae caravans or the shifter commune in southwest Eaos, 
 but it does make relations with the Ael'daal a bit more challenging. Despite these limitations, the canid tribes are enthusiastic and social enough that they don't let this get in the way.
 
-The canid 'fae that do live among the Ael are concentrat in the free cities, and most often work as dockhands, barge handlers, guards, and similar, where eloquent communication is not strictly necessary. 
+The canid 'fae that do live among the Ael are concentrated in the free cities, and most often work as dockhands, barge handlers, guards, and similar, where eloquent communication is not strictly necessary. 
 Most learn a local Ael'daal sign language dialect as their primary means of communication, and many also learn to write the writen language of the region. 
 This is usually supplemented by poor, barked imitations of a small number of spoken Ael words. 
 

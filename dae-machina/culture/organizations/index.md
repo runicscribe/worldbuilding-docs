@@ -6,9 +6,16 @@ Nations with a unified government spanning many cities.
 ### Empire of the Rising Sun
 
 Æl’dhal empire on the western continent. Run by an emperor and an array of councilors and bureaucrats. Has a powerful and well-organized army, with an equally powerful military cadre of mages. 
-Magic in the Empire is highly is highly institutionalized and regulated. Cut ties with the eastern continent during the Uon war.
+Magic in the Empire is highly is highly institutionalized and regulated. Ceased communication with the eastern continent during the Uon war.
 
 Capitol: 山城 – Shānchéng - “City atop the Mountain”. 
+
+The southeast region is the hearland of the empire, extending well into the mountains.
+The central-southern valleys have been part of the empire since the first dynasty, and at this point are culturally very similar.
+The westmost island of Kita Lau has been part of the empire for a similar amount of time, although it is still quite culturally distinct, especially the east coast.
+The northern reaches of the continent were only absorbed during the early part of the second dynasty, and there are still some tensions between this region and the heartland. The western plains are likewise a recent addition.
+
+Northern reaches were absorbed by the empire in the early period of the second dynasty. 
 
 ### [Xhal Nations](./xhal_nations)
 (Æl’xhal and xhal’fae)
@@ -24,6 +31,8 @@ Semi-independant city state marking the eastern edge of the Empire's control.
 Built into and through the sides of a mountain chain in one of the central Kita Lau islands
 Founded during/after the dragon war, by a pair of dragons who mostly wanted to stay out of the whole thing, while still using the influence they had over their territory to protect the local humans.
 
+Both founders died fighting the Uon - one in 1,600 BC, driving off their incursion into Kita Lau, and the the other in 90 BC, fighting alongside the 'daal.
+As a consequence, Dragonhalls and most of western Kita Lau has emerged largely unscathed from Uon expansionism.
 
 ### [Elyos Republic](./elyos_republic)
 
@@ -127,19 +136,61 @@ Because the weather of the Riftscape tends towards warm with frequent monsoons, 
 Due to the blasted landscape, materials are scarce. Leather and hide are commonly used, cotton is reasonably common, and the more prosperous residents use silk. 
 Adventurers usually prefer a durable outfit that is predominantly leather. Merchants usually wear some combination of a shirt, lose trousers, kimono, sari, sarong, usually in silk or cotton. 
 
+There is a substantial cultural gap between the first generation of Riftlanders, who lived through the Uon Cataclysm, and the younger generations, who did not.
+
 #### Underhill Crater
 
 Capitol of the Riftlanders, insomuch as they have one - at any rate, the largest and wealthiest of the Riftlander cities.
 Old Uon Citadel, in the center of a large, floating piece of stone.
 
+### Dragon's Teeth Selkies
+
+An isolated selkie population living on the Dragon's Teeth. 
+The isles themselves are mostly barren, so the selkies subsist almost entirely on seabirds and other sealife.
+This results in a very different culture than the mainland selkies.
+
+#### White Scale Selkies
+
+The White Scale Selkies are the largest community of Selkies on the Dragon's Teeth. 
+The hunt island-whales, along with more typical prey. This results in rather different hunting practices and technology than other selkie communities, with more involvment from human-form selkies in boats. 
+They have a unique relation with a dragon inhabiting the islands; after killing and processing an island-whale, they will set up a signal fire on it's carcass, atracting the dragon, who will gorge itself on the remainder.
+Meanwhile, a seperate group sneaks into the dragon's lair to scavenge treasure. The dragon is fully aware this is happening, and deliberately set up a decoy room with less valuable things for the selkies to scavange, 
+considering this fair trade for not having to do any work hunting (Although any selkies who get a little too greedy are still at risk of lethal reprisal).
+
+### Sach'ean Diarchy
+
+South of 'jinn peninsula.
+The main chain of four islands is jointly ruled by Ael'daal and Merfae monarchies. There are a handfull of other inhabited islands in the vicinity that are culturally similar, but not really under the rule of the diarchy.
+Name is a portmanteau of the names for the specific groups of Merfae (Sache) and the 'daal (Dalean) people inhabiting the islands. 
+
+Fairly isolated. Occasional contact with 'jinn and more westerly islanders, but that's about it.
+Mix of 'daal and merfae population. Cities are tightly integrated, extending below-water.
+Small but advanced civilization, though missing a few advancements post first-era Daal
+
+### Enjat-Tehktun Alliance
+
+Formerlly the Tehktun Islands Collective
+Closer to riftscape.
+Only some of the islands here are inhabited.
+Mix of 'daal and 'xhal, and a very small number of Xhal'fae and merfae
+Bit more communitcation with mainland, mostly Riftlanders (and previously, indhabitants of the now-destroyed group of large islands near the coast). 
+Largely unscathed by the Uon-Daal war, but took quite a bit of damage (and many refugees) during the Uon Cataclysm.
+
 
 ### Mage Settlements
 There exist various secluded settlements that are populated by like-minded mages that want to be free to practice their magic without interference from “civilized” society. 
 This is most common with less socially accepted magic (such as necromancy), or magic that produces significant physical and psychological changes (animal shapeshifting).  
-Less common are settlements of elemental sorcerers and powerful savants, who tend to use powerful, dangerous, and unpredictable magic (some such individuals instead seek out the Ael'jinn, who are more capable of handling their abilities). 
+Less common are settlements of elemental sorcerers and powerful savants, who tend to use powerful, dangerous, and unpredictable magic 
+(some such individuals instead seek out the Ael'jinn, who are more capable of handling their abilities). 
 Many other mages also live reclusively (perhaps with an apprentice), especially those involved in esoteric magical research, particularly research that involves experimentation on creatures, elementals, undead or humans.
 
-#### [Necromancer's County](./necrocounty)
+
+#### Eaosian Mage Settlements
+
+Most Eoasian Mage Settlements have at least some connection to the AoMMA, and are typically between 200km and 1500km from the academy - close enough that it is still reasonable to get rare supplies from Arcmuth or Kenford, 
+but not so close that the Academy interferes with their business.
+
+##### [Necromancer's County](./necrocounty)
 
 This small township is populated almost entirely by undead, who have all been animated by three journeyman necromancers.
 
@@ -149,6 +200,27 @@ are rather moral and refrain from murder, theft, and most other illegal activiti
 In addition to the three founders, the county has various accolytes, mostly necromancers (usually closer to the moral side of the alignment scale), and a few agricultural mages and non-mage researchers.
 
 Many of the mages involved in this settlement spent some time at the AoM&MA, and several also spent time in the Free Cities.
+
+##### The Radical Form Society
+
+Collection of mages with at least some shapeshifting talent, who consider common expectations of appearance limiting. Many have only very basic cosmetic shapeshifting talents, so most residents have a humanoid shape, 
+even if they have an otherwise unconventional appearance.
+Large number of 'fae and 'jinn, including quite a few of Ester's lineage.
+Second-largest 'jinn community west of the principalities, after the Hollow Cities.
+Possibly the most visually diverse group in all Dael.
+
+Hosts a medium-sized multidisciplinary mage school, 
+
+Construct farm, trade with daal'fae caravans.
+
+
+##### Cult of the Fleshhaper
+
+Led by a powerful Chimeric shapeshifter
+Shifting to overcome human limitations
+Dose of the grotesque to isolate members from the wider world and force them to live within the cult.
+Most accessible source of high-level biomagic in Eaos
+
 
 ## Other Organizations
 

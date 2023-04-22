@@ -92,6 +92,54 @@ Maintains a private laboratory some ways outside of Arcmuth. Maintains a couple 
 **Affiliations:** 
 AoM&MA, Arcmuth.
 
+<h4>Old Aeldar Liches</h4>
+
+**Name:** Raethe
+
+**Demographics:** Male Old Aeldar Lich
+
+**Description:** 
+
+Necro-elementalist. First known human mage to artifically create furies. Competent necromrancer and potent flame elementalist.
+Capable of binding minor elementals to his will. Achieved partial lichdom by fusing his soul with a fire elemental.
+At the height of his power, Raethe shared his body/mind/soul with several elementals and furies, and was completely insane.
+
+Imprisoned during the lich wars, by (TBD)
+
+
+**Affiliations:** 
+
+----------------
+
+**Name:**
+
+**Demographics:** Male Old Aeldar Lich
+
+**Description:** 
+Golemancer, and apprentice of the original council of mages who first discovered lichdom.
+Joined one of the splintered city-states formed during the colapse of the old Aelmos empire, and began prodicing golems for their armies.
+His physical body was killed during combat, but he was able to permanently bind his soul to the golem he was controlling. Proceded to become a warleader for the army, and continued to craft golems.
+
+Killed/Destroyed by (TBD)
+
+**Affiliations:** 
+
+----------------
+
+**Name:**
+
+**Demographics:** 
+
+**Description:** 
+
+One of the Old Aelmos Empire's chief necromancy researchers. Skilled in animancy, enchanting, and encantation. Eventually became a lich and assumed control of the bulk of the empire's armies.
+Responsible for imprisioning or otherwise disabling a significant number of liches during the war and related skirmishes.
+
+
+**Affiliations:** 
+
+----------------
+
 
 <h3 id="aelfae">Æl'fae</h3>
 
@@ -634,7 +682,7 @@ Hoards victories. Keeps a trophy from each worthy foe he has bested.
 
 ----------------
 
-**Name:**
+**Name:** Atrefax Goldcrest
 
 **Demographics:** Male Spined Dragon
 
@@ -652,6 +700,23 @@ Lives in a cave system under the flooded caldera of a dormant volcano.
 **Affiliations:** 
 
 
+
+----------------
+
+**Name:** ____ Whitescale
+
+**Demographics:** Tundra Dragon
+
+**Description:** 
+
+Young tundra dragon - between 300 and 500 years living on the westernmost of the Dragon Teeth isles.
+Symbiotic relation with the selkies of the isle - feats on carcasses of the island-whales and other great sea-creatures they hunt, and in return gifts them some pittances from hoard.
+
+Extremely athletic, and often travels the 1000 km between the isles and northern Quon Xi to raid, typically spending about a week away from the isle.
+
+
+**Affiliations:** 
+Whitescale Selkies
 
 ----------------
 

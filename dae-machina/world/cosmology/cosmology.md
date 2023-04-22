@@ -45,10 +45,10 @@ Due to this, it is extremely rare on Dael and seldom lasts for long.
 ### Darksun
 
 Composed of "Darkstone", a brittle, opaque black crystal that excludes arcana and aether. This material is durable, but explodes violently if damaged, releasing a burst of arcana.
-The Darksun excludes all light, and is only known about due to the lunar eclipses it causes.*
-* These are always acompanied by a planetary lunar eclipse, so even this may not be sufficient. Perhaps magical effects?
+The Darksun excludes all light, appearing black in color. Because it orbits opposite the Brightsun, the Darksun is only every found in the night sky, 
+and is only observable when it obscures the background stars as they move through the night sky. Mages may also percieve the magical effects of the moon, especially during lunar eclipses. 
 
-
+As a consequence, the Darksun is only really known by astronomers, mages, and scholars, and not by common folk.
 
 ### Auroras
 
@@ -67,28 +67,34 @@ This convergence coincides with a lunar eclipse by the Darksun. The exact time o
 ### Aurum
 Composed entirely of gold. 
 Orbital period of 36 days. Orbits approx 3.676e8 m from the planet. Sky diameter of 9.4'.
+Eclipsed by Dael (and the Darksun) once every 7.17 days, with 36 eclipses a year. 
 
 ### Argent
 Composed entirely of silver. 
 Orbital period of 63 days. Orbits approx 5.339e8 m from the planet. Sky diameter of 6.4'.
+Eclipsed by Dael (and the Darksun) once every 6.69 days, with 38 eclipses a year.
 
 ### Alkyne
 Composed entirely of copper. 
 Orbital period of 84 days. Orbits approx 6.468e8 m from the planet. Sky diameter of 5.3'.
+Eclipsed by Dael (and the Darksun) once every 6.39 days, with 40 eclipses a year.
 
 #### Eclipses
 
-In addition to the eclipse at the start of the year, each of the moons are eclipsed by the Darksun every 6 to 7 days.
-Full eclipses only occur within 5 degrees of the equator, and last about 10 minutes.
-Between 5 and 8/9/11 degrees (depending on the moon), there are partial eclipses, and past 11 degrees, there are no eclipses.
+In addition to the eclipse/convergence at the start of the year, each of the moons are eclipsed by Dael every 6 to 7 days, for a total of 112 per year (counting the convergence as a single event).
+These eclipses last aproximately 3 hours, and are visible at any lattitude.
 
-Occur every 7.17 / 6.69 / 6.39 days (Aurum / Argent / Alkyne, respectively), for XXX per year, worldwide.
-However, since the moons are not always visible in the night sky (spending half their time on the opposite side of the planet), the actual number of observable eclipses from any given location is less than half this number, 
-and does not follow nearly as regular a schedule. There can be up to 21 days between eclipses, and up to 35 days between eclipses of the same moon.
-The shortest and largest gaps both appear near convergences, when all the moons are close together in the sky.
-Because the Brightsun orbits exactly opposite the Darksun, lunar eclipses are always acompanied by a planetary eclipse, which lasts up to three hours, and can be seen from any lattitude.*** verify this ***
+Since the moons are not always visible in the night sky (spending half their time on the opposite side of the planet), the actual number of observable eclipses from any given location is around 52, 
+and does not follow an especially regular schedule.
 
- 
+There can be up to 35 days between visible eclipses of the same moon, and up to 21 days between visible eclipses of *any* moon. 
+Furthermore, since each moon is eclipsed on a slightly different cadence, there is no minimum time between eclipses of two different moons.
+The convergence at the start of the year is the only time all three are eclipsed at once, but there are other times throughout the year with as little as four hours between two different eclipses.   
+
+Because the Brightsun orbits exactly opposite the Darksun, eclipses of one of the moons by Dael always coincide with an eclipse of the same moon by the Darksun, which lasts about 10 minutes, 
+and is only visible within 10 degrees of the equator (beyond that, it appears as a non-overlapping convergence instead). Since this event is so much shorter than the planetary eclipse, it is are effectively invisible, 
+and only detectable through fluctuations in Aether and Arcana.
+
 ## Wandering Stars:
 
 Beyond the two suns and three moons, there are seven more well-defined celestial bodies. Their motions are less predictable, but still follow distict paths.

@@ -26,7 +26,7 @@ coincides with a full alignment of the three moons.
 | Month | Common Name (Eaos) | Old Aeldar Name | Translated Name | Convergence events |
 |-------|--------------------|-----------------|-----------------|--------------------|     
 | 1     | Divergence         | Enkha           | 'Birth'         | Full convergence at day 0 |
-| 2     | Tekahd             | Akta            | 'Honor'         | Gold/Copper convergence at day 27 |
+| 2     | Tekhad             | Akta            | 'Honor'         | Gold/Copper convergence at day 27 |
 | 3     | Severence          | Sesenth         | 'Forgetfullness'| Gold/Silver convergence at day 12 |
 | 4     | Midkan             | Hanta           | 'Truth'         | Gold/Copper convergence, and Silver anticonvergence at day 18 |
 | 5     | Senescence         | Esheth          | 'Secrecy'       | Gold/Silver convergence at day 24 |

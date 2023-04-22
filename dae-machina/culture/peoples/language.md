@@ -29,7 +29,7 @@ Glossary
 | Astus         | Guile |
 | Roburus       | Strength |
 
-Most modern Ael languages are based in aldar, but most have diverged substantially.
+Most modern Ael languages are based in aeldar, but most have diverged substantially.
  
 The 'jinn language is the closest to the origional Aeldar, and uses to the same script.
 

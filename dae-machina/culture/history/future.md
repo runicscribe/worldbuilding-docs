@@ -115,3 +115,22 @@ Underlying space tech slowly converges on magically manufactured but otherwise m
 
 
 
+## 1000 AC
+
+Global portal system (major cities only)
+Terraforming and weather-control magical
+Extremely sophisticated contructs (still not sapient, but very clever)
+ - Some rare cases show beginnings of true sapience
+ 
+
+Artifice
+ - Ubiqutous magelitghts and refrigeration
+ - Hoversleds for short-distance travel and transport
+ - Personal-enhancment enchantments (speed, durability, strenght) considered mundane
+ - Hardsuits / Golems used for heavy labor
+
+Some number of unbound souls exist alongside mortal populace.
+
+Strained relatiosn with 'fae, dryads, and some dragons and ascended.
+Various magical wastelands and hazard zones.
+Elementals are a significant problem in some places.

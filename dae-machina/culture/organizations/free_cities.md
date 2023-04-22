@@ -42,8 +42,56 @@ that would be difficult to pass through Eosport or Haven. Rarely, this includes 
 
 The common wisdom is that you can get anything in Blackport, for the right price.
 
-The main city of Blackport is on a crescent-shaped rocky isle at the mouth of the river delta, and is not directly connected to the mainland. The surrounding swamps are quite difficult to traverse, making the city especually isolated.
+The main city of Blackport is on a crescent-shaped rocky isle at the mouth of the river delta, and is not directly connected to the mainland. The nearest coast is full of impassible swampland, making the city especually isolated.
 There are some fishermen and farmers along the banks of the river, but Blackport primarilly relies on trade for food.
+
+Most of Blackport's residants live on the inner edge of the isle. At the midpoint is the Citidel, where the Lord of Blackport and supporting functionaries live and work.  
+
+### The Lord of Blackport
+
+There is a great deal of politicking and backstabing within the Citadel, so the Lord of Blackport changes fairly frequently.
+They tend to be primarly skilled in politics and espionage rather than magic or force of arms.
+
+The Lord of Blackport has direct authority over the Shadowsteel Guard and Citadel Staff.
+Typically goes about robed and masked when outside the citadel, so than no-one outside the guard and staff know quite how often leadership of the city changes.
+
+### Shadowsteel Company
+
+The Shadowsteel Company is a mercenary company based out of Blackport. While their services are for-hire, they are still largely under the control of the Lord of Blackport.
+The company is equiped with magic-blocking black-iron armor and weapons. They are primarly outfitted with crossbows and halberds.
+
+#### Shadowsteel Guard: 
+
+A branch of the Shadowsteel Company permanently garissoned on Blackport. Members of the company are recruited into the guard based on their loyalty.
+They guard the Citadel, and control entry into Blackport Harbor.
+
+### Citadel Staff
+Network of clerks, bureaucrats and officials that manage finances, tarrifs, and city operations, as well as facilitating off-island smuggling and procurement through bribes, espionage, and blackmail.
+Reports directly to the Lord of Blackport. Most Lords of Blackport are killed by and sourced from the Citadel Staff.
+
+### Yellowjackets
+Blackport Harbor Guard. Collects tarifs and maintains order. 
+Nominally a branch of the Citadel Staff, though the two groups do not really get along with each other.
+
+### Free-traders Association
+Loosly organized collective of pirate captains, established to provide greater negotiating power with the Citadel. Controlls piracy, smuggling, and transport to and from the citadel.
+
+### Professional's Office
+An independant guild which manages sourcing and contracting assasinations, kidnapping, high-value theft, and other ilicit services
+
+### Records and Tarrifs Office
+
+A large, and fairly brazen guildhouse for the Order of Sion.
+While it still functions and presents as a records and tarrifs office, it's identity is very much an open secret.
+It is not the largest Order of Sion office, but it is definitely the least hidden.
+
+### Guild of Dock and Warehouse Workers
+A rather well-organized laborer's union, whose power hinges on control of the warehouses (and their contents).
+They are tolerated by the citadel because they can play the guild off of the free-traders association to avoid either group establishing too much power.
+
+### Hospitality Guild
+Collective of inkeepers with control over inns and lodging, but also safehouses, trafficking, and prostitution.
+Loosly allied with the Free-traders association, with the goal of minimizing Citadel interference.
 
 ## Haven
 
