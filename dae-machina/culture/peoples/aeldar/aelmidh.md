@@ -35,5 +35,5 @@ Notable Æl'míð nations:
 * scrivesblodh/scraelsblodh )
 * Hollow mountains - Æl'míð and Æl'jinn city in a hollowed out mountain. More southerly than most Æl'míð cities.
 * Drakkar - Barbarian clans
-* Mountain strongholds - Best smiths.
+* Futhern Dal - Mountain strongholds - Best smiths.
 

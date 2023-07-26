@@ -13,9 +13,9 @@ Capitol: 山城 – Shānchéng - “City atop the Mountain”.
 The southeast region is the hearland of the empire, extending well into the mountains.
 The central-southern valleys have been part of the empire since the first dynasty, and at this point are culturally very similar.
 The westmost island of Kita Lau has been part of the empire for a similar amount of time, although it is still quite culturally distinct, especially the east coast.
-The northern reaches of the continent were only absorbed during the early part of the second dynasty, and there are still some tensions between this region and the heartland. The western plains are likewise a recent addition.
-
-Northern reaches were absorbed by the empire in the early period of the second dynasty. 
+The northern reaches of the continent were only absorbed during the early part of the second dynasty, and there are still some tensions between this region and the heartland. 
+The northenmost communities are still effectively independant.
+The western plains are likewise a recent addition, and are treated more as a colony than as an integrated part of the Empire.
 
 ### [Xhal Nations](./xhal_nations)
 (Æl’xhal and xhal’fae)
@@ -87,7 +87,7 @@ Primary exports are gems, metals, and magically shaped tools and art. Import a s
 
 ### [Shapeshifter Commune](./shapeshifter_commune)
 
-Built on ruins of an old Aeldar city, fairly deep into a swampy jungle.
+Built on ruins of an old Aeldar city (Elysium), fairly deep into a swampy jungle.
 Founded by a couple groups of Daal'fae, as a sanctuary for the fae.
 Often used as a rest stop by nomadic Daal'fae tribes.
 Over the years, the settlement has collected an eclectic assortment of fae inhabitants who felt they didn't fit in with their original family, but also didn't feel comfortable in the non-fae Ael cities 
@@ -165,7 +165,8 @@ Name is a portmanteau of the names for the specific groups of Merfae (Sache) and
 
 Fairly isolated. Occasional contact with 'jinn and more westerly islanders, but that's about it.
 Mix of 'daal and merfae population. Cities are tightly integrated, extending below-water.
-Small but advanced civilization, though missing a few advancements post first-era Daal
+Small but advanced civilization, though missing a few advancements post first-era Daal, and lacking access to certain materials. One notable example is few reliable sources of high-quality gemstones - 
+while some can be found in the active volcanic regions of the isles, these are too dangerous to mine reliably. This greatly limits the production of enchanted items.
 
 ### Enjat-Tehktun Alliance
 
@@ -273,29 +274,8 @@ See Free Cities: Kenford
 Initially founded during the Ældar civilization. Dedicated to maintaining peace and order. Members are generally skilled in encantation and clairvoyance. The Il’vos were responsible for creating the first stable darkstones. 
 The Il’vos were mostly wiped out in a war with the Uon 1000 years before the cataclysm. However, the remnants of the Il’vos have begun to rebuild their organization.
 
-## Former Nations
+## [Former Nations](./former_nations)
 
-### Uon Collective
-
-
-
-### Xeres Empire
-
-<< Reword to hint at beginnings of empire >> Ancient 'xhal empire formed in the wake of the Dragon war, and based around venerating dragons as gods.
-Only really becane a true empire a few hundered years after the war, as individual settlements consolidated power.
-
-Large cities adorned in gold.
-Sacrifice of gold, gems, livestock, and sometimes humans. (At central temple - step pyramid, but octagonal or circular)
-
-At its peak - continent-spanning trade, agriculture
-Tall spires and gliders (augmented by draconic magic?).
-Sub-nations divided by which dragon's teritorry they live in (Xuon - hosted 100 - 300 dragons total during this time period)
-
-Started to fall appart due to internal rebellion around 3100 BC
-Xhal'fae rose out of crumbling empire, as many of the rebelling 'xhal reverted to smaller settlements deep in the jungle
-
-Last vestiges of the empire fell in conflict with expanding Uon Collective.
-
-Some hidden enclaves inhabiting the ruins of the Empire's once-great cities still keep to the old ways, but no longer have the connectedness of a true empire
+As history has wound its ways, many nations have rose and fell. Most have left their mark on Dael in one way or another.
 
 

@@ -8,5 +8,8 @@ This caused a magical overload across the Uon species, and threw the magical ene
 
 Since the Uon share a collective conciousness, individual personalities tend to be rather subtle, but do exist.
 
-The Uon culture is somewhat hierachical, with the majority of the population comprised of menials/workers, responsible for agriculture, construction, and powering large magical workings. The higher echelons of this hiearchy are include overseers, researchers, and focci for magical workings (enchanters, architects, priests/magi, and warlords).
+The Uon culture is somewhat hierachical, with the majority of the population comprised of menials/workers, responsible for agriculture, construction, and powering large magical workings. 
+The higher echelons of this hiearchy are include overseers, researchers, and focci for magical workings (enchanters, architects, priests/magi, and warlords).
 Uon also take slaves of other peoples for use as basic menial labor.
+
+The Uon communicate telepathically, and do not have a spoken language.

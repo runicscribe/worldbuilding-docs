@@ -159,7 +159,7 @@ Magecraft is seen as a worthy occupation among the lion tribes, and the larger t
 ### Hyena Clans
 
 The hyenid tribes have the most animalistic in appearance of all the daal'fae when in their humanoid form, looking more or less like a hyena walking on its hind legs, albiet with slightly more humanoid proportions.
-They have long arms, short legs, a long torso, and a slightly hunched posture. They can comfortably run on four legs in their humanoid form, but are still capable of shifting to a full hyena form.
+They have long arms, short legs, a long torso, and a slightly hunched posture. They can comfortably run on all four limbs in their humanoid form, but are still capable of shifting to a full hyena form.
 
 Hyena clans are quite consistently sized, and are almost always comprised of between thirty and one hundred indiviudals. They are matriarchal, and very hierarchical.
 The core or the group is the matriarch and her immediate adult blood relations. Next in the hierarchy are any unrelated female adults, followed by the matriarch's mate, and then any adult males.
@@ -174,7 +174,10 @@ Clans subsist through hunting, scavenging, and gathering. The Hyena clans are fo
 They make little use of weapons, relying mostly on their powerful jaws when hunting, but will construct pit traps, sinkholes, and hobbles which they drive prey towards. They also set more passive traps, such as snares.  
 While hyenid 'fae will not hunt other sapient peoples, they put great importance on not wasting anything, and they have no issue scavenging the corpse of someone who is already dead. Certain clans also practice a form of ritualized cannabalism.
 
-Some hyena 'fae practice magic, most often focusing on earth-shaping, psychometry, and/or necromancy.
+Some hyena 'fae practice magic, most often focusing on earth-shaping, psychometry, and/or necromancy. 
+Hyena Necromancers tend to be just as good at quieting the undead as raising them, and may temporarily raise fresh carcasses as a way of more easily transporting their meat.
+
+High rate of birth by caeserian section. Tend to be very good at it. Large number of Hyena 'fae that do live among other Aeldar are employed as midwives.
 
 The hyena 'fae language incorporates a lot of vocalizations, and is almost entirely unpronuncable by non-hyenids. Hyena 'fae are also incapable of making many of the sounds necessary to speak other Ael languages.
 This, coupled with their rather bestial appearance, means they pretty consistantly avoid human settlements, and even other 'fae. They sometimes interact with the Canid tribes, who can communicate somewhat well with them, 
@@ -335,8 +338,10 @@ There are also a few small groups of unique 'fae not directly related to any of 
 
 
 ### Merfae
-Serpentfish shapeshifters most often found around Kita Lau Often use a half-form with a fishlike tail and a humanlike
-body. Relatively civilized compared to the Xhal'fae, often wear jewelry and wield fishing spears or tridents. Otherwise most similar to the 'xhal and Xhal'fae
+Serpentfish shapeshifters most often found around Kita Lau, and in the southern Eaos isles.
+Much like the Xhao'fae, they cannot shift between forms, and instead remain in a half-form with a fishlike tail and a humanlike body, including gills along their neck and torso.
+Many Merfae mages do learn shapeshifting abilities, but they most often tend towards chimeric shapeshifting, taking on characteristics of various deep-sea beasts.
+Relatively civilized compared to the Xhal'fae, often wear jewelry and wield fishing spears or tridents. Otherwise most similar to the 'xhal and Xhal'fae
 Often have good relations with the Xhao'fae.
 
 ### Deep Fae

@@ -486,7 +486,7 @@ Skin of blue-veined marble. Eyes, nails, teeth, and interior all consist of amet
 ----------------
 <h4 id="halfjinn">Dai'jinn</h4>
 
-**Name:**
+**Name:** Mira
 
 **Demographics:** Female Ael'daal / Fire dai'jinn
 
@@ -511,6 +511,8 @@ Short black hair, with a moustache and goatee. Olive skin, orange eyes.
 Mostly skilled at fire evocation, poor transmutation skills.
 
 Scoundrel and wanderer, with a firey temper.
+
+Father of Mira
 
 
 **Affiliations:** 

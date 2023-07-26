@@ -64,9 +64,10 @@ Gathering every 756 years
 
 ## Types of Dragons:
 
-There is a great degree of variety in the apperances of individual dragons. Despite this, the Ael typically try to classify dragons into five types, based on common groups of characteristics.
-These are not distinct species (all dragons are fertile with each other), and don't always follow from parent to child as one might expect - incidental mountain dragon genes from a couple of generations up the family tree 
-(which, given the lifespan of dragons, could be thousands of years ago) might suddenly show up in the child of two plains dragons. Some dragons also show a mix of traits.
+While all true dragons are a single species, their is a gread deal of variety in their individual apperances. 
+The Ael typically try to classify dragons into five types, based on common groups of characteristics. These groups are not especially reliable, and features don't always follow from parent to child as one might expect - 
+incidental 'mountain dragon' genes from a couple of generations up the family tree(which, given the lifespan of dragons, could be thousands of years ago) might suddenly show up in the child of two 'plains dragons'. 
+Many dragons show a mix of traits from these categories. Some dragons also use magic to further alter their appearance.
 
 ### Gold / Horned / Plains Dragon
 

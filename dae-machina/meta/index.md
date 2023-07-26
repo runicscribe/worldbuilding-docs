@@ -57,3 +57,12 @@ City of bridges / other regions near Quon Xi are more like Korea / Japan
 Ael'Midh - Mix of Celtic, Norse, Medival Europe, and Fantasy Dwarf inspirations.
 
 Old Ael - Egypt/Babylon/Mesopotamia
+
+## Language
+
+Old Aeldar - Latin based
+
+## Dragons
+
+All one species, but extreemely varies in appearance - much like dogs in that respect 
+Rather being caused by domestication and specialization (as is the case with dogs), this was instead caused by a mix of dynasty-building alongside shapeshifting and other appearance-affecting magic. 

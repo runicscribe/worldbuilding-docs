@@ -133,7 +133,9 @@ in which case they merge with that person.
 
 "Gods" - Similar to "Heroes". Many ascended tend to meld with god elementals. Draw power from belief.
 
-High ElementalsHigh elementals include any elementals that can be considered sapient.
+# High Elementals
+
+High elementals include any elementals that can be considered sapient.
 These include Gyldraed, Vylderythe, and Greater Elementals.
 
 ## Ancients
@@ -143,11 +145,11 @@ intelligent and have massive and powerful forms, such as mountains,
 hurricanes, or ocean currents. They are rare, and generally lie dormant
 for centuries at a time.
 
-### Gyldraed
+## Gyldraed
 
-Gyldraed are manifestations of a distinctive and enduring location such
+Gyldraed, sometimes called Anima, are manifestations of a distinctive and enduring location such
 as an ancient forest grove, mountain peak, spring, lake, valley,
-crystal cavern, etc. They generally take a humanoid or animal form
+crystal cavern, etc. When interacting with people, they will manifest an avatar, taking the shape of a humanoid or animal
 crafted from the material of their domain. The actual form of a
 Gyldraed technically includes their entire domain; as such it is
 impossible to separate or even distinguish between a Gyldraed from its
@@ -158,10 +160,30 @@ domain; if a Gyldraed's domain is destroyed or desecrated, they will
 weaken and die. Gyldraeds act as guardians and caretakers of their
 domain and its residents.
 
-### Vyldarche
+### City Gyldraeds
+
+Especially old Ael settlements may sometimes manifest a Gyldraed. This happens very rarely, with less than a dozen known city Gyldraeds.
+They are eccentric and mercurial, even by the standards of other elementals. They are also highly varied in their demeanour and habits. Some are personable, and regularly interact with their inhabitants. 
+Others are more secretive, and do not interact directly, but may secretly guide or guard certain individuals who live in their domain.
+
+
+### Severed
+
+Very rarely, a Gyldraed may persist after the destruction of its domain. This produces a Severed, an entity somewhere between an elemental and an undead.
+Severed appear as a large elemental mass in constant flux, with the main goal of bringing revenge down upon whatever destroyed its domain. Upon achieving this goal, they typically dissipate.
+
+Unlike a Gyldraed, they are ambulatory, and leave the land in their wake twisted and distorted.
+Like Gyldraed, they can manifest a humanoid avatar to interact with people, though they rarely do so.
+
+## Vyldarche
 
 Vyldarche are smaller elementals of humanlike size and intelligence.
 They are primarily wanderers that constantly seek out new places and
-experiences. Of all elementals, Vyldarche are the only ones that have
-regular interactions with other sapient peoples.
+experiences. They have a wide range of appearances, typically mimicking the general shape of some living thing, be it Ael or beast.
+Vyldarche are very rare, though they seem to be immortal. No one knows how they come into being.
+Of all elementals, Vyldarche are the only ones that have regular interactions with other sapient peoples.
+
+## Revenant Furies
+
+A rare type of fury formed from a dying Ael (or Dragon). While sapient, they tend to be quite hostile due to the nature of their creation.
 
