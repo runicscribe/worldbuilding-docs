@@ -1,22 +1,19 @@
 # Daal'fae Caravans
-Among the Daal'fae, there are a number of large nomadic caravans that follow fairly rigid paths across certaon sections of Eaos.
+Among the Daal'fae, there are a number of large nomadic caravans that follow fairly rigid paths across certain sections of Eaos.
 
-Size varies from extended family (30-50) to very large - some basically travelling towns, with thousands of members.
-Largest caravans are southeast of great river. Northwest caravans used to be larger, but were displaced by redistribution of Elyos Republic during Uon war.
+They vary in size from a single extended family (30-50) to the population of a small town, with thousands of members.
+The largest caravans are found southeast of the great river. The northwest caravans used to be larger, but were displaced by redistribution of Elyos Republic during Uon war.
 
-Maintain fairly rigid routes, following path that takes 3 - 9 months (108 - 324 days) to complete.
-Includes established meeting points with other caravans to exchange news and goods. 
-Due to different travel lengths, cadence of actual meetups is not always every round trip
+Individual caravans maintain fairly rigid routes, following paths that typically take between 3 and 9 months (108 to 324 days) to complete.
+These routes usually include established meeting points with other caravans to exchange news and goods. Due to varying circuit lengths, the cadence of such meetings varies, and meetups don't necessarily happen every circuit.
 
+Within the caravan, each day's travel activities include gathering food and other resources from the nearby wilderness. Over the course of generations, most caravans have done some simple cultivation of food crops, 
+so the wilderness around there routes is particularly bountiful.
 
-Days travel consists of gathering food and other resources from the wilderness.
-Elders mostly stay on carts (pulled exclusively by direbeasts or shifted members), performing light work like making or mending cloths or tools.
+The elderly and infirm members of the caravan are typically carried on carts (pulled exclusively by direbeasts or shifted members), performing light work like making or mending cloths or tools.
 At night, wagons are arranged into semicircles to form a walled camp. 
 
-While the caravans mostly gather resources from wild crops, over the years these have been intentionally cultivated and seeded to some degree, across many curcuits of the caravan.
-
-
-Primarily consist of various Cervid tribes, as the Canine and Feline Daal'fae are less nomadic, primarily inhabbiting semi-permanent settlements throughout the great plains.
+Most caravans are primarly made up of Cervid Daal'fae, as the Canine and Feline Daal'fae are less nomadic, primarily inhabbiting semi-permanent settlements throughout the great plains.
 
 ## Largest Caravans
 
@@ -58,6 +55,8 @@ When their schedules align also meets up with Crescent Route (Irregular cadence,
 Less traditionalist than the Great Plains Tribe, but otherwise quite similar.
 
 The Center inlands tribe in particular has generally poor relations with the local Ael'daal, as the caravan route runs straight through the Elyos heartland, and each group considers the other to be stealing from their land.
+This bad blood has a [long history](../daal_history), and at this point is deeply entrenched in both communities.
+
 The 'fae will harvest whatever crops they find without care for Elyos land boundaries. Meanwhile, the Elyos will often threaten violence if they find the 'fae on their land.
 The more surly or superstitious farmers will string up butchered deer carcasses whenever a caravan is in the area, in the hope of warding the 'fae away.
 

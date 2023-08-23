@@ -117,7 +117,7 @@ Eaos - Quon Xi by sea:
 The cultures of Dae'machina use a wide variety of currencies.
  
 Sustinence-based cultures mostly care about utility - does it have real value in and of itself.
-Barter economies, grain, livestock, and similar are most common here.
+Barter/favor economies, grain, livestock, and similar are most common here.
 
 Plain metal currencies lie in an interesting spot - they do often have intrinsic value, but a substantial part of this value comes from its magical capabilities.
 With this comes many opportunities for counterfeiting - both mundane and magical. Magical counterfeiting is particularly troublesome, 
@@ -154,11 +154,11 @@ Most transactions among the Futhern Dhal use sized gemstones and gemstone dust, 
 Given that this is a value based currency, it is accepted by most larger institutions outside of the Futhern Dhal, but not by many smaller businesses that cannot readily handle raw gemstones.
 
 Some strongholds also mint their own coinage, consisting of gemstones embedded a metal coin or token stamped with their mass.
-The Futhern Dhal also buy furs and meat from the Wolf 'fae in return for high quality tools and weapons.
+The Futhern Dhal also buy furs and meat from the Midh'fae in return for high quality tools and weapons.
 
 ### Lost Cities ('jinn)
 
-Since all 'jinn have at least some magical ability, they mostly natural-cut gemstores, often infused with arcana. At the highest value tier is stabilized starfire crystals. 
+Since all 'jinn have at least some magical ability, they mostly use natural-cut gemstores, often infused with arcana. At the highest value tier is stabilized starfire crystals. 
 Since this currency is mostly valuable to mages, it is generally not used outside the Lost Cities. For external commerce, the 'jinn usually use raw gemstones and minerals.
 
 ### Empire of the Rising Sun
@@ -166,23 +166,25 @@ Since this currency is mostly valuable to mages, it is generally not used outsid
 The Empire of the Rising Sun prints a paper currency with a special alchemical formulation and sealed with royal blood. 
 This currency can be verified using enchanted spectacles and is only accepted inside the Empire.
 
+Outside the heartland of the empire a wide variety of less secure currencies are used, mostly various forms of coinage.
+
 ### Other
 
-Few fae societies have any form of economy. Those that do mostly use barter, although some Daal'fae caravans will keep a stock of Eoasian and Free cities currency. 
+Few fae societies have any form of economy. Those that do mostly use barter/favor economies, although some Daal'fae caravans will keep a stock of Eoasian and Free cities currency. 
 Selkies sometime use pearls and discs of abalone as a simple currency, and the lizad Xhal'fae of Kita Lau share currencies with their Xhal neighbors 
 Some Xhal'fae also trade in jewelry and ancient coinage found in ancient Aeldar ruins.
 
-Dragons don't really have a currency, instead operating mostly on favors.
+Dragons don't really have a currency, instead operating mostly on favors (though many do still hoard stocks of Ael currencies and other valuables).
 
 ## Science
 
-See also world/science, for how things actually work.
+See also [World: Science](../../world/science), for how things actually work.
 
 Eaos and Empire of the Rising Sun are most developed in physical and chemical sciences (although the Futhern Dhal have the best metallurgy, and the 'jinn are pretty knowledgeable in that respect as well).
 'jinn Principalities are actually quite far behind in this respect, given their infrastructure is almost entirely built on magic.
 Xencha Defiant have some of the best non-magical medical knowledge in the world, especiually pharmaceuticals.
 
-### Chemistty
+### Chemistry
 
 Chemical knowledge is in a roughly alchemical era. Base elements and most chemicals are known, but are not well-differentiated
 
@@ -203,7 +205,7 @@ Mundane treatment methods and pharmaceuticals are quite primitive, but even a no
 
 ### Cosmology
 
-Everyone knows Dael is the center of the universe, surronded by a sun and three moons.
+Everyone knows Dael is the center of the universe, surrounded by a sun and three moons.
 The learned are familiar with the darksun and outer planets, as well as the fact that these are composed some of the common elements.
 Nature of the outer regions of the system is less well understood. Some (falsely) theorize there may be more planets / moons to far away to be visible, which embody other (non-elemental) compounds. 
 

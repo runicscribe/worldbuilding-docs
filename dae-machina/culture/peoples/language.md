@@ -137,3 +137,27 @@ Still simpler than fae cants. Used as a common language in the Shapeshifter comm
 Has also picked up some use among different fae caravans as a trade language.
 
 Use of ear signals means its not really usable by Ael.
+
+## Draconic
+
+The draconic language exists in both spoken and written forms, though the spoken form is used only rarely, as most dragons communicate through telepathy.
+
+## Ancient Draconic Script
+
+The first shared draconic language rose in the aftermath of the first dragon war.
+Prior to this, some dragons did invent their own mutually unintelligble languages for reasoning and keeping records. This practice has continued into the modern era, though invented languages are now mostly used only by the more secritive or eccentric dragons. 
+This shared language took a while (a few millenia) to catch on, and even then, was primarily used as a formality during rare gatherings. Both spoken and writen draconic has evolved significantly in the many million years since it was developed. 
+Through the draconic accords, knowledge of this original written form has been preserved, but many intermediate forms have been lost to time.
+It is not known if Ancient Dragonic ever had a spoken form - if so, it has not survived into the modern form.
+
+The script itself is comprised of runes that are easily carved using claws.
+
+## Contemporary Draconic Script
+
+The contemporary draconic script has been in use for the past hundred-thousand years or so. It has a rather more abstract appereance than Ancient Draconic, and many more symbols.
+It is similar to the Draco-Xerec script, but still visibly and structurally different. 
+
+## Spoken Draconic
+
+Spoken draconic infrequently used, and not all dragons know it. It is most often used as a courtesy in places where three or more dragons live in one place.
+There are several regional dialects of spoken Draconic.

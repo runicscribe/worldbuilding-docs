@@ -40,7 +40,7 @@
 - 10,000 BC 
   - Various hunter-gather societies move further inland. 
     - ☇ Some Ældar migrate futher north, forming the precursor to the Æl‘mið civilization.
-    - ☇ Other hunter-gatherer tribes begin to develip shamanic shapeshifting abilities, forming the forerunners of the 'fae.
+    - ☇ Other hunter-gatherer tribes begin to develop shamanic shapeshifting abilities, forming the forerunners of the 'fae.
     - ☇ Some of the more nomadic / adventurous tribes among the southwestern fishing villages migrate to the equatorial isles, forming the forerunners of the 'xhal.
 - 8,000 BC
   - ☇ Some Æl‘mið migrate west across the Dragonspine land bridge, forming the Æl'thal civilization. Offshoot of this group settles on the Runesea Isles.

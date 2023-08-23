@@ -724,12 +724,126 @@ Whitescale Selkies
 
 **Name:**
 
-**Demographics:** Spined Dragon
+**Demographics:** Dragon
+
+**Description:** 
+
+
+**Affiliations:** 
+Dragonhalls
+
+----------------
+
+**Name:**
+
+**Demographics:** Dragon
+
+**Description:** 
+
+
+**Affiliations:** 
+Dragonhalls
+
+----------------
+
+**Name:**
+
+**Demographics:** Dragon
+
+**Description:** 
+
+
+**Affiliations:** 
+Dragonhalls
+
+----------------
+
+**Name:**
+
+**Demographics:** Dragon
+
+**Description:** 
+
+
+**Affiliations:** 
+Dragonhalls
+
+----------------
+
+**Name:**
+
+**Demographics:** Dragon
+
+**Description:** 
+
+
+**Affiliations:** 
+Dragonhalls
+
+----------------
+
+**Name:**
+
+**Demographics:** Dragon
+
+**Description:** 
+
+
+**Affiliations:** 
+Dragonhalls
+
+----------------
+
+**Name:**
+
+**Demographics:** Female Plated Dragon
+
+**Description:** 
+
+Daughter of Lord Ironfire. 
+Born 3700 BC. Grew up around humans, in Ironfire citadel.
+Started travelling outside the city at 200, and had quite an adventurous few years.
+
+Settled down in Dragonhalls in 2600, shortly before the start if the conflict between the Uon and Xhal.
+
+
+**Affiliations:** 
+Dragonhalls
+
+----------------
+
+**Name:**
+
+**Demographics:** Dragon
+
+**Description:** 
+
+
+**Affiliations:** 
+Dragonhalls
+
+----------------
+
+**Name:**
+
+**Demographics:** Dragon
+
+**Description:** 
+
+
+**Affiliations:** 
+Dragonhalls
+
+----------------
+**Name:**
+
+**Demographics:** Male Spined Dragon
 
 **Description:** 
 
 Every scale has been made into a different relief carving.
-Lives in Dragonhalls - child or granchiled of the founders. Between 1000 and 2000 years old.
+Lives in Dragonhalls - child of current leader and a Spined dragon she met in Xuon (or the Enjat peninsula?). Never met his father.
+Born in 2600 BC.
 
 **Affiliations:** 
 Dragonhalls
@@ -758,6 +872,53 @@ Dragonhalls
 
 ----------------
 
+**Name:**
+
+**Demographics:** Dragon
+
+**Description:** 
+
+
+**Affiliations:** 
+Dragonhalls
+
+----------------
+
+**Name:**
+
+**Demographics:** Dragon
+
+**Description:** 
+
+
+**Affiliations:** 
+Dragonhalls
+
+----------------
+
+**Name:**
+
+**Demographics:** Dragon
+
+**Description:** 
+
+
+**Affiliations:** 
+Dragonhalls
+
+----------------
+
+**Name:**
+
+**Demographics:** Dragon
+
+**Description:** 
+
+
+**Affiliations:** 
+Dragonhalls
+
+----------------
 
 
 **Name:**

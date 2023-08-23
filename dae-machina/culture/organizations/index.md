@@ -26,7 +26,7 @@ The western reaches of Kita Lao are have been colonized by the Empire of the Ris
 Also known as 水の上 都市 - Mizunoue Toshi - “City over Water”
 Semi-independant city state marking the eastern edge of the Empire's control.
 
-#### Dragonhalls
+#### [Dragonhalls](./dragonhalls)
 
 Built into and through the sides of a mountain chain in one of the central Kita Lau islands
 Founded during/after the dragon war, by a pair of dragons who mostly wanted to stay out of the whole thing, while still using the influence they had over their territory to protect the local humans.
@@ -174,7 +174,7 @@ Formerlly the Tehktun Islands Collective
 Closer to riftscape.
 Only some of the islands here are inhabited.
 Mix of 'daal and 'xhal, and a very small number of Xhal'fae and merfae
-Bit more communitcation with mainland, mostly Riftlanders (and previously, indhabitants of the now-destroyed group of large islands near the coast). 
+Bit more communitcation with mainland, mostly Riftlanders (and previously, inhabitants of the now-destroyed group of large islands near the coast). 
 Largely unscathed by the Uon-Daal war, but took quite a bit of damage (and many refugees) during the Uon Cataclysm.
 
 
