@@ -7,12 +7,12 @@ Individuals of note from the various peoples of Dae'machina
 * [Ældar](#aeldar)
   * [Æl'daal](#aeldaal)
   * [Æl'fae](#aelfae)
-  * [Æl'jinn](#aeljinn)
+  * [Æl'jinn](./aeljinn)
   * [Æl'mið](#aelmidh)
   * [Æl'thal](#aelthal)
   * [Æl'xhal](#aelxhal)
   * [Mixed-blood](#aelmixed)
-* [Dragons](#dragons)
+* [Dragons](./dragons)
 * [Elementals](#elementals)
   * [Gyldraed](#gyldraed)
   * [Vyldarthe](#vyldarthe)
@@ -20,6 +20,20 @@ Individuals of note from the various peoples of Dae'machina
 
 <h2 id="aeldar">Ældar</h2>
 
+**Name:**
+
+**Demographics:** Ael Spirit (Natural Revenant)  
+
+**Description:** 
+
+Librarian Spirit.
+Ancient. Resides in the Great library in the City of the Rising Sun.
+
+
+
+**Affiliations:** 
+
+----------------
 
 <h3 id="aeldaal">Æl'daal</h3>
 
@@ -92,6 +106,72 @@ Maintains a private laboratory some ways outside of Arcmuth. Maintains a couple 
 **Affiliations:** 
 AoM&MA, Arcmuth.
 
+----------------
+
+
+**Name:**
+
+**Demographics:** M Ael'Daal
+
+**Description:** 
+
+One of the founding members of the Necromancer County
+
+Primarly an agricultural/weather mage. Not skilled in necromancy. 
+
+Handles most of the public interactions and offloading of surplus crops. Quite moral, handles the necromancer county as an excellent scientific opportunity.
+
+
+**Affiliations:** 
+Necromancer County. AoMMA
+
+----------------
+
+**Name:**
+
+**Demographics:** F Ael'daal with shapeshifter heritage.
+
+**Description:** 
+
+Formerly high level animancy researcher at AoM&MA, who has since moved on to expirimental necromancy. Skilled in most applications of animancy, and is a strong shapeshifter. 
+Barring graverobbing and 'desecration' of corpses, generally moral.
+
+One of the founding members of the Necromancer County
+
+**Affiliations:** 
+Necromancer County, AoMMA, Sandwalker Hyena Tribe
+----------------
+
+**Name:**
+
+**Demographics:** F Ael'daal
+
+**Description:** 
+
+Archivist for the Order of Sion.
+
+Based in the Great Library in Eaosport.
+Has a magiacally supplemented memory.
+
+**Affiliations:** 
+Order of Sion
+----------------
+
+
+**Name:** Ael'syi Council
+
+**Demographics:** Ael'daal Spirit Revenant Gestalt 
+
+**Description:** 
+
+Spirit gestalt, comprised of a several Aeldar minds that ascended as a group during the Aelmos civilization (3500 BC). 
+They have no physical form, and a distributed arcane form. Sometimes help promising wizards ascend, absorbing them into the gestalt. 
+Patron of Knowledge and Learning. Capable of inducing prophetic or teaching dreams.
+
+**Affiliations:** 
+
+----------------
+
 <h4>Old Aeldar Liches</h4>
 
 **Name:** Raethe
@@ -145,6 +225,22 @@ Responsible for imprisioning or otherwise disabling a significant number of lich
 
 * [Queen of Ravens](./aeldar/queenofravens)
 
+**Name:** Sage of Life
+
+**Demographics:** Elder Ael'fae
+
+**Description:** 
+
+Ancient shapeshifter, who has lived a lifetime as (almost) every living thing. Knowledge of (and ability to shapeshift into) nearly all living things.
+
+About 7000 years old.
+
+**Affiliations:** 
+
+Eldar council
+
+----------------
+
 **Name:**
 
 **Demographics:** Genderfluid Panther Xhal'fae
@@ -170,376 +266,68 @@ Parents returned to Quon Xi, they made there way to Blackport in their early tee
 
 ----------------
 
+**Name:** Tala Wolfborn
 
-
-<h3 id="aeljinn">Æl'jinn</h3>
-
-<h4 id="highjinn">High jinn</h4>
-
-**Name:** Enthu, the Eternal
-
-**Demographics:** Agender Eldar 'Daal
+**Demographics:** F Midh'fae Direbeast
 
 **Description:** 
+Tala was born to a group of otherwise normal wolves that had some Mid’fae ancestry, and raised by them, as any other wolf.
+As she got older, Tala realized she was significantly smarter than her lupine family.
+After reaching adulthood (a few years later than her wolf siblings, as is normal for a direbeast), she set left the pack to try and discover why she was different.
+After surviving an especially harsh winter, she eventually stumbled upon an Ael'midh castle in southwest Mhidda.
 
-Dark, brown-grey skin, bald, and androgynous. Indeterminate Age. 
-Mineral veins show through their few wrinkles. Nails appear to be made of polished gold. Looks otherwise human.
+She befriended Conrayd, a young lord of the castle, who named her Tala, and would often read out loud to her in the evening. 
+For some time, Conrayd, and most people who met the two of them, thought she was just an especially large dog.
+For her part, Tala began developing feelings for Conrayd.
 
-(One of) the only founders to remain an active leader of the 'jinn through their entire history. Currently resides in New Aelmos as the nominal monarch of all 'jinn.
-Patron of Earth.
+One day, Tala finally discovered her latent shapeshifting abilities, and turned into an Ael woman for the first time.
+Using fragmented Futhern, picked up from when Conrayd would read to her, Tala explained her history, and her feelings for Conrayd.
+Conrayd, for his part, was surprised, but had heard of the Midh'fae, so still found her story belivable.
 
+The two of them kept Tala's human form a secret for some time, while Conrayd taught her to speak and read better, and to write.
+After some time of this, they engineered a way for Tala to meet Conrayd in public in her human form, followed by a public courtship and eventual marriage.
 
-**Affiliations:** 
+Conrayd has since taken over the castle from his parents, and the two of them now jointly rule it.
+At some point, Tala's shapeshifting ability came out. By this time, the two of them were well-liked enough that it didn't cause too much of a fuss. 
+However, most people think Tala is a magic-user who can transform into a wolf, and not the other way around.
 
-----------------
+Tala still spends much of her time in wolf form.
 
-**Name:** Weth, the Bounteous
-
-**Demographics:** Male Eldar 'Daal
-
-**Description:** 
-
-
-Typically maintains the form of a muscular, dark-skinned male 'daal, much the same as how he appeared at 35.
-Barechested, with waist-wrap of blue silk and copious jewelry of bronze and other materials.
-
-
-Origionally a weather-mage, more skilled in elementalism than shapeshifting. Already a skilled mage during the exodus from Aelmos, and helped ensure their success. Eldest of the four patrons, and the most prolific.
-Patron of water. Parent of Talsar.
-
-In the current age, nominal overseer of the 'jinn principalities agriculture and climate, although in practice others run the day-to-day operations, he mostly only intervenes during crises.
-Normally, he spends time travelling between cities to attend various high-society events, and mentoring younger 'jinn. Still quite attached to earthly pleasures - food, sex, etc., unusually so for an Eldar.
-
-Retains immense talent in weather and water magic from his youth. Now also skilled in healing magic, and various forms of transmutation (although still not especially skilled in shapeshifting).
- 
-
-**Affiliations:** 
-
-----------------
-
-**Name:** The Stoneshaper
-
-**Demographics:** Male Earth 'jinn / Chimeric Shapeshifter
-
-**Description:** 
-
-Normally appears as a 9 foot tall centaur chimera formed from sandstone or marble, with a humanoid torso, and the heads of mythical beasts at the base of his torso.
-Other times, takes the form of a sandworm, with a humanoid torso in place of a tongue.
-Unique among chimeric shapeshifters in that he is just as adept at shaping limbs from stone as from flesh, or converting between the two.
-Also unusually capable at changing his size, mostly because spare stone is a lot easier to acquire than spare flesh.
-
-One of the few non-Dragons who can and does use petrification magic.
-
-Was a protoge of the shaper of new Aelmos, some hundered years after the founding of the city.
-
-**Affiliations:** 
-
-----------------
-
-
-
-<h4 id="modernjinn">Contemporary 'jinn</h4>
-
-
-
-**Name:** Dawn
-
-**Demographics:** Female Air 'jinn
-
-**Description:** 
-
-Invisible body (comprised of tighly-controlled air) with hair like cumulous clouds, lit by an inner radience
-Often wears a thin white gown.
-
-Grandaughter of Typhoon.
-
-**Affiliations:** 
-
-----------------
-
-**Name:** Aurora
-
-**Demographics:** Female Water 'jinn
-
-**Description:** 
-
-Hair consists of precisely shaped ice shards that precisely refract light, shading them with a brilliant array of colors
-Body is a mix of water and more ice shards. 
-
-**Affiliations:** 
-
-----------------
-
-**Name:** Neptune
-
-**Demographics:** Male Water 'jinn
-
-**Description:** 
-
-Lives in Sea's Bounty and rarely leaves the ocean. When above-water, looks like the crest of the breaking wave. When underwater, nearly invisible. 
-
-**Affiliations:** 
-
-----------------
-
-**Name:** Michael
-
-**Demographics:** Male Earth 'jinn
-
-**Description:** 
-
-Body consists of white marble veined with raw gold. Has perfectly-rendered hair and beard of pure gold.
-
-
-**Affiliations:** 
-
-----------------
-
-**Name:** Waterfall
-
-**Demographics:** Agender hybrid (Earth/Water/Air) 'jinn
-
-**Description:** 
-
-Ancient. Appears as a collection of floating rocks pouring water. Not discernably humanoid.
-
-
-
-**Affiliations:** 
-
-----------------
-
-**Name:** Shoal
-
-**Demographics:** Female Water 'jinn
-
-**Description:** 
-
-360 years old, with a body fully comprised of water.
-Usually acompanied by two or three levitating spheres of water, each containing a different live tropical fish.
-Body also often contains some number of fish. Also wears fine silks, color coordinated with the fish of the day.
-
-"High-society" jinn. Maintains homes in New Aelmos, Sea's Bounty, and the City in the Clouds. Travels among the various 'jinn cities frequently, generally going wherever events of note are happening.
-
-
-**Affiliations:** 
-
-----------------
-
-**Name:** Umbra
-
-**Demographics:** Female Celestial 'jinn
-
-**Description:** 
-
-Celestial jinn with a body of stars and shadow.
-Usually wears a robe of grey, black, and purple, with bronze ornamentation.
-Carries a trio of small blades tied to the end of purple silk tassels.
-
-270 years old. Has been the lead spymaster of the Ael'jinn military for the past 150 years.
-Strong proponent of raising the celestial 'jinn to the same level of social recognition and political power as the four main families.
-
-
-**Affiliations:** 
-
-----------------
-
-**Name:** Arctis
-
-**Demographics:** 
-
-**Description:** 
-
-Skin of water, hair of frost
-
-**Affiliations:** 
-
-----------------
-
-**Name:** Gemini
-
-**Demographics:** 
-
-**Description:** 
-
-
-
-**Affiliations:** 
-
-----------------
-
-**Name:** Pyrite
-
-**Demographics:** 
-
-**Description:** 
-
-
-
-**Affiliations:** 
-
-----------------
-
-**Name:** Typhoon
-
-**Demographics:** Male Air 'jinn 
-
-**Description:** 
-
-Hair and beard appears to be comprised of white clouds.
-The rest of his body is a pillar of stormclouds, with no discernable arms.
-
-Wears a White cloak that turns to cloud at its edges, and a tassled belt.
-Carries four broad-tipped scimitars, which he levitates when wielding them.
-
-**Affiliations:** 
-
-----------------
-
-**Name:** Kaohi
-
-**Demographics:** Female Fire / Earth 'jinn
-
-**Description:** 
-
-Fase is sculped marble. Body is pure fire, but tightly controlled.
-Hands are encased in segmented basalt.
-
-Typically wears a red robe enchanted to be be fireproof, bronze jewelry, and wields a Katana.
-Grandaughter of Uriel.
-
-**Affiliations:** 
-
-----------------
-
-**Name:** Uriel
-
-**Demographics:** Male Fire 'jinn
-
-**Description:** 
-
-Body of pure fire, with a large pair of flaming wings.
-Torso ends in a long tail of fire instead of legs
-
-Wears a bronze chestplate sculpted to look like a muscular torso, a blue and gold shoulder-wrap, a white robe, and a golden halo.
-Wields a two-pointed spear with an ever-burning flame in its center.
-
-**Affiliations:** 
-
-----------------
-
-**Name:**
-
-**Demographics:** Female Fire 'jinn / Water 'jinn (Fire dominant)
-
-**Description:** 
-Twinn of. 
-
-
-**Affiliations:** 
-
-----------------
-
-**Name:**
-
-**Demographics:** Female Fire 'jinn / Water 'jinn (Water dominant)
-
-**Description:** 
-Twin of.
-
-
-
-**Affiliations:** 
-
-----------------
-
-**Name:** Dervish
-
-**Demographics:** Female Fire 'jinn
-
-**Description:** 
-
-Young but talented Fire jinn.
-Lower half is usually a vortex of flame.
-Head and upper torso is that of an olive-skinned Ael. 
-Hair also consists of flame.
-
-Can transform entirely into a flame vortex, and move quite rapidly in this form.
-Does not yet have the ability to transport objects, or clothing in this vortex form, so often goes around clad in nothing but her flames.
-Will sometimes wear a gold and ruby torc and matching bracers.
-
-**Affiliations:** 
-
-----------------
-
-**Name:** Unknown
-
-**Demographics:** Female Earth jinn
-
-**Description:** 
-
-Skin of blue-veined marble. Eyes, nails, teeth, and interior all consist of amethyst.
-
-
-**Affiliations:** 
-
-----------------
-<h4 id="halfjinn">Dai'jinn</h4>
-
-**Name:** Mira
-
-**Demographics:** Female Ael'daal / Fire dai'jinn
-
-**Description:** 
-
-Red hair, which catches fire when she feels strong emotions. Generally poor control over her abilities
-
-Raised by a single mother (Ael'daal). Lost control of her 'jinn powers in her early teens, accidently burning down her home and killing her mother.
-
-Wears a fairly skimpy outfit of (fireproof) salamandar leather and dragonhide, and carries a singed oaken staff. Also has a melted metal neclace, her only memento from her youth.
-
-**Affiliations:** 
-
-----------------
-
-**Name:**
-
-**Demographics:** Male Fire dai'jinn
-
-**Description:** 
-Short black hair, with a moustache and goatee. Olive skin, orange eyes.
-Mostly skilled at fire evocation, poor transmutation skills.
-
-Scoundrel and wanderer, with a firey temper.
-
-Father of Mira
-
-
-**Affiliations:** 
-
-----------------
-
-**Name:**
-
-**Demographics:** Female Ester's Lineage 'jinn / Chimeric shapeshifter
-
-**Description:** 
-
-In her most personable shape, looks like an olive-skinned Aeldar of indeterminate lineage.
-Opaque black ooze covers her body from collarbones to the ground, miming the form of a black dress, and extending into the ground itself, innundating the earth and filling cracks between stone.
-In this manner, she carries quite a bit of biomass with her, like most chimeric shapeshifters, albiet in a concealed way.
-This guise does not really work well far to the north, where the ground is impermeable due to permafrost, or in any other locations covered in an impenetrable surface.
-
-Her specuialty is shaping disconected body parts out of her ooze - eyes, teeth, tentacles, etc.
-She can also spread her body over fairly large areas - up to a couple kilometers in diameter - in order to keep an eye or an ear on things. However, she is not a full multiform shapeshifter. 
-
-A little over 200 years old.
 
 **Affiliations:** 
 
 ----------------
 
 <h3 id="aelmidh">Æl'mið</h3>
+
+**Name:** Conrayd
+
+**Demographics:** M Ael'midh
+
+**Description:** 
+Conrayd is the heir to one of the smaller Furthern Daal Protectorates of the Elyos republic, in southwest Mhidda.
+
+One afternoon in his late teens, while out hunting, Conrayd encountered an unusually friendly wolf.
+
+Conrayd took this wolf as a pet, naming her Tala, and the two quickly became inseperable. From then on, Conrayd was most often seen with Tala by his side 
+(though most people thought her to be an especially large dog rather than a wolf)
+
+One evening, while Conrayd was alone in his room with Tala, she finally discovered her latent shapeshifting abilities, and turned into an Ael woman for the first time.
+Conrayd learned how she was born a direwolf, but sought out civilization to discover why she was smarter than her lupine siblings. 
+While surprised, Conrayd knew about the Midh'fae from his studies, and told Tala about them.
+
+While Conrayd did not have any initial feelings for Tala (having thought she was just a wolf), it didn't take long for him to start returning her affections.
+
+The two of them kept Tala's human form a secret for some time, while Conrayd taught her to speak and read better, and to write.
+After some time of this, they engineered a way for Tala to meet Conrayd in public in her human form, followed by a public courtship and eventual marriage.
+
+Conrayd has since taken over the castle from his parents, and the two of them now jointly rule it.
+
+
+
+**Affiliations:** 
+
+----------------
 
 **Name:**
 
@@ -603,343 +391,54 @@ Empire of the Rising Sun
 
 * [Wysteria](./aeldar/wysteria)
 
-<h2 id="dragons">Dragons</h2>
-
-**Name:** Ironfire; Lord of Dragonspire Citadel
-
-**Demographics:** Male Plated Dragon
-
-**Description:** Dark orange scales, with a lighter underbelly and dark grey back. Bulbous tail, long wingtip claws and jaw spine. Red eyes.
-
-6,200 years old. Fought on the side of the Ael during the Dragon war, and again during the Uon war.
-Hoarder of Minerals - mostly gold, silver and gemstones. Master of Dragonspire Citadel. Lends his fire to the forges in return for a tithe of the mines.
-
-Exceptionally potent fire magic, capable of reaching temperatures in excess of 2000 C.
-
-**Affiliations:** Dragonspire Citadel, Hollow Mountain
-
-----------------
-
-**Name:** Queen of the Valley
-
-**Demographics:** Female Western Dragon
-
-**Description:** Gold and green scales. Exceptionally large and ornate antler-like horns
-
-Watches over a large valley, and discourages human exploitation and settlement.
-An elemental shapeshifter, has transformed herself into an artificial dryad of the valley.
-One of the eldest extant dragons, at about 50,000 (perhaps much older - 200 - 300 mill?) years old, predating the arrival of Ael on Quon Xi. Exceptionally wise and powerfull. Mostly ignores events external to the valley.
-
-
-
-----------------
-
-**Name:** Unknown
-
-**Demographics:** Male Spined Dragon
-
-**Description:** Nested pairs of curved horns.
-
-Hoarder of Knowledge, especially arcane knowledge, as well as some magical artefacts. Has an extensive library. Particularly skilled in magic, notably: 
-Sorcery (Fire, Lightning), Scrying (Future Sight, Premonition, Psychometry, Farsight, Object Finding), Encantation (Spell redirection and cancellation).
-
-Despite being a dragon, is the youngest (and weakest) member of the Elder council, at approx 1,200 yrs.
-
-**Affiliations:** Elder Council
-
-----------------
-
-**Name:** Unknown
-
-**Demographics:** Female Horned Dragon, Shapeshifter
-
-**Description:** Silvery scales, with a paler back and bluer underside. Bright purple eyes. Narrow horns.
-
-Hoarder of Power – Rather unique, as she has an almost entirely ephemeral horde. Collects political favours. Holds some high rank in almost all nations. A skilled shapeshifter, with many aliases across various peoples. 
-Also a potent telepath.
-
-**Affiliations:** Elder Council, most nations and religions
-
-----------------
-
 **Name:**
 
-**Demographics:** Male Tundra Dragon, Shapeshifter.
+**Demographics:** Varies. Originally M Ael'daal.
 
 **Description:** 
+Has a line of runic tattoos starting on their forhead, running along the top of their head, and stopping at the base of their neck. 
+Otherwise, his appearance varies
 
-In human form: Stark white hair, pale skin, ice-blue eyes. Faint scale pattern at his temples 
-White-dyed armor of horizontal leather strips, white cloak trimmed with silver fur, carries a claymore of ancient design.
-
-Approx 5,600 years old. Fought with against the Ael in Ael-Dragon war.
-Some time afterwards, took human form, and sought out challenges. Spent time as the leader of various large Midh clan in the past.
-More recently, mostly fights monsters and bandits. Has slain at least one dragon while in human form.
-Fought with the Ael' in the Uon war.
-
-Inspired many legends.
-
-Hoards victories. Keeps a trophy from each worthy foe he has bested.
-
-**Affiliations:** 
-
-----------------
-
-**Name:** Atrefax Goldcrest
-
-**Demographics:** Male Spined Dragon
-
-**Description:** 
-Feathered spine. Head surrounded by a fan of golden horns with broad tips.
-
-5,000 years old. Rules over one of the handful of 'xhal settlements who retained alliance with dragons after the Dragon Empure crumbled.
-Supplemented by offering from settlement
-Once a year, claims the fairest member of the settlement as an offering. While they are never seen again, and most thinks he eats them, actually keeps them as servants.
-
-Lives in a cave system under the flooded caldera of a dormant volcano.
-
+Works as an assasin for the Order of Sion. Has the ability to swap minds with a touch. The Sion tattoos remain with him regardless of form.
 
 
 **Affiliations:** 
-
-
-
-----------------
-
-**Name:** ____ Whitescale
-
-**Demographics:** Tundra Dragon
-
-**Description:** 
-
-Young tundra dragon - between 300 and 500 years living on the westernmost of the Dragon Teeth isles.
-Symbiotic relation with the selkies of the isle - feats on carcasses of the island-whales and other great sea-creatures they hunt, and in return gifts them some pittances from hoard.
-
-Extremely athletic, and often travels the 1000 km between the isles and northern Quon Xi to raid, typically spending about a week away from the isle.
-
-
-**Affiliations:** 
-Whitescale Selkies
-
-----------------
-
-**Name:**
-
-**Demographics:** Dragon
-
-**Description:** 
-
-
-**Affiliations:** 
-Dragonhalls
-
-----------------
-
-**Name:**
-
-**Demographics:** Dragon
-
-**Description:** 
-
-
-**Affiliations:** 
-Dragonhalls
-
-----------------
-
-**Name:**
-
-**Demographics:** Dragon
-
-**Description:** 
-
-
-**Affiliations:** 
-Dragonhalls
-
-----------------
-
-**Name:**
-
-**Demographics:** Dragon
-
-**Description:** 
-
-
-**Affiliations:** 
-Dragonhalls
-
-----------------
-
-**Name:**
-
-**Demographics:** Dragon
-
-**Description:** 
-
-
-**Affiliations:** 
-Dragonhalls
-
-----------------
-
-**Name:**
-
-**Demographics:** Dragon
-
-**Description:** 
-
-
-**Affiliations:** 
-Dragonhalls
-
-----------------
-
-**Name:**
-
-**Demographics:** Female Plated Dragon
-
-**Description:** 
-
-Daughter of Lord Ironfire. 
-Born 3700 BC. Grew up around humans, in Ironfire citadel.
-Started travelling outside the city at 200, and had quite an adventurous few years.
-
-Settled down in Dragonhalls in 2600, shortly before the start if the conflict between the Uon and Xhal.
-
-
-**Affiliations:** 
-Dragonhalls
-
-----------------
-
-**Name:**
-
-**Demographics:** Dragon
-
-**Description:** 
-
-
-**Affiliations:** 
-Dragonhalls
-
-----------------
-
-**Name:**
-
-**Demographics:** Dragon
-
-**Description:** 
-
-
-**Affiliations:** 
-Dragonhalls
-
-----------------
-**Name:**
-
-**Demographics:** Male Spined Dragon
-
-**Description:** 
-
-Every scale has been made into a different relief carving.
-Lives in Dragonhalls - child of current leader and a Spined dragon she met in Xuon (or the Enjat peninsula?). Never met his father.
-Born in 2600 BC.
-
-**Affiliations:** 
-Dragonhalls
-
-----------------
-
-
-**Name:** 
-
-**Demographics:** Female Western Dragon(s)
-
-**Description:** 
-
-Young twin dragons living in Dragonhalls.
-Born to cousins.
-
-Mirrored appearance - shorter horn and discolered scales on opposite sides.
-About as close as dragons get to looking sickly.
-
-Permanent telepathic bond - each can percieve any senses of the other at will (but cannot project their own senses to the twin, or block perception of their own senses)
-Strong Aetherial and Arcane magic skills.
-Just over 100 years old.
-
-**Affiliations:** 
-Dragonhalls
-
-----------------
-
-**Name:**
-
-**Demographics:** Dragon
-
-**Description:** 
-
-
-**Affiliations:** 
-Dragonhalls
-
-----------------
-
-**Name:**
-
-**Demographics:** Dragon
-
-**Description:** 
-
-
-**Affiliations:** 
-Dragonhalls
-
-----------------
-
-**Name:**
-
-**Demographics:** Dragon
-
-**Description:** 
-
-
-**Affiliations:** 
-Dragonhalls
-
-----------------
-
-**Name:**
-
-**Demographics:** Dragon
-
-**Description:** 
-
-
-**Affiliations:** 
-Dragonhalls
-
+Order of Scion
 ----------------
 
 
 **Name:**
 
-**Demographics:** Female ___ Dragon
+**Demographics:** F Midh'fae / Ael'daal 
+
+**Description:** 
+Dark skin, black hair.
+Circular tattoo on her forhead, inscribed with a line running down the bridge of her nose.
+Upper back is covered in a runic tattoo incorporating lunar symbols, which interacts with her shapeshifting magic.
+Right arm is inscribed with a small, spiraling tattoo containing a flame spell.
+
+Formerly a druid of a North Dhagean Ael'midh tribe, currently a researcher into natural shapeshifting at the AoM&MA
+
+
+**Affiliations:** 
+AoMMA
+
+----------------
+
+**Name:**
+
+**Demographics:** M Ael of indeterminate heritage.
 
 **Description:** 
 
-Young - around 400-500 years. 
-Born on Xuon, lair on one of the outlying islands.
-Fought against the Uon during the Daal-uon war.
-One (or both) of her parents killed in the Uon cataclysm
+Skilled necromancer and battle mage with undeground connections in the free cities. Pragmatic morality. Previously did mercenary work in the free cities. 
+Connections with Order of Scion, and has access to a significant amount of necromantic literature. Origionally met the other two founders of the necromancer county at the AoM&MA, 
+then moved to the free cities and later reconnected with them after they founded the county.
 
-Has been saving her own fertilized eggs in magical stasis.
-Many other dragons do something like this on a smaller scale.
-___ is notable in that she has amassed quite a collection, from a wide variety of mates, and largely in secret
-
-Stored seperately, with a stasis enchantment delibratly designed so that it must be refreshed everey 100 years or so.
+Typically wears a dark leather greatcoat and a wide-brimmed hat.
 
 **Affiliations:** 
-
+Necromancer county, AoMMA, Free cities underground, Blackport, Order of Sion
 ----------------
 
 <h2 id="elementals">Elementals</h2>
@@ -975,6 +474,25 @@ The biggest danger to humans in its domain is starvation or thirst - while it ma
 ----------------
 
 <h3 id="vyldarthe">Vyldarthe</h3>
+
+**Name:**
+
+**Demographics:** Vyldarthe
+
+**Description:** 
+
+A humanoid figure comprised of irregularly-shaped rocks and vines.
+Often wears a hooded mantle made of linen and carries a leather shoulder-bag.
+
+Particularly interested in Ael, and often seen around the free cities, but also visits the Ael'jinn Principalities.
+Doesn't speak or use telepathy, but is adept at several Eaosian sign languages, and knows several written languages.
+Carries a slate and chalk for when sign languages fail.
+
+At least 2,500 years old. 
+
+**Affiliations:** 
+
+----------------
 
 <h3 id="other-elementals">Other Greater Elementals</h3>
 

@@ -247,14 +247,16 @@ The Order of Sion is a clandestine organization of users of mental magic, scatte
 
 The order as it exists today was borne out of the Uon-Eos war. The conflict with the Uon caused ever-increasing increasing distrust of all users of mental magic, 
 driving the more notable practicioners and their networks of like-minded mages underground. At the same time, the Eaos government saw the need to take advantage of such magic-users, as a contingency against the Uon.
-The combination of these pressures led to the formation of the order,  which would protect at-risk practitioners of mental magic, preserve their techniques, and support Elyos against the Uon.
+The combination of these pressures led to the formation of the order, which would protect at-risk practitioners of mental magic, preserve their techniques, and support Elyos against the Uon.
 During the war, the order helped collect military intelligence and dampen Uon magic duiring assaults on Eaosian cities.
 
 In the aftermath of the war, the average Eaosian had not become any more accepting of mind magic, so the Order remained underground. Baring an external threat, and preocupied by rebuilding everything destroyed during the 
 conflict, the Elyos Republic largely lost track of the Order, which became ever more self-interested, shifting their focus to political influence and espionage. 
 The Order now maintains agents in most major governments, subtly working to protect the Order and expand its power.
 In order to augment their resources, the order also pivoted slightly towards mercenary work - if you know the right person to contact, you may be able hire their unique talents for a considerable fee.
-This work mostly political machinations instigated by wealthy lords, but also encompasses the manufacture of scandals, general espionage, and influencing mariages among the high and mighty.
+This work mostly political machinations instigated by wealthy lords, but also encompasses the manufacture of scandals, general espionage, and influencing marriages among the high and mighty.
+
+The order has an especially large presence in the southern Free cities, as all the politicking between the cities tends to result in a lot of work for them, and Blackport makes a good place to lie low.
 
 As the most advanced practitioners of mental magic in Eaos, some members of the Order of Sion have abilites that are otherwise unheard of across the continent. This includes the ability to swap minds between bodies,
 limited mind control, implantation of false memories, novel forms of illusion, and more. Outside of the Order of Sion, mental magic across Eos is mostly limited to basic (consenual) telepathy, truthsaying, and mental protection.

@@ -11,6 +11,13 @@ Volume = 4.928e20 m3
 Gravity is 8.445 m/s2 (0.86 of earth)
 Which gives density of 6165 kg/m3, 11.6% higher than earth; within acceptable bounds.
 
+1 Day is 24 hours
+1 week is 6 days
+1 month is 36 days (6 weeks)
+1 year is 252 days (7 months; 42 weeks).
+
+TODO: Adjust lifespans accordingly. (x1.42)
+
 ## Cosmology
 
 Earth-centric layout, with a small, close, sun means that the sun's rays are less parallel than on earth and that dawn and dusk last longer.

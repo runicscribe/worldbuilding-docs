@@ -113,8 +113,8 @@ Forest dragons are small (for a dragon), but have a long, serpentine body. They 
 They usually have two pairs (four total) of antler-like horns on the back of their head, and a rounded snout. 
 Forest dragons have a long wingspan, but relatively narrow wings. Their body is covered in small scales, with larger plates on their underbelly. They often have a feathery mane and tail.
 
-Forest dragons tend to be brightly colors, and are usually green, red, blue and/or gold in color, often in a mottled pattern.
-Forest dragons are primarily found in rainforest regions on the western continent and the Xhal isles. They generally hunt medium sized rainforest animals (deer, pigs, monkeys) and will also catch fish. 
+Forest dragons tend to be brightly colored, and are usually green, red, blue and/or gold in color, often in a mottled pattern.
+Forest dragons are primarily found in rainforest regions on Quon Xi and the Xhal isles. They generally hunt medium sized rainforest animals (deer, pigs, monkeys) and will also catch fish. 
 Like tundra dragons, they are capable swimmers.
 
 ### Blue / Spined / Valley Dragon
