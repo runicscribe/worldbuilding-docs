@@ -86,11 +86,5 @@ High elementals refer to any elementals that can be considered sentient.
   * Gyldraed
   * Vyldarthe
 
-## [Sprites](./sprites)
-
-Short lived, clever, but not highly intelligent (ie. Good 'street
-smarts' and 'quick wits' poor 'book learning'. Natural habitat is bogs, swamps or
-marshes. Many sprites make their home in human cities as messengers,
-spies, etc.
 
 

@@ -12,7 +12,7 @@ this world also results in a number of unique magical materials.
 
 ## Elements
 
-14 base elements. Everything else is some form of compound.
+Dae'machina has 14 base elements. Everything else is some form of compound.
 
 
 ### Primes

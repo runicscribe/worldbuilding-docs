@@ -70,10 +70,27 @@ Some especially persistant revelers try to keep going all the way through to the
 
 ### Xhal'fae
 
+Rather than the lunar convergences, the main celestial events celebrated by most Xhal'fae communities are the lunar eclipses. About 51 eclipses are visible from the Kita Lau isles and Xuon each year. 
+Traditional celebrations consist of a great hunt during the eclipse itself, followed by a feast as the eclipse ends.
 
-Rather than the lunar convergences, the main celestial events celebrated by the Xhal'fae are the lunar eclipses by the Darksun, which occur (...).
-They used to celebrate the week surrounding midyear convergence, as that marks a period where the moons do not appear in the night sky, but this has somewhat fallen out of favor of late, particularly among the 'fae native to Xuon, 
+Larger celebrations occr when multiple eclipses occur in close succession, which is often close to one of the convergences, since multiple moons are together in the sky at the same time.
+ - From the 19th to the 21th of Divergence
+ - The 26th of Divergence (morning and evening)
+ - The 3rd and 4th of Tekhad
+ - The night between the 28th and 29th of Tekahd (The day after the copper/gold convergence)
+ - The 21st of Severance (morning and evening)
+ - The 28th and 29th of Midkan
+ - The night between the 21st and 22nd of Senescence (Two days before the silver/gold convergence)
+ - The 28th through the 30th of Senescence
+ - The 6th and 7th of Pakhad (Two days before the copper/gold convergence)
+ - The 14th of Pakhad (morning and evening)
+ - The 3rd and 4th of Convergence
+ - The 29th of Convergence (morning and evening)
+
+They also used to celebrate the week surrounding midyear convergence, as that marks a period where the moons do not appear in the night sky, but this has somewhat fallen out of favor of late, particularly among the 'fae native to Xuon, 
 as it now marks the aniversary of the Uon cataclysm.
+
+The great convergence is celebrated only by some Xhal'fae groups in the western parts of Kita Lau, and by the Xencha Defiant.
 
 ### 'Jinn
 

@@ -94,16 +94,16 @@ The Æl’jinn are a magical bloodline of elemental shapeshifters (and in fact a
 
 ## Shapeshifter Bloodlines
 
-Because the shifted form of a shapeshifter is effectively a magical construct, if a **shifted shapeshifter** mates with an animal that shares their form, 
-there is a relatively high chance that the offspring will be an Arcane Savant with some form of shapeshifting talent. This is much more likely if the shapeshifter is using natural shapeshifting abilities from a magical bloodline.
-
-- Direbeasts are animals with a human level of intelligence. They are the progeny of animal shapeshifters (most often fae), but do not have the ability to shapeshift. While they have a human level of intelligence, 
-  they are limited to animal means of communication, which means that they can have difficulty communicating with non-fae Ael.
-- Natural shapeshifters are any beings (animal or human) that have the inherent ability to take another form. Before the 'fae became common, they were most often the offspring of arcane shapeshifters, but in modern times, 
+Shapeshifting is an intensely magical process, and the children of shapeshifters may be gifted with magical abilities: 
+- **Natural shapeshifters** are any beings (animal or human) that have the inherent ability to take another form. Before the 'fae became common, they were most often the offspring of arcane shapeshifters, but in modern times 
   the majority of Natural Shapeshifters are the progeny of 'fae. While arcane shapeshifters can generally take multiple forms, natural shapeshifters are usually limited to two forms, 
   based on the true form of each of their parents
+- **Direbeasts** are animals with a human level of intelligence. They are the progeny of animal shapeshifters (most often fae), but do not have the ability to shapeshift. While they have a human level of intelligence, 
+  they are limited to animal means of communication, which means that they can have difficulty communicating with non-fae Ael.
 
-The probability of certain results for such pairings are described in the following table:
+Natural shapeshifters are most common when concieved while their parent is not in their natural form. If one or more of the parents are a natural shapeshifter, children with the ability to shapeshift are even more likely.
+The most dramatic example of this phenomena is the Æl’fae, who have become a lineage of natural shapeshifters over the course of several centuries.
+Note that the probabilities shown below are approximate, and based on qualitative observations on a relatively small sample size. Reality is more complex.
  
 |                      | Natural Shapeshifter                            | Arcane Shapeshifter                         | Direbeast                                       | Natural Animal                              |
 |----------------------|-------------------------------------------------|---------------------------------------------|-------------------------------------------------|---------------------------------------------|
@@ -112,27 +112,51 @@ The probability of certain results for such pairings are described in the follow
 | Direbeast            | 25% Direbeast <br> 75% Natural Shapeshifter     | 75% Direbeast <br> 25% Natural Shapeshifter | 87.5% Direbeast <br> 12.5% Natural Shapeshifter | 75% Direbeast <br> 25% Natural Animal       |
 | Natural Animal       | 25% Direbeast <br> 75% Natural Shapeshifter     | 75% Direbeast <br> 25% Natural Shapeshifter | 75% Direbeast <br> 25% Natural Animal           | 100% Natural Animal                         |
 
-The most dramatic example of this phenomena is the AEl’jinn, who have become a lineage of natural shapeshifters over the course of several centuries.
 
-
-Even if the shapeshifter is in their natural form, there is still a possibility that their offspring will be natural shapeshifters. 
+The children of shapeshifters may still have their own shapeshifting ability even if they were concieved while their parents were in their natural forms, although this is rarer than if their parents were shifted. 
 This phenomena is responsible for the formation of Æl‘jinn bloodline (since they have no reproductive biology in their elemental form). 
-The probability of certain results for such pairings are described in the following table:
 
 |                      | Natural Shapeshifter                          | Arcane Shapeshifter                           | Direbeast\*                                | Natural Animal\*\*                         |
 |----------------------|-----------------------------------------------|-----------------------------------------------|-------------------------------------------|---------------------------------------------|
 | Natural Shapeshifter | 12.5% Mundane <br> 87.5% Natural Shapeshifter | 25% Mundane <br> 75% Natural Shapeshifter     | 25% Mundane <br> 75% Natural Shapeshifter | 25% Mundane <br> 75% Natural Shapeshifter   |
 | Arcane Shapeshifter  | 25% Mundane <br> 75% Natural Shapeshifter     | 87.5% Mundane <br> 12.5% Natural Shapeshifter | 90% Mundane <br> 10% Natural Shapeshifter | 95% Mundane <br> 5% Natural Shapeshifter    |
-| Direbeast            | 25% Mundane <br> 75% Natural Shapeshifter     | 90% Mundane <br> 10% Natural Shapeshifter     | 95% Mundane <br> 5% Natural Shapeshifter  | 100% Mundane                                |
-| Natural Animal       | 25% Mundane <br> 75% Natural Shapeshifter     | 95% Mundane <br> 5% Natural Shapeshifter      | 100% Mundane                              | 100% Mundane                                |
+| Direbeast\*          | 25% Mundane <br> 75% Natural Shapeshifter     | 90% Mundane <br> 10% Natural Shapeshifter     | 95% Mundane <br> 5% Natural Shapeshifter  | 100% Mundane                                |
+| Natural Animal\*\*   | 25% Mundane <br> 75% Natural Shapeshifter     | 95% Mundane <br> 5% Natural Shapeshifter      | 100% Mundane                              | 100% Mundane                                |
 
 \* Includes 'Mundane' descendants of natural shapeshifters.
 \*\* Includes humans
- 
+
 There are a few more recent groups of natural shapeshifters descended from groups powerful arcane shapeshifters and unrelated to the 'fae. Based on how natural shapeshifting abilities form in shapeshifter populations, 
 it takes about 100-200 years for a group of (rather prolific) arcane shapshifters to become primarily natural shapeshifters.
 
 Animal-Human hybrids sometimes occur as the offspring of Chimeric fae or partial shapeshifters. They are usually sterile.
+
+Even in cases where a shifter's immediate descendants appear mundane, a natural shapeshifter can crop up some generations later. 
+This is fairly commin, but unremarkable, in communities where many 'fae and non-'fae live together, including:
+
+- The Shapeshifter Commune
+- The Sach'ean Diarchy
+- The Northern Drakkar
+- The Queen's Valley Druids
+- The Academy of Magical and Martial Arts
+- The Xencha Defiant
+- The Hollow Cities (though in this case, with 'jinn rather than 'fae)
+
+This is rarer where 'fae and non-'fae have only occasional relations, and tends to be much more of a surprise in such communities. It may also sometimes occur in regions where arcane shapeshifters are common.
+Places that fit these criteria include:
+
+- The Southwest Dhaigean Isles and Northeast Mhidda, where relations between selkie 'fae and Ael'midh occur occasionaly.
+- The Free Cities and Riftlander Cities, which have occasional relations with the Daal'fae caravans
+- Dragonhalls, which has a small 'fae population
+- The Southern Valleys of Quon Xi, which see occasional visits from the Quon Xi 'fae and 'jinn
+- The Enhat-Tehktun isles, which host some Xhal'fae refugees.
+- Certain coastal Xhal'fae villages which have occasional encounters with the coastal merfae. 
+ 
+This also happens in reverse among some wild animal populations, especially the wolves of Mhidda, and various species which interact with the Deep 'fae of Northeast Mhidda.
+
+The children of shapeshifters are typically born in the form that their mother was in when they were concieved, but very rarely they may be born in the natural form of either of their parents. 
+In the exceptionally rare case where this coincides with natural shapeshifting skipping a couple generations (and where at least one ancestor was a direbeast or beast-form shapeshifter), 
+it is possible for a seemingly mundane Ael woman to give birth to (for example) a seal pup. 
 
 ## Involuntary Shapeshifting
 

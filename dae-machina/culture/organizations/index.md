@@ -11,9 +11,16 @@ Nations with a unified government spanning many cities.
 ### Empire of the Rising Sun
 
 Æl’dhal empire on the western continent. Run by an emperor and an array of councilors and bureaucrats. Has a powerful and well-organized army, with an equally powerful military cadre of mages. 
-Magic in the Empire is highly is highly institutionalized and regulated. Cut ties with the eastern continent during the Uon war.
+Magic in the Empire is highly is highly institutionalized and regulated. Ceased communication with the eastern continent during the Uon war.
 
 Capitol: 山城 – Shānchéng - “City atop the Mountain”. 
+
+The southeast region is the hearland of the empire, extending well into the mountains.
+The central-southern valleys have been part of the empire since the first dynasty, and at this point are culturally very similar.
+The westmost island of Kita Lau has been part of the empire for a similar amount of time, although it is still quite culturally distinct, especially the east coast.
+The northern reaches of the continent were only absorbed during the early part of the second dynasty, and there are still some tensions between this region and the heartland. 
+The northenmost communities are still effectively independant.
+The western plains are likewise a recent addition, and are treated more as a colony than as an integrated part of the Empire.
 
 ### [Xhal Nations](./xhal_nations)
 (Æl’xhal and xhal’fae)
@@ -24,11 +31,13 @@ The western reaches of Kita Lao are have been colonized by the Empire of the Ris
 Also known as 水の上 都市 - Mizunoue Toshi - “City over Water”
 Semi-independant city state marking the eastern edge of the Empire's control.
 
-#### Dragonhalls
+#### [Dragonhalls](./dragonhalls)
 
 Built into and through the sides of a mountain chain in one of the central Kita Lau islands
 Founded during/after the dragon war, by a pair of dragons who mostly wanted to stay out of the whole thing, while still using the influence they had over their territory to protect the local humans.
 
+Both founders died fighting the Uon - one in 1,600 BC, driving off their incursion into Kita Lau, and the the other in 90 BC, fighting alongside the 'daal.
+As a consequence, Dragonhalls and most of western Kita Lau has emerged largely unscathed from Uon expansionism.
 
 ### [Elyos Republic](./elyos_republic)
 
@@ -83,7 +92,7 @@ Primary exports are gems, metals, and magically shaped tools and art. Import a s
 
 ### [Shapeshifter Commune](./shapeshifter_commune)
 
-Built on ruins of an old Aeldar city, fairly deep into a swampy jungle.
+Built on ruins of an old Aeldar city (Elysium), fairly deep into a swampy jungle.
 Founded by a couple groups of Daal'fae, as a sanctuary for the fae.
 Often used as a rest stop by nomadic Daal'fae tribes.
 Over the years, the settlement has collected an eclectic assortment of fae inhabitants who felt they didn't fit in with their original family, but also didn't feel comfortable in the non-fae Ael cities 
@@ -132,19 +141,62 @@ Because the weather of the Riftscape tends towards warm with frequent monsoons, 
 Due to the blasted landscape, materials are scarce. Leather and hide are commonly used, cotton is reasonably common, and the more prosperous residents use silk. 
 Adventurers usually prefer a durable outfit that is predominantly leather. Merchants usually wear some combination of a shirt, lose trousers, kimono, sari, sarong, usually in silk or cotton. 
 
+There is a substantial cultural gap between the first generation of Riftlanders, who lived through the Uon Cataclysm, and the younger generations, who did not.
+
 #### Underhill Crater
 
 Capitol of the Riftlanders, insomuch as they have one - at any rate, the largest and wealthiest of the Riftlander cities.
 Old Uon Citadel, in the center of a large, floating piece of stone.
 
+### Dragon's Teeth Selkies
+
+An isolated selkie population living on the Dragon's Teeth. 
+The isles themselves are mostly barren, so the selkies subsist almost entirely on seabirds and other sealife.
+This results in a very different culture than the mainland selkies.
+
+#### White Scale Selkies
+
+The White Scale Selkies are the largest community of Selkies on the Dragon's Teeth. 
+The hunt island-whales, along with more typical prey. This results in rather different hunting practices and technology than other selkie communities, with more involvment from human-form selkies in boats. 
+They have a unique relation with a dragon inhabiting the islands; after killing and processing an island-whale, they will set up a signal fire on it's carcass, atracting the dragon, who will gorge itself on the remainder.
+Meanwhile, a seperate group sneaks into the dragon's lair to scavenge treasure. The dragon is fully aware this is happening, and deliberately set up a decoy room with less valuable things for the selkies to scavange, 
+considering this fair trade for not having to do any work hunting (Although any selkies who get a little too greedy are still at risk of lethal reprisal).
+
+### Sach'ean Diarchy
+
+South of 'jinn peninsula.
+The main chain of four islands is jointly ruled by Ael'daal and Merfae monarchies. There are a handfull of other inhabited islands in the vicinity that are culturally similar, but not really under the rule of the diarchy.
+Name is a portmanteau of the names for the specific groups of Merfae (Sache) and the 'daal (Dalean) people inhabiting the islands. 
+
+Fairly isolated. Occasional contact with 'jinn and more westerly islanders, but that's about it.
+Mix of 'daal and merfae population. Cities are tightly integrated, extending below-water.
+Small but advanced civilization, though missing a few advancements post first-era Daal, and lacking access to certain materials. One notable example is few reliable sources of high-quality gemstones - 
+while some can be found in the active volcanic regions of the isles, these are too dangerous to mine reliably. This greatly limits the production of enchanted items.
+
+### Enjat-Tehktun Alliance
+
+Formerlly the Tehktun Islands Collective
+Closer to riftscape.
+Only some of the islands here are inhabited.
+Mix of 'daal and 'xhal, and a very small number of Xhal'fae and merfae
+Bit more communitcation with mainland, mostly Riftlanders (and previously, inhabitants of the now-destroyed group of large islands near the coast). 
+Largely unscathed by the Uon-Daal war, but took quite a bit of damage (and many refugees) during the Uon Cataclysm.
+
 
 ### Mage Settlements
 There exist various secluded settlements that are populated by like-minded mages that want to be free to practice their magic without interference from “civilized” society. 
 This is most common with less socially accepted magic (such as necromancy), or magic that produces significant physical and psychological changes (animal shapeshifting).  
-Less common are settlements of elemental sorcerers and powerful savants, who tend to use powerful, dangerous, and unpredictable magic (some such individuals instead seek out the Ael'jinn, who are more capable of handling their abilities). 
+Less common are settlements of elemental sorcerers and powerful savants, who tend to use powerful, dangerous, and unpredictable magic 
+(some such individuals instead seek out the Ael'jinn, who are more capable of handling their abilities). 
 Many other mages also live reclusively (perhaps with an apprentice), especially those involved in esoteric magical research, particularly research that involves experimentation on creatures, elementals, undead or humans.
 
-#### [Necromancer's County](./necrocounty)
+
+#### Eaosian Mage Settlements
+
+Most Eoasian Mage Settlements have at least some connection to the AoMMA, and are typically between 200km and 1500km from the academy - close enough that it is still reasonable to get rare supplies from Arcmuth or Kenford, 
+but not so close that the Academy interferes with their business.
+
+##### [Necromancer's County](./necrocounty)
 
 This small township is populated almost entirely by undead, who have all been animated by three journeyman necromancers.
 
@@ -154,6 +206,27 @@ are rather moral and refrain from murder, theft, and most other illegal activiti
 In addition to the three founders, the county has various accolytes, mostly necromancers (usually closer to the moral side of the alignment scale), and a few agricultural mages and non-mage researchers.
 
 Many of the mages involved in this settlement spent some time at the AoM&MA, and several also spent time in the Free Cities.
+
+##### The Radical Form Society
+
+Collection of mages with at least some shapeshifting talent, who consider common expectations of appearance limiting. Many have only very basic cosmetic shapeshifting talents, so most residents have a humanoid shape, 
+even if they have an otherwise unconventional appearance.
+Large number of 'fae and 'jinn, including quite a few of Ester's lineage.
+Second-largest 'jinn community west of the principalities, after the Hollow Cities.
+Possibly the most visually diverse group in all Dael.
+
+Hosts a medium-sized multidisciplinary mage school, 
+
+Construct farm, trade with daal'fae caravans.
+
+
+##### Cult of the Fleshhaper
+
+Led by a powerful Chimeric shapeshifter
+Shifting to overcome human limitations
+Dose of the grotesque to isolate members from the wider world and force them to live within the cult.
+Most accessible source of high-level biomagic in Eaos
+
 
 ## Other Organizations
 
@@ -179,14 +252,16 @@ The Order of Sion is a clandestine organization of users of mental magic, scatte
 
 The order as it exists today was borne out of the Uon-Eos war. The conflict with the Uon caused ever-increasing increasing distrust of all users of mental magic, 
 driving the more notable practicioners and their networks of like-minded mages underground. At the same time, the Eaos government saw the need to take advantage of such magic-users, as a contingency against the Uon.
-The combination of these pressures led to the formation of the order,  which would protect at-risk practitioners of mental magic, preserve their techniques, and support Elyos against the Uon.
+The combination of these pressures led to the formation of the order, which would protect at-risk practitioners of mental magic, preserve their techniques, and support Elyos against the Uon.
 During the war, the order helped collect military intelligence and dampen Uon magic duiring assaults on Eaosian cities.
 
 In the aftermath of the war, the average Eaosian had not become any more accepting of mind magic, so the Order remained underground. Baring an external threat, and preocupied by rebuilding everything destroyed during the 
 conflict, the Elyos Republic largely lost track of the Order, which became ever more self-interested, shifting their focus to political influence and espionage. 
 The Order now maintains agents in most major governments, subtly working to protect the Order and expand its power.
 In order to augment their resources, the order also pivoted slightly towards mercenary work - if you know the right person to contact, you may be able hire their unique talents for a considerable fee.
-This work mostly political machinations instigated by wealthy lords, but also encompasses the manufacture of scandals, general espionage, and influencing mariages among the high and mighty.
+This work mostly political machinations instigated by wealthy lords, but also encompasses the manufacture of scandals, general espionage, and influencing marriages among the high and mighty.
+
+The order has an especially large presence in the southern Free cities, as all the politicking between the cities tends to result in a lot of work for them, and Blackport makes a good place to lie low.
 
 As the most advanced practitioners of mental magic in Eaos, some members of the Order of Sion have abilites that are otherwise unheard of across the continent. This includes the ability to swap minds between bodies,
 limited mind control, implantation of false memories, novel forms of illusion, and more. Outside of the Order of Sion, mental magic across Eos is mostly limited to basic (consenual) telepathy, truthsaying, and mental protection.
@@ -206,29 +281,8 @@ See Free Cities: Kenford
 Initially founded during the Ældar civilization. Dedicated to maintaining peace and order. Members are generally skilled in encantation and clairvoyance. The Il’vos were responsible for creating the first stable darkstones. 
 The Il’vos were mostly wiped out in a war with the Uon 1000 years before the cataclysm. However, the remnants of the Il’vos have begun to rebuild their organization.
 
-## Former Nations
+## [Former Nations](./former_nations)
 
-### Uon Collective
-
-
-
-### Xeres Empire
-
-<< Reword to hint at beginnings of empire >> Ancient 'xhal empire formed in the wake of the Dragon war, and based around venerating dragons as gods.
-Only really becane a true empire a few hundered years after the war, as individual settlements consolidated power.
-
-Large cities adorned in gold.
-Sacrifice of gold, gems, livestock, and sometimes humans. (At central temple - step pyramid, but octagonal or circular)
-
-At its peak - continent-spanning trade, agriculture
-Tall spires and gliders (augmented by draconic magic?).
-Sub-nations divided by which dragon's teritorry they live in (Xuon - hosted 100 - 300 dragons total during this time period)
-
-Started to fall appart due to internal rebellion around 3100 BC
-Xhal'fae rose out of crumbling empire, as many of the rebelling 'xhal reverted to smaller settlements deep in the jungle
-
-Last vestiges of the empire fell in conflict with expanding Uon Collective.
-
-Some hidden enclaves inhabiting the ruins of the Empire's once-great cities still keep to the old ways, but no longer have the connectedness of a true empire
+As history has wound its ways, many nations have rose and fell. Most have left their mark on Dael in one way or another.
 
 

@@ -59,19 +59,37 @@ Some dragons use their magical strength to petrify foes. These dragons are somet
 
 ## Culture and Language
 
-Mostly solitary, and magically gifted enough that most dragons are capable of telepethy, little need for language among dragons.
-Many early dragons invented their own mutually unintelligble languages for reasoning and keeping records.
+Dragons are solitary by nature, and magically gifted enough that most dragons are capable of telepethy, meaning there is little need for language among dragons.
+Most Dragons read and write Contemporary Draconic, and many can also read Ancient Draconic.
+Spoken draconic is used much less often, and not all dragons know it. It is most often used as a courtesy in places where three or more dragons live in one place.
 
-After first dragon war, some started developing beginnings of a shared language.
-Took a while (few millenia) to catch on, and even then, primarily used as formality during rare gatherings.
+### Tricircumlunar Gathering
 
-Gathering every 756 years
+Most of the worldwide dragon population gathers every 756 years, to exchange news, discuss ammendments to the draconic accords, and introduce new dragons to the wider draconic community.
+The gathering begins following the full convergence at the start of the 756th year follwing the last gathering, and lasts 1 to 3 months. 
+The location of this gathering varies, but it is typically hosted within the domain of an elder dragon.
+This gathering started with the second draconic accords, and has continued ever since.
+
+
+Ad-hoc gatherings also occur, to deal with urgent events that affect all dragonkind (the Ael-Dragon war and Uon cataclysm being two examples)
+
+### Relations with the Ael
+
+Some dragons rule over (or exist symbiotically with) Ael communities. Notable examples include Dragonhalls in Kita Lau, Ironfire Citadel in Central Eaos, and the now-destroyed Xeres Empire.
+Other dragons take human form and live among the Ael. This is most common among middle-aged and elder dragons who have gotten bored of the conventional draconic existance.
+Only rarely do dragons live alongside Ael as equals while in their true form - the only contemporary examples of this are a draconic student of the AoM&MA (who is a child of one of the instructors), 
+and a couple of the younger dragons of Dragonhalls.
+
+Dragons sometimes engage in intimate relationships with Ael, though this is rare, and most often occurs with younger dragons. 
+The two species are not fertile with each other (unless the dragon takes a human form using classical sizechanging).
+
 
 ## Types of Dragons:
 
-There is a great degree of variety in the apperances of individual dragons. Despite this, the Ael typically try to classify dragons into five types, based on common groups of characteristics.
-These are not distinct species (all dragons are fertile with each other), and don't always follow from parent to child as one might expect - incidental mountain dragon genes from a couple of generations up the family tree 
-(which, given the lifespan of dragons, could be thousands of years ago) might suddenly show up in the child of two plains dragons. Some dragons also show a mix of traits.
+While all true dragons are a single species, their is a gread deal of variety in their individual apperances. 
+The Ael typically try to classify dragons into five types, based on common groups of characteristics. These groups are not especially reliable, and features don't always follow from parent to child as one might expect - 
+incidental 'mountain dragon' genes from a couple of generations up the family tree(which, given the lifespan of dragons, could be thousands of years ago) might suddenly show up in the child of two 'plains dragons'. 
+Many dragons show a mix of traits from these categories. Some dragons also use magic to further alter their appearance.
 
 ### Gold / Horned / Plains Dragon
 
@@ -100,8 +118,8 @@ Forest dragons are small (for a dragon), but have a long, serpentine body. They 
 They usually have two pairs (four total) of antler-like horns on the back of their head, and a rounded snout. 
 Forest dragons have a long wingspan, but relatively narrow wings. Their body is covered in small scales, with larger plates on their underbelly. They often have a feathery mane and tail.
 
-Forest dragons tend to be brightly colors, and are usually green, red, blue and/or gold in color, often in a mottled pattern.
-Forest dragons are primarily found in rainforest regions on the western continent and the Xhal isles. They generally hunt medium sized rainforest animals (deer, pigs, monkeys) and will also catch fish. 
+Forest dragons tend to be brightly colored, and are usually green, red, blue and/or gold in color, often in a mottled pattern.
+Forest dragons are primarily found in rainforest regions on Quon Xi and the Xhal isles. They generally hunt medium sized rainforest animals (deer, pigs, monkeys) and will also catch fish. 
 Like tundra dragons, they are capable swimmers.
 
 ### Blue / Spined / Valley Dragon

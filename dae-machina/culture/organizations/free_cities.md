@@ -23,7 +23,7 @@ The free cities were originally part of the Elyos Republic, but became independa
 The "face" of the free cities. Not the most wealthy or influential, but still quite important. Contains the meeding place for the free cities council.
 Generally agreed upon as neutral ground among the cities. 
 Eosport is also the primary port of travel between the free cities and Teythmos, and hosts embassies for a number of nations.
-It is partly built on the ruins of the former Elyos capital, which was abandoned during the Uon war.
+It is partly built on the ruins of the former Elyos capital (New Aelmos, not to be confused with the 'jinn city of the same name) which was abandoned in 100 BC, during the Uon war.
 
 ### Layout
 
@@ -47,14 +47,65 @@ that would be difficult to pass through Eosport or Haven. Rarely, this includes 
 
 The common wisdom is that you can get anything in Blackport, for the right price.
 
-The main city of Blackport is on a crescent-shaped rocky isle at the mouth of the river delta, and is not directly connected to the mainland. The surrounding swamps are quite difficult to traverse, making the city especually isolated.
+The main city of Blackport is on a crescent-shaped rocky isle at the mouth of the river delta, and is not directly connected to the mainland. The nearest coast is full of impassible swampland, making the city especually isolated.
 There are some fishermen and farmers along the banks of the river, but Blackport primarilly relies on trade for food.
+
+Most of Blackport's residants live on the inner edge of the isle. At the midpoint is the Citidel, where the Lord of Blackport and supporting functionaries live and work.  
+
+### The Lord of Blackport
+
+There is a great deal of politicking and backstabing within the Citadel, so the Lord of Blackport changes fairly frequently.
+They tend to be primarly skilled in politics and espionage rather than magic or force of arms.
+
+The Lord of Blackport has direct authority over the Shadowsteel Guard and Citadel Staff.
+Typically goes about robed and masked when outside the citadel, so than no-one outside the guard and staff know quite how often leadership of the city changes.
+
+### Shadowsteel Company
+
+The Shadowsteel Company is a mercenary company based out of Blackport. While their services are for-hire, they are still largely under the control of the Lord of Blackport.
+The company is equiped with magic-blocking black-iron armor and weapons. They are primarly outfitted with crossbows and halberds.
+
+#### Shadowsteel Guard: 
+
+A branch of the Shadowsteel Company permanently garissoned on Blackport. Members of the company are recruited into the guard based on their loyalty.
+They guard the Citadel, and control entry into Blackport Harbor.
+
+### Citadel Staff
+Network of clerks, bureaucrats and officials that manage finances, tarrifs, and city operations, as well as facilitating off-island smuggling and procurement through bribes, espionage, and blackmail.
+Reports directly to the Lord of Blackport. Most Lords of Blackport are killed by and sourced from the Citadel Staff.
+
+### Yellowjackets
+Blackport Harbor Guard. Collects tarifs and maintains order. 
+Nominally a branch of the Citadel Staff, though the two groups do not really get along with each other.
+
+### Free-traders Association
+Loosly organized collective of pirate captains, established to provide greater negotiating power with the Citadel. Controlls piracy, smuggling, and transport to and from the citadel.
+
+### Professional's Office
+An independant guild which manages sourcing and contracting assasinations, kidnapping, high-value theft, and other ilicit services
+
+### Records and Tarrifs Office
+
+A large, and fairly brazen guildhouse for the Order of Sion.
+While it still functions and presents as a records and tarrifs office, it's identity is very much an open secret.
+It is not the largest Order of Sion office, but it is definitely the least hidden.
+
+### Guild of Dock and Warehouse Workers
+A rather well-organized laborer's union, whose power hinges on control of the warehouses (and their contents).
+They are tolerated by the citadel because they can play the guild off of the free-traders association to avoid either group establishing too much power.
+
+### Hospitality Guild
+Collective of inkeepers with control over inns and lodging, but also safehouses, trafficking, and prostitution.
+Loosly allied with the Free-traders association, with the goal of minimizing Citadel interference.
 
 ## Haven
 
 The third city at the mouth of the Great Eaos river and adjacent to Trader's Bay. Most of the bulk trade between Tethmos and the free cities goes through Haven. 
-The city also hosts many shipyards, which source wood from all along the river. 
-The city gets it's name from the fact that it is a safe harbour for slaves escaping Blackport and its environs.
+The city also hosts many shipyards, which source wood from all along the river.
+
+It is the oldest of the free cities, founded in 2910 BC by refugees escaping the Lich wars.
+While it was named Haven due to the circumstances of its founding, this name has remained accurate in the modern day, where it has served as a refuge for people fleeing the Uon war, 
+and more recently as a safe harbour for slaves escaping Blackport and its environs.
 
 ## Bridgeport
 
@@ -87,12 +138,51 @@ This city straddles the river between Vindel and Grandel, and benefits from trad
 In addition to being a notable trade center (comparable to Eaosport, but not quite at large as Bridgeport or Haven), the city is also a respectable hub of magic.
 It hosts a guild of mages, not beholden to the Elyos empire (unlike the AoM&MA).
 
-Prior to the Uon War, Kenford was a small port city between Vindel and Grandel, of little renown. Afther the Free Cities split from the Elyos Republic in the aftermath of the war, it came under the leadership of a renowned
+Prior to the Uon War, Kenford was a small port city between Vindel and Grandel, of little renown. After the Free Cities split from the Elyos Republic in the aftermath of the war, it came under the leadership of a renowned
 Mage-general, who founded the Kenford Mages Guild, significantly increasing the cities importance. It is currently ruled by his son.
 
 ### Layout
 
+Kenford is located on the west bank of the Great Eaos River, where a smaller tributary joins the main river.
 
+The east side of the city is dominated by docks for ships traveling up and down the river.
+The docks adjoin the **Warehouse District**, containing primarly warehouses, inns, hostels, and brothels. It also hosts the cities customs offices and a Kenford Guard garrison.
+West of the warehouse district is the **Merchant's District**, surrounding the main city gate and hosting merchants, various other services like fariers and coopers, and some slightly more upscale inns.
+North of these two districts is the local Church of Daelios, and the **Gardens District**, which is a large green space taking up most of the northeast corner of the city.
+West of the merchant's district is the **South Quarter**, containing primarly lower-class housing. North of this, seperated by a canal, is the **Middle Quarter**, containing primarly middle-class housing.
+Further north, after another canal, is the **Banker's District**. As the name would suggest, this is the financial core of the city, containing banks, moneylenders, and moneychanges, but also the city tax office, foreign affairs offices, several jewelers shops, and the city mint.
+The northwest corner of the city is the **West Quarter**, and holds the city's secondary gate, along with a mix of middle-class housing, upscale inns, and miscelaneous merchants. Much of the city's civil service lives in this quarter.
+Between the west quarter and the gardens district is the **High Quarter**, containing upper-class housing hand upscale merchant's, and the **Lord's Manor**, housing the lord of the city.
+
+Seperated from the main city by another branch of the tributary river is the mages quarter.
+The **Mages Quarter** is the westmost region of the city, and is on its own chunk of land seperated from the main city by another branch of the tributary river.
+Three bridges connect it to the rest of the city - one to the south quarter, one to the middle quarter, and one to the bankers district. The quarter also has two gates leading outside the city.
+The mages quarter was built after the Uon war and has visibly more modern archtecture than the rest of Kenford. 
+This is most noticable in its walls, which are pristine, and have round towers, compared with the sqaure towers and more weathered walls of the rest of the city.
+
+There is also a fair number of buildings outside of the walls south of the city, near the main gate. These are generally considered part of Kenford proper.  
+
+### Kenford Mages Guild
+
+Most renown mages guild of the free cities, though somewhat overshadowed by the Acadomy of Magical and Martial arts.
+Unlike the Academy, it is not a magic school, however guildmembers may take apprentices. The guild also provides facilities and resources for members to perform research.
+
+The guild consists of ... buildings. The largest is the main guildhall, which houses ... an extensive library, enchanting and alchemy facilities.
+Behind the guildhall is a courtyard with a teleportation circle, enclised by a semicircular building containing housing for visiting guildmembers.
+Surrounding the guildhall are a handful of detached buildings for more volatile research.
+
+The guild is located on a seperate island from the rest of Kenford, and connectred to the city by three bridges. This island also houses various buisinesses, and homes for those guildmembers who live in Kenford.
+
+
+The current guildleader is in her late 50's, and has led the guild for over 20 years. She has a wide range of skills, but is mostly focused on the more subtle magics - scrying, enchanting, illusions, and such.
+
+### Kenford Guard
+
+The Kenford guard is responsible for policing, security, customs, and taxation throughout the city. They report directly to the city's ruler.
+Their uniforms consist of a red-dyed leather surcoat with silver detailing and a cloak - grey for regular guards, grey with red trim for lieutenants, and red for captains. This has earned them the moniker "Greycloaks".
+
+The guard includes a disproportionate number of magical adepts, with most of the force having at least some magical talent, and almost half being skilled mages. 
+The adepts among the guard wield arcane staves capped in sky-blue crystal in place of spears.
 
 ## Others
 
