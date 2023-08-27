@@ -1,6 +1,6 @@
 # Xhal Nations
 The nations of Xuon and Kita Lau are host to a variety of peoples and cultures.
-They are inhabited primarly by the Ael'xhal and xhal'fae, as well as the xhao'fae, a small number of merfae and woodborn, and a large number of dragons, many of which who have uniquly close relations to the local Ael. 
+They are inhabited primarly by the Ael'xhal and xhal'fae, as well as the xhao'fae, a small number of merfae, and a large number of dragons, many of which who have uniquly close relations to the local Ael. 
 
 Prior to the rise of the Uon, much of the Xuon continent and eastern Kita Lau was joined together as the Xeres Empire.
 After the war and the subsequent cataclysm, much of this region as shattered into small, fracticious tribes.
