@@ -344,6 +344,61 @@ Many Merfae mages do learn shapeshifting abilities, but they most often tend tow
 Relatively civilized compared to the Xhal'fae, often wear jewelry and wield fishing spears or tridents. Otherwise most similar to the 'xhal and Xhal'fae
 Often have good relations with the Xhao'fae.
 
+Merfae reproduce a similar fashion to serpentfish, produce many immature young at once. These young hatch as larvae and look very different from their adult form. 
+They typically take about a year to become a juvenile, at which point they look like a smaller adult. Their mental development only really starts after this point.
+
+This has had some interesting effects on Merfae culture. 
+- Some groups of merfae take a natural approach, and leave their young to grow up in the wild. Those who survive may be integrated into the group, if they can find each other. 
+  A subtle navigational sense helps the young Merfae find their way back to their place of birth. Juveniles who don't find their way back to their parents may form roving bands of feral merfae. 
+- Others groups lay their eggs in enclosed creches, and nurture all the larval merfae as they grow up. This results in a _much_ higher survival rate and as a consequence, 
+  typically only the leader is permitted to have children in these kinds of merfae groups. 
+
+There are three broad varieties of Merfae.
+
+#### Lauan Merfae
+
+Lauan merfae are most commonly found around Kita Lau and the east coast of Quon Xi.
+They are almost exclusively found near coastal regions or reefs, and  are the only variety of merfae that frequently inhabit freshwater bodies, throughout the rivers and lakes of Kita lau.
+The only Lauan merfae found in the open ocean are those that follow Leviathans.
+
+Tend towards rounded flowy fins and bright colors. Highly variable fin shape. Every tribe of Lauan merfae looks sligly different.
+Very humanlike upper half, with hair and rounded ears. Most notable outliers are pointed teeth, and heavily webbed fingers.
+Three pairs of gill slits on the torso, just below the ribs.
+
+No external genetalia - both male and female just have a slit.
+
+Some Lauan merfae have retained the ability to shapeshift to a full human form.
+
+#### Sache Merfae
+
+The Sache are the oldest lineage of Merfae, originating off the southwest coast of Eaos
+While they are most common off the southeast coast of Eaos, and in the Sach'ean Isles, they can be found accross Kita Lau, and in every major ocean. Many open-ocean merfae are Sache. 
+Narrower, more pointed fins and longer bodies than Lauan merfae.
+
+Long, pointed ears.
+Lightly webbed fingers.
+Three pairs of gill slits on the torso, just below the ribs. 
+
+
+
+#### Abyssal Merfae
+
+Abbyssal Merfae are exclusively found in the open ocean, most often at extreme depths, though there are some tribes which follow levaithans, and consequently stick near the surface.
+
+Bioluminescence
+Uniform coloration - usually white, black, or red.
+First pair of fins are half-tentacle.
+Spade-shaped caudal fin.
+
+Least humanlike upper-half - humanoid, but no breasts, nipples or bellybutton. Cartaligious crest in place of hair. No external ears - just holes (although the crest does work to focus sounds)
+Large, dark-colored eyes.
+Two pairs of gill slits on the torso, just below the ribs.
+
+Most Abyssal Merfae have some ability to alter there form, e.g add more tentacles.
+
+Less amphibuous than other merfae, mostly limited to the water. 
+
+
 ### Deep Fae
 
 A more primal offshoot of the Daal'fae, these 'fae live northeast of the Dragonspine mountains, and rarely come into contact with civilized peoples. 
