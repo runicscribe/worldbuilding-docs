@@ -40,7 +40,7 @@ Mainly fire jinn, but a mix of more exotic types, most notably the largest commu
 ## Sea's Bounty
 Underwater, built in and atop a massive coral reef.
 
-Almost solely water jinn.
+Almost solely water jinn, alongside a moderate population of Sache merfae (and a small handful of Abyssals)
 
 ## Cinder's Peak
 Peak of a very tall, very active volcano.
@@ -58,6 +58,7 @@ Mainly fire and earth jinn
 
 Underwater, but adjacent to subduction zone.
 Mix of water, earth, and fire jinn, with a moderate number of other types.
+Also hosts a small number of merfae.
 
 ## City in the Clouds
 

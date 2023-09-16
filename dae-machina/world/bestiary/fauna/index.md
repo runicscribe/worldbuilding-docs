@@ -23,7 +23,7 @@ This phylums includes serpentfish, hexapedes, longfeather birds, raptors, and ma
 ### [Serpentfish](./serpentfish)
 4-6 eyes, long flexible body. Mostly cartiligious skeleton.
 Typically have 2 pairs of lateral fins, one dorsal fin, one or two belly fins, and a large vertical tail fin.
-Strictly aquatic, breath via gills
+Strictly aquatic, breathe via gills
 
 ### [Hexapedes](./hexapede_lizards)
 

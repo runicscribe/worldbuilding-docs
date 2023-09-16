@@ -10,7 +10,7 @@ The various languages of Dael can be organized into eleven loose groups.
 - **Draconic**: The oldest language family, but also one of the smallest, comprising the written and spoken languages of Dragonkind.
 - **Uon**: Includes the various written languages of the Uon. Does not have any spoken form.
 - **Daelean**: Rooted in Old Aeldar, and includes most languages spoken by the Ael'daal, Ael'midh, and Eaosian 'jinn.
-- **Lauan**: The oldes of the three language families found across the Kita Lau isles
+- **Lauan**: The oldest of the three language families found across the Kita Lau isles
 - **Eaos-Fae**: Includes all Daal'fae and Midh'fae cants, along with spoken Leonin (although some scholars consider this the sole member of its own language family)
 - **Nortuk**: Comprises the languages spoken by the Dhagian 'midh and Northern 'thal
 - **Quontuk**: Includes the offical language of the Quon Xi empire, along with several other languages spoken across eastern Quon Xi and western Kita Lau
@@ -85,11 +85,6 @@ They have some overlap with Lauan and Draco-Xerec language families, but still c
 This group also includes a sophisticated sign language used by many Merfae.
 Feline Xhal'fae sometimes use a simpler version of this.
 
-### Quontuk Languages
-
-Includes the official language of the Quon Xi Empire, spoken mainly in the Heartland regions, and several central valley languages.
-These languages all use a shared symbolic script.
-
 ### Draco-Xerec Languages
 
 Originated with the language of the Xeres empire. Blends aspects of the Draconic languages with the Lauan languages.
@@ -97,6 +92,24 @@ Has a symbolic script that is very similar script to written Draconic.
 
 Languages in this group are spoken by the Xeres Remnant, Xencha Defiant, Dragonhalls, and remaining followers of the Xeres Orthodoxy.  
 
+### Lauan
+
+Lauan is the oldest of the three language families found across the Kita Lau isles.
+Modern speakers are mostly found among the central Kita-Lau isles
+
+### Quontuk Languages
+
+Includes the official language of the Quon Xi Empire, spoken mainly in the Heartland regions, and several central valley languages.
+These languages all use a shared symbolic script.
+
+The nomadic people of northeast Quon Xi speak an archaic dialect of this language family, with some structural similarities to Futhern.
+
+### Kaldean
+
+Kaldean includes a wide variety of languages spoken throughout western and southern Quon Xi.
+In the southern valley regions, many Kaldean dialects have blended heavily with Quontuk.
+
+Some of the northwestern people of Quon Xi speak a distant dialect of this language, that is largely unintelligble to speakes from the west coast.
 
 ### Tonal 'jinn language
 
@@ -105,11 +118,6 @@ Constructed from a mix of sonic and arcane resonances.
 Mainly used by 'jinn when in full elemental form, although is the primary language of the aquatic 'jinn cities.
 
 Extremely difficult for non-'jinn to speak, and almost as hard to understand, but some mages have managed to do both.
-
-The 'thal and 'xhal languages have both diverged substantially from the
-origional Aeldar, to the point that the Aeldar roots are almost undetectable, but are quite similar to each other. They both use
-unique symbolic scripts.
-
 
 ## Sign Languages
 

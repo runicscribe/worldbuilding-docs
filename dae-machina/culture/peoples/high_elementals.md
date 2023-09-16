@@ -35,5 +35,7 @@ and rarely remain in one place for long. Like Gyldraed, they cannot speak, but a
 
 The form of a Vyldarthe is less mercurial than that of a Gyldraed, but shaped in similar fashionl; built up from aspects from other sapients they've interacted with.
 Young vyldarthe extreemly varied, not relaly having settled down on anything appriaching a permanent form
-Older vyldarth usually settle on some sort of humanoid shape, given that the Ael are the most common form of sapient life. Some, especially those formed in the domain of the deep fae, opt for a more animal-like form instead.
-Some particularly ancient vyldarth settled on the form of a dragon several millenia ago, and aren't changing to become more Ael-compatible anytime soon. 
+Older vyldarth usually settle on some sort of humanoid shape, given that the Ael are the most common form of sapient life. Some, especially those dwelling in the domain of the deep fae, opt for a more animal-like form instead.
+Some particularly ancient vyldarthe settled on the form of a dragon several millenia ago, and aren't changing to become more Ael-compatible anytime soon.
+
+Vyldarthe are sometimes confused with elder Ael'jinn. One common differentiator is that Vyldarthe readily incorporate organic materials such as wood or vines into their form, wherease 'jinn do not.

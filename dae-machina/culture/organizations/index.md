@@ -162,7 +162,7 @@ They have a unique relation with a dragon inhabiting the islands; after killing 
 Meanwhile, a seperate group sneaks into the dragon's lair to scavenge treasure. The dragon is fully aware this is happening, and deliberately set up a decoy room with less valuable things for the selkies to scavange, 
 considering this fair trade for not having to do any work hunting (Although any selkies who get a little too greedy are still at risk of lethal reprisal).
 
-### Sach'ean Diarchy
+### [Sach'ean Diarchy](./sachean_isles)
 
 South of 'jinn peninsula.
 The main chain of four islands is jointly ruled by Ael'daal and Merfae monarchies. There are a handfull of other inhabited islands in the vicinity that are culturally similar, but not really under the rule of the diarchy.
@@ -182,6 +182,9 @@ Mix of 'daal and 'xhal, and a very small number of Xhal'fae and merfae
 Bit more communitcation with mainland, mostly Riftlanders (and previously, inhabitants of the now-destroyed group of large islands near the coast). 
 Largely unscathed by the Uon-Daal war, but took quite a bit of damage (and many refugees) during the Uon Cataclysm.
 
+### [Ocean Merfae](./ocean_merfae)
+
+There are number of open ocean merfae civilazations that are largely irrelevant to world politics, due to being at the bottom of the ocean and having no interest in the land.
 
 ### Mage Settlements
 There exist various secluded settlements that are populated by like-minded mages that want to be free to practice their magic without interference from “civilized” society. 

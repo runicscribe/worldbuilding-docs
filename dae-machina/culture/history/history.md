@@ -80,6 +80,7 @@ permalink: /dae-machina/culture/history/history
   - Uon begin to reistablish themselves in southern Xuon.
 - 3,100 BC
   - Xeres Empire begins to destabilize
+  - ☇ Xhal'fae diverge from the 'xhal.
 - 3,000 BC
   - Decline of the Eos civilization. Constant farming begins to take a substantial toll on the land, resulting in scarcer resources and famine.
     This leads to harsher taxes, and greater militarization in an attemt to conquer the more fertile, primitive lands further north.
@@ -95,7 +96,6 @@ permalink: /dae-machina/culture/history/history
     Most of the common people flee north, to where it is less civilized but more stable. Over the course of the war, many liches are destroyed or imprisoned. 
     Eventually, one of the empire liches triumphs over the remaining armies. After stabilizing the remains of the empire, this lich tries to continue to expand the empire, 
     but is destroyed by the 'jinn nation when he encroches on their borders.
-  - ☇ Xhal'fae diverge from the 'xhal.
   - ⚬ Founding of the Shapeshifter Commune.
 - 2,500 BC 
   - ☉ Æl'daal civilization: Second Era

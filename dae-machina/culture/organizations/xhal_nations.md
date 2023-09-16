@@ -5,7 +5,7 @@ permalink: /dae-machina/culture/organizations/xhal_nations
 
 # Xhal Nations
 The nations of Xuon and Kita Lau are host to a variety of peoples and cultures.
-They are inhabited primarly by the Ael'xhal and xhal'fae, as well as the xhao'fae, a small number of merfae and woodborn, and a large number of dragons, many of which who have uniquly close relations to the local Ael. 
+They are inhabited primarly by the Ael'xhal and xhal'fae, as well as the xhao'fae, a small number of merfae, and a large number of dragons, many of which who have uniquly close relations to the local Ael. 
 
 Prior to the rise of the Uon, much of the Xuon continent and eastern Kita Lau was joined together as the Xeres Empire.
 After the war and the subsequent cataclysm, much of this region as shattered into small, fracticious tribes.
@@ -25,7 +25,7 @@ Commonly considered easternmost city to lie under the influence Empire of the Ri
 
 ## Independant States
 
-### Dragonhalls
+### [Dragonhalls](./dragonhalls)
 
 Built into and through the sides of a mountain chain in one of the central Kita Lau islands
 Founded during/after the dragon war, by a pair of dragons who mostly wanted to stay out of the whole thing, while still using the influence they had over their territory to protect the local humans.
@@ -62,40 +62,43 @@ Poor relations with the Quon Xi empire.
 
 Coastal Merfae often have close relations with nearby Ael'Xhal and Xhao'fae tribes.
 
-### Deep-sea Merfae
-
-The Deep-sea Merfae have some contact with coastal mer-fae, but not with any other Ael.
-
-Some build elaborate underwater cities. Very few non-Merfae have ever seen these (while many water-'jinn also live underwater, they are on opposite sides of the world).
-
-Other groups maintain a nomadic lifestyle. This is most common ammong the Followers of the Leviathan, but not limited to them.
-
-The Followers of the Leviathan are semi-nomadic, following their patron as it moves through the ocean. However, they still often build structures on the carapace of their leviathan, 
-so they may still retain more permanent forms of housing than would be expected from a nomadic people.
-
-Many Merfae mages do learn shapeshifting abilities, but they most often tend towards chimeric shapeshifting, taking on characteristics of various deep-sea beasts.
-
-Three distinct paths:
- - Children of the Sea - most conventional - take on various aspects like tentacles or chitin armor, but remain roughly mer-fae shaped and sized.
- - Remora - Physically merge with a leviathan or other great sea-beast. This merging is initially reversible, but eventually becomes permanent. Lifespan extends to match the leviathan. 
-   Will typically retain the upper-half of their original mer-fae body attached to some appendage, though this becomes increasingly vestigial over time.
- - Devourers - Become a leviathan the hard way - starting out as a normal, Ael-sized shifter and continuously accumulating mass, eventually reaching Leviathan size. Tends to result in more unique forms.
-
-Remora and Devourers are most common among Followers of the Leviathan, and often become god-kings of their own splinter tribes.
-
- 
- 
 ### Xencha Defiant
 
-Moderately sized, loosely organized tribe of Ael'xhal and xhal'fae that originated as a rebellion against the Xeres Empire. For 300 years, small tribes lived in the deep in the southern Xuon jungle, 
-within the bounds of the empire, but not subject to it, sowing the seeds of its fall and liberation of the xhal peoples. After the fall of the empire, some individuals kept to these ways, living within the jungle and subsisting on its bounty.
-These practices persisted through the Uon conquest, and for a time the Xencha Defiant were the only intependant group of Ael'Xhal on Xuon.
+The Xencha Defiant are a moderately sized group of loosely organized, semi-nomadic tribes of Ael'xhal and Xhal'fae, living in eastern Kita Lau, the Shards of Xuon, and western Eaos.
+They are one of the very few communities in which Ael'xhal and Xhal'fae live together in harmony.
 
-The remenants of these groups still exist in the current day, living deep in the jungle and keeping many of the traditions of the original rebellion
-although they have mostly moved to more hospitable regions in the wake of the cataclysm. Nowadays, they are most often referred to as the Xencha Remnant.
-Despite their isolation and relatively aesetic living conditions, retain a fairly high level of tech, at least to the degree that is feasible with no industrialization.
+While they may make camp in the same location for a while, they do not build permanent settlements, and can pack up camp and be ready to travel at a moment's notice.
+As a consequence, they keep few possesions, limited by what they can easily carry. This, coupled with the warm climate, also means Xencha generally don't bother with clothing.
 
-One of the very few communities in which Ael'xhal and Xhal'fae live together in harmony.
+Despite their isolation and relatively aesetic living conditions, retain a fairly high level of technology, at least to the degree that is feasible with no industrialization.
+This is seen primarly in their knowledge and the preservation thereoff, and their ability to construct highly effective tools from their environment. 
+
+All Xencha are expert survivalists, skilled in tracking, hunting, foraging, and sometimes fishing. Most also learn basic magic skills, especially scrying, concealment, and countermagic.
+Indiviuduals also typically learn some specilized skill, which may include medicine, bowmastery (encompassing bowmaking, fletching, and archery), more advanced magic skills, and more.
+
+Xencha medicine couples magical techniques with the varied resources of the jungle, and is among the most effective on Dael. Likewise, Xencha bows are among the best around.
+They lack metalcraft, but make up with this with a equally effective materials sources from animal products and easier to work minerals like flint and obsidian. 
+They will also sometimes scavenge metal tools from other civilizations, but never rely on them.
+
+Xencha groups rarely have fewer than eight or more than two dozen members. There will rarely be more than a couple children in any one group, as more than this number are difficult to care for given the Xencha lifestyle.
+
+#### History
+
+The Xencha Defiant originated on Xuon sometime around 3000 BC as a rebellion against the Xeres Empire. For 300 years, small tribes lived in the deep in the southern Xuon jungle, 
+within the bounds of the empire, but not subject to it, sowing the seeds of its fall and liberation of the xhal peoples. 
+The early Xencha were organized mostly into small cells, with little knowledge of the others. Individual cells had their own permanent camps, but still moved frequenly, 
+and subsisted on a mix of resources stolen from the Xeres and obtained from the wilderness.
+The Feline Xhal'fae originated with the Xencha Defiant during this time period, and soon made up a significant proportion of their numbers.
+
+After the fall of the empire, some groups kept to these ways, living within the jungle and subsisting on its bounty. 
+Other groups formed new settlements, in the ruins of the Empire. Some Xhal'fae continued to live in the wilderness, but didn't keep up most of the other practices of the Xencha, becoming wilder and more primitive.
+
+The Xencha who remained continued their practices through the Uon conquest, and for a time the Xencha Defiant were the only independant group of Ael'Xhal on Xuon.
+
+The remenants of these groups still exist in the current day, living deep in the jungle and keeping many of the traditions of the original rebellion.
+Many have moved to more hospitable regions in Kita Lau and Western Eaos in the wake of the cataclysm, but some remain in the riftscape, where their particular skills allow them to survive where others could not. 
+Nowadays, they are most often referred to as the Xencha Remnant.
+
 
 ### Xeres Reborn
 

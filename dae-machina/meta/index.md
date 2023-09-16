@@ -23,6 +23,37 @@ Which gives density of 6165 kg/m3, 11.6% higher than earth; within acceptable bo
 
 TODO: Adjust lifespans accordingly. (x1.42)
 
+
+Moons are all 1000 km diameter, with varying densities
+Vol = 5.23e23 cm3
+
+Mass:
+  Brightsun: 2.09e21 kg
+  Darksun:   2.62e21 kg
+  Aurum:     1.01e22 kg
+  Argent:    5.49e21 kg
+  Alkyne:    4.69e21 kg
+
+
+--
+Earth's moon: 7.35e22 kg
+Orbital distance of moon = 384400 km
+
+Tidal force ~ M/d3
+Theoretical Amplitude contributions:
+Suns 3.4e6    1.42m
+Moons
+ Aurum - 0.081m
+ Argent - 0.015m
+ Alkyne - 0.007m
+--
+Sample plot: 1.42*cos(4*pi*x) + 0.081*cos(4*pi*x/36)  + 0.015*cos(4*pi*x/63) + 0.007*cos(4*pi*x/84) from 0 to 252
+--
+Tides are more uniform than on earth, with a fairly consistent twice daily high tide at noon and midnight. 
+Maximal tides are about double the norm on earth. Minimal tides are about triple the norm on earth.
+The influence of the moons - mainly Aurum, adds a +/1 5% annual variation. (Compare with earth, with a ~30% variation from the sun)
+
+
 ## Cosmology
 
 Earth-centric layout, with a small, close, sun means that the sun's rays are less parallel than on earth and that dawn and dusk last longer.

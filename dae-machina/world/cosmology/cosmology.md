@@ -84,7 +84,7 @@ Composed entirely of copper.
 Orbital period of 84 days. Orbits approx 6.468e8 m from the planet. Sky diameter of 5.3'.
 Eclipsed by Dael (and the Darksun) once every 6.39 days, with 40 eclipses a year.
 
-#### Eclipses
+### Eclipses
 
 In addition to the eclipse/convergence at the start of the year, each of the moons are eclipsed by Dael every 6 to 7 days, for a total of 112 per year (counting the convergence as a single event).
 These eclipses last aproximately 3 hours, and are visible at any lattitude.
@@ -99,6 +99,35 @@ The convergence at the start of the year is the only time all three are eclipsed
 Because the Brightsun orbits exactly opposite the Darksun, eclipses of one of the moons by Dael always coincide with an eclipse of the same moon by the Darksun, which lasts about 10 minutes, 
 and is only visible within 10 degrees of the equator (beyond that, it appears as a non-overlapping convergence instead). Since this event is so much shorter than the planetary eclipse, it is are effectively invisible, 
 and only detectable through fluctuations in Aether and Arcana.
+
+### Tides
+
+Together, the two suns and three lesser spheres influence the tides of Dael.
+The suns contribute the greatest influence, producing relatively uniform, twice daily, high tides at noon and midnight.
+The range between high and low tide varies based on geography, but is typically between 1.5m and 30m.
+
+The influence of the lesser spheres is quite minor, and is dominated by Aurum. Depending on time of year, they can alter the tidal range by up to 5%.
+The largest change in range occurs on an 18-day cycle, with maximal range changing to minimal range over 9 days, with more subtle changes over the course of the year.
+
+#### Regional Ranges
+
+The smallest tidal ranges occur in the open ocean, and the largest occur in bays and rivers.
+The riftscape itself does not really follow the tidal cycle, with entirely unpredictable ocean hights, dominated by the chaotic gyre spanning much of its area.
+The tides near the riftscape are unpredictable, due to the influence of the gyre. 
+
+Trader's Bay has especially large and difficult to predict tides due to the proximity of the riftscape coupled with the local geography. Typical tidal ranges are 20m-30m. 
+The tides were smaller and more stable before the cataclysm, and as a consequence, the waterfront of both Easport and Haven has been substantially remodeled.
+Kita Lau is relatively shielded from the influence of the rift due to the Shards of Xuon. Tidal ranges near smaller islands and convex coastlines are around 3m-10m, and 5m-15m near the bays.
+The City of Bridges has a rather gentle tidal range of 3m.
+
+Most of the outlying islands off the southeast coast of Eaos have gentle tides. Those of Enjat-Tehktun are larger and more chaotic due to the rift, between 5m-10m. Those of the Sachean Diarchy are 1.5m-3m.
+
+Teythmos is at the mouth of a deep bay, giving it a rather large tidal range of 18m. The city itself is built at the top of a cliffside, well above high tide, with a series of boat lifts providing access to the Teythmos river.
+
+The tides near the north pole are unusual - the extreeme northern lattidue coupled shape of northern Mhidda results in a tidal cycle that is dominated primarly by interactions between the ocean and the coasts.
+The tides here are still on a roughly twice-daily cycle, but the times and magnitudes of high and low tide is much more varied.
+
+The Dhagiean Isles experience a similar effect, although to a lesser degree. High tide is still consistently at noon and midnight, but tidal ranges have a much larger monthly variance then elsewhere on Dael.
 
 ## Wandering Stars:
 
