@@ -18,3 +18,5 @@ For example, diamionds and igneous/metamorphic rocks are good focci for heat spe
 Metals tend to be good sympathetic focci for general encantation and enchanting spells.
 For scrying, fire is a good focus for future sight, earth for past sight, and water and air are good for distance sight (water generally gives a clearer vision while air tends to have a longer and broader range). 
 Molten rock is a very strong scrying focus as it combines all the (relevant) attributes of these four elements. Glass or reflective surfaces are good for revealing hidden things.
+
+Most [mage tools](../mage_tools) rely primarly on sympathy to function.

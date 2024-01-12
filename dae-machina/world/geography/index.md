@@ -30,8 +30,13 @@ The interior of the tree is full of shapeshifted biomass, mainly concerned with 
 
 ### Grove of Infinities
 
-Intersection of several Gyldraed domains, moslty of various forests, which unusually enough, have not merged.
-Closest thing that existis to a Gyldraed community. 
+Intersection of several Gyldraed domains, mostly of various forests.
+Normally, such a place would result in dryads merging together into one being, if the forests blended together enough, or a region where the dryads would be too weak to manifest, if the forests did not.
+However, the native dryads have deliberately cultivated divisions between their respective domains in this region, so that they can retain some level of power and autonomy.
+These divisions means that there appear to be many paths leading away from the grove, but all of them eventually blend into trackless forest.
+Each demense is also dominated by a particular tree species near the grove, though the adjoining forests tend to be more mixed.
+
+The grove is the closest thing that existis to a Gyldraed community on Dael, and spans much of eastern Mhidda.
 
 ### World's Edge
 
@@ -69,6 +74,11 @@ The body of water at the mouth of the river is known as Trader's Bay.
 ## The Great Eaos Desert
 
 Further southeast is a large desert, containing ruins of Ælmos, the original Ældar civilization, scattered oases, and numerous other ruins dating from the lich wars, some still with liches sealed in them.
+
+### The Glass Barrens
+
+On the northeast edge of the desert is a vast expanse of melted glass, half-buried in sand. It was formed during the last battle of the Lich Wars, when the 'jinn of New Aelmos defeated the last surviving lich of the old empire.
+Several-hundred hears after this, the 'jinn built a city here, shaped from the glass itself.
 
 ## The 'Jinn Cities
 Past the desert is the eastmost tip if the continent, containing the a number of Æl‘jinn.
@@ -113,10 +123,11 @@ flash storms. Uon and Ældar ruins are common.
 
 ## Main Rift
 
-The main rift region extends from 50 km from the centre of the rift to 1,500 km from the centre of the rift. It consists solely of floating islands levitating above the ocean. Both the islands and the ocean move in a 
-counterclockwise direction around the centre of the rift. Magic is chaotic and completely unpredictable in this region. Reality is warped in this region, resulting in non-Euclidean geometries, time dilation, and unnatural 
-behaviour of matter. Unstable short-lived elementals and other magical phenomena are common. Due to the unpredictable geography and chaotic magic of the region, the main rift is impossible to map or navigate. Various Uon ruins 
-can be found among the floating islands.
+The main rift region extends from 50 km from the centre of the rift to 1,500 km from the centre of the rift. It consists solely of floating islands levitating above the ocean. Various Uon ruins can be found among the floating 
+islands. Other islands were originally fragments of seafloor, and host merfae ruins.
+Both the islands and the ocean move in a counterclockwise direction around the centre of the rift. Magic is chaotic and completely unpredictable in this region. 
+Reality is warped in this region, resulting in non-Euclidean geometries, time dilation, and unnatural behaviour of matter. Unstable short-lived elementals and other magical phenomena are common. 
+Due to the unpredictable geography and chaotic magic of the region, the main rift is impossible to map or navigate. 
 
 ## Eye 
 

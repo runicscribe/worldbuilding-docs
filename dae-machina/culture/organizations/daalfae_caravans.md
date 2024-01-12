@@ -39,7 +39,7 @@ Clockwise
 
 This caravan route follows the edges of the Eaosport Sea: From the shapeshifter commune, to an occasional meeting with the center inland tribe, then through the coastel free cities, and ending at one of the northernmost Riftlander settlements.
 Every 3-4 years, this includes a meeting with the Great Plains tribe shortly after leaving this settlement.
-The journey takes 3 months from start to end, for a 6 month round trip.
+The journey takes 3 months from start to end, for a 6 month round trip. As this journey lines up with a monthly interval, this caravan mainly follows the goldmoon.
 
 One of the rougher caravan routes; includes travel through jungle, swampland, two river crossings, and touches upon the edge of the Riftscape. For this reason, the caravan has very few wagons - nearly everything is carried on
 the backs of the caravan members, fae or direbeast. Shelter primarily consists of hide tents.
@@ -54,6 +54,7 @@ Regularly escorts members of the shapeshifter commune and riftlanders travelling
 
 ### Center Inland Tribe
 Caravan route follows a half-year cycle, travelling counterclockwise around inland Eaos, north-west of great river.
+This cycle lines up with two orbits of the silvermoon, which is especially revered by this caravan.
 Every year and a half, meets with Northern Foothills tribe at site of great annual gathering (every other one of these also includes Great plains and Eastern Valley). 
 Travels with Northern Foothills for about a month following this meeting.
 When their schedules align also meets up with Crescent Route (Irregular cadence, avgeraging twice every three years)
@@ -73,7 +74,8 @@ counterclockwise
 Crescent - avg 1/year, 6 year cycle: 0 2 0 1 1 1
 
 ### Northern Foothills Caravan
-Clockwise circit following the foothils of the dragonspine mountain range, from Teythmos to Dragonspire to Arcmuth, then south along river, meeting up with Great Plains tribe (every 3 yrs) and Center Inland tribe (Every 1.5 years). 
+Clockwise circit following the foothils of the dragonspine mountain range, from Teythmos to Dragonspire to Arcmuth, then south along river, meeting up with Great Plains tribe (every 3 yrs) and Center Inland tribe (Every 1.5 years).
+This cycle lines up with three orbits of the silvermoon, which is especially revered by this caravan.
 Travels west back to Tethmoys accross northern plains. The full trip takes three-quarters of a year; every year and a half (i.e. every other trip), travels w Center inland for the first month of this journy
 
 Bulk of polulation is Reindeer, plus some goat 'fae from Eastern Mountain tribe.
@@ -86,6 +88,7 @@ Clockwise
 ### Eastern Valley Circuit
 
 Small circuit - 2 and 1/3 months taking a counterclockwise route around the plains east of the northerly Free Cities.
+The span of this cirucit matches the orbit of the coppermoon, which is especially revered among this caravan.
 Once every three years, extends this circiut to join up with the great gathering west of the Great River, extending the length of the journey circuit by about a month.
 
 Red Wolves + Wild Dog fae.

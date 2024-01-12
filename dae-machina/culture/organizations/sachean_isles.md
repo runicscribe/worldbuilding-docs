@@ -16,6 +16,7 @@ In large part because of this isolation, it has avoided many of the cataclysmic 
 The islands are missing a few specific advancements dating after the first-era Daal, and lacking access to certain materials. 
 One notable example is that they have few reliable sources of high-quality gemstones - while some can be found in the active volcanic regions of the isles, these are too dangerous to mine reliably. 
 This greatly limits the production of enchanted items, especially more complex devices.
+Gold, silver, and copper are neither particularly rare nor especially common.
 The metallurgy of the isles is also behind much of Eaos in several aspects, especially with respect to weapons-grade steel and the like.
 Occasional trade with the 'jinn helps fufill some of these lacks. 
 

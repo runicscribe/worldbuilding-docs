@@ -7,6 +7,12 @@ permalink: /dae-machina/culture/organizations/dalfae_other
 
 ## Hyena Tribes
 
+The hyenid 'fae were the last of the  Daal'fae to flee southeast Eaos after the start of the Lich wars, and to this day still roam fairly deep into the Great Desert.
+The cataclysm impacted them worse than most Daal'fae groups, wiping out several tribes and pushing the survivors further into the desert and into more populated regions.  
+They most commonly interact with the Lion Tribes, whom they are often in conflict with, and the Riftlanders, who they generally get along with.
+
+Hunter-gatherers, subsisting on just about anything they can scrounge up. Will often travel quite far to find food.
+
 ### Sandwalkers
 
 Easternmost Hyenid tribe.
@@ -32,7 +38,7 @@ In the process of construction a city/mausoleam carved into the side of a cliff,
 Loose collection of smaller tribes that are culturally quite similar, spread across the southern great plains
 All together, they make up the largest population of Hyenid fae in Dael.
 
-They frequently practice temporary reanimation, both to more easily bring prey back to their settlement and for assistance in combat.
+They frequently practice temporary reanimation (often of the null zombie variety), both to more easily bring prey back to their settlement and for assistance in combat.
 
 #### Northern
 

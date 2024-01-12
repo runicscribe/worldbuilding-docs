@@ -11,6 +11,11 @@ Out-of-universe information about Dae-machina, mostly about how it relates to Ea
 
 Terra Mendael dimensions: 9800 km in diameter/30787 km circumference (0.76911 the size of earth)
 
+In universe measure is typically the league - distance traveled on foot in 1 hour.
+ - For cultures that use 24-hour days, this corresponds to 2 miles or 3.22 km
+ - For cultures that use 36-hour days, this corresponds to 3 miles or 4.83 km
+
+
 Mass = 3.038e24 kg
 Volume = 4.928e20 m3
 Gravity is 8.445 m/s2 (0.86 of earth)

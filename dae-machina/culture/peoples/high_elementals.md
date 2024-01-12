@@ -17,8 +17,10 @@ Their “body”, technically encompasses the entirety of their domain, but they
 When manifesting such an avatar, they will usually loosly mirror the form of whatever being they are interacting with, but formed from the substance of their domain.
 If their domain is respected, they are not hostile, but if their domain is threatened in any way they will do everything within their considerable power to remove the threat. 
 Gyldraed can manipulate anything that is part of their domain, reshaping and altering it at will. They can make trees and rocks move, and can exert a limited mental influence 
-over any animals native to their domain. Gyldraed cannot speak, but can communicate mentally. They generally communicate in termes of concepts, feelings, and visions of present 
-or potential events rather than using words.
+over any animals native to their domain or elementals with a shared affinity to their domain. 
+Gyldraed cannot speak, but can communicate mentally. They generally communicate in termes of concepts, feelings, and visions of present or potential events rather than using words.
+
+The term Gyldraed comes from Old Aeldar. They are also known as Dryads in Middle Eaosian, or Vyldharts in Futhern.
 
 Gyldraed may come into being in any natural region that has a fairly stable terrain (in other words, that hasn’t changed significantly over the last few millennia) and a reasonably high concentration of magic. 
 Gyldraed will live for as long as their domain remains in existence. Gyldraed are relatively common.
@@ -39,3 +41,5 @@ Older vyldarth usually settle on some sort of humanoid shape, given that the Ael
 Some particularly ancient vyldarthe settled on the form of a dragon several millenia ago, and aren't changing to become more Ael-compatible anytime soon.
 
 Vyldarthe are sometimes confused with elder Ael'jinn. One common differentiator is that Vyldarthe readily incorporate organic materials such as wood or vines into their form, wherease 'jinn do not.
+
+Vyldarthe is the Old Aelder name for them. They are also known as Wuntherkyne in Futhern, and Wanderers in Middle Eaosian.

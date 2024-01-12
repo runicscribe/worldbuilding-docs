@@ -116,8 +116,8 @@ The Enchanting school also includes other permanent effects such as curses.
 Any practitioner of magic is known as a mage. Most average mages are most skilled in one or two disciplines, with much lesser skill in other fields. More powerful mages may be similarly specialized but much more skilled, 
 or have a similar amount of skill, but in a wider range of fields.
 
-Refer to spellbook for an idea of what an average mage can accomplish.
-Strong mages skilled in sympathy and transmutation can obtain functional immortality by meditating for about 1 hour per day to nullify the effects of aging. Most shapeshifters also age at a reduced rate. 
+Refer to the [spellbook](./spellbook) for an idea of what an average mage can accomplish.
+Strong mages skilled in sympathy and transmutation can obtain functional immortality by meditating for about 1 hour per day to nullify the effects of aging. Most arcane shapeshifters also age at a reduced rate. 
 Very powerful mages can use Animancy to achieve a stronger form of immortality (ie. lichdom).
 
 ### Mage Professions
@@ -161,6 +161,11 @@ Many small towns or villages have a resident witch.
 #### Shaman
 Shamans are instinctive magic users, similar to a witch, but with a broader range of magic that produces active or direct effects. Often has some skill in another field, such as Necromancy, Sorcery, or Shapeshifting. Shamans 
 are usually the prime magic user of some tribe (eg. Ael‘xhal or Daal‘fae)
+
+## [Mage Tools](./mage_tools)
+
+Most mages rely on some number of tools to make magic use easier. Such tools rely on the the arcane schools to help focus Arcana and shape Aether. 
+
 
 ## Magic Disciplines
 While the nine schools of magic provide a good breakdown of how magic works, most functional spells use a mix of schools and methods to accomplish some effect. In order to better categorize how magic is actually used, various 

@@ -6,8 +6,8 @@ permalink: /dae-machina/culture/peoples/aeldar/aelfae
 # Æl'fae
 
 The original Æl'fae were a group of Ældar skilled in animal shapeshifting, who left the Ældar civilization to live more in-tune with nature.
-Modern Æl'fae are nomadic [natural shapeshifters](../../../world/magic/disciplines/shapeshifting), who can shapeshift between a human form and a single animal form. 
-Æl'fae most often live in small family groups (5-15 individuals), much like the beasts they embody. A single family of 'fae will generally have the same or similar animal form.
+Modern Æl'fae are [natural shapeshifters](../../../world/magic/disciplines/shapeshifting), who can shapeshift between a human form and a single animal form. 
+Most Æl'fae are nomadic, and live in small family groups (5-15 individuals), much like the beasts they embody. A single family of 'fae will generally have the same or similar animal form.
 Larger groups also exist, but only where resources are particularly plentiful, as the 'fae generally subsist on a hunter-gatherer lifstyle. Lone 'fae are also somewhat common, especially among the Xhal'fae.
 
 Æl'fae have an average lifespan of 35-50 years. They reach physical maturity at age 9-10 if born in human form, or age 3-4 if born in animal form. They reach their adult size at around age 12 - 16 (regardless of birth form). 
@@ -24,11 +24,13 @@ Natural cycles like menses or heat will generally match what is normal for the f
 Pregnacy inhibits the ability to shapeshift. Æl'fae who become pregnant in animal form will generally produce produce smaller litters than in natural animals. 
 
 Æl'fae social practices are usually loosly modeled on those of the animal form they favor. Various groups will also have their own unique cultural affects, like any other group of people.
-The specific subspecies represented by the animal forms of the varuios 'fae tribes generally do not exist as mundane animals. Many of them did exist at one time, but were outcompeted by their 'fae counterpart, 
-or interbred with the fae so as to become indistinguishable. In either case, direbeasts were the primary driver for this dissaperance.
-Mundane and magical animals that are rather similar do exist. They are typically adapted to a slighly different ecological niche, or have some unique ability which puts them on a more even footing with the local 'fae.
 
-There are three main 'fae bloodlines, each originating from a different group of Ældar, along with a handful of offsoots:
+The specific subspecies represented by the animal forms of the various 'fae tribes generally do not exist as mundane animals. Such species did exist in the past, but were typically outcompeted by their 'fae counterparts, 
+or interbred with the fae so as to become indistinguishable. Mundane and magical animals which are similar generally do exist. Such counterparts are typically adapted to a slighly different ecological niche, 
+or have some unique ability which puts them on a more even footing with the local 'fae. In a couple cases there aren't any similar animals remaining. 
+For example, outside of the eastern Daal'fae there are no other extant animals which resemble lions (though in this case the vast desert caused by the lich wars was as much to blame as the fae for their extinction).
+
+There are four main 'fae bloodlines, each originating from a different group of Ældar, along with a handful of offsoots:
 
 ## Plains Tribes (Daal'fae)
 
@@ -174,6 +176,7 @@ Hyena Clans are semi-nomadic, often constructing temporary dwellings that they u
 (usually due to environmental concerns, such as better hunting, less competition, etc.). Hyena dwellings are constructed from hides, clay, packed earth, and/or wattle and daub, 
 and consist of a network of interconnected rooms, trenches, and tunnels, generally below ground level. Some rooms are still open to air, acting like courtyards.
 When moving sites, Hyena clans will take very little with them, instead collecting what they need when they arive at their destination. They will often reuse old hyenid dwellings if they find one in their a new location.
+The hyenid 'fae were the last of the  Daal'fae to flee southeast Eaos after the start of the Lich wars, and to this day still roam fairly deep into the Great Desert. 
 
 Clans subsist through hunting, scavenging, and gathering. The Hyena clans are found over a similar range to the lion tribes, although extending further north and west, into the more temeperate regions near the Free cities.
 They make little use of weapons, relying mostly on their powerful jaws when hunting, but will construct pit traps, sinkholes, and hobbles which they drive prey towards. They also set more passive traps, such as snares.  
@@ -325,24 +328,7 @@ Xhao'fae civilization is most similar to that of the Ael'xhal, although they hav
 
 Despite their reptillian form, Xhao'fae are still fertile with other Aeldar, though less so than with other Xhao'fae. Children of such pairings most often look like their mother.
 
-## Thal'fae
-
-Avian
-Blending of elemental savants and animal shapeshifters.
-
-Shift arms to wings, feet to feathered claws
-Wings are used primarily for maneuvering, with the majority of lift coming from elementalism
-
-
-Close relations with the small number of 'jinn that live on Quon Xi.
-
-Primarily live among the stony spires in southern Quon Xi.
-
-## Other 'fae
-There are also a few small groups of unique 'fae not directly related to any of the major bloodlines:
-
-
-### Merfae
+## Merfae
 Serpentfish shapeshifters most often found around Kita Lau, and in the southern Eaos isles.
 Much like the Xhao'fae, they cannot shift between forms, and instead remain in a half-form with a fishlike tail and a humanlike body, including gills along their neck and torso.
 Many Merfae mages do learn shapeshifting abilities, but they most often tend towards chimeric shapeshifting, taking on characteristics of various deep-sea beasts.
@@ -360,7 +346,7 @@ This has had some interesting effects on Merfae culture.
 
 There are three broad varieties of Merfae.
 
-#### Lauan Merfae
+### Lauan Merfae
 
 Lauan merfae are most commonly found around Kita Lau and the east coast of Quon Xi.
 They are almost exclusively found near coastal regions or reefs, and  are the only variety of merfae that frequently inhabit freshwater bodies, throughout the rivers and lakes of Kita lau.
@@ -374,7 +360,7 @@ No external genetalia - both male and female just have a slit.
 
 Some Lauan merfae have retained the ability to shapeshift to a full human form.
 
-#### Sache Merfae
+### Sache Merfae
 
 The Sache are the oldest lineage of Merfae, originating off the southwest coast of Eaos
 While they are most common off the southeast coast of Eaos, and in the Sach'ean Isles, they can be found accross Kita Lau, and in every major ocean. Many open-ocean merfae are Sache. 
@@ -384,9 +370,7 @@ Long, pointed ears.
 Lightly webbed fingers.
 Three pairs of gill slits on the torso, just below the ribs. 
 
-
-
-#### Abyssal Merfae
+### Abyssal Merfae
 
 Abbyssal Merfae are exclusively found in the open ocean, most often at extreme depths, though there are some tribes which follow levaithans, and consequently stick near the surface.
 
@@ -404,6 +388,22 @@ Most Abyssal Merfae have some ability to alter there form, e.g add more tentacle
 Less amphibuous than other merfae, mostly limited to the water. 
 
 
+## Other 'fae
+There are also a few small groups of unique 'fae not directly related to any of the major bloodlines:
+
+### Thal'fae
+
+Avian
+Blending of elemental savants and animal shapeshifters.
+
+Shift arms to wings, feet to feathered claws
+Wings are used primarily for maneuvering, with the majority of lift coming from elementalism
+
+
+Close relations with the small number of 'jinn that live on Quon Xi.
+
+Primarily live among the stony spires in southern Quon Xi.
+
 ### Deep Fae
 
 A more primal offshoot of the Daal'fae, these 'fae live northeast of the Dragonspine mountains, and rarely come into contact with civilized peoples. 
@@ -412,7 +412,7 @@ Deep Fae tribes are about one-third natural shapeshifters and two-thirds direbea
 Because the wild regions where they live are quite extensive, and are not inhabited by any other sapient peoples apart from dragons, the Deep fae have a rather large population relative to other fae groups, 
 comprising about one fifth of all 'fae.
 
-## High fae
+### High fae
 High fae are incredibly powerful shapeshifters capable of taking any number of forms at will. 
 High fae are effectively immortal due to their shapeshifting magic, and generally have no 'true' form, although often have a preferred form. 
 High fae are quite rare, and most are from the age of the Ældar, before the modern fae tribes were formed, and as such are rather different than modern fae. 
