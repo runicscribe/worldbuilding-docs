@@ -19,6 +19,8 @@ def proc_file(f):
       header="layout: mp_style\n"
     if f.startswith("./schizotech"):
       header="layout: st_style\n"
+    if f.startswith("./dragonsbones"):
+      header="layout: db_style\n"
 
     sp = subprocess.Popen("git checkout master "+f, shell=True)
     sp.wait()
