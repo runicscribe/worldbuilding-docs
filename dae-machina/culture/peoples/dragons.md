@@ -49,6 +49,8 @@ although are still not truly considered an adult by other dragons until they rea
 All dragons naturally have access to an imense amount of magical power. Most dragons are also skilled sorcerers, and often use magic to appear to “breathe” elemental blasts like fire or ice. 
 Their magical nature also assists in their ability to fly. Some dragons can shapeshift into a human(like) form. When they shapeshift, they typically retain their mass (with a corresponding increase in density), 
 and much of their original strength, as well as all their magical abilities. Due to the complex nature of this transmutation, it takes rather more time (up to an hour) than conventional shapehifting.
+Part of a dragon's magical affinity is related to the conditions their egg experienced before hatching.
+
 
 Some dragons use their magical strength to petrify foes. These dragons are someties refered to as basilisks (or gorgons if they take human form).
 
@@ -122,7 +124,7 @@ Like tundra dragons, they are capable swimmers.
 Valley dragons are on the smaller side; 10-28m long and 2-6m at the shoulder, with a 0.7-2m long head. 
 Their head is framed by three or more pairs of curved similarily sized horns, and their tail ends in a curved blade.
 
-Valley dragons are puple, blue, black, or silver in color. They prefer jungle and forest regions, although they can also be found in cliffs and canyons, often with a brown or tan coloration. 
+Valley dragons are most often purple, blue, black, or silver in color. They prefer jungle and forest regions, although they can also be found in cliffs and canyons, often with a brown or tan coloration. 
 They are equaly comfortable moving in the sky or on the ground, where they move with a feline grace.
 
 ### White / Finned / Tundra Dragon

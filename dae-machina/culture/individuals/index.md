@@ -174,7 +174,7 @@ Patron of Knowledge and Learning. Capable of inducing prophetic or teaching drea
 
 <h4>Old Aeldar Liches</h4>
 
-**Name:** Raethe
+**Name:** Raethe, the Ravenous Fire
 
 **Demographics:** Male Old Aeldar Lich
 
@@ -184,14 +184,14 @@ Necro-elementalist. First known human mage to artifically create furies. Compete
 Capable of binding minor elementals to his will. Achieved partial lichdom by fusing his soul with a fire elemental.
 At the height of his power, Raethe shared his body/mind/soul with several elementals and furies, and was completely insane.
 
-Imprisoned during the lich wars, by (TBD)
+Imprisoned during the lich wars, by Aktu.
 
 
 **Affiliations:** 
 
 ----------------
 
-**Name:**
+**Name:** Hath, the Legion
 
 **Demographics:** Male Old Aeldar Lich
 
@@ -200,13 +200,13 @@ Golemancer, and apprentice of the original council of mages who first discovered
 Joined one of the splintered city-states formed during the colapse of the old Aelmos empire, and began prodicing golems for their armies.
 His physical body was killed during combat, but he was able to permanently bind his soul to the golem he was controlling. Proceded to become a warleader for the army, and continued to craft golems.
 
-Killed/Destroyed by (TBD)
+Killed/Destroyed by Keth
 
 **Affiliations:** 
 
 ----------------
 
-**Name:**
+**Name:** Aktu, the Defiant
 
 **Demographics:** 
 
@@ -215,11 +215,46 @@ Killed/Destroyed by (TBD)
 One of the Old Aelmos Empire's chief necromancy researchers. Skilled in animancy, enchanting, and encantation. Eventually became a lich and assumed control of the bulk of the empire's armies.
 Responsible for imprisioning or otherwise disabling a significant number of liches during the war and related skirmishes.
 
+Eventually destroyed by Keth in the waning years of the lich wars.
 
 **Affiliations:** 
 
 ----------------
 
+**Name:** Keth, the Renegade
+
+**Demographics:** 
+
+**Description:** 
+
+One of the more martially inclined of the first fourteen liches. Remained aligned with Old Aelmos Empire well into the lich wars, leading its armies from the front lines.
+Became increasingly paranoid, and eventually turned agains the Empire, but not before putting in place many contingencies.
+
+Destroyed by Ellah, the Avenger.
+
+**Affiliations:** 
+
+----------------
+
+**Name:** 
+
+**Demographics:** Old Aeldar Lich
+
+**Description:** 
+
+
+As all liches, skilled in animancy. In addition their to necromantic talents, they are skilled in subjugating the wills of others.
+Several groups of Hyenid Daal'fae were enlisted by this lich during the lich wars, who eventually became the sandwalker tribe.
+
+As the lich wars wore on, and the armies of the various lich-kings became ever more comprised of undead and constructs, 
+draining magic became more and more the weapon of choice among the warring factions. In this climate, living servants, who did not need magic to sustain them, became ever more valuable. 
+As a consequence, this lich saw a resurgance in power in the waning years of the lich wars. 
+
+
+
+**Affiliations:** 
+
+----------------
 
 <h3 id="aelfae">Æl'fae</h3>
 

@@ -168,6 +168,12 @@ This currency can be verified using enchanted spectacles and is only accepted in
 
 Outside the heartland of the empire a wide variety of less secure currencies are used, mostly various forms of coinage.
 
+### Sach'ean Diarchy
+
+Islands are small enough that counterfeightors are relatively easy to track down.
+Currency is coins, made of abalone or gold, with a hole near the edge. Typically threaded onto bracelets or necklaces.
+Higher denominations are embedded with gemstones.
+
 ### Other
 
 Few fae societies have any form of economy. Those that do mostly use barter/favor economies, although some Daal'fae caravans will keep a stock of Eoasian and Free cities currency. 

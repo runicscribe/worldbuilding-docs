@@ -4,12 +4,45 @@
 
 ## Leviathans
 
-6 segments, each with a pair of limbs. Crustacean-like. Includes island turtles, ...
+6 segments, each with a pair of limbs. Crustacean-like. Generally breath through gills and are amphibuous
 
-### Greater Shorecomber
+Includes a wide variety of creatures, such as living islands and shorecombers
+
+### Cratcha
+
+2 - 4 clawed forelims, with the remaining limbs forming legs (thoough the last pair or two may be more fin-like)
+Generally ampphibuous scavengers.
+
+
+
+#### Sidecrawler
+A wide, flat crab whose body can grow up to two meters wide. Typically remains on the shoreline, scavenging food washed up by the waves.
+As its name suggests, moves sideways.
+Not very smart, and generally not hostile to Ael. A basic food lure can be used to direct its movements, which makes adult Sidecrawlers suitible for transporting small loads.
+
+#### Riftclaw
+
+All twelve limbs end in smalish claws, making this a very effective climber.
+Otherwise, has a somewhat variable morphology that differs from other Cratcha in unusual ways. Not known to exist prior to the cataclysm
+Many subspecies, varying in size from 10 cm to 8 m wide.
+
+Some have been found to be tameable
+
+#### Shore Stalker
+
+Ambush predator. Buries itself in sand just below the waterline
+Strong and fast for its size. Sometimes used to pull carts, typically through an incentive of fresh fish
+
+#### Greater Shorecomber
 
 Large crab-like creature that dwells around coastlines, scavenging just about anything that has washed ashore.
+About as tall as it is wide. 
 Slow-moving, and fairly consistently remains partway above water, so animals (and sometimes Ael) often build homes atop its shell. 
+
+#### Sea Strider
+
+Long, double-jointed legs. Air bladders in its body allow it to float. Legs are covered in venomous spines and end in claws. Feeds by catching prey in these spines, similar to jellyfish, though on a rather larger scale.
+Can grow up to 50 m tall.
 
 ### Living Island
 

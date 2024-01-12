@@ -158,15 +158,16 @@ This prompted harsher taxes and greater militarization in an attempt to conquer 
 Around this time, the elementalists seceded from the newly formed Empire and migrated east.
 
 Meanwhile, in the Eaosian capitol, a group of mages researching animancy andnecromrancy pioneered the creation of zombie armies, to form a force of tireless warriors with no need for food. These armies greatly enhanced the efficiency of the empire's conquest.
-About sixty years later, some of these researches perfected their necromantic skills, and became the first true liches. As these individuals were arcane researchers with little combat knowledge and few ambitions outside the pursuit of knowledge, this had little immediate impact.
+About sixty years later, fourteen of these researches perfected their necromantic skills, and became the first true liches. 
+As these individuals were arcane researchers with little combat knowledge and few ambitions outside the pursuit of knowledge, this had little immediate impact.
 
 The reigning empire of Aelmos showerd immense wealth upon these new liches to convince them to make him immortal as well, but his reliance on the mages led to him becoming a puppet emporer.
 Meanwhile, rampant famine and growing unrest led to scattered redbellions, and more remote regions split off to form their own nation-states. Many of these began their own necromrantic research, in the attempt to combat the zombie armies of the Empire.
-At the same time, news spread of the immortal emporer and his council of liches, and various mages attempted to reproduce the feat.
-One of the first of this second wave of liches was a master Golemancy. Others included a skilled war-mage, and a an elementalist, from the same group who split of to form the 'jinn
+At the same time, news spread of the immortal emperor and his council of liches, and various mages attempted to reproduce the feat.
+One of the first of this second wave of liches was a master Golemancy (Hath). Others included a skilled war-mage, and an elementalist (Raethe), from the same group who split of to form the 'jinn.
 
-Meanwhile, the polical situation of the empire continued to decline,, and the lich council began to fragment.
-One remained with the revenant emperor, and attempted to retain control of the capitol. 
+Meanwhile, the polical situation of the empire continued to decline, and the lich council began to fragment. Several were destroyed in the fallout.
+One (Aktu) remained with the revenant emperor, and attempted to retain control of the capitol. 
 Two others remained nominally loyal, and mustered zombie armies to subdue the rebels and fragmenting nation-states. These two gained significant combat experience, and a new appreciation for their nearly invulnerable forms.
 A fourth took his riches and retreated into seclusion.
 
@@ -180,11 +181,9 @@ Killing the various lich-kings proved to be difficult, even for other liches. Th
  
 At this point in the war, the armies of each kingdom were all entirely magical, so the effects of the warding circle prevented anyone from actually entering and permanently destroing the trapped lich.
 
-After one lich <who> had defeated all the others, he tried to expand eastward, where he was promptly eliminated by the 'jinn, who had at this point become well established in New Aelmos.
+After one lich (Keth) had defeated all the others, he tried to expand eastward, where he was promptly eliminated by the 'jinn, who had at this point become well established in New Aelmos.
 
 With the central Eaosian empire a desolate, infertile wasteland, and all of the lich-kings imprisioned or destroyed, the remnants of the Eaosian civilization began to rebuild on the northwestern fronteir.
-
-
 
 
 During this strife many civilian inhabitants fled northwest.

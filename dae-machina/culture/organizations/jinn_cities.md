@@ -13,8 +13,8 @@ Jinn Capitol.
 Founded when the jinn first went east, and has remained inhabited since. Named after the capitol of the 1st Era Daal Civilization, lomg since destroyed and lost to the desert.
 Home of the four founding families, and seat of the 'jinn government as a whole.
 
-Massive. Hosts about 60% of the worldwide jinn population. Largest city on Eos-Mhidda, and one of the two largest cities in the world.
-
+Massive. Hosts about 60% of the worldwide jinn population. Largest city on Eos-Mhidda, and one of the three largest cities in the world.
+The city is surrounded by many acres of farmland, tended by magical constructs.
 
 ### Palace of the Kings
 
