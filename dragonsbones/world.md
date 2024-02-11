@@ -41,7 +41,6 @@ Currently visible in the night sky from the Dragon.
 
 ### The Scholar
 
-Currently visible in the night sky from the Dragon.
 Homeland of humans.
 
 ## Cosmology

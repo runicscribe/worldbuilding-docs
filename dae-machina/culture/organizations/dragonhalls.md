@@ -31,7 +31,9 @@ Large balconies, making good landing zones.
 
 Bas-releifs, etc.
 
-
+Several particulalry spectactular public bathouses. 
+Most include a section with depth suitable for a dragon, and an equally large section more suited to Ael.
+Geothermal heat source.
 
 ## History
 

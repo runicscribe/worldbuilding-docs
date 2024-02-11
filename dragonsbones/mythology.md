@@ -33,7 +33,7 @@ In particular, the continent of Dragonsbones describes its origin thusly:
 
 ## Pre-origin myth
 
-The Atlanteans have their own myths which predate the godswar. While some details vary from group to group, the core events remain the same:
+The Eldar have their own myths which predate the godswar. While some details vary from group to group, the core events remain the same:
 
     In the beginning, the Cosmic Firebird flew through the Void.
 	
@@ -62,7 +62,7 @@ The Atlanteans have their own myths which predate the godswar. While some detail
 	
     Even after it healed, this wound would again bleed every month, in memory of the injury
 	
-    <Another child> moulded the Atlanteans from the flesh of their parents.
+    <Another child> moulded the Eldar from the flesh of their parents.
 	
     Later, a great dragon erupted from the earth that had absorbed the mingling fluids of Ymer and Mimur, and the four children fled back accros the <bridge/boat>
 	

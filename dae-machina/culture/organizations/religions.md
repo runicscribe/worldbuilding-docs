@@ -40,7 +40,7 @@ Northern Eoasians are more likely to worship one of the Midh religions.
 
 ### Ekatlien's Children
 
-First Era Eaos deity and patron of refugees and migrants
+Based on a First Era Eaos deity and patron of refugees and migrants
 During lich-war exodus, and spawned a splinter-religion of her own, which persists to this day.
 Mainly charity, sanctuary, and orphanages, along with funerary rites.
 
@@ -92,7 +92,7 @@ The 'fae of Mhidda mostly follow the a similar mythos, except for the ursine 'fa
 
 ### Futhern Mythos
 
-The mythology and pantheon of the the Drakkar clans and Futhern Dal have significant overlap, but the importance of various deityies vary greatly between the two.
+The mythology and pantheon of the the Drakkar clans and Futhern Dal have significant overlap, but the importance of various deities vary greatly between the two.
 The Drakkar are much more about a glorious death to secure a place in the afterlife, wherease the Furthern Dal have a focus on funerary rites and elaborate monuments.
 
 The canine Midh'fae follow a similar mythology, but venerate a Wolf-god over all the others.
@@ -190,8 +190,8 @@ Since the First Dynasty, the people of the Heartland have followed a creed which
 Loss of honor - through betrayal, failure, or selfishness - coresponds to loss of station, and the honor of parents caries on to their children.
 In this way, the society of the empire has a form of caste system, albeit one with a fair amount of vertical mobility.
 
-Most don't consider these practuces to be a religion per se, as it venerates no higher powers, except perhaps the empire itself, and has no mythos of its own.
-However, within the framework set out by these practices there does exist various smaller religions, venerating an array different of ancestors-gods, thereby echoing the importance of lineage enshrined by the creed.
+Most don't consider these practices to be a religion per se, as it venerates no higher powers, except perhaps the empire itself, and has no mythos of its own.
+However, within the framework set out by these practices there does exist various smaller religions, venerating an array different of ancestor-gods, thereby echoing the importance of lineage enshrined by the creed.
 
 This doctrine explicitly excludes anyone who isn't 'thal, so any 'xhal, 'fae, or 'jinn which live in the heartland exist on the fringes of society.
 Outside the heartland, sentiments are somewhat more relaxed.
@@ -218,7 +218,7 @@ Does not recruit much, instead relying upon like-mindeded individuals to find th
 Non members are not permitted in the heart of the valley - this restriction is enforced by the Queen of the Valley herself.
 
 Druids of the order travel across Quon Xi, protecting nature and healing the sick, and bring news of the world back to the Queen of the Valley.
-Has a high number of 'jin and 'fae members.
+Has a high number of 'jinn and 'fae members.
 
 The Quon Xi empire considers the order mostly harmless, and generally allows its druids free passage.
 
