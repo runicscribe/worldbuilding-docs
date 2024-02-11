@@ -2,7 +2,7 @@ import os
 import subprocess
 
 def proc_file(f):
-  # Is this a file?
+  # Is this a source file?
   if f.endswith(".md"):
     permalink = f[1:]
 	# Index permalinks to folder, others permalink to self
@@ -30,6 +30,9 @@ def proc_file(f):
     fout = open(f, 'w', encoding='utf-8')
     fout.write("---\n"+header+"permalink: "+permalink+"\n"+"---\n"+"\n"+data)
     fout.close()
+  elif f.endswith(".png"):
+    sp = subprocess.Popen("git checkout master "+f, shell=True)
+    sp.wait()
       
 def find_files(folder):
   contents = os.listdir(folder)
