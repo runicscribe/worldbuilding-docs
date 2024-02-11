@@ -15,6 +15,8 @@ The free cities were originally part of the Elyos Republic, but became independa
 
 ## Eosport
 
+<img src="/dae-machina/images/eaosport_map_lb.png" alt="Top-down map of Eaosport" class="img-dm img-right">
+
 The "face" of the free cities. Not the most wealthy or influential, but still quite important. Contains the meeding place for the free cities council.
 Generally agreed upon as neutral ground among the cities. 
 Eosport is also the primary port of travel between the free cities and Teythmos, and hosts embassies for a number of nations.
