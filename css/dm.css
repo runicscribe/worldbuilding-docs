@@ -2,11 +2,19 @@ body {
   background-color: #fffef0;
 }
 
-.img-dm {
-	
+.img-full {
+	display:block;
+	margin:auto;
 }
 
 .img-right {
 	float:right;
-	margin:10px;
+	width:360px;
+	margin: 10px 0 10px 10px;
+}
+
+.img-left {
+	float:left;
+	width:360px;
+	margin: 10px 10px 10px 0;
 }
