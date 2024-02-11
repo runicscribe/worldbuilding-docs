@@ -18,18 +18,19 @@ Only reason Empire of Quon Xi is not on the list as well as punishment for any f
 
 ### Necromancy
 
-Any necromrancy involving the creation of undead very illegal in Elyos and the 'jinn cities, and among the Eaosian fae (although as they do not have an organized government as such, this is more a strong taboo).
-One exception is the hyenid 'daal fae, who have no taboo against necromrancy, and utilize it occasionally.
+Any necromancy involving the creation of undead very illegal in Elyos and the 'jinn cities, and among the Eaosian fae (although as they do not have an organized government as such, this is more a strong taboo).
+One exception is the hyenid 'daal fae, who have no taboo against necromrancy, and utilize it occasionally. This causes most other Eaosians to regard the hyenids with suspicion.
 
 This ban does not encompass magic involved in speaking to or banishing existing undead, or forensic magic, both of which are permitted.
-Necromrancy is also illegal in the Free Cities, but less strongly enforced. These laws all stem strong cultural taboos that originated in the aftermath of lich wars that occured in 2900 BC in central Eaos.
+Necromancy is also illegal in the Free Cities, but less strongly enforced. These laws all stem strong cultural taboos that originated in the aftermath of lich wars that occured in 2900 BC in central Eaos.
 
 There are no laws or taboos against necromrancy across the shards of Xuon, and the only laws against it across the Kita Lau isles mostly concern the desecration of corpses.
-Necromrancy is somewhat more regulated in Quon Xi. Reanimating human bodies is mostly illegal, although still permitted under certain circumstances.
+Necromancy is somewhat more regulated in Quon Xi. Reanimating human bodies is mostly illegal, although still permitted under certain circumstances.
 Reanimating animal bodies is permitted for the most part, as long as the the animal was not owned by someone else, and the result is not dangerous.  
+Advanced necromantic research has been banned since the start of the second dynasty.
 
-Among the 'midh, use of necromrancy on the bodies of 'midh citizens is forbidden. Use on thralls and non-'midh is permitted with some restrictions, and use on on animal bodies is not regulated at all.
-The Midh'fae do not have any laws against necromrancy, but also do not typically use it.
+Among the 'midh, use of necromancy on the bodies of 'midh citizens is forbidden. Use on thralls and non-'midh is permitted with some restrictions, and use on on animal bodies is not regulated at all.
+The Midh'fae do not have any laws against necromancy, but also do not typically use it.
 
 ### Mental Magic
 

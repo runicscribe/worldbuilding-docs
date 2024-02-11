@@ -17,10 +17,12 @@ Occasional trade with the 'jinn helps fufill some of these lacks.
 
 The population is a fairly even mix of 'daal and merfae, with perhaps slightly more merfae.
 The 'daal and merfae populations are tightly integrated. All the major cities of the Diarchy extend well into the sea, with dwellings above and below water.
-With a tidal range of around 2m, most of these cities have a sea-level area that is mainly walkways, stairs, and open areas, with underwater buildings below, and abovewater buildings set atop pillars.
+With a tidal range of around 2m, most of these cities have a sea-level area made up of foating walkways and large open areas, with underwater buildings below, and abovewater buildings set atop pillars. 
+Stairs and ladders run parallel to the walkways, allowing access to the upper and lower levels regardless of sea level.
 Rafts, boats, and larger floating platforms are common in the open areas, and are often anchored to these pillars.
 
-Underwater and abovewater dwellings are often connected by floating lifts, lifts which pass through the middle region. Normally, these lifts rest on the ocean surface but can be raised via pulleys.
+Underwater and abovewater dwellings are often connected by floating lifts, which pass through the otherwise empty inter-tidal section of the building to join the abovewater and underwater parts. 
+Normally, these lifts rest on the ocean surface but can be raised via pulleys.
 Often, they are enveloped by stonework screens which water can pass through freely, while still providing some privacy.
 The larger of these lifts are quite elaborate, and serve as common-rooms, where merfae and 'daal residents can gather without either being out of their element.
 

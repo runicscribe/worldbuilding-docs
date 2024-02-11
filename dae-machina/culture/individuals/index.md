@@ -301,6 +301,30 @@ Parents returned to Quon Xi, they made there way to Blackport in their early tee
 
 ----------------
 
+**Name:**
+
+**Demographics:** Male Reindeer Direbeast
+
+**Description:** 
+
+Reindeer direbeast and a mage. Unsatisfied with the traditional 'fae caravan life
+Spend some time at the AoMMA developing magic skills.
+Unlike most direbeasts, escewed the field of shapeshifing, in favor of evocation-school magic, mostly telekinesis and sound projection.
+
+Later moved to the Free Cities (which one?) for work, as they tend to be diverse enough that he'd be at least somewhat accepted
+
+Now works as a mercenary, mostly working protection and escortjobs.
+
+Wears an armored barding.
+Has a jeweled gorget with an enchantment which he can use to speak his thoughts aloud.
+Wields 6 hiltless blades strapped into this barding, which he levitates independantly when fighting.
+Tips of central antlers are capped with steel points. Side antlers have hooks attached, to help grab and carry things.
+Hooves are custom-shod in steel.
+
+**Affiliations:** Free Cities 
+
+----------------
+
 **Name:** Tala Wolfborn
 
 **Demographics:** F Midh'fae Direbeast

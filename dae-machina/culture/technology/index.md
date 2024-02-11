@@ -171,8 +171,26 @@ Outside the heartland of the empire a wide variety of less secure currencies are
 ### Sach'ean Diarchy
 
 Islands are small enough that counterfeightors are relatively easy to track down.
-Currency is coins, made of abalone or gold, with a hole near the edge. Typically threaded onto bracelets or necklaces.
-Higher denominations are embedded with gemstones.
+Currency is coins, made of nacre or electrum (gold-dominant), with a hole near the edge. Typically threaded onto bracelets or necklaces.
+Higher denominations are embedded with gemstones or other inlays.
+
+Range: 1600 : 1
+
+Dup: 1/2 clip - Ass 1/4 clip
+
+Bread 1 -> 1/4 clip
+Modius 32 -> 8 clips
+Pay 24 -> 6 clips / 1 Dirac
+
+
+ - Clip: Smallest denomination. Narrow (1/3 cm x 3cm) bar of gold, with seven grooves. Cut to make change.
+ - Shal: A flat oval or teardrop-shaped coin made of nacre. Worth about 5/8 of a Clip.
+ - Tear: Small (0.5cm wide and 1 cm long), Irregularly shaped pearl. Worth 8 shals or 5 clips
+ - Dirac: Small round gold coin, a little under <2 cm> in diameter. Worth 6 clips or 10 shals. About a day's pay for an unskilled laborer. <4 grams>
+ - Pearl: Large (2 cm in diameter) round pearl. Worth 10 tears or 8 diracs
+ - Rod: Heavy <250 g> rod <2 cm in diameter, 7.5 cm long> of gold. Infrequently worn, but often seen hanging in the shops of moneychangers or well-off merchants. Worth 64 Diracs
+ - Drake: <3.5 cm dia> Coin inset with saphire or ruby. Only worn by the wealthiest
+ - Sun: <4 cm> Coin inset with diamond. Worth 20 drakes. Only worn by the wealthiest.
 
 ### Other
 
@@ -181,6 +199,24 @@ Selkies sometime use pearls and discs of abalone as a simple currency, and the l
 Some Xhal'fae also trade in jewelry and ancient coinage found in ancient Aeldar ruins.
 
 Dragons don't really have a currency, instead operating mostly on favors (though many do still hoard stocks of Ael currencies and other valuables).
+
+### Wages and Exchange rates
+
+Daily wage of an unskilled laborer
+Daily wage of a guild artisan
+Daily wage of a soldier
+
+Cost of one night's stay at an in
+Cost of a basic meal
+Cost of 1 kg of grain
+
+Annual Costs of living
+Poor
+Middle
+Wealthy
+
+
+
 
 ## Science
 
