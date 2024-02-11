@@ -20,14 +20,14 @@ The free cities were originally part of the Elyos Republic, but became independa
 
 ## Eosport
 
-<img src="/worldbuilding-docs/dae-machina/images/eaosport_map_lb.png" alt="Top-down map of Eaosport" class="img-full">
-
-The "face" of the free cities. Not the most wealthy or influential, but still quite important. Contains the meeding place for the free cities council.
+The "face" of the free cities. Not the most wealthy or influential, but still quite important. Contains the meeting place for the free cities council.
 Generally agreed upon as neutral ground among the cities. 
 Eosport is also the primary port of travel between the free cities and Teythmos, and hosts embassies for a number of nations.
 It is partly built on the ruins of the former Elyos capital (New Aelmos, not to be confused with the 'jinn city of the same name) which was abandoned in 100 BC, during the Uon war.
 
 ### Layout
+
+<img src="../../images/eaosport_map_lb.png" alt="Top-down map of Eaosport" class="img-full">
 
 The city layout roughly follows that of the ruins it was built on top of.
 The main city is built on the southeast coast of the river, and divided into three tiers, each being further inland and higher in elevation.
@@ -38,7 +38,7 @@ These tiers are connected by three broad avenues, radiating from the city center
 
 The city center is about 1.5 km inland, and includes various government buildings, with the Council of Lords at the center, where the eight lords of the Free Cities council meet.
 
-On the opposute coast of the river are slums, housing much of the cities poorer residents.
+On the opposite coast of the river are slums, housing much of the cities poorer residents.
 About 2km upstream of the main city is the Tower Bridge, connecting the two shores.
 There are also a number of ferry crossings closer to the core city.
 
