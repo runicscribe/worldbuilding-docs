@@ -20,7 +20,7 @@ The free cities were originally part of the Elyos Republic, but became independa
 
 ## Eosport
 
-<img src="/dae-machina/images/eaosport_map_lb.png" alt="Top-down map of Eaosport" class="img-dm img-right">
+<img src="/worldbuilding-docs/dae-machina/images/eaosport_map_lb.png" alt="Top-down map of Eaosport" class="img-full">
 
 The "face" of the free cities. Not the most wealthy or influential, but still quite important. Contains the meeding place for the free cities council.
 Generally agreed upon as neutral ground among the cities. 
