@@ -118,9 +118,9 @@ Whitescale Selkies
 
 ----------------
 
-**Name:** Xeres ___
+**Name:** Xeres Suncrowned
 
-**Demographics:** M ... Dragon
+**Demographics:** M Spined Dragon
 
 **Description:** 
 
@@ -150,7 +150,7 @@ Xeres Empire
 **Description:** 
 Born 5600 BC.
 
-Founded Dragonhalls, along with ...
+Founded Dragonhalls, along with Eleoth.
 
 Died 1500 BC, defending Dragonhalls from the Uon collective and rebuffing their incusion into Kita Lau.
 
@@ -159,7 +159,7 @@ Dragonhalls
 
 ----------------
 
-**Name:**
+**Name:** Eleoth Aspenscale
 
 **Demographics:** M Western Dragon
 
@@ -177,7 +177,7 @@ Dragonhalls
 
 ----------------
 
-**Name:**
+**Name:** Melias Abacaxi
 
 **Demographics:** M Spined Dragon
 
@@ -192,7 +192,7 @@ Dragonhalls (formerly)
 
 ----------------
 
-**Name:**
+**Name:** Turi Skyflower
 
 **Demographics:** F Western Dragon
 
@@ -222,7 +222,7 @@ Dragonhalls
 
 ----------------
 
-**Name:**
+**Name:** Hakara Dawnfeather
 
 **Demographics:** M Western Dragon
 
@@ -263,7 +263,7 @@ Dragonhalls
 Unusual appearance, looking like a combination between a western and plated dragon.
 Back is covered in a series of blue-grey plates, each tipped with orange-feathered ruffs.
 
-Born 1900 BC
+Born 1900 BC. Granddaughter of Ironfire.
 
 Very adventurous in her youth. Still has a mischevious streak.
 Quite friendly with the humans of Dragonhalls
@@ -274,7 +274,7 @@ Dragonhalls, Ironfire Citadel
 
 ----------------
 
-**Name:**
+**Name:** ___ Carvedscale
 
 **Demographics:** Male Spined Dragon
 
@@ -283,6 +283,15 @@ Dragonhalls, Ironfire Citadel
 Every scale has been made into a different relief carving.
 Lives in Dragonhalls - child of current leader and a Spined dragon she met in Xuon (or the Enjat peninsula?). Never met his father.
 Born in 2600 BC.
+
+Considered particularly eccentric by other dragons.
+He had several close relations with humans in his youth, which is unusual for a dragon.
+
+Carvedscale is percieved as vain and hedonistic by most, which isn't an inaccurate assesment.
+However, he is also closely in touch in touch with the human population of Dragonhalls, and knows the family history of many of its citizens, going back 2000 years.
+Consequently, he acts as a deputy leader of Dragonhalls alongside Turi, and typically runs the northen half of the state.
+
+Around 1,500 AC, Carvedscale becomes the only known artificial city-dryad, merging with the nascent soul of the city.
 
 **Affiliations:** 
 Dragonhalls
@@ -311,13 +320,13 @@ Dragonhalls
 
 ----------------
 
-**Name:**
+**Name:** Rahkaya Goldscorn 
 
 **Demographics:** F Western Dragon
 
 **Description:** 
 Born 4900 BC.
-Daughter of Xeres. Estranged from her father fairly young; joined dragonhalls not long after.
+Daughter of Xeres. Estranged from her father fairly young; joined Dragonhalls not long after.
 
 Eldest dragon living in Dragonhalls. While not related to the founding dragon family, acts as their adoptive aunt.
 

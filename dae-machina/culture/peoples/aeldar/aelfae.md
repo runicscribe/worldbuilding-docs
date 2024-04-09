@@ -89,7 +89,8 @@ Magic among the cervid tribes is mosly limited to basic herbalism and healing ma
 
 Among all the Daal'fae, the Lion Tribes have the fewest animal features in their humanoid form.
 Their body appears entirely human, apart from a lion tail and claw-like nails. They have a human face, with a broad, blunt nose, leonine eyes, and ears that are halfway between human and lion.
-While they have quite dark skin like most southern 'daal, their entire body is covered in short, light-colored fur, which gives them them a paler complexion than most other daal'fae.  
+While they have quite dark skin like most southern 'daal, the majority of their body is covered in short, light-colored fur, which gives them them a paler complexion than most other daal'fae.
+Their dark skin is exposed on the inside of their ears, nose, and eyelids, the soles of their feet and hands, and their nether regions.  
 Male lion 'fae have a lion-like mane, while female lion 'fae have the same short fur on their head as on the rest of their body, giving them the appearance of baldness.
 
 Like the cervid 'fae, the lion tribes are matriarchal. However, they are not nomadic, instead keeping to an established territory. This area will include some form of permanent settlement, 
@@ -248,15 +249,16 @@ Established packs have a fixed territory, such that single elder children usuall
 This practice helps to avoid dominance strugles that could result if the eldest children of two established packs were to join. 
 Wolf fae are generally monogamous, and mate for life. Inheritance (mainly of property) is through the first child. Second and younger children may inherit posessions and heirlooms when
 they leave the pack. Wolf 'fae generally dwell in extensive cave systems. Their dwellings hae a fairly communal layout. These caves tend to have elaborately carved pillars and walls, 
-and are decorated with carved bone and other trophies. Dwellins typically have a single large firepit in the main common room, and are otherwise furnished primarily with fur rugs. 
+and are decorated with carved bone and other trophies. Dwellings typically have a single large firepit in the main common room, and are otherwise furnished primarily with fur rugs. 
 Within their caves they may take human or wolf form, but are almost always in wolf form when they leave their caves.
-When in human form, they will often wear simple fur wraps and cloaks, with clasps made of carved bone. They will use stone or iron knives for skinning their prey when they want furs 
-(most often deer or rabbits, but sometimes foxes, and occasionally bears), and often trade furs and scrimshaw to the 'daal and 'midh. They usually eat meat raw, 
+When in human form, they typically wear nothing, but will put on simple fur wraps and cloaks, with clasps made of carved bone if they need to have dealings with Ael. 
+They will use stone or iron knives for skinning their prey when they want furs (most often deer or rabbits, but sometimes foxes, and occasionally bears), and often trade furs and scrimshaw to the 'daal and 'midh. They usually eat meat raw, 
 but will smoke and salt excess meat to provide a backup food supply in the winter when prey is scarce. 
 
 Wolf 'fae packs are comprised of 70% natural shapeshifters, 20% direbeasts, and 10% non-shapeshifter humans
 
-Wolf fae are most common on mainland Mhidda, but there are a small number of clans on the Dhaigean Isles as well.
+Wolf fae are most common on mainland Mhidda, but there are a small number of clans on the Dhaigean Isles as well. These clans are somewhat less reclusive then the mainland clans, and often mingle with the local Drakkar and northern Dhaigean.
+Some are also found among the northern mainland Drakkar, though mostly as individuals, rather than full clans.
 Of the 'Mihd fae, they can be found the furthest south, with some living within the borders of the Elyos Rebublic.
 
 
@@ -279,8 +281,8 @@ Trades fish to wolf fae in exchange for furs and leather, and to bear fae in exc
 Selkie fae can hold their breath almost as long (close to an hour) in their human form as in their seal form.
 
 
-Selkie clanns are found throughout coastal Mhidda, but are most common on the Dhaigean Isles and in the extreme northern reaches of the mainland.
-A handful of clans can also be found across the Dragon’s Teeth archepelago, as the only Ael' inhabitants of those isles.
+Selkie clanns are found throughout coastal Mhidda, but are most common on the Dhaigean Isles and in the extreme northern reaches of the mainland. Of the Midh'fae, selkies tend to be the most hospitible. 
+A handful of clans can also be found across the Dragon’s Teeth archepelago, as the only Ael' inhabitants of those isles. These are somewhat more savage than the other clans.
 
 ## Jungle Tribes (Xhal'fae)
 
@@ -310,7 +312,7 @@ Xhal'fae tribes tend to be about two-thirds natural shapeshifters and two-fifths
 A small number of Snow-leopard and tiger Xhal'fae can be found in the mountanous areas of Quon Xi. While they still keep to a fairly austere lifestyle, they tend to retain more of the trappings of civilization - 
 clothes, architecture, tools, etc. - than the 'fae of Kita Lau.
 
-During the Uon wars, most Xhal'fae got very good at masking their presence from magic, and as a consequence, many modern Xhal'fae naturallu have some form of magic resistance or evasion.
+During the Uon wars, most Xhal'fae got very good at masking their presence from magic, and as a consequence, many modern Xhal'fae naturally have some form of magic resistance or evasion.
 
 ### Xhao'fae
 
@@ -330,14 +332,20 @@ Many Merfae mages do learn shapeshifting abilities, but they most often tend tow
 Relatively civilized compared to the Xhal'fae, often wear jewelry and wield fishing spears or tridents. Otherwise most similar to the 'xhal and Xhal'fae
 Often have good relations with the Xhao'fae.
 
-Merfae reproduce a similar fashion to serpentfish, produce many immature young at once. These young hatch as larvae and look very different from their adult form. 
+There are three broad varieties of Merfae - Lauan Merfae, living in the coastal regions around Kita Lau; Abyssal merfae, living in the deep ocean all across Dael; 
+and Sache Merfae, living in the open ocean, and around the southern coast of Eaos. 
+
+Merfae reproduce a similar fashion to serpentfish, though as with serpentfish, there is some variaton in reproductive strategy.
+Lauan and Abyssal Merfae lay many (hundreds to thousands) eggs all at once, which are fertilized externally. Their young hatch as larvae and look very different from their adult form. 
 They typically take about a year to become a juvenile, at which point they look like a smaller adult. Their mental development only really starts after this point.
 
-This has had some interesting effects on Merfae culture. 
+This has had some interesting effects on the culture of these types of Merfae. 
 - Some groups of merfae take a natural approach, and leave their young to grow up in the wild. Those who survive may be integrated into the group, if they can find each other. 
   A subtle navigational sense helps the young Merfae find their way back to their place of birth. Juveniles who don't find their way back to their parents may form roving bands of feral merfae. 
 - Others groups lay their eggs in enclosed creches, and nurture all the larval merfae as they grow up. This results in a _much_ higher survival rate and as a consequence, 
   typically only the leader is permitted to have children in these kinds of merfae groups. 
+
+Sache Merfae have a more recognizable reproductive cycle - fertilization and early development occurs internally, after which the mother gives live birth to a cluch of 2 - 6 children.
 
 There are three broad varieties of Merfae.
 
@@ -378,7 +386,7 @@ Least humanlike upper-half - humanoid, but no breasts, nipples or bellybutton. C
 Large, dark-colored eyes.
 Two pairs of gill slits on the torso, just below the ribs.
 
-Most Abyssal Merfae have some ability to alter there form, e.g add more tentacles.
+Most Abyssal Merfae have some ability to alter their form, e.g add more tentacles.
 
 Less amphibuous than other merfae, mostly limited to the water. 
 
@@ -388,16 +396,17 @@ There are also a few small groups of unique 'fae not directly related to any of 
 
 ### Thal'fae
 
-Avian
-Blending of elemental savants and animal shapeshifters.
+Thal'fae are the only lineage of 'fae unique to Quon Xi. 
+Unlike most other 'fae, there abilities stem from a mix of elemental magic and animal shapeshifting.
+The only other similar lineage among the Ael is Ester's lineage.
 
-Shift arms to wings, feet to feathered claws
-Wings are used primarily for maneuvering, with the majority of lift coming from elementalism
+The Thal'fae are avian shapeshifters. Normally, they look much like any other Ael'thal, but they have the ability to shapeshift their arms into wings and their feet into feathered claws.
+In this form, they can fly like a bird, though their wings are used primarily for maneuvering, with the majority of lift coming from elementalism.
 
+The Thal'fae have close relations with the small number of 'jinn that live on Quon Xi.
+They primarily live among the stony spires in southern Quon Xi.
 
-Close relations with the small number of 'jinn that live on Quon Xi.
-
-Primarily live among the stony spires in southern Quon Xi.
+Many Thal'fae live among the Quon Xi as well, especially in the cities to the west, outside the Empire.
 
 ### Deep Fae
 
@@ -409,7 +418,7 @@ comprising about one fifth of all 'fae.
 
 ### High fae
 High fae are incredibly powerful shapeshifters capable of taking any number of forms at will. 
-High fae are effectively immortal due to their shapeshifting magic, and generally have no 'true' form, although often have a preferred form. 
+They are effectively immortal due to their shapeshifting magic, and generally have no 'true' form, although often have a preferred form. 
 High fae are quite rare, and most are from the age of the Ældar, before the modern fae tribes were formed, and as such are rather different than modern fae. 
 
 Unlike the High 'jinn who regularly live among modern 'jinn, High 'fae rarely take part in modern 'fae society.

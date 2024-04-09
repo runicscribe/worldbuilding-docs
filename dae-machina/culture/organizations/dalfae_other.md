@@ -26,7 +26,14 @@ Decent relation with the riftlanders - while they don't actually interact mutch,
 
 Mostly subsist on shorecomber crabs and other sealife found along the coast of the rift.
 
-In the process of construction a city/mausoleam carved into the side of a cliff, facing the rift.
+#### Wall of the Ancestors
+
+Prior to the Uon Cataclysms, the Valley of the Ancestors (as it was known then) was a sacred site for many different Hyenid tribes. Statues were carved on the walls of a great stone canyon. 
+These walls were riddled with caves and carved stone passages, which held the mummified remains of their ancestors, going back two thousand years.
+
+During the cataclysm, this site was destroyed. The largest surviving fragment is found on an isolated fragment of land on the outer edge of the riftscape, and holds most of one wall of the valley, facing the rift.
+Those Who Remain are in the process of restoring this site, and connectiung it to the mainland. 
+t.
 
 ###
 

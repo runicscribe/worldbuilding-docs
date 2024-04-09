@@ -9,7 +9,7 @@
 **Description:** 
 
 Dark, brown-grey skin, bald, and androgynous. Indeterminate Age. 
-Mineral veins show through their few wrinkles. Nails appear to be made of polished gold. Looks otherwise human.
+Mineral veins show through their few wrinkles. Nails appear to be made of polished gold. Looks otherwise human, though their skin is hard as stone to the touch.
 
 (One of) the only founders to remain an active leader of the 'jinn through their entire history. Currently resides in New Aelmos as the nominal monarch of all 'jinn.
 Patron of Earth.
@@ -24,7 +24,7 @@ Patron of Earth.
 **Demographics:** Male Eldar 'Daal
 
 **Description:** 
-
+Born 2987 BC, in Old Aelmos
 
 Typically maintains the form of a muscular, dark-skinned male 'daal, much the same as how he appeared at 35.
 Barechested, with waist-wrap of blue silk and copious jewelry of bronze and other materials.
@@ -56,7 +56,7 @@ Also unusually capable at changing his size, mostly because spare stone is a lot
 
 One of the few non-Dragons who can and does use petrification magic.
 
-Was a protoge of the shaper of new Aelmos, some hundered years after the founding of the city.
+Was a protoge of the shaper of new Aelmos, some hundred years after the founding of the city.
 
 **Affiliations:** 
 

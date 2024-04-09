@@ -26,8 +26,8 @@ in the wake of such events, there tend to be quite a few new dragons born. For t
 
 ## Reproduction and Development
 
-Require specific nutirents (most comonnly found in members of the Cercis or Concha families) to be fertile. 
-(Exact nutrients requireed are different between male and female dragons - serpentfish or certain aquatic mammals are also sufficent for males)
+Dragons require specific nutirents (most comonnly found in members of the Cercis or Concha families) to be fertile. 
+The exact nutrients required are different between male and female dragons - serpentfish and certain aquatic mammals are also sufficent for males.
 
 If these conditions are met, a female dragon will begin to ovulate (although never more that once in one year). 
 
@@ -36,7 +36,9 @@ Similar to certain reptiles, female dragons may store sperm internally for up to
 When an oocyte relized this way is fertilized, the other structures that make up the egg start to form around it, starting with the yolk, and ending with the shell.
 This process takes about 3-6 (? months), after which the egg is laid. The embryo must develop for a futher 6-12 (?) months before the egg hatches.
 
-Dragon eggs are relatively small compared to their body size, about 12 - 20 cm in diameter.
+When an egg is laid, it is a long ovoid with a soft shell, typically 12 - 20 cm in diameter and twice as long as it is wide.
+It gradually settles into a rounder (but still ovoid) shape, about 15% wider, and the shell hardens over the course of a few hours.
+Even so, dragon eggs are rather small compared to their body size.
 
 Newly hatched dragons are likewise quite small - about the side of a housecat. 
 After hatching, they grow fairly rapidly for the first 100 years of their life, after which their growth slows down substantially, although it never quite stops. 
@@ -59,6 +61,20 @@ Some dragons use their magical strength to petrify foes. These dragons are somet
 Dragons are solitary by nature, and magically gifted enough that most dragons are capable of telepethy, meaning there is little need for language among dragons.
 Most Dragons read and write Contemporary Draconic, and many can also read Ancient Draconic.
 Spoken draconic is used much less often, and not all dragons know it. It is most often used as a courtesy in places where three or more dragons live in one place.
+
+### Dragon Names
+
+Dragon names are a complicated affair.
+
+Dragons are first given a hatchling-name by their parents, with distinct spoken and telepathic forms.
+This name is typically only ever used by the dragon's parents to refer to them, while they are still a child.
+
+When a dragon reaches adulthood, they choose their own name. Again, this has a spoken (dragonic) form and a telepathic form. If the dragon interacts with Aeldar frequently, 
+they'll often have another spoken version of this name that is actually pronouncable by most Ael, and typically shorter than the draconic version of their spoken name. 
+This Ael name can differ dramatically from their spoken draconic name, but is still (usually) derived from it.
+
+Elder dragons will also have an honorific name or title, generally given to them by other dragons they have met. This is not always especially flattering, and may change over time.
+If this honorific is used by Ael, it is usually translated directly, rather than using a shortened version of the spoken draconic form.
 
 ### Tricircumlunar Gathering
 

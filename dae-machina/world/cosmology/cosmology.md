@@ -5,12 +5,10 @@ The planet is orbited by various celestial bodies, each slightly larger than 1/1
 At a distance greater than a few light-years from Dael, the fabric of spacetime frays into non-Euclidean folding that makes it seem as if you are moving without actually going anywhere. 
 Parallel universes may exist, and pocket dimensions are possible (As demonstrated by parts of the Riftscape)
 
-This geocentric structure gives a short solar year (1 week). This
-(coupled with a neglegible axial tilt) means that there is no real seasonal climate
-variation. Instead, the climate and the seasons are controlled by
-elementals. Also, this means that there are no real lunar phases.
-Additionally, since the sun is inside of the orbit of the moons, there
-are no solar eclipses. However lunar eclipses, by Terra Mendael and by either sun, occur on roughly weekly intervals, with a pattern that changes throughout the year.
+This geocentric structure gives a short solar year (1 week). 
+This (coupled with a neglegible axial tilt) means that there is no real seasonal climate variation. Instead, the climate and the seasons are controlled by elementals.
+Also, this means that there are no real lunar phases. Additionally, since the sun is inside of the orbit of the moons, there are no solar eclipses. 
+However lunar eclipses, by Terra Mendael and by either sun, occur on roughly weekly intervals, with a pattern that changes throughout the year.
 Eclipses from the suns only occur near the equator, as at more extreeme latitudes they merely pass by each other. Terra Mendael is large enough that eclipses caused by it are visible planet-wide. 
 The major celestial bodies all manifest as some element on earth. Each
 celestial shpere is comprised primarily of this material (plus

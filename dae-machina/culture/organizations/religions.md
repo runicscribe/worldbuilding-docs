@@ -46,7 +46,29 @@ Smaller followings among Shapeshifter commune (and southern 'fae caravans), Rift
 
 Patron-deity of the city of Haven.
 
-### Cult of Aphelia
+#### Order of Ekatlien's Mercy
+
+Mostly limited to the Free Cities
+Provides meals and shelter to the poor and the homeless
+
+
+#### Order of Ekatlien's Aegis 
+
+Independant militant order
+All-women membership
+Strong mage corps.
+
+Headquartered in Haven, but has chapter offices throughout Eaos and southwest Mhidda. 
+
+
+Works to 
+ - Provides armed escort for women travelling alone
+ - Stamp out human trafficing
+ - Regulate brothels and prevent abuses of power, to the degree that any legal brothel on the continent must get the blessing of the order. 
+
+
+
+### [Cult of Aphelia](./cult_of_aphelia)
 
 The Cult of Aphelia is an Eaosian sex cult, most prominent in coastal and southern Elyos. Its members mostly consist of middle and upper-class Eaosians.
 It is organized into small sects. Membership in a sect is secret, even from other members.

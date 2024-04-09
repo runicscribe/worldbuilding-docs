@@ -23,11 +23,11 @@ Remora and Devourers are most common among Followers of the Leviathan, and often
 
 ##
 
-Built into the shell of a collosal ocean wurm, who the leader merged with about two-thousand years ago.
+Built into the shell of a collosal triclaw leviathan, who the leader merged with about two-thousand years ago.
 
 ## Chasmlight
 
-Chasmlight is a massive, ancient abyssal merfae city-state in the center-north of the Great Southern Ocean.
+Chasmlight is a massive, ancient abyssal merfae kingdom in the center-north of the Great Southern Ocean.
 From above (still deep underwater), it almost looks like a night sky at the bottom of the ocean.
 
 The city gathers a significant portion of its resources from things that fall from the ocean above.
@@ -37,11 +37,20 @@ Despite this, it has been involved in relatively few conflicts, as not many peop
 
 The 'jinn and and the Dragons are the only non-merfae who know this nation exists.
 
+###
+
+Unlike many Lauan and Abyssal merfae communities, Chasmlight takes an active role in raising its young, meaning that basically all hatchlings survive to adulthood.
+One abyssal merfae can lay thousands of eggs in a single spawning, so as a consequence reproductive rights are strictly regulated in the kingdom.
+
+Eggs are collected at royal creches, typically located at the tops of tall towers, where the depth and pressure is lesser. Hatchlings are raised communally.
+
+Due to this structure, the merfae of Chasmlight don't have the same sorts familial bonds that are found in other Ael communities. Instead, they create their own found families.
+
 ##
 
 Northeast edge of the rift.
 Used to span most of the western sea, before the cataclysm. Now smaller and more northerly.
-Lots of otherwise inaccessible materials from 4 millenia of shipwrecks
+They use lots of materials scavenged from 4 millenia of shipwrecks, which makes there cities atypical when compared to other merfae settlements.
 Mixed Sache and Abyssal 'fae.
 
 Will occasionally sink more ships, for resources.

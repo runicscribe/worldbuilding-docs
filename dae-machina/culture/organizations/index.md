@@ -1,7 +1,9 @@
 # Organizations
 
-## Nations
-Nations with a unified government spanning many cities.
+## Great Powers
+
+Among all the nations of Dael, four can be counted as great powers, such that they influence all the nations which surround them.
+At the current time, these four powers are far enough from each other that they have not yet clashed, but as their influence spreads, a conflict may be inevitable.
 
 ### Empire of the Rising Sun
 
@@ -17,23 +19,6 @@ The northern reaches of the continent were only absorbed during the early part o
 The northenmost communities are still effectively independant.
 The western plains are likewise a recent addition, and are treated more as a colony than as an integrated part of the Empire.
 
-### [Xhal Nations](./xhal_nations)
-(Æl’xhal and xhal’fae)
-Made of mostly separate tribes, lead by a clan chief. Larger settlements (such as the city of bridges) are led by a chief and a clan council.
-The western reaches of Kita Lao are have been colonized by the Empire of the Rising sun, and are more uniform.
-
-#### City of Bridges
-Also known as 水の上 都市 - Mizunoue Toshi - “City over Water”
-Semi-independant city state marking the eastern edge of the Empire's control.
-
-#### [Dragonhalls](./dragonhalls)
-
-Built into and through the sides of a mountain chain in one of the central Kita Lau islands
-Founded during/after the dragon war, by a pair of dragons who mostly wanted to stay out of the whole thing, while still using the influence they had over their territory to protect the local humans.
-
-Both founders died fighting the Uon - one in 1,600 BC, driving off their incursion into Kita Lau, and the the other in 90 BC, fighting alongside the 'daal.
-As a consequence, Dragonhalls and most of western Kita Lau has emerged largely unscathed from Uon expansionism.
-
 ### [Elyos Republic](./elyos_republic)
 
 #### [Academy of Magical and Martial Arts](./aomma)
@@ -46,12 +31,60 @@ Ael'jinn population is primarly found in a small number of very large cities.
 Hereditary rule by founding High-jinn and their descendants.
 
 
+### [Dragonhalls](./dragonhalls)
+
+Built into and through the sides of a mountain chain in one of the central Kita Lau islands
+Founded during/after the dragon war, by a pair of dragons who mostly wanted to stay out of the whole thing, while still using the influence they had over their territory to protect the local humans.
+
+Both founders died fighting the Uon - one in 1,600 BC, driving off their incursion into Kita Lau, and the the other in 90 BC, fighting alongside the 'daal.
+As a consequence, Dragonhalls and most of western Kita Lau has emerged largely unscathed from Uon expansionism.
+
+While the land controlled by Dragonhalls is relatively small, the political and military power afforded by it's dragon population puts it on even ground with the other great powers.
+
+
+## Other Nations
+Nations with a unified government spanning many cities.
+
+### Dhaigean 
+
+The Southwest region of Dhaigean Isles is all under control of a single nation.
+Decent relations than the druids and some of the northern Dhaigean clans, and with the Elyos Republic.
+
+### [Sach'ean Diarchy](./sachean_isles)
+
+South of 'jinn peninsula.
+The main chain of four islands is jointly ruled by Ael'daal and Merfae monarchies. There are a handfull of other inhabited islands in the vicinity that are culturally similar, but not really under the rule of the diarchy.
+Name is a portmanteau of the names for the specific groups of Merfae (Sache) and the 'daal (Dalean) people inhabiting the islands. 
+
+Fairly isolated. Occasional contact with 'jinn and more westerly islanders, but that's about it.
+Mix of 'daal and merfae population. Cities are tightly integrated, extending below-water.
+Small but advanced civilization, though missing a few advancements post first-era Daal, and lacking access to certain materials. One notable example is few reliable sources of high-quality gemstones - 
+while some can be found in the active volcanic regions of the isles, these are too dangerous to mine reliably. This greatly limits the production of enchanted items.
+
+### Enjat-Tehktun Alliance
+
+Formerlly the Tehktun Islands Collective
+Closer to riftscape.
+Only some of the islands here are inhabited.
+Mix of 'daal and 'xhal, and a very small number of Xhal'fae and merfae
+Bit more communitcation with mainland, mostly Riftlanders (and previously, inhabitants of the now-destroyed group of large islands near the coast). 
+Largely unscathed by the Uon-Daal war, but took quite a bit of damage (and many refugees) during the Uon Cataclysm.
+
+### Western Quon Xi
+
+The lands past the western borders of the Quon Xi empire host several large nations, loosely alied in a desire to remain independant from the Empire.
+
+### Chasmlight
+
+Deep sea merfolk nation.
+Would be accounted among the great powers if it had any desire for the land above water.
+
 ## Independant States
 
 Smaller states whose main level of government is at the city/settlement level.
 
-### Dhaigean Isles (Runesea Isles)
-Ael'midh tribes led by clan chiefs and/or shamans.
+### Northern Dhaigean Clans
+Ael'midh tribes on the Dhaigean Isles, led by clan chiefs and/or shamans.
 
 ### Futhern Dhal (Mountain Strongholds)
 Ael'midh strongholds/city-states that are lead by a hereditary monarchy.
@@ -61,6 +94,19 @@ Coastal Ael'midh clans led by warlords or clan elders
 
 ### [Daal'fae Caravans](./daalfae_caravans)
 Among the Daal'fae, there are a number of large nomadic caravans that follow fairly rigid paths across certaon sections of Eaos.
+
+### [Leonine Tribes](./daalfae_other)
+
+The Leonine Daal'fae tribes are spread throughout the central Great Plains, east of the Free Cities. They survive mostly through hunting the wildlife of the plains.
+
+While they have a strong internal sense of community, they are extreemly hostile towards outsiders, especially non-fae. 
+This attitude is a large part of the reason why there aren't many Ael'daal settlements east of the Great River.
+
+### [Hyenid Clans](./daalfae_other)
+
+The hyenid 'fae were the last of the  Daal'fae to flee southeast Eaos after the start of the Lich wars, and to this day still roam fairly deep into the Great Desert.
+The cataclysm impacted them worse than most Daal'fae groups, wiping out several tribes and pushing the survivors further into the desert and into more populated regions.  
+They most commonly interact with the Lion Tribes, whom they are often in conflict with, and the Riftlanders, who they generally get along with.
 
 ### [Free Cities](./free_cities)
 
@@ -74,7 +120,6 @@ Varying amounts of corruption, smuggling and counter-espionage among the cities.
 The Free Cities are politically seperate from the Elyos Republic, althrough relations are generally cordial between the two. Given their influence on trade, 
 any conflict with the Free Cities would have the potential to economically cripple the republic.
 
-
 ### Hollow Cities
 
 Jointly founded by 'jinn, 'midh, 'daal, sometime after the 'jinn reconnected with the Eosian Aeldar in the aftermath of the lich wars.
@@ -83,7 +128,6 @@ Lead by council of representatives of constituent Ael lineages.
 Built underground, under the dragonspine mountains. Originally a single city, but has since expanded to multiple. Connected to the Elyos Republic and to the 'jinn cities by seperate teleporter networks.
 
 Primary exports are gems, metals, and magically shaped tools and art. Import a significant proportion of their food from the Elyos Republic.
-
 
 ### [Shapeshifter Commune](./shapeshifter_commune)
 
@@ -157,25 +201,14 @@ They have a unique relation with a dragon inhabiting the islands; after killing 
 Meanwhile, a seperate group sneaks into the dragon's lair to scavenge treasure. The dragon is fully aware this is happening, and deliberately set up a decoy room with less valuable things for the selkies to scavange, 
 considering this fair trade for not having to do any work hunting (Although any selkies who get a little too greedy are still at risk of lethal reprisal).
 
-### [Sach'ean Diarchy](./sachean_isles)
+### [Xhal Nations](./xhal_nations)
+(Æl’xhal and xhal’fae)
+Made of mostly separate tribes, lead by a clan chief. Larger settlements (such as the city of bridges) are led by a chief and a clan council.
+The western reaches of Kita Lao are have been colonized by the Empire of the Rising sun, and are more uniform.
 
-South of 'jinn peninsula.
-The main chain of four islands is jointly ruled by Ael'daal and Merfae monarchies. There are a handfull of other inhabited islands in the vicinity that are culturally similar, but not really under the rule of the diarchy.
-Name is a portmanteau of the names for the specific groups of Merfae (Sache) and the 'daal (Dalean) people inhabiting the islands. 
-
-Fairly isolated. Occasional contact with 'jinn and more westerly islanders, but that's about it.
-Mix of 'daal and merfae population. Cities are tightly integrated, extending below-water.
-Small but advanced civilization, though missing a few advancements post first-era Daal, and lacking access to certain materials. One notable example is few reliable sources of high-quality gemstones - 
-while some can be found in the active volcanic regions of the isles, these are too dangerous to mine reliably. This greatly limits the production of enchanted items.
-
-### Enjat-Tehktun Alliance
-
-Formerlly the Tehktun Islands Collective
-Closer to riftscape.
-Only some of the islands here are inhabited.
-Mix of 'daal and 'xhal, and a very small number of Xhal'fae and merfae
-Bit more communitcation with mainland, mostly Riftlanders (and previously, inhabitants of the now-destroyed group of large islands near the coast). 
-Largely unscathed by the Uon-Daal war, but took quite a bit of damage (and many refugees) during the Uon Cataclysm.
+#### City of Bridges
+Also known as 水の上 都市 - Mizunoue Toshi - “City over Water”
+Semi-independant city state marking the eastern edge of the Empire's control.
 
 ### [Ocean Merfae](./ocean_merfae)
 
