@@ -95,3 +95,7 @@ The sea has a faint luminesence at night.
 Other continents/realms can be seen in the night sky, as black voids outlined in the glowing sea.
 Instead of a sun, there is some glowing entity (creature? chariot?) that drifts through the sky.
 
+### Haven-towns
+
+Drifting continents can cause people to be left behind from their native continent, intentially or not.
+Individuals generally gather together, forming diverse port-towns.
