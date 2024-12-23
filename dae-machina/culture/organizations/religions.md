@@ -6,7 +6,7 @@ permalink: /dae-machina/culture/organizations/religions
 # Religions
 
 There are a vast array of religions in Dael.
-Some of these venerate beings who exist, others focus on mythological figures or unknowable gods.
+Some of these venerate [beings who exist](../individuals/deified_individuals), others focus on mythological figures or unknowable gods.
 
 The largest religions are:
  - The Church of Daelios
@@ -51,7 +51,29 @@ Smaller followings among Shapeshifter commune (and southern 'fae caravans), Rift
 
 Patron-deity of the city of Haven.
 
-### Cult of Aphelia
+#### Order of Ekatlien's Mercy
+
+Mostly limited to the Free Cities
+Provides meals and shelter to the poor and the homeless
+
+
+#### Order of Ekatlien's Aegis 
+
+Independant militant order
+All-women membership
+Strong mage corps.
+
+Headquartered in Haven, but has chapter offices throughout Eaos and southwest Mhidda. 
+
+
+Works to 
+ - Provides armed escort for women travelling alone
+ - Stamp out human trafficing
+ - Regulate brothels and prevent abuses of power, to the degree that any legal brothel on the continent must get the blessing of the order. 
+
+
+
+### [Cult of Aphelia](./cult_of_aphelia)
 
 The Cult of Aphelia is an Eaosian sex cult, most prominent in coastal and southern Elyos. Its members mostly consist of middle and upper-class Eaosians.
 It is organized into small sects. Membership in a sect is secret, even from other members.
@@ -176,6 +198,14 @@ Many Xhao'fae, some coastal mer'fae, and some Ael'Xhal, including a moderate fol
 
 Merfae variant of the five truths, most common among deep ocean merfae and in the Sach'ean Diarchy
 Only recognizes the sea-god Vache as their prime god and the shadow-god Setch, as the adversary.
+
+#### Trinity of the Isles
+
+Small offshoot of the five truths practiced by some Ael'xhal in the Shards of Xuon
+
+- Sea - Death, darkness, storms. Blend of Vushu and Sezetch
+- Sky - Weather, rain, life, light.
+- Earth - Stability, sustenance. Blend of Ulua and Fengrax
 
 ### Followers of Leviathan
 

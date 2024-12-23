@@ -108,7 +108,7 @@ The ofspring of celestial 'jinn are almost always also celestial 'jinn, regardle
 
 ## High 'jinn
 
-The few Ael'jinn older than 2500 years are coloquially refered to High 'jinn.
+The few Ael'jinn older than 2500 years are coloquially refered to High 'jinn or Eldar 'jinn.
 These 'jinn originate from the original Aeldar civilization, from before the Lich wars.
 As such, their human form is somewhat different in appearance than modern 'jinn, looking much like the old Aeldar.
 Furthemore, they do not actually have natural shapeshifing abilities, shifting solely due to their own magical ability.
@@ -120,6 +120,14 @@ and often have a variety of unique abilities.
 Many High 'jinn serve as leaders among the 'jinn principalities.
 
 High 'jinn also tend to accumulate a clique of younger 'jinn followers and hangers-on.
+
+## Dai'jinn
+
+Aeldar with partial 'jinn heritage typicaly still have some elemental talents, but less than that of a full 'jinn. This may include the ability to manipulate the elements, resistance to extreme conditions, or partial elemental shapeshifting.
+Usually, an individual will only manifest some of these abilities, not all of them, and such abilties will be less potent than those of a pureblooded 'jinn. 
+
+These Aeldar are sometimes refered to as Dai'jinn 
+Typically between 3/8th and 1/8th pureblooded 'jinn ancestry.
 
 ## Ester's Lineage
 

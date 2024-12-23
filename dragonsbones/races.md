@@ -11,12 +11,33 @@ Races said to descend from the blood of the cosmic dragon.
 
 ### Kobolds
 
-3-4 ft tall draconic humanoids.
+3-4 ft tall draconic humanoids. More durable then they look. However, they also act more durable than they are, so this kinda balances out.
 Single-sex hermaphrodites, with internal genitals. Despite (or perhaps because of) this, Kobolds have a diverse range of social genders.
 Lives in extensive cave systems, where they search for and hoard shiny things.
 
-Society is a form of communal anarchy.
+Society is a form of communal anarchy. Few rules. Little concept of ownership, hierarchy, or modesty.
+Kobolds will often get swept up in an activity - e.g. a hunt, a feast, etc.
+At the same time, individual kobolds tend to act with the community in mind. E.g. whenever making a meal, makes enough for a feast.
+Its not uncommon for a kobold to get absorbed in a particular task, e.g making arrows thing for 5 hours in a row.
+
+Good at large projects that mostly just nead a lot of labor, but not so much at those that need a lot of planning (science, complex engineering, etc)
+
+
+Tend towards large groups - a community of less than 100 kobolds is rare.
+Lone kobolds tend to appear somewhat lost, and are easily influenced.
+
 Frequently in conflict with the dwarves, who they find to be stuffy and overly concerned with rules, but will put their differences aside to fight against the sylvans.
+
+Kobolds ride giant insects (mostly beetles)
+
+
+#### Southern Marsh Kobolds
+
+Gecko-like, with more rounded features and a broad tail.
+While conventional kobolds are durable in a 'tough' way, southern kobolds are more stretchy and flexible.
+
+Cave 'bolds have a pale coloration and a translucent underside (neck, belly, crotch and tail).
+Swamp 'bolds are more brightly colored
 
 ### Dwarves
 3 1/2 - 4 1/2 ft tall humanoids. Stout and muscular - nearly as wide as they are tall. Both male and female dwarves are bearded.

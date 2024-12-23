@@ -12,8 +12,6 @@ have a head surrounded with spines and horns, most prominant at the base of thei
 Their chest is quite deep, consisting primarily of wing muscles, with a much more narrow lower torso.
 Most dragons also have spikes or ridges running down the length of their spine, from the base of their skull to the tip of their tail.
 
-Female dragons are on average 20-25% larger than males.
-
 Dragons are sapient, and tend to be quite intelligent. All dragons have a tendency towards hoarding, although individual dragons will hoard different things. Many dragons hoard gems, gold, or wealth, but others may hoard 
 magical artifacts, art, or knowledge. Dragons have their own spoken language, but can often speak and write in a variety of human languages. Many dragons are philosophers and researchers, devoting a great deal of time to 
 unraveling how some aspect of the universe works. There have also been a number of dragon warlords and conquerors who have taken over local human civilizations over the ages, although these have generally limited their 
@@ -27,12 +25,13 @@ their cities in return for a regular tribute of meat. Dragons usually eat large 
 
 Dragons are extremely long-lived, with a natural lifespan of around 4000 - 6000 years. Due to their magical nature, most dragons learn to magically extend their life beyond their natural limits.
 Because of this immense longevity, dragons reproduce rarely, only one or two dragons born every few centuries. The one exception is after especially cataclysmic events that actually manage to impact the dragon population -
-in the wake of such events, there tend to be quite a few new dragons born. For this reason, there are quite a few dragons just over 5000 years old, (born just after the Dragon war), as well as a dozen or so born during or after the Uon war. 
+in the wake of such events, there tend to be quite a few new dragons born. For this reason, there are quite a few dragons just over 5000 years old, (born right after the Dragon war), as well as a dozen or so under 150, 
+born during or after the Uon war and ensuing cataclysm. 
 
 ## Reproduction and Development
 
-Require specific nutirents (most comonnly found in members of the Cercis or Concha families) to be fertile. 
-(Exact nutrients requireed are different between male and female dragons - serpentfish or certain aquatic mammals are also sufficent for males)
+Dragons require specific nutirents (most comonnly found in members of the Cercis or Concha families) to be fertile. 
+The exact nutrients required are different between male and female dragons - serpentfish and certain aquatic mammals are also sufficent for males.
 
 If these conditions are met, a female dragon will begin to ovulate (although never more that once in one year). 
 
@@ -41,21 +40,25 @@ Similar to certain reptiles, female dragons may store sperm internally for up to
 When an oocyte relized this way is fertilized, the other structures that make up the egg start to form around it, starting with the yolk, and ending with the shell.
 This process takes about 3-6 (? months), after which the egg is laid. The embryo must develop for a futher 6-12 (?) months before the egg hatches.
 
-Dragon eggs are relatively small compared to their body size, about 12 - 20 cm in diameter.
+When an egg is laid, it is a long ovoid with a soft shell, typically 12 - 20 cm in diameter and twice as long as it is wide.
+It gradually settles into a rounder (but still ovoid) shape, about 15% wider, and the shell hardens over the course of a few hours.
+Even so, dragon eggs are rather small compared to their body size.
 
-Newly hatched dragons are likewise quite small - about the side of a housecat. 
-After hatching, they grow fairly rapidly for the first 100 years of their life, after which their growth slows down substantially, although it never quite stops. 
-Phisical development occurs quickly - at 3-6 months they can run, glide short distances, and hunt small game.
-Mental development is rather slower - for the first few years of their life, they operate mainly on instict. By 10 years, they have comparable intelligence to a young human child. 
+Newly hatched dragons are likewise quite small - between the size of a housecat and a medium dog.  
+After hatching, they grow very quickly, with a sixfold increase in length - bringing them to about the size of a horse - in their first ten years, and more than double that at 100 years of age.
+After this, their growth slows down substantially, although it never quite stops.
+
+Other aspects of phisical development are similarly rapid - between 3 and 6 months of age, a baby dragon can run, glide short distances, and hunt small game.
+Their mental development is rather slower - for the first few years of their life, baby dragon operate mostly on instict. By 10 years, they have comparable intelligence to a young human child. 
 This is also when they start being able to fly (rather than just glide). Dragons reach sexual maturity at about 30-40 years of age, and mental maturity at 50-60, 
-although are still not truly considered an adult by other dragons until they reach 100. Upon reaching 1000 years, dragons are considered elders worthy of respect in the dragon community
+although are still not truly considered an adult by other dragons until they reach 100. Upon reaching 1000 years, dragons are considered elders worthy of respect in the dragon community.
 
+Adult Female dragons are on average 20-25% larger than males.
 
 All dragons naturally have access to an imense amount of magical power. Most dragons are also skilled sorcerers, and often use magic to appear to “breathe” elemental blasts like fire or ice. 
 Their magical nature also assists in their ability to fly. Some dragons can shapeshift into a human(like) form. When they shapeshift, they typically retain their mass (with a corresponding increase in density), 
 and much of their original strength, as well as all their magical abilities. Due to the complex nature of this transmutation, it takes rather more time (up to an hour) than conventional shapehifting.
 Part of a dragon's magical affinity is related to the conditions their egg experienced before hatching.
-
 
 Some dragons use their magical strength to petrify foes. These dragons are someties refered to as basilisks (or gorgons if they take human form).
 
@@ -64,6 +67,20 @@ Some dragons use their magical strength to petrify foes. These dragons are somet
 Dragons are solitary by nature, and magically gifted enough that most dragons are capable of telepethy, meaning there is little need for language among dragons.
 Most Dragons read and write Contemporary Draconic, and many can also read Ancient Draconic.
 Spoken draconic is used much less often, and not all dragons know it. It is most often used as a courtesy in places where three or more dragons live in one place.
+
+### Dragon Names
+
+Dragon names are a complicated affair.
+
+Dragons are first given a hatchling-name by their parents, with distinct spoken and telepathic forms.
+This name is typically only ever used by the dragon's parents to refer to them, while they are still a child.
+
+When a dragon reaches adulthood, they choose their own name. Again, this has a spoken (dragonic) form and a telepathic form. If the dragon interacts with Aeldar frequently, 
+they'll often have another spoken version of this name that is actually pronouncable by most Ael, and typically shorter than the draconic version of their spoken name. 
+This Ael name can differ dramatically from their spoken draconic name, but is still (usually) derived from it.
+
+Elder dragons will also have an honorific name or title, generally given to them by other dragons they have met. This is not always especially flattering, and may change over time.
+If this honorific is used by Ael, it is usually translated directly, rather than using a shortened version of the spoken draconic form.
 
 ### Tricircumlunar Gathering
 

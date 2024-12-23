@@ -17,7 +17,7 @@ Flora, fauna, and other more magical entities.
  
 ## [Geography](./world/geography)
 
-Maps, locations, trade routes, and climate.
+Maps, locations, trade routes, and [climate](./world/geography/climate).
 
 ## [Cosmology](./world/cosmology/cosmology)
 

@@ -12,6 +12,8 @@ and often the first project of new or aspiring enchanters and artificiers (in th
 
 ## Agriculture
 
+'jinn Farming Constructs
+
 ## Heating and Cooling
 
 Magic methods are mostly highly efficient heat pumps or point focci, and are actually quite common. Basically all large cities utilize them heavily, as well as most mid-sized towns.
@@ -117,6 +119,30 @@ Eaos - Quon Xi by sea:
  - 7196 km (open ocean); 48 days
  - 7836 km (By Kita Lau coastline); 52 days
  
+
+## Warfare
+
+### Battlemages
+
+### Fortifications
+
+Even the walls of a small town will have some defensive charms on them.
+
+Major cities have multilayered magical defenses, protecting them against mundane and magical attack, as well as blocking scrying, teleportation, etc.
+
+### Siege Weapons
+
+Channelers Mortar: Only the actual weapon is magical, projectiles can be most anything. Typically channels kinetic energy from a large weight to launch a projectile at extreeme velocity.
+Typically large, bulky, and difficult to transpot - most common in defensive emplacements. Because they use mundane projectiles, most magical defenses don't do much against them.
+
+Arcane Bombs - enchanted projectiles. Many variations. Can be launched through mundane or magical means.
+
+More compact magical weapons also exist, but typically require some arcana source, such as infused gemstones.
+
+Siege spells - actually requires casters, but can be adapted for the situation.
+
+### Espionage
+
 ## Currency
  
 The cultures of Dae'machina use a wide variety of currencies.
@@ -148,18 +174,20 @@ For larger transactions, metal bullion or large gemstones is still practical, si
 
 ### Elyos Republic
 
-The Elyos Republic mints silver coins with various metal inlays for different denominations. This currency is also accepted by most merchants in the free cites and the Futhern Dhal.
+The Elyos Republic mints silver coins with various metal inlays for different denominations. This currency is also accepted by most merchants in the free cites and the Futhern Dal.
 
 Some northern merchants in the Empire deal in furs from the Wolf 'fae, which they pay for with various food goods that store well, and iron or steel weapons and tools.
 Some southern merchants deal in spices from the Plains 'fae, which they pay for in glass beads, metal cart fittings, or other things the Plains 'fae find useful.
 
-### Futhern Dhal
+### Futhern Dal
 
 Most transactions among the Futhern Dhal use sized gemstones and gemstone dust, or bulk metal ingots for larger transactions, based purely on the value of the raw materials. 
-Given that this is a value based currency, it is accepted by most larger institutions outside of the Futhern Dhal, but not by many smaller businesses that cannot readily handle raw gemstones.
+Given that this is a value based currency, it is accepted by most larger institutions outside of the Futhern Dal, but not by many smaller businesses that cannot readily handle raw gemstones.
 
 Some strongholds also mint their own coinage, consisting of gemstones embedded a metal coin or token stamped with their mass.
-The Futhern Dhal also buy furs and meat from the Midh'fae in return for high quality tools and weapons.
+The Futhern Dal also buy furs and meat from the Midh'fae in return for high quality tools and weapons.
+
+Several Futhern Dal citadels also host large banks who do businesses across Eaos-Mhidda.
 
 ### Lost Cities ('jinn)
 

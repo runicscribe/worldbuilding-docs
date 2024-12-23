@@ -45,3 +45,16 @@ Types:
 - Dragons
 -- Dragons are inherently long lived, and exceptionally powerfull magic users. Any dragon that tries to become ascended through one of the above methods usually succeeds.
 
+## Unbound Ascended
+
+Most paths to ascension come with some limitations. These can include:
+ - Being constrained to an object, place, or physical form
+ - Being limited to a single body, still at risk of destruction
+ - Being limited in the amount of power one can exert upon the world
+ - A slow degredation of consciousness steming from a lack of physicality
+
+Some rare ascended manage to exceed all these limits, acheiving true immortality and godlike power.
+Such individuals are known as unbound ascended. Known unbound ascended include:
+
+ - Queen of Ravens
+ - Ael'syi Council

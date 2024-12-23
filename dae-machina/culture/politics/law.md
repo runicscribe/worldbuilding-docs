@@ -177,7 +177,7 @@ Mostly up to the whims of whomever the current leader of a given settlement is. 
 ### Xencha Remnant
 
 Softened up somewhat since times of the Xeres Empire and later Uon occupation, but still tend towards brutal and efficient, stemming from need for organization and secrecy in earlier times.
-Punishments primarily focused on keeping everyone else save, as often the slightest disruption was enough to bring down the Empire or the Uon (and therefore, deterrence/incapacitation)
+Punishments primarily focused on keeping everyone else safe, as often the slightest disruption was enough to bring down the Empire or the Uon (and therefore, deterrence/incapacitation)
 
 ### Dragonhalls
 
