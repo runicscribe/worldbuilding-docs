@@ -89,14 +89,19 @@ The Dragon's Teeth is a small chain of barren islands between the northern ends 
 
 Kita Lau is a chain of tropical islands between Quon Xi and the Riftscape. It is inhabited by tribes of Æl'xhal (mostly hunter-gatherers and fisher-folk) and Xhal'fae.
 
+<a name="riftscape" />
 # Riftscape
 
 The Riftscape is a large artificial magical phenomena created when the Uon tried to create an artificial god/racial power source. This caused a magical overload across the Uon species, and threw the magical energies of the region 
-into chaos. However, magic in this region is still strongly linked, and wizards are able to draw on vast amounts of magical power from any point in the riftscape. This effect becomes substantially more pronounced (and more 
-unpredictable) towards the centre of the riftscape. Given that it encompasses the region that was once the Uon Empire, various ruins and artifacts are commonly found within the riftscape. There exist many very powerful Uon and 
-Ældar artifacts within these ruins, which draws many adventurers to seek their fortune within the riftscape. Before the cataclysm, this region comprised a variety of landscapes, with jungles to the west, savannah and desert to 
-the east, and various mountain ranges throughout the region. These regions are still represented throughout the riftscape. 
-Prior to the cataclysm, this region was called Xuon by the Uon and Kwu Naa by the Æl'xhal
+into chaos. The riftscape is very magically active. Mages are able to draw vast amounts of magical power from any point within the riftscape, but the results of any spells cast in this way will be chaotic and unpredicable. 
+This effect becomes substantially more pronounced (and more unpredictable) towards the centre of the riftscape. Elementals and magically altered creatures are also much more common within the riftscape.
+
+Given that it encompasses the region that was once the Uon Empire, various ruins and artifacts are commonly found within the riftscape. There exist many very powerful Uon and 
+Ældar artifacts within these ruins, which draws many adventurers to seek their fortune within the riftscape. 
+
+Prior to the cataclysm, this region was called Xuon by the Uon and Kwu Naa by the Æl'xhal, and included a variety of landscapes, with jungles to the west, savannah and desert to 
+the east, and various mountain ranges throughout the region. These regions are still represented throughout the riftscape, but are more fractured.
+
 The riftscape extends from 45 W to 45 E and from 15 N to 75 S, and is about 7,700 km in diameter and is divided into four concentric regions:
 
 

@@ -95,13 +95,12 @@ TBD:
 **Description:** 
 
 Dark, straight, shoulder-length hair. Broad shoulders.
-Typically wears an outfit consisting of knee-lenght leather boots, a knee-lenght diagonal-cut skirt, a cropped, diagonal cut vest with flared sleves, and a leather satchel.
+Typically wears an outfit consisting of knee-length leather boots, a knee-length diagonal-cut skirt, a cropped, diagonal cut vest with flared sleves, and a leather satchel.
 
-Skilled chimerist.
-One of the largest suppliers of null grubs in eastern Eaos.
-Main interest is experimentation with and manufacture of living sex toys, although these are diseminated rather more clandestinely than the null grubs. 
+Skilled chimerist based out of Arcmuth. One of the largest suppliers of [null grubs](../../world/bestiary/fauna/abberations) in eastern Eaos.
+She maintains a private laboratory some ways outside of Arcmuth, along with a couple different storefronts in the city. She ocasionally runs practical chimerist classes at the AoM&MA.
 
-Maintains a private laboratory some ways outside of Arcmuth. Maintains a couple different storefronts in the city, and ocasionally runs practical chimerist classes at the AoM&MA.
+In addition to her main business producing null grubs, she also works in chimerism research, mainly involved producing various small bespoke chimeric constructs. 
 
 **Affiliations:** 
 AoM&MA, Arcmuth.
@@ -223,7 +222,7 @@ Eventually destroyed by Keth in the waning years of the lich wars.
 
 **Name:** Keth, the Renegade
 
-**Demographics:** 
+**Demographics:** Female Old Aeldar Lich
 
 **Description:** 
 
@@ -236,9 +235,9 @@ Destroyed by Ellah, the Avenger.
 
 ----------------
 
-**Name:** 
+**Name:** Selmat of the Veil
 
-**Demographics:** Old Aeldar Lich
+**Demographics:** Male Old Aeldar Lich
 
 **Description:** 
 

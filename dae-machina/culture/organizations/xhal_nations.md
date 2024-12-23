@@ -3,14 +3,13 @@ The nations of Xuon and Kita Lau are host to a variety of peoples and cultures.
 They are inhabited primarly by the Ael'xhal and xhal'fae, as well as the xhao'fae, a small number of merfae, and a large number of dragons, many of which who have uniquly close relations to the local Ael. 
 
 Prior to the rise of the Uon, much of the Xuon continent and eastern Kita Lau was joined together as the Xeres Empire.
-After the war and the subsequent cataclysm, much of this region as shattered into small, fracticious tribes.
+After the war and the subsequent cataclysm, much of this region as shattered into small, fracticious tribes. A number of Xhal also wound up on Eaos, and have integrated into the various nations of that continent. 
 
-Western and central Kita Lau hosts a more diverse mix of larger states and countries as well as smaller tribes.
+Western and central Kita Lau hosts a more diverse mix of larger states and countries as well as smaller tribes. The largest of these countries is Dragonhalls, a 3000-year-old series of cities built into a chain of mountains and ruled by a family of dragons.
 
 Several of the states in the westernmost reaches of Kita Lau are nominally protectorates of the Empire of the Rising Sun, although still retain substantial independance.
-
-Span Kita Lau and Xuon.
-Mostly seperate tribes. 
+Historically, most of the Xhal were under the dominion of various dragons. After the events of the Uon war, the only notable dragon-ruled regions are Dragonhalls in eastern Kita Lau, and a handful of scattered Xeres remnants among the shards of Xuon.
+There are still quite a number of dragons dwelling in and around western Kita Lau. They have little interation with the Aeldar of the region, though some tribes do revere them as gods.
 
 ## Protectorates of the Empire of the Rising Sun
 
@@ -43,13 +42,23 @@ Home to particular unique cuisine, which incorporates quite a lot of megafauna -
 
 ### Xhal Tribes
 
-Many small unaffiliated Ael'xhal tribes throughout Kita Lau, especially on the central island and the smaller southern islands. 
+Many small unaffiliated Ael'xhal tribes throughout Kita Lau, especially on the central island and the smaller southern islands.
+Most are hunter-gatherers, subsiding on fishing and various fruits of the jungle. Some are more warlike, and raid other tribes.
 
 ### Xhao Tribes
 
-Vertical settlements, built into trees or cliffsides.
+The Ael'xhao of Kita Lau live in highly vertical settlements, built into trees or cliffsides.
 Sometimes live with other Ael'Xhal, sometimes just with Xhao.
 In either case, typically trade with local Xhal.
+
+Sustainence is mainly through hunting and fishing. Some agriculture, but mostly for materials rather than food.
+
+Apparel mostly consists of belts and pouches, and sometimes short vests, made from a mix of wood and bamboo fibre, woven reeds, and tanned hides. 
+These may be dyed brightly, or colored to camoflauge with the jungle, depending on the use case and on the occupation of the wearer. 
+This is usually supplemented with decorative bracers and torcs, made of woven fibres or hammered metal, and addorned with beadwork, feathers, and/or semiprecious stones. 
+
+The Xhao'fae tribes have no direct relations with the dragons of Kita Lau, and generally try and avoid them. 
+Some tribes revere dragons as something to aspire to, but always from a distance.
 
 Poor relations with the Quon Xi empire.
 
@@ -63,7 +72,9 @@ The Xencha Defiant are a moderately sized group of loosely organized, semi-nomad
 They are one of the very few communities in which Ael'xhal and Xhal'fae live together in harmony.
 
 While they may make camp in the same location for a while, they do not build permanent settlements, and can pack up camp and be ready to travel at a moment's notice.
-As a consequence, they keep few possesions, limited by what they can easily carry. This, coupled with the warm climate, also means Xencha generally don't bother with clothing.
+As a consequence, they keep few possesions, limited by what they can easily carry. The 'fae members of the Xencha are especually proud of their self-sufficiency, and typically eschew clothing and weapons, beyond their natural claws and fangs.
+The human members don't carry (or wear) much more, usually limiting themselves to simple (but well-made) weapons like spears and bows, along with pouches and sachels for food and medicines.
+
 
 Despite their isolation and relatively aesetic living conditions, retain a fairly high level of technology, at least to the degree that is feasible with no industrialization.
 This is seen primarly in their knowledge and the preservation thereoff, and their ability to construct highly effective tools from their environment. 
@@ -80,8 +91,8 @@ Xencha groups rarely have fewer than eight or more than two dozen members. There
 #### History
 
 The Xencha Defiant originated on Xuon sometime around 3000 BC as a rebellion against the Xeres Empire. For 300 years, small tribes lived in the deep in the southern Xuon jungle, 
-within the bounds of the empire, but not subject to it, sowing the seeds of its fall and liberation of the xhal peoples. 
-The early Xencha were organized mostly into small cells, with little knowledge of the others. Individual cells had their own permanent camps, but still moved frequenly, 
+within the bounds of the empire, but not subject to it, sowing the seeds of its fall and liberation of the xhal peoples. Many of these tribes also harbored escaped slaves, and sometimes assisted in their liberation.
+The early Xencha were small nomadic groups, with little knowledge of the others. Individual cells had their own permanent camps, but still moved frequenly, 
 and subsisted on a mix of resources stolen from the Xeres and obtained from the wilderness.
 The Feline Xhal'fae originated with the Xencha Defiant during this time period, and soon made up a significant proportion of their numbers.
 
@@ -90,7 +101,9 @@ Other groups formed new settlements, in the ruins of the Empire. Some Xhal'fae c
 
 The Xencha who remained continued their practices through the Uon conquest, and for a time the Xencha Defiant were the only independant group of Ael'Xhal on Xuon.
 
-The remenants of these groups still exist in the current day, living deep in the jungle and keeping many of the traditions of the original rebellion.
+Near the later years of the Uon war, some groups of Xencha worked closely with the Elyos military, primarly acting as covert ops groups from inside Uon territory.
+
+The remenants of these groups still exist in the current day, living deep in the jungle and keeping many of the traditions of the original rebellion, preserved through a rich oral history.
 Many have moved to more hospitable regions in Kita Lau and Western Eaos in the wake of the cataclysm, but some remain in the riftscape, where their particular skills allow them to survive where others could not. 
 Nowadays, they are most often referred to as the Xencha Remnant.
 
@@ -109,4 +122,51 @@ The harsh nature of this rebuilding, coupled with the fact their population is a
 Their society consists mostly of warriors/hunters, elders, and slaves. They have also taken the ancestral Xhal practice of sacrificing animals to the dragons of the isles, and corrupted it into a human sacrifice ritual, offering
 blood to some unknowable god in exchange for protection from the riftscape (this is entirely superstitious, and does not actual have a tangible effect) 
 
+#### Supplicants of ____
+
+Group that reveres the dragon ____, though he largely ignores them.
+
+#### Disciples of ____
+
+Only segment of the Xeres reborn that has an established alliance with a dragon.
+
+#### Wild Pact
+
 A number of Xeres Reborn settlements at the edges of their territory have made agreements with the local Xhal'fae to provide living human sacrifices as tribute every several days, in exchange for their members being safe from the Xhal'fae.
+
+### The Starflower People
+(lit: Xochitlalia, see also Plumeria rubra)
+
+Less-brutal Xhal survivors. Abhor the slavery and human sacrifice practiced by the Xeres reborn and similar groups
+Still quite competant warriors and hunters, as they need to be to survive 
+
+Name comes from term used by the Xeres Reborn to imply they are weak.
+
+
+### Alutchan Holdouts
+
+Remnants of a resistance movement under the Uon.
+
+### Xeres Remnant
+
+Edges of Riftscape (mostly around the western half) and eastern Kita Lau.
+Isolated Xeres cities that survived it's downfall, largely by abandoning the empire during its war with the Uon. Less than a dozen remain. 
+Each are entirely independant. In the 3000 years since the fall of the empire, their traditions and practices have evolved independantly, and are now quite varied, with the only commonality being that they all retain a Draconic leader.
+Only a couple still practice human sacrifice.
+
+### Rifttouched
+
+Mostly Xhal'fae, residing near the center of the Riftscape. Rare. Strange powers.
+
+
+### Lauan Dragon Cult
+
+Remnants of Xeres empire that escaped Xuon during its fall, but still aligned themselves with the practices of the empire.
+Rare, secretive, but have a communication network which spans much of Kita Lau, and even reaches into some of the Xeres Remnant.
+
+### Heirs to the Uon
+
+(alt: Heirs of the Blind, Heirs to the Faceless)
+
+Xuon Ael'xhal remnants who have preserved many of the trappings of the Uon, inhabiting their ruins and wearing their armor.
+Frequently at odds with the Riftlanders. Otherwise, not overtly hostile.

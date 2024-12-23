@@ -137,9 +137,12 @@ Found thoughout the Great Plains of Eaos.
 ## Homonids
 *Spina Pecus Simius*
 
+Before the cataclysm, there were many species of homonid across Xuon. Many of these were drivin to extinction by the cataclym.
+Outside of the Aldar, homonids are now quite rare in Dael. Most of those that do remain are small in stature.
+
 ### Trolls
 
-Large apelike creatures. 
+Large apelike creatures. Largest living species of homonid.
 Hunched over posture, bulky hands and feet. Body (but not face or digits) covered in approx inch-long fur.
 Otherwise, they have a fairly variable appearance. 
 
@@ -153,6 +156,15 @@ Trolls are most often found in the riftscape, where their unique resistance to m
 #### Jungle Troll 
 
 Troll variant common to the riftscape jungle regions. They have medium length shaggy hair and are overgrown with vines, orchids, and other parisitic plants.	
+
+### Enhat Monkey
+
+Small monkey found in southwest Eaos. Endangered population.
+Prized as an exoitic pet in the Free Cities and central Eaos.
+
+### Quonquin
+
+Long-haired monkey found in the mountanous regions of eastern Quon Xi and in Kita Lau.
 
 ### Uon
 

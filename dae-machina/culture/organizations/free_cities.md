@@ -18,7 +18,16 @@ The free cities were originally part of the Elyos Republic, but became independa
 The "face" of the free cities. Not the most wealthy or influential, but still quite important. Contains the meeting place for the free cities council.
 Generally agreed upon as neutral ground among the cities. 
 Eosport is also the primary port of travel between the free cities and Teythmos, and hosts embassies for a number of nations.
-It is partly built on the ruins of the former Elyos capital (New Aelmos, not to be confused with the 'jinn city of the same name) which was abandoned in 100 BC, during the Uon war.
+It is primarly built on the ruins of the former Elyos capital (New Aelmos, not to be confused with the 'jinn city of the same name) which was abandoned by the Elyos Coalition in 100 BC, during the Uon war.
+It has not regained the size or power it had before the war, but remains a large and influential city.
+
+More stratified than Haven - noticible divide between Docks / Merchants Circle / Upper City
+In particular, different peacekeeping forces
+ - Upper City Guards
+ - City Watch - technically have jurisdiction over the whole city except the High Council Chambers, but in practice mostly only present in Merchants circle and various gates/bridges
+ There are also private forces present in certain areas
+ + Private Mercenaries employed as guards in the Merchants quarter, and some warehouses in the docks
+ + Assorted Gangs in the docks
 
 ### Layout
 
@@ -37,15 +46,28 @@ On the opposite coast of the river are slums, housing much of the cities poorer 
 About 2km upstream of the main city is the Tower Bridge, connecting the two shores.
 There are also a number of ferry crossings closer to the core city.
 
+The stratified nature of Eaosport's layout is mirrored in its residents and peacekeeping forces. There is a substantial class divide between the three tiers, made most obviously apparent in its various peacekeeping forces.
+ - The Upper City Guards have ornate uniforms, with gilded armor, vibrant <color> cloaks, and crested helmets. They can be seen throughout the upper city, especially around the High Council Chambers, and report directly to the Lord of Eaosport.
+ - The City Watch technically have jurisdiction over the whole city (except the High Council Chambers), but in practice they are primarly seen in the middle tier, and among the various gates, bridges, and docks throughout the ciy. 
+   Their uniforms are more functional than those of the Upper City Guard, and they are part of the regular heirarchy of the city's bureaucracy. 
+
+Many of the wealthier mercantile organizations in the city also employ private mercenaries, who can be seen both in the middle tier, guarding manors, guildhouses, and storefronts, and in the lower tier, guarding docks and warehouses.
+Additionally, various gangs hold power over certain parts of the lower tier and the slums.
+
 ## Blackport
 
-The "shady" city. Most illicit or morally dubious trade goes through Blackport. This includes drugs derived from swamp plants, slaves from the xhal isles, and any other goods 
-that would be difficult to pass through Eosport or Haven. Rarely, this includes dangerous magical artifacts from the riftscape.
-
-The common wisdom is that you can get anything in Blackport, for the right price.
-
+The common wisdom in Eaos is that you can get anything in Blackport, for the right price.
 The main city of Blackport is on a crescent-shaped rocky isle at the mouth of the river delta, and is not directly connected to the mainland. The nearest coast is full of impassible swampland, making the city especually isolated.
 There are some fishermen and farmers along the banks of the river, but Blackport primarilly relies on trade for food.
+
+Blackport originated as a military base, but fell during the Uon war, and was later reclaimed by pirates, who built it up to its current form.
+Most illicit or morally dubious trade goes through Blackport. This includes drugs derived from swamp plants, slaves from the xhal isles, and any other goods 
+that would be difficult to pass through Eosport or Haven. Rarely, this includes dangerous magical artifacts from the riftscape.
+
+The city owes its continued independance due to a combination factors: 
+ - The relative dissaray of surrounding nations in the wake of the war.
+ - Various wealthy and influential indivituals inhabiting said nations who find the cities services useful.
+ - Its extreemley defensible location, coupled with a very potent mercenary force guarding the city.
 
 Most of Blackport's residants live on the inner edge of the isle. At the midpoint is the Citidel, where the Lord of Blackport and supporting functionaries live and work.  
 
@@ -104,13 +126,29 @@ It is the oldest of the free cities, founded in 2910 BC by refugees escaping the
 While it was named Haven due to the circumstances of its founding, this name has remained accurate in the modern day, where it has served as a refuge for people fleeing the Uon war, 
 and more recently as a safe harbour for slaves escaping Blackport and its environs.
 
+Haven is very much a city that has grown up over the ages, functioning more like a dozen cities in the guise of one.
+Districts are frequently dominated by enclaves of local, wealthy families, who have their own personal guards, supplemented by mercenary forces.
+
+By its constitution, the city is managed by a representative democracy, with representatives elected from each of the many districts.
+In practice, it functions more as an oligarchy, with as the various entrenched powers across the cities districts have enough influence to sway the elections in their favour, baring the occasional coup.
+Despite this, the city is reasonably well-run, and a decent place to live for even its poorer residants.
+
+The council of representatives elects their own prime minister, to represent the city in the Council of Lords. While this role is prestigious, the prime minister does not hold any more power than any other representative, 
+and mainly serves as a face for the intersts of the council as a whole. 
+
 ## Bridgeport
 
-Bridgeport stradles the river just before it splits into the three tributaries that feed Trader's Bay. Consequently, it controls all trade that passes up or down the river (and benefits from all the resulting tarifs)
+Bridgeport stradles the great river just before it splits into the three tributaries that feed Trader's Bay. Consequently, it controls all trade that passes up or down the river (and benefits from all the resulting tarifs)
 Some illicit trade from Blackport passes through Bridgeport, expediated by hefty bribes to the right officials. However, most of the more blatantly illegal trade (slaves, certain drugs) is not tolerated at any price 
 (although these are sometimes smuggled through anyways). 
 
 Since it straddles the river, it is also a major hub of ground-based trade through central Eaos.
+
+The city itself is ruled by a single wealthy family, with the role of ruler being passed down through the family, though the specific line of inheritance is rather flexible, being influenced by competance and the favour of the current ruler.
+The ruling family itself has changed a few times over the cities history through various coups, but such changes are rare.
+
+The Toll collectors and Gate Guards seen wherever goods and money flow through the city are employed directly by the ruling family.
+The city also employs a constabluary, tasked with keeping the peace and stopping crime. They are much less prominent than the Guards and Toll collectors, and hold less power.
 
 ## Elgate
 
@@ -122,12 +160,18 @@ The city is on the same delta as Eosport, and there is a little-travelled ground
 Vindel is upriver of Bridgeport, on the northwest bank. It serves as a hub for many vinyards and other farms in the area, and is generally considered to produce the best wine in the region. 
 Ships goods overland to Elyos, as well as up and down-river.
 The farms and vinyards that feed Vindel overlap the borders of Elyos (even moreso than most of the Free Cities), but in practice they fall under the domain of Vindel.
+Many of the vinyards employ their own mercenary guards.
+The city itself employs two different guard forces
+ - City Guards
+ - Citadel Guards
 
 ## Grandel
 
 Grandel is Vindel's sister city. It is located in the center of a large swath of farmland, especially grain. The city produces a significant percent of the Free Cities food supplies, and also ships food overland to other regions.
 Like Vindel, the surrounding farmland extends into Elyos but still effectively belongs to the city.
+The city employs a cadre of rangers help keep its fields and farms secure and project power into the nominal borders of the Elyos republic. 
 In addition to food, Grandel produces wines, textiles, and other goods. It is the furthest upriver of the major free cities.
+
 
 ## Kenford
 

@@ -84,3 +84,51 @@ The two founders died fighting the Uon in 1500 BC and 90 BC, respectively. Howev
 The current leader of Dragonhalls is the second child of the founders.
 
 In modern times, Dragonhalls boasts the closest relations between dragons and humans anywhere in the world. 
+
+## Government
+
+
+### Leadership
+Strictly speaking, Turi Skyflower is the sole leader of Dragonhalls, and has complete power over everything.
+
+In practice, there's quite a bit more nuance.
+
+#### The Draconic Concordant
+
+The draconic community of Dragonhalls operates largely independantly from the Ael government.
+
+Gathered together for community, and to a lesser degree protection (this aspect more relevant during the Dragon Wars, Xeres Empire, and Uon War). In this context, Turi is still the nominal leader, 
+but in practice most dragons manage their own afairs independantly. Dragon-Ael relations mostly go through Turi (or other members of the founder's family such as Carvedscale)
+
+Where conflict does occur, the aggrieved party generally brings a complaint to the Dragonhalls council (if theiy are Ael) or to Turi directly (if they are a dragon), and Turi will work with the council to find a resolution.
+Issues of this sort are relatively rare - most commonly encroachment of Ael too close to the outlying lairs, or excessive damage of livestock or farmland.
+
+All that said, who's nominally in charge of something doesn't matter all that much in the moment if a dragon is tells an Ael to do something.
+
+#### Individual Dragon retinues
+
+Several of the dragons in Dragonhalls have close relations with the Ael populace, and have accumulated partners, friends, vassals, and other hanger's-on among the populace.
+The inner circle of such retinues carry a high degree of authority among the Ael populace of Dragonhalls, while existing largely independantly of Dragonhalls' other power structures (much like the individual dragons themselves)
+
+Turi's retinue tends to overlap somewhat with the high council. In particular, the Dragonspeaker is typically someone close to her.
+
+Carvedscale has a particularly large and varied retinue. His inner circle wears enchanted gemstones that can be used to telepathically contact him. 
+
+
+#### The Dragonhalls High Council
+
+The day-to-day of the state is overseen by a council consisting of the leaders of various govt. offices, plus a Dragonspeaker selected by Turi, who speaks with Her voice, when Turi is not available.
+
+
+### Peacekeeping
+
+Major crime is virtually nonexistent in Dragonhalls proper.
+Turi (and most of the other dragons in her family) are fiercely protective of the human populace. Not only does this act as a substantial deterent, the magical talents of a half-dozen dragons are sufficient to predect, detect, and/or prevent most dangers.
+Failing that, between scrying and telepathy, any given dragon can pretty trivially solve anything major. Add the various dragon retinues on top of that, and it is virtually imposible to get away with much of anything.
+Dragonhalls does have a nominal peacekeeping force, but it largely deals with petty crime and ceremonial activites.
+
+
+Outside of the cities, crime and peacekeeping efforts are much more typical. The various valley settlements manage their own peacekeeping forces. Sentancing of major crimes may be overseen by functionaries from Dragonhalls.
+
+G W U
+50 25 27

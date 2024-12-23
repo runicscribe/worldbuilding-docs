@@ -21,7 +21,7 @@ This tends to go down one of three distinct paths:
 Remora and Devourers are most common among Followers of the Leviathan, and often become god-kings of their own splinter tribes.
 
 
-##
+## *Unnamed Leviathan-city*
 
 Built into the shell of a collosal triclaw leviathan, who the leader merged with about two-thousand years ago.
 
@@ -37,7 +37,7 @@ Despite this, it has been involved in relatively few conflicts, as not many peop
 
 The 'jinn and and the Dragons are the only non-merfae who know this nation exists.
 
-###
+### Creches
 
 Unlike many Lauan and Abyssal merfae communities, Chasmlight takes an active role in raising its young, meaning that basically all hatchlings survive to adulthood.
 One abyssal merfae can lay thousands of eggs in a single spawning, so as a consequence reproductive rights are strictly regulated in the kingdom.
@@ -46,7 +46,7 @@ Eggs are collected at royal creches, typically located at the tops of tall tower
 
 Due to this structure, the merfae of Chasmlight don't have the same sorts familial bonds that are found in other Ael communities. Instead, they create their own found families.
 
-##
+## Gyre Straights
 
 Northeast edge of the rift.
 Used to span most of the western sea, before the cataclysm. Now smaller and more northerly.

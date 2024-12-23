@@ -53,6 +53,7 @@
   - Uon population is decimated, with survivors driven into hiding across southern Xuon 
 - 4,700 BC
   - ☉ Rise of the Xeres Empire
+  - Xhao'fae arise among the western Ael'xhal
 - 4,500 BC
   - ☉ Æl'thal civilization: First Dynasty.
   - First ascended.
@@ -140,8 +141,10 @@ a small handfull joing with the Ael armies, and some staying out of the conflict
 
 While this conflict was centered on Eaos, it did involve the worldwide dragon population. The effects on the Ael civilizations outside of Eaos-Mhidda was less significant, but still notable.
 
+- Many of the Ael'midh retreated underground to protect themselves from hostile dragons, forming the precursors to the Futhern Dal.
 - The Ael'thal formed an early truce with the dragons, giving up a significant amount of land in exchange for a more harmonious relationship. 
-- The Ael'xhal sided with dragons wholesale, eventually causing the start of the Dragon Empire, spanning Xuon and the eastern reaches of Kita Lau
+- The Ael'xhal sided with dragons wholesale, eventually causing the start of the Dragon Empire, spanning Xuon and the eastern reaches of Kita Lau. The Ael'xhal in western Kita Lau were largely ignored, due to a variety of factors - 
+  their relatively sparse population, the obscuring jungle terrain of the region, and the alliances formed by the Ael'thal and eastern 'xhal.
 - The Uon (who were considered to be just another type of Ael by the dragons) were decimated, and went into hiding in northern Xuon for a few hundred years.
 
 Eventually, the dragon factions siding with the Ael were victorious, after many dragon casualties, and many more Ael casualties.

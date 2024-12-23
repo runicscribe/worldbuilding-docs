@@ -10,7 +10,14 @@ Elementals are most common in areas of strong (natural) magic. Elementals are mo
 * Rust elemental
 * Rot Elemental – Wood and Flesh versions exist
 
-Elementals have a wide range of appearances and behaviors, and are organized into several categories:
+Most elementals embody some natural phenomenon. However, some are more anthropogenic in nature:
+ - Daemons and Cambions are formed from emotions
+ - Archetypes are formed from powerful belief.
+ - Ael settlemens within the riftscape sometimes produce elementals formed from worked goods - banners, tools, buildings, etc.
+ - Particularly ancient cities may manifest their own dryad.
+ 
+
+Elementals have a wide range of appearances and behaviors, and can be organized into several broad categories:
 
 ## Static magical phenomena:
 
@@ -26,43 +33,29 @@ Small elemental effects that drift aimlessly. Examples include flame, light, win
 
 ## Lurkers
 
-Static or mobile effects that only produce an effect upon some
-stimulus. Eg a ligning bolt that strikes whenever anything passes
-nearby, a clif that crumbles and reforms, etc.
+Static or mobile effects that only produce an effect upon some stimulus. Eg a ligning bolt that strikes whenever anything passes nearby, a clif that crumbles and reforms, etc.
 
 ## Static Elementals
 
-Elementals that embody a physical object or place. Not very
-intelligent, but quite stubborn. Tend towards maintaining or organizing
-that which they embody. Examples include stone, hill, or mountain
-elementals, tree or forest elementals, etc.
-Static elementals are non-hostile and tend to ignore other beings. They
-are not dangerous unless you get in their way. Static elementals
+Elementals that embody a physical object or place. Not very intelligent, but quite stubborn. Tend towards maintaining or organizing
+that which they embody. Examples include stone, hill, or mountain elementals, tree or forest elementals, etc.
+Static elementals are non-hostile and tend to ignore other beings. They are not dangerous unless you get in their way. Static elementals
 make decent familiars because they are easily influenced or controlled.
-Wanderers
 
-Low intelligence. Generally just wander aimlessly.
-Can include islands or reefs that travel the oceans. Many of the
-riftscape floating islands are wandering elementals. Other wanderes
-include earthen giants.
-Artisans
-Somewhat more intelligent than wanderers, but very single-minded.
-Tend towards maintaining or organizing
-that which they embody. Forest artisans often result in forests
-arranged in oddly specific patterns. Stone artisans arrange standing
-stones or cairns. 
+### Wanderers
+
+Low intelligence. Generally just wander aimlessly. Can include islands or reefs that travel the oceans. Many of the
+riftscape floating islands are wandering elementals. Other wanderes include earthen giants.
+
+### Artisans
+Somewhat more intelligent than wanderers, but very single-minded. Tend towards maintaining or organizing that which they embody. 
+Forest artisans often result in forests arranged in oddly specific patterns. Stone artisans arrange standing stones or cairns. 
 
 ## Dynamic Elementals
 
-Elementals that embody a physical process. Fairly intelligent, and
-naturally act towards propagating/instigating the process they embody.
-Usually fairly dangerous. Examples include fire, rust, decay, weather,
-pollination, avalanches, pestilence, tides, rivers, etc. (River
-elementals are most often dynamic, while lake elementals are usally
-static, although this is not set in stone).
-Dynamic elementals also make fairly good familiars, as they tend to be
-quite powerful and are rather more intelligent than conventional
-elementals.
+Elementals that embody a physical process. Fairly intelligent, and naturally act towards propagating/instigating the process they embody.
+Usually fairly dangerous. Examples include fire, rust, decay, weather, pollination, avalanches, pestilence, tides, rivers, etc. (River elementals are most often dynamic, while lake elementals are usally static, although this is not set in stone).
+Dynamic elementals also make fairly good familiars, as they tend to be quite powerful and are rather more intelligent than conventional elementals.
 
 ### Tenders
 
@@ -75,27 +68,34 @@ Stationary dynamic processes. River elementals
 ### Storms
 
 Uncontrolled dynamic elementals. Usually burn out fairly quickly. Avalanches, pestilence, forest fires, etc. 
-Furies
 
-## Hybrid undead/elementals.
+## [Furies](./furies)
+
+Furies (Spirit Elementals) are formed when a spirit fuses with an elemental. Most commonly occurs when a dynamic elemental kills something. 
+The spirit component means that furies are generally more inteligent and more hostile than regular elementals. 
+Furies can also be created artifically by a mage from a spirit and an elemental.
+
+### Revenant Furies
+
+A rare type of fury formed from a dying Ael (or Dragon). 
+While classed as a fury, they can also be considered a Greater Elemental, as they have the same mind they did in life. 
+However, they do tend to be quite hostile due to the nature of their creation, and often aren't quite sane.
 
 ## Concept Elementals
 
-Concept elementals are magically more similar to spirits than other
-elementals. They embody ideas, beliefs or feelengs rather than physical
-places or processes.
+Concept elementals are magically more similar to spirits than other elementals. 
+They embody ideas, beliefs or feelengs rather than physical places or processes.
+Concept elementals are relatively rare.
 
-## Daemons and Cambions
+### Daemons and Cambions
 
-Emotional elementals (daemons) are created in places of intense
-emotion. They usually take the form of an intangible humanoid spirit,
-as most emotions are generated by humans. They cause proliferation of
-the emotion they embody. Emotional elementals can and do posses
-humans. This is known as a [Cambion](./cambions). Cambions, in addition to their
-emotional aura and any natural abilities of their body, they have
-enhanced physical and psychic abilities. They also use illusion
-abilites to alter their appearance. Powerfull Cambions are immune to
-aging. 
+Emotional elementals (daemons) are created in places of intense emotion. They usually take the form of an intangible humanoid spirit,
+as most emotions are generated by humans. They cause proliferation of the emotion they embody. 
+
+Emotional elementals can and do posses humans. This is known as a [Cambion](./cambions). Cambions, in addition to their
+emotional aura and any natural abilities of their body, they have enhanced physical and psychic abilities. They also use illusion
+abilites to alter their appearance. Powerfull Cambions are immune to aging.
+
 Emotional elementals are fairly rare, and most often manifest as cambions.
 
   * Nightmares - Fear daemons. Unlike most daemons, often do not appear in a humanoid form.
@@ -105,67 +105,45 @@ Emotional elementals are fairly rare, and most often manifest as cambions.
 
 While less common, daemons of positive emotions do exist (eg. Love - Deva?).
 
-Note: Daemons are sometimes summoned by cults in a bid for easy power.
-This usually doesn't end well for the cult, but usually results in a
-cambion. This ritual does not require a lot of power, just a
-lot of emotionally charged followers.
+Note: Daemons are sometimes manifested or summoned by cults in a bid for easy power. This usually doesn't end well for the cult, but often results in a
+cambion. This ritual does not require a lot of magical power, just a lot of emotionally charged followers.
 
-Weaker cambions are usually temporary, and may manifest as
-psychological disorders. Stronger cambions tend to be a force to be
-reckoned with, and may persist for several centuries.
+Weaker cambions are usually temporary, and may manifest as psychological disorders. Stronger cambions tend to be a force to be reckoned with, and may persist for several centuries.
 
-## [Furies](./furies)
+### Archetypes
 
-Furies (Spirit Elementals) are formed when a spirit fuses with an
-elemental. Most commonly occurs when a dynamic elemental kills
-something. The spirit component means that furies are generally more
-inteligent and more hostile than regular elementals. Furies can also be
-created artifically by a mage from a spirit and an elemental.
-
-## Heroes
-
-"Heroes" - Heroic figures idolized in folktale and legend, that take on
-a physical form. Tend to be idealized humans, and usually form after
-the death of the person who inspiried them, although may form before,
-in which case they merge with that person.
-
-## Gods
-
-"Gods" - Similar to "Heroes". Many ascended tend to meld with god elementals. Draw power from belief.
+Archetypes are elementals which originate from mass beleif in some entity.
+They include:
+- "Heroes" - Heroic figures idolized in folktale and legend, that take on a physical form. Tend to be idealized humans, and usually form after
+the death of the person who inspiried them, although may form before, in which case they merge with that person.
+- "Deities" - Similar to "Heroes". Many ascended tend to meld with deity elementals. Draw power from belief.
 
 # High Elementals
 
 High elementals include any elementals that can be considered sapient.
-These include Gyldraed, Vylderythe, and Greater Elementals.
+These include Gyldraed, Vylderythe, and Ancients.
 
 ## Ancients
 
-Greater elementals are essentially conventional elementals that are
-intelligent and have massive and powerful forms, such as mountains,
-hurricanes, or ocean currents. They are rare, and generally lie dormant
-for centuries at a time.
+Conventional elementals which embody massive and powerful forms, such as mountains,
+hurricanes, or ocean currents tend to manifest an alien intelligence after a few millenia of existence. 
+Such elementals can be classed as high elementals, and are commonly referred to as "Greater Elementals", "Elder Elementals", "Ancients", or similar.
+They are rare, and generally lie dormant for centuries at a time.
 
 ## Gyldraed
 
-Gyldraed, sometimes called Anima, are manifestations of a distinctive and enduring location such
-as an ancient forest grove, mountain peak, spring, lake, valley,
-crystal cavern, etc. When interacting with people, they will manifest an avatar, taking the shape of a humanoid or animal
-crafted from the material of their domain. The actual form of a
-Gyldraed technically includes their entire domain; as such it is
-impossible to separate or even distinguish between a Gyldraed from its
-domain. Consequently, they are able to sense anything within their
-domain, manifest anywhere within it and exert some measure of control
-over it. Their life force is directly linked to the well being of their
-domain; if a Gyldraed's domain is destroyed or desecrated, they will
-weaken and die. Gyldraeds act as guardians and caretakers of their
-domain and its residents.
+Gyldraed, sometimes called Anima, are manifestations of a distinctive and enduring location such as an ancient forest grove, mountain peak, spring, lake, valley,
+crystal cavern, etc. When interacting with people, they will manifest an avatar, taking the shape of a humanoid or animal constructed from the material of their domain. The actual form of a
+Gyldraed technically includes their entire domain; as such it is impossible to separate or even distinguish between a Gyldraed from its
+domain. Consequently, they are able to sense anything within their domain, manifest anywhere within it and exert some measure of control
+over it. Their life force is directly linked to the well being of their domain; if a Gyldraed's domain is destroyed or desecrated, they will
+weaken and die. Gyldraeds act as guardians and caretakers of their domain and its residents.
 
 ### City Gyldraeds
 
 Especially old Ael settlements may sometimes manifest a Gyldraed. This happens very rarely, with less than a dozen known city Gyldraeds.
 They are eccentric and mercurial, even by the standards of other elementals. They are also highly varied in their demeanour and habits. Some are personable, and regularly interact with their inhabitants. 
 Others are more secretive, and do not interact directly, but may secretly guide or guard certain individuals who live in their domain.
-
 
 ### Severed
 
@@ -177,13 +155,7 @@ Like Gyldraed, they can manifest a humanoid avatar to interact with people, thou
 
 ## Vyldarche
 
-Vyldarche are smaller elementals of humanlike size and intelligence.
-They are primarily wanderers that constantly seek out new places and
+Vyldarche are smaller elementals of humanlike size and intelligence. They are primarily wanderers that constantly seek out new places and
 experiences. They have a wide range of appearances, typically mimicking the general shape of some living thing, be it Ael or beast.
 Vyldarche are very rare, though they seem to be immortal. No one knows how they come into being.
 Of all elementals, Vyldarche are the only ones that have regular interactions with other sapient peoples.
-
-## Revenant Furies
-
-A rare type of fury formed from a dying Ael (or Dragon). While sapient, they tend to be quite hostile due to the nature of their creation.
-

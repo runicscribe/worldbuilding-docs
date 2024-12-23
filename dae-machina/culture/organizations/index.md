@@ -86,10 +86,10 @@ Smaller states whose main level of government is at the city/settlement level.
 ### Northern Dhaigean Clans
 Ael'midh tribes on the Dhaigean Isles, led by clan chiefs and/or shamans.
 
-### Futhern Dhal (Mountain Strongholds)
+### [Futhern Dal](./futhern_dal)
 Ael'midh strongholds/city-states that are lead by a hereditary monarchy.
 
-### Drakkar Clans
+### [Drakkar Clans](./drakkar)
 Coastal Ael'midh clans led by warlords or clan elders
 
 ### [Daal'fae Caravans](./daalfae_caravans)
@@ -267,7 +267,7 @@ The eldar council is an organization of very powerful beings primarly concerned 
 The eldar council meets irregularily, usually only when one member deems it necessary. It is rare that all members of the council attend any one meeting, although there are many members who attend every meting. 
 The council most often meets in the top floor of the Mediterranean capitol council chambers. The council has frequent dealings with the Order of Sion, and commands an ellite company of the Mediterranean army, 
 recruited primarily from the Academy of Magical and Martial Arts. Members of the Eldar council qualify as anyone who knows about the council and has an open invitation to attend council meetings. 
-Most ancient Ael’dar are members. Varios councile members are in positions of power among the nations of the world.
+Most ancient Ael’dar are members. Various council members are in positions of power among the nations of the world.
 
 **Known Members**
 Dragon Scholar

@@ -268,6 +268,7 @@ Born 1900 BC. Granddaughter of Ironfire.
 Very adventurous in her youth. Still has a mischevious streak.
 Quite friendly with the humans of Dragonhalls
 
+Considers Dragonhalls her home, and shares a lair there with her parents
 
 **Affiliations:** 
 Dragonhalls, Ironfire Citadel

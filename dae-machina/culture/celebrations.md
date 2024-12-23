@@ -101,7 +101,7 @@ Quon Xi cellebrates the renewal of the year for the two weeks following the grea
 
 ### Great Games of the Dhaigean Isles
 
-Held every X years on ___, in the ancient crater of a darkstone meteorite.
+Held every 7 years on ___, in the ancient crater of a darkstone meteorite.
 
 Feats of athleticism and strength - races, wrestling, stonetoss, pole climb
 Competitors are traditionally nude?

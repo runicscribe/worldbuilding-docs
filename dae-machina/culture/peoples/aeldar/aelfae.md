@@ -220,11 +220,13 @@ This is usually supplemented by poor, barked imitations of a small number of spo
 
 These different lifestyles lead to a rather wide distribution of Canid 'fae.
 About a third keep to a traditional lifestyle, and are mostly found in central Eaos. This includes larger groups like the Eastern Valley circuit.
-Two-fiths live among the non-shapeshifter Ael, mostly among the free cities, but also among the Riftlanders, Eaos republic, and the western regions of Kita Lau. 
+Two-fiths live among the non-shapeshifter Ael, mostly among the free cities, but also among the Riftlanders, Eaos republic, and the eastern regions of Kita Lau. 
 This includes the semi-traditional family bands which make their living among the Ael.
 The remainder live among other Daal'fae caravans not comprised primarly of canid 'fae, and among the shapeshifter commune.
 
-Canid 'fae which keep to a traditionalist lifestyle wear lightweight clothing of leather and hide, occasionally with a fur trim. They typically have piercins, and sometimes adorn themselves with bodypaint.
+In general, wild dog 'fae are more common in southeast Eaos, while red wolf 'fae are more common in southwest Eaos and eastern Kita Lau.
+
+Canid 'fae which keep to a traditionalist lifestyle wear lightweight clothing of leather and hide, occasionally with a fur trim. They often have piercings, and sometimes adorn themselves with bodypaint.
 They also carry leather sachels or backpacks with bone fittings. They may carry flint or obsidian knives, but usually do not carry larger tools or weapons, which are bulky enough to make overland travel difficult.
 They may construct temporary tools when the situation demands, such as fishing rods, spears, snare traps, and basic shelters.
 
@@ -286,15 +288,13 @@ A handful of clans can also be found across the Dragon’s Teeth archepelago, as
 
 ## Jungle Tribes (Xhal'fae)
 
-Originating from the Æl'xhal, inhabit the jungle in the northwestern reaches of Xuon and the Kita Lau isles. 
-Comprised of various feline tribes (jaguars, leopards, tigers). Most Xhal'fae take on a humanoid
-form, but with notable animal features. They are still competent shapeshifters, but tend to use this ability to optimize their shape to
+Originating from the Æl'xhal, the Xhal'fae inhabit the jungle in the northwestern reaches of Xuon and the Kita Lau isles. 
+They are comprised of various feline tribes (jaguars, leopards, tigers). Most Xhal'fae take on a humanoid form, but with notable animal features. They are still competent shapeshifters, but tend to use this ability to optimize their shape to
 the current situation rather than taking on a purely human or animal form.
 
-Xhal'fae are the newest, and most animalistic of all the fae lineages. They care little for modesty regardless of what shape they are in,
-and will hunt, kill, and eat just about anything that is not 'fae. Most Xhal'fae do not wear clothing, use tools, or build structures. 
-Xhal'fae 'clans' consist of a loosely organized group of individuals. Clan members tend to have their own dwelling, be it a cave, crevice, treetop nest, rudimentary hut or lean-to, or portion of ruins. 
-In case of outside threats, the group will usually elect a warleader (generally through physical competition) but otherwise clans have no specific leader. 
+Xhal'fae are the newest, and most animalistic of all the fae lineages. They care little for modesty regardless of what shape they are in, and will hunt, kill, and eat just about anything that is not 'fae. 
+Most Xhal'fae do not wear clothing, use tools, or build structures.  Xhal'fae 'clans' consist of a loosely organized group of individuals. Clan members tend to have their own dwelling, 
+be it a cave, crevice, treetop nest, rudimentary hut or lean-to, or portion of ruins. In case of outside threats, the group will usually elect a warleader (generally through physical competition) but otherwise clans have no specific leader. 
 
 Xhal'fae are frequently polygamous and rather prolific. Romantic relationships usually consist of heterosexual pairs, but may consist of larger groups as well. 
 Relationships generally don't last longer than a few months to a year, and may or may not result in a child, although longer relationships are not unheard of. 
@@ -302,7 +302,7 @@ As with most natural cat species, mothers usually raise their children alone (in
 
 All Xhal'fae are competent hunters. Some have other specialized skills, including herbalists, craftspeople, and shamans. Unlike most other fae clans, Xhal'fae tribes often include members representing a variety of feline species. 
 There are some slightly more 'civilized' tribes of Xhal'fae on the northeastern outskirts of the Xuon jungle. These 'fae often craft and wear jewelry made of gold, bronze, and various semiprecious stones, and live
-in modified ruins. Aditionally, there are the Xencha Defiant in southern Xuon and southeastern Kita Lau, comprised of a mix of Xhal'fae and Ael'xhal.
+in modified ruins. Aditionally, there are the Xencha Defiant in southern Xuon and southeastern Kita Lau, comprised of a mix of Xhal'fae and Ael'xhal, and the Shapeshifter Commune in western Eaos, which has a substantial Xhal'fae population alongside other 'fae lineages.
 
 Most Xhal'fae 'cities' are built in leftover Xeres or Uon ruins, and many Xhal'fae groups simply live in the wilderness.
 Some Xhal have also formed alliances with certain Xhal'fae clans, providing periodic sacrifices in exchange for being otherwise undisturbed by the Xhal'fae.
@@ -312,18 +312,25 @@ Xhal'fae tribes tend to be about two-thirds natural shapeshifters and two-fifths
 A small number of Snow-leopard and tiger Xhal'fae can be found in the mountanous areas of Quon Xi. While they still keep to a fairly austere lifestyle, they tend to retain more of the trappings of civilization - 
 clothes, architecture, tools, etc. - than the 'fae of Kita Lau.
 
-During the Uon wars, most Xhal'fae got very good at masking their presence from magic, and as a consequence, many modern Xhal'fae naturally have some form of magic resistance or evasion.
+During the collapse of the Xeres Empire, and subsequent war between the Ael and the Uon, most Xhal'fae got very good at masking their presence from magic, and as a consequence, many modern Xhal'fae naturally have some form of magic resistance or evasion.
 
 ### Xhao'fae
 
-Xhao'fae are an ancient offshoot of the Xhal'fae who mimic hexapede lizards, found across Kita Lau, and occasionally along the west cost of Quon Xi. 
-They normally appear as 4 to 4 1/2 foot tall humanoid reptilians with four arms, a long tail, and a line of feathers running down their spine.
+The Xhao'fae are a group of shapeshifters that mimic the form of the hexapede lizards found across Kita Lau the east cost of Quon Xi.
+
+While the reptillian Xhao'fae and feline Xhal'fae are both shapeshifter tribes originating from the Ael'xhal, they came about independantly, with the Xhao'fae originating in Kita Lau around the end of the Dragon War, 
+and the Xhal'fae originating in Xuon under the declining Xeres Empire. 
+
+Xhao'fae normally appear as 4 to 4 1/2 foot tall humanoid reptilians with four arms, a long tail, and a line of spines or feathers running down their spine.
 Despite being much shorter than most humans, the extra limbs and tail mean they weigh about the same. Unlike most 'fae, Xhao'fae have no inherent shapeshifting ability. 
 The only remanants of their fae ancestry are the ability to form and dismiss webbing between their digits for swimming, and membranes between their limbs for gliding.
-Additionally, magic-users among them retain a natural affinity for shapeshifting, so Xhao'fae shamans and mages often learn how to shapeshift.
-Xhao'fae civilization is most similar to that of the Ael'xhal, although they have a tendancy to build higher up in the trees. 
+Additionally, magic-users among them retain a natural affinity for shapeshifting, so Xhao'fae shamans and mages often learn how to shapeshift fully.
+Xhao'fae civilization is most similar to that of the Ael'xhal, although they have a tendancy to build their dwellings in the trees. 
 
 Despite their reptillian form, Xhao'fae are still fertile with other Aeldar, though less so than with other Xhao'fae. Children of such pairings most often look like their mother.
+
+Xhao'fae are still primarly found in central Kita Lau. The Ael-supremacist nature of the Quon Xi empire means they are basically unheard of on that continent, except in the western regions, where the empire holds little sway.
+Some Xhao'fae can occasionally be found around the edges of the riftscape, and in the Free Cities of Eaos.
 
 ## Merfae
 Serpentfish shapeshifters most often found around Kita Lau, and in the southern Eaos isles.
@@ -406,7 +413,12 @@ In this form, they can fly like a bird, though their wings are used primarily fo
 The Thal'fae have close relations with the small number of 'jinn that live on Quon Xi.
 They primarily live among the stony spires in southern Quon Xi.
 
-Many Thal'fae live among the Quon Xi as well, especially in the cities to the west, outside the Empire.
+Many Thal'fae live among the Ael'thal as well, especially in the cities to the west, outside the Empire.
+
+A small number can also be found on Kita Lau, mainly among the people of Dragonhalls, and occasionaly among the Thao'fae.
+
+
+The Thal'fae have a unique reverence of Dragons, considering them the apex of flight, and masters of the air.
 
 ### Deep Fae
 

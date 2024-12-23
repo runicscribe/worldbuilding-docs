@@ -55,7 +55,7 @@ The Futhern term for these artifacts is "Burgfræ"
 
 #### Múrthell Cityseed
 
-The first cityseed. It was created in the city of Múrthelberg, which was used as a template.
+The first cityseed. It was created around 3,300 BC in the city of Múrthelberg, which was used as a template.
 A bit flawed - cave systems and other voids in the host mountains can result in instability in some city sections during the shaping process.
 While it has been used several times, only two of the resultant cities are currently inhabited. It has not been used in several centuries, and is currely part of the <> treasury.
 
@@ -68,7 +68,7 @@ City layout has lots of open space, with room for additonal construction after t
 In this way, the various cities shaped by this seed are often somewhat different, despite having the same base layout.
 It does also mean that one or more years of additional construction time after the shaping process is complete.
 
-The cityseed itself was constructed concurrently with its template city, Försnið Citadel
+The cityseed itself was constructed concurrently with its template city, Försnið Citadel, in 2,800 BC. It took more than 100 years to perfect.
 
 Technically consists of two seperate artifacts - a surveying tool used to help position the seed before starting the shaping process, and the seed itself.
 
@@ -80,7 +80,7 @@ Generally transported in a large wagon. This full assembly is also known as the 
 
 #### Hollowheart Seed
 
-The most recently created cityseed. Unlike the other cityseeds, both 'jinn and 'midh were involved in its creation.
+The newest cityseed, created in 1,500 BC . Unlike the other cityseeds, both 'jinn and 'midh were involved in its creation.
 As a consequence, it has some unique properties:
 - It must be placed in the heart of a crystal vein in order to start the shaping process, which will be used to form the heart of the city - A pillar of quartz crystal with an illumination enchantment that mimicts the day-night cycle.
 - Inscribes a variety of enchantments into the city as part of its creation process, notably the light pillar. The only enchantments created by the other cityseeds are for reinforcement.

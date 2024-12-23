@@ -1,7 +1,7 @@
 # Religions
 
 There are a vast array of religions in Dael.
-Some of these venerate beings who exist, others focus on mythological figures or unknowable gods.
+Some of these venerate [beings who exist](../individuals/deified_individuals), others focus on mythological figures or unknowable gods.
 
 The largest religions are:
  - The Church of Daelios
@@ -193,6 +193,14 @@ Many Xhao'fae, some coastal mer'fae, and some Ael'Xhal, including a moderate fol
 
 Merfae variant of the five truths, most common among deep ocean merfae and in the Sach'ean Diarchy
 Only recognizes the sea-god Vache as their prime god and the shadow-god Setch, as the adversary.
+
+#### Trinity of the Isles
+
+Small offshoot of the five truths practiced by some Ael'xhal in the Shards of Xuon
+
+- Sea - Death, darkness, storms. Blend of Vushu and Sezetch
+- Sky - Weather, rain, life, light.
+- Earth - Stability, sustenance. Blend of Ulua and Fengrax
 
 ### Followers of Leviathan
 

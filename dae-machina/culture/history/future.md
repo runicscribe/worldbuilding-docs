@@ -83,6 +83,15 @@ In parallel, relations between 'jinn's rift expeditionary force and riftlanders.
 'jinn efforts to remediate great desert _very_ slowly made travel easier.
 Established 'jinn city at northern edge of desert that became second primary contact point.
 
+### Stabilization of the Shards of Xuon
+
+Xeres Reborn burn themselves out by about 150 AC, through a combination of infighting, unsustainability of their raiding, and intervention by Dragonhalls.
+Ael population mostly retreats to just the largers shard of Xuon (and Kita Lau), consisting of various clans originating from the Xochitlalia, Alutchan Holdouts, Xencha Defiant, and repetant Xeres.
+
+Heirs of the Uon remain in the middle regions of the riftscape. Splinter group forms incorporating many rifttouched Xhalfae
+
+Wild Xhal'fae become the primary inhabitants of the remainder of the riftscape. Rifttouched are much more common.
+
 
 
 ### Quon Xi Space Program
