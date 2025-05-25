@@ -4,7 +4,7 @@ The unique cosmology of this world leads to an equally unique calender.
 
 Each day is 24 hours long.
 At the equator, dawn is at 06:00 and dusk is at 18:00. This remains the case the further north or south you travel, but the sun does not reach as high in the sky. 
-The poles are in a constant state of dusk, with the sun and other greater spheres constantly drifting near the horizon
+The poles are in a constant state of dusk, with the sun and other greater spheres always drifting near the horizon
 Each week (i.e. "hekad") is 6 days long. This is the same as the orbital period of the
 Sun and the Darksun.
 
@@ -36,8 +36,6 @@ coincides with a full alignment of the three moons.
 
 
 ## Example Dates
-
-
 
 Helisday, the first of Divergence, AC 57
 

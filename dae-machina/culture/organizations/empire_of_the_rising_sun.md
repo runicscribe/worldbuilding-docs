@@ -46,6 +46,22 @@ Secret Secret History, though supplemental to the red archive rather than a full
 Second layer of spymasters "who watch the watchers"
 Knowledge of the forbidden city and the Emperor's true nature.
 
+## Notable Cities and Settlements
+
+
+
+### Sieji's Embrace
+
+Ancient farming village(at this point more of a large, very agrarian, town) containd entirely within the domain of a Gyldraed, given the name Sieji (/ziːji/) by the locals. Whether the village or the dryad came first has been lost to time.
+
+Millenia of harmony has given the dryad some ecentricities; in particular it tends to manifest many avatars simultaneously, and mimic the actions of the locals.
+This can be rather disconcerting to outsiders, but makes the lives of the residents easier.
+
+The town has built up a mythology around the dryad, and the center hosts a statue personifying the dryad, in the shape of a female Ael'thal.
+The dryad sometimes animates this statue to speak to the townsfolk.
+
+
+
 
 ## History
 

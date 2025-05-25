@@ -138,6 +138,11 @@ Siege spells - actually requires casters, but can be adapted for the situation.
 
 ### Espionage
 
+Magical Scrying & wards to prevent it.
+Shapeshifting for infiltration
+Mind-magic, both to avoid detection and extract secrets.
+
+
 ## Currency
  
 The cultures of Dae'machina use a wide variety of currencies.
@@ -281,5 +286,9 @@ Nature of the outer regions of the system is less well understood. Some (falsely
 
 ### The Nature of Magic
 
-No one has it quite right, although many have a reasonably close understanding.
-Eaos is to preocupied with divisions between the 9 schools at expense of more mundane magics, 'jinn are too focused on elements, EotRS thinks everything can be perfecly ordered, and gives too much weight to celestial bodies.
+No one has it quite right, although many have a reasonably close understanding. The major magical academies & researches among the Ael'jinn, Elyos Republic, and Empire of the Rising sun are the closest, but each have a few blind-spots.
+ - Eaos is too preocupied with divisions between the 9 schools at expense of more mundane magics, 
+ - 'jinn are too focused on elements, 
+ - EotRS thinks everything can be perfecly ordered, and gives too much weight to celestial bodies.
+ 
+Dragons are good enough at brute-forcing most magical workings that few of them take the time to learn its more intricate nuances, and the handful that do tend to specialize.

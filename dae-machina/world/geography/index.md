@@ -169,3 +169,6 @@ Sometomes considered part of the Great Southern ocean.
 ## Western Sea
 
 Before the cataclysm, the area between the east coast of Xuon and the west coast of Eaos was called the Western Sea (by the Eaosians) or the Eastern Sea (by the Ael'Xhal)
+
+## Cradle Sea
+The area of water near the Ruins of Aelmos is known as the cradle sea.

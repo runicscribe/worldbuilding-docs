@@ -67,7 +67,11 @@ Some hidden enclaves inhabiting the ruins of the Empire's once-great cities stil
 
 ## Aelmos Empire
 
-Collapsed during the Lich wars, and later destroyed by the ongoing conflict.
+Centered in what is now the great Eos desert. It collapsed during the Lich wars, and later destroyed by the ongoing conflict.
+
+The desert now hosts numerous ruins - mostly tombs or mausoloeams. Obelisks and large statues are common. 
+Step pyramids are rare but present. Tombs usually have undead guardians (zombies + a sleep/wake spell. 
+Many tombs in the southwest feature ornate animal death masks. Some tombs house liches.
 
 ## Kingdom of Al-Enjat
 

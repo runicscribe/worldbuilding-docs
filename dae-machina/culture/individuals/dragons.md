@@ -97,7 +97,7 @@ Lives in a cave system under the flooded caldera of a dormant volcano.
 
 **Affiliations:** 
 
-
+Xeres Empire (Formerly)
 
 ----------------
 
@@ -236,7 +236,7 @@ Dragonhalls
 
 ----------------
 
-**Name:**
+**Name:** __ Silverscale
 
 **Demographics:** Female Plated Dragon
 
@@ -300,7 +300,7 @@ Dragonhalls
 ----------------
 
 
-**Name:** 
+**Name:** (The Twins)
 
 **Demographics:** Female Western Dragon(s)
 
@@ -321,7 +321,7 @@ Dragonhalls
 
 ----------------
 
-**Name:** Rahkaya Goldscorn 
+**Name:** Rahkaya Goldscorn
 
 **Demographics:** F Western Dragon
 
@@ -336,7 +336,7 @@ Dragonhalls, Xeres Empire (former, estranged)
 
 ----------------
 
-**Name:**
+**Name:**  Onshu Snowspine
 
 **Demographics:** M Western Dragon
 
@@ -353,7 +353,7 @@ Dragonhalls, Xeres Empire (formerly)
 
 ----------------
 
-**Name:**
+**Name:** Zayeh
 
 **Demographics:** M Plains Dragon
 
@@ -368,7 +368,7 @@ Dragonhalls
 
 ----------------
 
-**Name:**
+**Name:** Jiryu Skyfisher
 
 **Demographics:** F Western Dragon
 
@@ -376,7 +376,7 @@ Dragonhalls
 Born 2100 BC
 
 Originally from the South Xuon isles. Joined Dragonhalls in 0AC, after her home was ravaged by the Uon cataclysm.
-Recently engaged in a partnership with Xeres' daughter. Somewhat reclusive, and mostly avoids the human population of Dragonhalls. 
+Recently engaged in a partnership with Rahkaya Goldscorn. Somewhat reclusive, and mostly avoids the human population of Dragonhalls. 
 
 **Affiliations:** 
 Dragonhalls

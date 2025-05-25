@@ -9,11 +9,11 @@ All are still subjects of New Aelmos and the founding families.
 
 ## New Aelmos
 
-Jinn Capitol.
-Founded when the jinn first went east, and has remained inhabited since. Named after the capitol of the 1st Era Daal Civilization, lomg since destroyed and lost to the desert.
-Home of the four founding families, and seat of the 'jinn government as a whole.
+New Aelmos is the capitol of the Ael'jin principalities. It is located on the southern coast of the eastmost region of Eaos, almost directly north of the Sachean Isles 
+New Aelmos was founded when the jinn first went east, and has remained inhabited since. Named after the capitol of the 1st Era Daal Civilization, lomg since destroyed and lost to the desert.
+It is the home of the four founding families of the 'jinn people, and seat of the Principalities government.
 
-Massive. Hosts about 60% of the worldwide jinn population. Largest city on Eos-Mhidda, and one of the three largest cities in the world.
+The city is enormous, and houses about 60% of the worldwide jinn population. It is the largest city on Eos-Mhidda, and one of the three largest cities in the world.
 The city is surrounded by many acres of farmland, tended by magical constructs.
 
 ### Palace of the Kings
@@ -28,37 +28,39 @@ Open-air market surrounding broad boulevard running from Palace of Kings to main
 
 ## The Crystal Dunes
 
-Glassed-over section of Eaos Desert
+Glassed-over section of Eaos Desert, about 1500km west of New Aelmos
 
 Mainly fire jinn, but a mix of more exotic types, most notably the largest community of sand jinn.
 
 ## Sea's Bounty
-Underwater, built in and atop a massive coral reef.
+Underwater, built in and atop a massive coral reef. Southeast of New Aelmos and northeast of the Sachean Isles.
 
 Almost solely water jinn, alongside a moderate population of Sache merfae (and a small handful of Abyssals)
 
 ## Cinder's Peak
-Peak of a very tall, very active volcano.
+Peak of a very tall, very active volcano about 1600km northwest of New Aelmost.
 
 Mainly air and fire jinn, with a moderate number of earth jinn and a handfull of more exotic bloodlines.
 
+## City in the Clouds
+
+Inverted mountain levitating above the clouds. North of New Aelmos, near the northen coast of eastern Eaos.
+Mainly air 'jinn, some others. No earth 'jinn.
 
 ## Mountain's Heart
 
 Underground volcanic region. Rich in crystals.
+Located between New Aelmos, Cinder's Peak, and the City in the Clouds, though closest to the City in the Clouds.
 
 Mainly fire and earth jinn
 
 ## Earthblood Rift
 
-Underwater, but adjacent to subduction zone.
+Underwater, but adjacent to subduction zone. Far to the east of the City in the Clouds.
 Mix of water, earth, and fire jinn, with a moderate number of other types.
 Also hosts a small number of merfae.
 
-## City in the Clouds
 
-Inverted mountain levitating above the clouds
-Mainly air 'jinn, some others. No earth 'jinn.
 
 
 More recently, taken on the pseudonym of "The False Rift-shard", due to its similarity with the floating islands of the riftscape

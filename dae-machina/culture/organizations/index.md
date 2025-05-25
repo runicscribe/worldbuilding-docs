@@ -129,6 +129,32 @@ Built underground, under the dragonspine mountains. Originally a single city, bu
 
 Primary exports are gems, metals, and magically shaped tools and art. Import a significant proportion of their food from the Elyos Republic.
 
+### Dragonspire Citadel
+Dragonspire Citadel is an ancient walled citadel built at the base of the lair of the dragon Ironfire, on the edge of the Dragonspine mountans, about halfway between the AoMMA and the southern Midh territories.
+It is home to a thirveing community of miners, and supported by a number of nearby farms. In exchange for a tithe of their herds and mines, Ironfire lends his flame and magic to the forges of the citadel, '
+allowing it to produce the best steel in the region.
+
+#### History
+
+Prior to the Dragon War, the dragon Ironfire had cultivated a cordial (though not particularly close) relation with the surrounding Ael. When the War broke out, Ironfire (then a relatively young dragon of 1,150 years) 
+gathered a large population of Ael into his lair to protect them, and spent much of the Dragon war guarding and defending various Aeldar. After the war, the surviving Ael began building a citadel around Ironfire's lair.
+
+For a while, this was an entirely self-sufficient settlement, which gradually grew into a small country. Eventually, it established trade with the Futhern Dal (and other 'midh groups, during times of relative stability in the midh lowlands) to the north, 
+facilitated in part by Daal'fae caravans, especially the predecessors to the Northern Foothills caravan.
+
+After the Ael'daal migrate north in the wake of the lich wars and build the free cities, they eventually encounter Dragonspire as well. Some initial skirmishes, but fairly quickly establish dimplomatic relations and trade.
+Dragonspire remains an independant country, and significant power in the region. After the Uon war reaches  Eaos, Dragonspire joins the Elyos coalition.
+
+It eventually becomes part of the Elyos republic as a semi-independant territory.
+
+
+This history has resulted in a few unique consequences. Due to Ironfire's continued prodection, Dragonspire citadel is the oldest continually inhabited city in Eaos-Mhidda, as most else that size got destroyed
+during the Dragon war and wasn't properly rebuilt until several hundred years layer. The only other exceptions to this got destroyed during the Lich Wars. The people living there form a unique ethnic group, not quite 'midh or 'daal.
+
+
+
+Of all the Aeldar communities in northern Eaos, Dragonspire has the most cordial relation with the local 'fae. as they jave built up a relation over thousands of years.
+
 ### [Shapeshifter Commune](./shapeshifter_commune)
 
 Built on ruins of an old Aeldar city (Elysium), fairly deep into a swampy jungle.
@@ -263,14 +289,21 @@ Most accessible source of high-level biomagic in Eaos
 
 ### Eldar Council
 
-The eldar council is an organization of very powerful beings primarly concerned with preventing magical disasters or cataclysms (such as the riftscape/Uon cataclysm).
-The eldar council meets irregularily, usually only when one member deems it necessary. It is rare that all members of the council attend any one meeting, although there are many members who attend every meting. 
-The council most often meets in the top floor of the Mediterranean capitol council chambers. The council has frequent dealings with the Order of Sion, and commands an ellite company of the Mediterranean army, 
-recruited primarily from the Academy of Magical and Martial Arts. Members of the Eldar council qualify as anyone who knows about the council and has an open invitation to attend council meetings. 
-Most ancient Ael’dar are members. Various council members are in positions of power among the nations of the world.
+The eldar council is an informal organization of very powerful beings primarly concerned with preventing magical disasters or cataclysms. It was formed in the wake of the Uon cataclysm, though preceedent groups have existed since before the Lich wars.
+The main unique aspect of this iteration is that it is the first group to include individuals from across the whole world. It incorporates many of the surviving membors of prior groups that had a smilar purpose.
+
+Broadly, anyone who knows about the council and has secured an invite to a council meeting qualifies as a member. Many ancient Ael’dar are members. Various council members are in positions of power among the nations of the world.
+The eldar council meets irregularily, usually only when one member deems it necessary. It is rare that all members of the council attend any one meeting, although there are many members who attend most meetings.  
+
+The council has a handful of common meeting locations. Most often, they meet in a secret chamber in Teythmos, above the Elyos Republic council chambers. They have also occasionally met in Dragonhalls, the Ael'jinn capitol of New Aelmos, and the Isle of the Ancients in southeastern Mhidda
+Most of these locations feature a teleportation circle to make getting there a little easier.
+
+The eldar council has frequent dealings with the Order of Sion. One member has full command of an elite company of the Elyos Republic army, recruited primarily from the Academy of Magical and Martial Arts, that is sometimes used to further the council's goal.
+Rahkaya Goldscorn of Dragonhalls sometimes uses her rentinue for similar purposes. 
 
 **Known Members**
 Dragon Scholar
+Rahkaya Goldscorn
 Æl’syi lich (Regular)
 Queen of Ravens (Regular)
 Academy of Magical & Martial Arts Archmage

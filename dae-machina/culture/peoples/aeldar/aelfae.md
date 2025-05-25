@@ -415,7 +415,7 @@ They primarily live among the stony spires in southern Quon Xi.
 
 Many Thal'fae live among the Ael'thal as well, especially in the cities to the west, outside the Empire.
 
-A small number can also be found on Kita Lau, mainly among the people of Dragonhalls, and occasionaly among the Thao'fae.
+A small number can also be found on Kita Lau, mainly among the people of Dragonhalls, and occasionaly among the Xhao'fae.
 
 
 The Thal'fae have a unique reverence of Dragons, considering them the apex of flight, and masters of the air.
@@ -437,9 +437,10 @@ Unlike the High 'jinn who regularly live among modern 'jinn, High 'fae rarely ta
 
 ## Fae Cities
 
-Vast majority of fae populaton exist in small to medium size tribes (between 10 and 60 individuals) spanning a single extended familly.
+The vast majority of the fae populaton exist in small to medium size tribes (between 10 and 60 individuals) spanning a single extended familly.
+The one exception to this is the Abyssal Merfae nation, and in particular the city of Chasmlight, which is one of the largest cities in the world.
 
-However, there are a few larger fae population centers.
+However, there are also a handful of large terrestrial fae population centers.
  - The shapeshifter comune in western Eaos is probably the largest of these, at several thousand individuals.
  - There is one very large selkie settlement of a little over a thousand individuals on the Mhidda coastline, which also hosts a couple of wolf-fae families.
  - Few more large selkie settlements of a few hundered individuals each, which probably qualify as small towns
@@ -449,6 +450,7 @@ an order of magnitude larger than what would otherwise be considered a large wol
  It is mainly unique in that its population comes from a wide variety of tribes.
  - Queen's Valley in Quon Xi hosts a large, mixed population of xhal'fae and thal'fae.
  - The Xhao'fae in Kita Lau have a couple of large towns (several hundered to a couple thousand individuals), which also host Ael'xhal and the occasional Xhal'fae.
+ - The Thal'fae share a couple remote cities with the Quon Xi 'jinn.
 
 While not actually cities, many of the Daal'fae caravans are as large or larger than the cities noted above 
-Additionally, the Free Cities hosts the largest population of fae permanantly living among primarly non-fae Ael.
+Additionally, the Free Cities and (to a lesser extent Dragonhalls) both host large populations of fae, living among the mostly non-fae Ael population.

@@ -37,13 +37,13 @@ Ancient. Resides in the Great library in the City of the Rising Sun.
 
 <h3 id="aeldaal">Æl'daal</h3>
 
-**Name:** Unknown <Artificer Mage>
+**Name:** Rúnil
 
 **Demographics:** Male Æl'daal
 
 **Description:** Pale Skin. Dark, straight hair short-cropped pointed beard.
-Born 34 AC. Son of a minor Free Cities noble. First cousing to the heir of Vindel, and 2nd cousin to Lord of Kenford. 
-Grew up in an estate near vindel. Later, became a student at AoMMA. Eventually established his own tower somewhere north of the Free Cities.
+Born 34 AC. Son of a minor Free Cities noble. First cousin to the heir of Vindel, and 2nd cousin to Lord of Kenford. 
+Grew up in an estate near Vindel. Later, became a student at AoMMA. Eventually established his own tower somewhere north of the Free Cities.
 Ultimately became a lich.
 
 **Affiliations:** Free Cities, AoMMA, Eldar Council (after ~500 AC)
@@ -353,6 +353,20 @@ Tala still spends much of her time in wolf form.
 
 
 **Affiliations:** 
+
+----------------
+
+**Name:** Sikhanakwa
+
+**Demographics:** (T)F Thal'fae
+
+**Description:** 
+
+Her wings have a corvid aspect.
+
+
+**Affiliations:** 
+Western Quon Xi
 
 ----------------
 

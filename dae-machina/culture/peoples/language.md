@@ -7,7 +7,7 @@ The various languages of Dael can be organized into eleven loose groups.
 - **Daelean**: Rooted in Old Aeldar, and includes most languages spoken by the Ael'daal, Ael'midh, and Eaosian 'jinn.
 - **Lauan**: The oldest of the three language families found across the Kita Lau isles
 - **Eaos-Fae**: Includes all Daal'fae and Midh'fae cants, along with spoken Leonin (although some scholars consider this the sole member of its own language family)
-- **Nortuk**: Comprises the languages spoken by the Dhagian 'midh and Northern 'thal
+- **Nortusk**: Comprises the languages spoken by the Dhagian 'midh and Northern 'thal
 - **Quontuk**: Includes the offical language of the Quon Xi empire, along with several other languages spoken across eastern Quon Xi and western Kita Lau
 - **Kaldean**: Includes a wide variety of languages spoken throughout western and southern Quon Xi.
 - **Draco-Xerec**: Originated with the Xeres empire, and now found in several different languages.
@@ -75,9 +75,13 @@ Given its fairly complex nature, very few non-fae are capable of speaking 'fae d
 The three types of xhal'fae (feline, xhao'fae, merfae) all have a single hybrid form, and as a consequence their languages have a more conventional vocal form than the Eaos-Fae languages.
 They have some overlap with Lauan and Draco-Xerec language families, but still comprise a distinct language family.
 
+#### Abyssal
+
+The language spoken by the Abyssal Merfae of Chasmlight is quite distinct from other Sache-Fae languages, and incorporates bioluminescent signaling a along with vocal componants
+
 #### Sache Sign
 
-This group also includes a sophisticated sign language used by many Merfae.
+The Sache-fae language group also includes a sophisticated sign language used by many Merfae.
 Feline Xhal'fae sometimes use a simpler version of this.
 
 ### Draco-Xerec Languages
@@ -92,12 +96,16 @@ Languages in this group are spoken by the Xeres Remnant, Xencha Defiant, Dragonh
 Lauan is the oldest of the three language families found across the Kita Lau isles.
 Modern speakers are mostly found among the central Kita-Lau isles
 
+### Nortusk
+Nortusk is an ancient language family originating from before the Dragon war. It shares some roots with Futhern, Quontuk, and, to a lesser extend, Kaldean, but is quite distinct from all three.
+Two major branches of this language family exist in the modern day - one spoken by the 'mihd tribes in the northwest region of the Dhagian Isles, and one spoken by the  nomadic people of northeast Quon Xi. Both branches have numberous dialects.
+
 ### Quontuk Languages
 
 Includes the official language of the Quon Xi Empire, spoken mainly in the Heartland regions, and several central valley languages.
 These languages all use a shared symbolic script.
 
-The nomadic people of northeast Quon Xi speak an archaic dialect of this language family, with some structural similarities to Futhern.
+
 
 ### Kaldean
 

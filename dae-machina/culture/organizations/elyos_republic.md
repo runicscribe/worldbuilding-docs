@@ -36,11 +36,14 @@ Mostly still run by local midh lords, but beholden to laws of the republic.
 
 ## Teythmos
 
-The capitol of the Elyos Republic is Tethmos.
+The capitol of the Elyos Republic is Tethmos. It is built on the edge of coastal cliffside.
 It is among the largest cities of the world, rivaled only by the Mountain of Dawn (capitol of the Empire of the Rising Sun), and New Babylon (Capitol of the 'jinn cities).
-It is the cultural center of the kingdom, and is home to various artisans and philosophers. It is also the center of the sea trade in he kingdom.
+It is the cultural center of the kingdom, and is home to various artisans and philosophers. It is also the center of the sea trade in the northern parts of the Republic, in part due to a sophisticated series of water locks that allow larger shipts to a large river that would be otherise innaccessable due to the cliffs.
 
 Also hosts the Eldar Council.
 
 Previously Eaosport, but was moved during Uon war.
 Ruins subsequently claimed and rebuilt by Free Cities
+
+## History
+

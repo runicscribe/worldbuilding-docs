@@ -2,37 +2,20 @@
 
 The Academy of Magical and Martial Arts is a prestigious academy governed by the Elyos military.
 
-It is one of the larges schools of magic on the western continent, and provides training in Magic, Combat, and Magic/Combat synergy. 
-It is not solely militaristic, and has a very well developed academic/research branch.
-Because it is run by the military, it is somewhat independant from the rest of Elyos. 
-As part of this arrangemt, the Elyos military will pay the complete tuition of a student in return for 10(?) years of military service.
+It is one of the larges schools of magic on the western continent, and provides training in Magic, Combat, and Magic/Combat synergy.
+It was founded during the Uon war as a elite military training academy. Since the cataclysm, it has drifted away from its military roots, and has become a well regarded academic and research institution in its own right.
+It is still funded by the Elyos Republic military, which gives it a degree of independance from the political landscape of Elyos. One major facet of the Academy's military ties is an arrangement where the Elyos military will 
+pay the complete tuition of any student in return for 10(?) years of military service.
 
 The Eldar Council also has a more subtle influence over the academy, as several of its members helped in its creation.
 
-It is located near the source of the Great Elyos River, and as such also has close relations with the more northerly Free Cities.
+The Academy of Magical and Martial Arts is located near the source of the Great Elyos River. Consequently, it has close relations with the Hollow Cities and the more northerly Free Cities.
+It is also the nearest part of the Elyos Republic to the 'jinn Principalities, and sometimes hosts delegations traveling to or from the 'jinn lands.
 
-
-Student Demographics (of approx. 10k individuals):
-
-63% 'daal
-24% 'midh
-5% Unknown
-5% Riftlanders
-2% assorted 'fae - mainly mid and daal, but others too.
-1% 'jinn
-0.2% 'xhal
-0.01% Dragons
-
-Staff Demographics (of approx. 2k individuals): 
-
-58% 'daal
-32% 'midh
-3% Unknown
-4% Riftlanders
-1.5% 'fae
-1.4% 'jinn
-0.1% 'xhal
-0.1% Dragoms 
+The academy hosts an extremely diverse population of students and staff. 
+At present, there are about ten thousand students, and two thousand academic staff. The majority are 'daal, but by a much lower margin than in the rest of Eaos. A significant number of the remainder are midh. 
+There are also a high number of mixed-race students, including many Riftlanders. Other ancestries are less common - between the staff and students, there are a couple hundred 'fae, about a hundred 'jinn, and a couple dozen Ael'xhal. 
+There is one dragon student, and two dragons on staff.
 
 ## Structure
 
@@ -60,7 +43,7 @@ The exterior regions of each tower houses administrative rooms, kitchens, and gr
 
 As the student wings house individuals who are just starting to learn magic, as well as some untrained sourcerers, they tend to be a fairly chaotic space
 
-The floors housing the second-year shapeshifter students is especially chaotic. Inexperienced shapeshifters tend to be somewhat
+The floors housing the second-lokan shapeshifter students is especially chaotic. Inexperienced shapeshifters tend to be somewhat
 influenced by animal instincts. This, coupled with the frequent nudity and loss of nudity taboo that generally results from learning basic
 shapeshifting means that this wing tends to be quite unrestrained - shapeshifted or nude students are rather common in the hallways, and
 sex between these students (in human or animal form) is rather common.
@@ -117,7 +100,9 @@ Between this wall and the training quadrants are military training buildings:
 #### Outer City
 
 The remaining section of the academy between the outer wall and the quarter wall, houses a small city, with inns for visitors, merchents, and other entertainment. 
-The academy keeps a close eye on these businesses, so they are generally of a reputable nature.
+The academy keeps a close eye on these businesses, so they are generally of a reputable nature. 
+Most non-acedemic staff (maintenance, gardeners, cooks, etc.) live in the Outer City. Some students and researchers live here as well, though they are in the minority.
+All told, the population of the outer city more than double that of the Academy itself.
 
 This section also houses the only gate in the outer wall.
 
@@ -129,9 +114,10 @@ Outside the northern region of the outer wall is an extensive forest, adjoining 
 
 Classes at the Academy are loosely divided into Magic and Martial tracks, with majority of Magic classes held in the inner circle, and martial classes held in the martial quarters of the outer circle.
 
-The Elyos military scholarship affords for 5 years of classes, includiong 2 years each of Magical and Martial classes, and an additional year for specilization, which can be either. This path awards its own certification, BM - Bachelor of Magical and Martial Arts
-All students (scholarship or not) are expected to take at least the introductory classes of both tracks - Introduction to Magic, Basic Magical Theory, and Basic Martial Training - even if they are 
-otherwise taking either pure magic or pure martial classes.
+The Elyos military scholarship affords for 7 lokan of classes, with each being split into two 3-khada terms. There is a 2-hekad mid-year break, and a 4 hekhad end of year break. The first 5 lokan of the scholarship runs a fairly rigid schedule of parallel 
+Magical and Martial classes. The last 2 lokan are for specilization, which can be either. This path awards its own certification, - Adept of Magical and Martial Arts.
+Other students have a more variable sylabus. Most take at least 3 lokan of classes, typically focusing on either magical or martial arts. Many also go onto post-graduate studies and may remain with the academy for more than 7 lokan.
+All students (scholarship or not) are expected to take at least the introductory classes of both tracks - Introduction to Magic, Basic Magical Theory, and Basic Martial Training - even if they are otherwise taking either pure magic or pure martial classes.
 
 ### Magical Track  
 
@@ -148,23 +134,23 @@ To be accepted into the Magical Track, prospective students must first pass this
 
 These three tasks broadly correspond to the three classes of magic: Physical, Etherial, and Arcane; while being general enough to be solvable through a variety of methods.
 
-#### First Year Classes - Basics of Magic
+#### First Lokan - Basics of Magic
 
 Includes Basic Magical theory: Aether, Arcana and the 9 Schools of Magic; Practical use of each school (Barring Animancy, which is purely theoretical at this level; 
 Sympathy and Enchanting are also both mostly theory, as they require use of another school by their nature).
 
-#### Second Year Classes - Advanced Magic
+#### Second Lokan - Advanced Magic
 
 More advanced practical use - more comples techniques (e.g. teleportation), combining schools, practical sympathy and enchanting, very basic animancy.
 Advanced theory - Cosmology and conjunction events, magical history, an exhaustive coverage of known sympathetic relatiosn, etc.
 
-#### Third and Fourth Years - Specialized Magic
+#### Third Lokan onwards - Specialized Magic
 
 Classes at this level cover the various specialized disciplines of magic, like shapeshifting, alchemy, artifice, etc.
 Advanced or dangerous classes like magical dueling and practical animancy are also covered at this level.
 
 In these latter years, students are expected to select one or two specialized disciplines to focus on.
-After gaining mastery of at least one specialization, a student is considered a graduate of the academy (BA = Bachelor of the Arcane).
+After gaining mastery of at least one specialization, a student is considered a graduate of the academy (Arcane Adept).
 
 Many students remain at the academy for post-graduate classes, participating in advanced reasearch into their specialization, or mastering other disciplines.
 
@@ -174,21 +160,21 @@ Many students remain at the academy for post-graduate classes, participating in 
 
 A variable-length course, indended to bring everyone up to a baseline level of fitness.
 
-#### First Year Classes
+#### First Lokan Classes
 
 Basic Combat - Armed and unarmed
 Wilderness Survival, Travel, Camping, Orienteering, etc.
 
-#### Second Year Classes
+#### Second Lokan Classes
 
 Advanced Combat - Fighting Mages and monsters, fighting in difficult terrain, use of artifacts and specialized weapons
 Survival in particularily hazerdous environs - The Riftscape, the Great Desert, Western Swamps, Northern Reaches.
 Siege Combat and assymetrical warfare. 
 
-#### Third Year - Specializations
+#### Third Lokan onwards - Specializations
 
 Officer Training, Siege Engineering, Basic Spycraft, etc.
-After completing a specialization, students are considered a graduate of the martial track (BC - Bachelor of Combat)
+After completing a specialization, students are considered a graduate of the martial track (Combat Adept)
 
 #### Masterclasses
 
@@ -205,7 +191,37 @@ The city hosts a number of con artists, a few more legitimate peddlers of magica
 
 ## History
 
-While the Academy was built during the Uon war, several parts of it are older.
-Inner wards, teleportation circle, and bathhouse all from second Eoas Empire.
+Constructed around 500 BC, in the decade after the Uon war came to Eaos.
+ 
+Major initiative in the beginning of the war, to adress the need to train troops to effectively combat the Uon and their powerful psionic abilities.
+Elyos Coalition recruited architects from the most magically talented nations across Eaos/Mhidda
+Architects:
+ - Djinn Principalities
+ - Furthern Dal
+ - Hollow Cities
+ - Dragonspire
+When Elyos approached Dragonspire citadel about this initiative, Feathermail (the daughter of Lord Ironfire) got wind of it, and collected a couple of architects from Dragonhalls as well.
+As part of the same effort, the Elyos Coalition also began sourcing staff for the new academy, from many of the same places. Several of the architects, who were responsible for creating the magical wards built into the structure of the academy,
+became part of the academy staff as well.
 
-There used to be other structures as well, but those were all that was left when the Academy was constructed.
+Location was chosen as the source of the Great Eos River, at the foot of the Dragonspine mountains.
+This kept the accademy far enough away from the frontlines that it could be constructed without much interference from the war, while still allowing easy tranport of goods and people to and from the academy.
+Additionally, this location was fairly close to Dragonspire and the Hollow cities, and no further from the 'jinn Principalities than any other part of the Elyos Coalition.
+
+At the time, there wasn't much in the area - several mining towns (which saw massive expansion during the construction period) and an Ael'fae gathering in the general vicinity.
+The specific site for the academy was chosen as it was rich in arcana. There were a number of old ritual monoliths here, that had been erected in times past for much the same reason. Some of these were preserved as part of the inner wards of the Academy.
+
+During the war, the Academy was solely a military training facility. The fact that it sourced both staff and recruits from across Eaos-Mhidda did make it quite unique, and gave a somewhat different formal air of other more localized training facilities 
+as the different peoples and cultures mixed.
+
+After the war, its purpose shifted somewhat. It still served as one of the major training facilities for the magically-inclined officiers of the new Elyos Republic, but also became a center of magical learning and knowledge in its own right.
+The Academy began hosting general magical research and transitioned to more of a university, accepting students without any military purpose. Rather quickly, it became known as the most prestigious magical academy in central Eaos. 
+
+Some of the staff still consists of vetrans of the Uon war, but there are also many independant magical researches, who have come to the academy due to its wealth of magical knowledge and state of the art facilities.
+
+
+Military history has had a couple other lingering affects:
+- Dorm structure and communal bathhouse mostly only exist because of this.
+- Uniform - technically still required, though this is unenforced & only loosely followed. Is included with military scholarship, so many poorer scholarship students still wear it, as well as those particulaly proud of their military prospects.
+  Some noble students pursuing an officer placement will wear a custom-tailored version.
+  

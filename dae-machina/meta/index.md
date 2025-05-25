@@ -21,7 +21,7 @@ Which gives density of 6165 kg/m3, 11.6% higher than earth; within acceptable bo
 1 month is 36 days (6 weeks)
 1 year is 252 days (7 months; 42 weeks).
 
-TODO: Adjust lifespans accordingly. (x1.42)
+TODO: Find an in-unerverse alternative term for Year, to differentiate from earth-year, then adjust lifespans accordingly. (x1.42)
 
 
 Moons are all 1000 km diameter, with varying densities
@@ -109,6 +109,8 @@ Ael'Thal / Quon Xi - cultural and architectural similarities to ancient China, b
 Also have the strongest navy of any nation currently, so there's some colonial europe vibes there as well.
 
 Ael Xhal - Mix of Mesoamerica and oceanic islands
+
+Dragonhalls - Andes highland regions, e.g. EL Alto (Bolivia), Quito (Equator), Chota Vally
 
 City of bridges / other regions near Quon Xi are more like Korea / Japan
 
