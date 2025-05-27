@@ -37,6 +37,8 @@ Clockwise
 
 ### Crescent Route
 
+<img src="../../images/crescent_route_deerfae.png" alt="An antelope fae wearing a poncho and carrying a backpack" class="img-right">
+
 This caravan route follows the edges of the Eaosport Sea: From the shapeshifter commune, to an occasional meeting with the center inland tribe, then through the coastel free cities, and ending at one of the northernmost Riftlander settlements.
 Every 3-4 years, this includes a meeting with the Great Plains tribe shortly after leaving this settlement.
 The journey takes 3 months from start to end, for a 6 month round trip. As this journey lines up with a monthly interval, this caravan mainly follows the goldmoon.

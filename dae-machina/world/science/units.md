@@ -15,7 +15,7 @@ See also [calendar](../cosmology/calendar).
 
 Two measures of time are fairly universal across Dael:
  - The span of a day
- - The time between two great convergences (252 days), called a Lokan in Eaos-Mhidda.
+ - The time between two great convergences (252 days), called a Lokan (singular and plural) in Eaos-Mhidda, and a Yushin in Quon Xi.
 
 When a day is said to start can vary a bit. Most cultures mark the start of a day by either noon or midnight, but some use dawn instead.
 When a year starts is a bit more consistent. Most cultures use the time of the trilunar convergence as the start of their year. 
@@ -32,13 +32,14 @@ There are few commonly used units of time larger than 252 days.
 Units of time that fall between a day and a year vary greatly among different cultures.
  - The 36-day Kahda (The time for one orbit of the goldmoon) and the 6-day Hekad are common across Eaos-Mhidda.
  - Some cultures instead use 63 days (the silvermoon orbit) or 84 days (the coppermoon orbit), along with fractions thereof.
- - Other cultures don't use fixed sub-year time intervals, and instead use more varied time intervals based on convergences or eclipses
- - The Daal'fae typically use the time for one caravan circuit as their primary sub-year measure. This varies from caravan-to-caravan, from 84 to 252 days.
+ - Other cultures don't use fixed sub-year time intervals, and instead use more varied time intervals based on convergences or eclipses (e.g. some Xhal'fae use the time between eclipses, which can vary from 10 hours to 21 days)
+ - The Daal'fae typically use the time for one caravan circuit as their primary sub-year measure. This varies from caravan-to-caravan, from 84 to 252 days. Often they'll also use a unique name for each day in this cycle rather than weekday names.
 
 Measures of time less than a day are not typically standardized in the same way days and years are.
 
-For very small time intervals, some measuere based on the length of a heartbeat is most common. How long this actually is can vary, as the mean resting heart rate of most fae is faster than that of other Aeldar
-and the mean resting heart rate of dragons is slower than that of Aeldar. Sapients without hearts, such as elementals, liches, and eldar 'jinn don't have such a baseline, and often use the time it takes them to achieve some magical effect as a base unit (e.g, how long a dryad takes to manifest).
+For very small time intervals, some measure based on the length of a heartbeat is most common. How long this actually is can vary, as the mean resting heart rate of most fae is faster than that of other Aeldar
+and the mean resting heart rate of dragons is slower than that of Aeldar. 
+Sapients without hearts, such as elementals, liches, and eldar 'jinn don't have such a baseline, and often use the time it takes them to achieve some magical effect as a base unit (e.g, how long a dryad takes to manifest).
 
 For larger sub-day intervals, fractions of a day (most often 24 or 36), or arbitrary intervals based on some phenomena (time for a candle to burn, time for an hourglass to empty) are used.
 Many larger cities have a bell-tower, to mark fractions of a day. Otherwise, people figure out meeting times based on the position of the sun. 

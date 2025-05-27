@@ -26,12 +26,16 @@ Makes for good beasts of burden and war.
 
 #### Timestone Deer
 
+<img src="../../../images/arcane_deer.png" alt="A deer with ornate antlers curved around a floating orb, standing on a fallen runestone" class="img-full">
+
 Dappled deer with elaborate antlers. Medium to pale brown in color.
 Potent telepaths. Limited ability to see into the future.
 
 Found throughout Mhidda and the northern reaches of Eaos.
 
 #### Darkstone Gazelle
+
+<img src="../../../images/darkstone_gazelle_head_sketch.png" alt="A gazelle head with four horns with a shard of dark crystal floating between them" class="img-right">
 
 Four-horned gazelle. Dark brown hide with white stripes blending into white underside
 Impervious to all forms of magic (Antimagic Field)
@@ -58,6 +62,8 @@ Capable of sensing magic, and especially ghosts.
 Found accross Terra Mendael
 
 #### Wildmagic Cat
+
+<img src="../../../images/wildmagic_cat.png" alt="A wildcat with a tail reminiscent of a peacock tailfeather" class="img-full">
 
 A feline about the size of a lynx or bobcat. Tufted ears, long tail ending in a tuft resembling a peakock feather. Dark fur, with an array of possible colors (black, dark blue, black-red, black-brown, black-grey).
 Pale underbelly and paws. The transition between the dark and light fur contains rune-like patterns. Older individuals may also have a pale stripe running the length of their spine.
@@ -117,7 +123,9 @@ Found throught Kita Lau and the Riftscape, and on the west coast of Eaos.
 
 #### Magic Seeker
 
-A small canine with a foxlike body and a jackel-like head, with exxagerated ears. Black fur, with a pair of light-colored stripes on the top third of its body and running from neck to tail.
+<img src="../../../images/magehound.png" alt="A foxlike canine with especially long and narrow ears" class="img-full">
+
+A small canine with a foxlike body and a jackel-like head, with exagerated ears. Black fur, with a pair of light-colored stripes on the top third of its body and running from neck to tail.
 Stripes may be bright red, gold, silver, orange, medium green, or rarely dark blue/purple. 
 Solid color eyes - blue, purple, gold. 
 Clawed feed; good at climbing
@@ -146,6 +154,8 @@ Before the cataclysm, there were many species of homonid across Xuon. Many of th
 Outside of the Aldar, homonids are now quite rare in Dael. Most of those that do remain are small in stature.
 
 ### Trolls
+
+<img src="../../../images/troll_concept.png" alt="A bulky, gorilla-like hominid covered in fur" class="img-full">
 
 Large apelike creatures. Largest living species of homonid.
 Hunched over posture, bulky hands and feet. Body (but not face or digits) covered in approx inch-long fur.

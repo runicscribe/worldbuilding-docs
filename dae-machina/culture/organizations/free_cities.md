@@ -9,6 +9,8 @@ The *Free Cities* (also called "The Eight" or "The Eight Lordships") are a serie
 This river is readily traversible and forms the backbone of trade across central Eaos.
 It is roughly 3000km long and takes 4-8 weeks to traverse by boat (depending upon whether you are travelling up or downstream)
 
+<img src="../../images/free_cities_cropped_digitized.png" alt="Map of the Free Cities on the Great Eaos River" class="img-full">
+
 Methods of government vary between cities, although most are ruled by one person, generally a Lord or Guildmaster. 
 A council of Leaders from each city meets monthly to settle disputes and govern trade (and other interactions) between cities. There is frequent espionage and minor conflicts between cities (“squabbling”). 
 Varying amounts of corruption, smuggling and counter-espionage among the cities. The free cities are home to a wide and varied mix of peoples. 
@@ -16,17 +18,21 @@ Varying amounts of corruption, smuggling and counter-espionage among the cities.
 The Free Cities are politically seperate from the Elyos Republic, althrough relations are generally cordial between the two. Given their influence on trade, 
 any conflict with the Free Cities would have the potential to economically cripple the republic.
 
-The free cities were originally part of the Elyos Republic, but became independant during the Uon-'daal war, sometime after the Elyos capital was moved north to Teylmos.
+The free cities were originally part of the Elyos Coalition during the Uon-'daal war, but became independant after it ended.
 
 ## Eosport
 
 The "face" of the free cities. Not the most wealthy or influential, but still quite important. Contains the meeting place for the free cities council.
 Generally agreed upon as neutral ground among the cities. 
 Eosport is also the primary port of travel between the free cities and Teythmos, and hosts embassies for a number of nations.
-It is primarly built on the ruins of the former Elyos capital (New Aelmos, not to be confused with the 'jinn city of the same name) which was abandoned by the Elyos Coalition in 100 BC, during the Uon war.
-It has not regained the size or power it had before the war, but remains a large and influential city.
 
-More stratified than Haven - noticible divide between Docks / Merchants Circle / Upper City
+Eaosport is primarly built on the ruins of the former Elyos capital, at the time called New Aelmos (not to be confused with the 'jinn city of the same name). It was originally founded in 2500 BC, 
+and razed by the Uon in 100 BC, after which the Elyos coalition moved their capital to Tethmos.
+
+Eaosport is one of the four founding cities of the Free Cities Alliance, alongside Bridgeport, Grandel, and Kenford.
+It has not regained the size or power it had before the war, but is still a large and influential city.
+
+Eaosport is more stratified than Haven - noticible divide between Docks / Merchants Circle / Upper City
 In particular, different peacekeeping forces
  - Upper City Guards
  - City Watch - technically have jurisdiction over the whole city except the High Council Chambers, but in practice mostly only present in Merchants circle and various gates/bridges
@@ -59,13 +65,36 @@ The stratified nature of Eaosport's layout is mirrored in its residents and peac
 Many of the wealthier mercantile organizations in the city also employ private mercenaries, who can be seen both in the middle tier, guarding manors, guildhouses, and storefronts, and in the lower tier, guarding docks and warehouses.
 Additionally, various gangs hold power over certain parts of the lower tier and the slums.
 
+## Haven
+
+Haven is east of Eaosport, on a different tributary of the Great Eaos river delta, and adjacent to Trader's Bay. Most of the bulk trade between Tethmos and the free cities goes through Haven. 
+The city also hosts many shipyards, which source wood from all along the river.
+
+<img src="../../images/haven_map.png" alt="Top-down map of Haven" class="img-full">
+
+Haven is the oldest and largest of the free cities, founded in 2910 BC by refugees escaping the Lich wars.
+While it was named Haven due to the circumstances of its founding, this name has remained accurate in the modern day, where it has served as a refuge for people fleeing the Uon war, 
+and more recently as a safe harbour for slaves escaping Blackport and its environs.
+
+Haven is very much a city that has grown up over the ages, functioning more like a dozen cities in the guise of one.
+Districts are frequently dominated by enclaves of local, wealthy families, who have their own personal guards, supplemented by mercenary forces.
+
+By its constitution, the city is managed by a representative democracy, with representatives elected from each of the many districts.
+In practice, it functions more as an oligarchy, with as the various entrenched powers across the cities districts have enough influence to sway the elections in their favour, baring the occasional coup.
+Despite this, the city is reasonably well-run, and a decent place to live for even its poorer residants.
+
+The council of representatives elects their own prime minister, to represent the city in the Council of Lords. While this role is prestigious, the prime minister does not hold any more power than any other representative, 
+and mainly serves as a face for the intersts of the council as a whole. 
+
 ## Blackport
 
 The common wisdom in Eaos is that you can get anything in Blackport, for the right price.
-The main city of Blackport is on a crescent-shaped rocky isle at the mouth of the river delta, and is not directly connected to the mainland. The nearest coast is full of impassible swampland, making the city especually isolated.
+The main city of Blackport is on a crescent-shaped rocky isle at the mouth of the westernmost tributary of the Great Eaos River delta, and is not directly connected to the mainland. The nearest coast is full of impassible swampland, making the city especially isolated.
 There are some fishermen and farmers along the banks of the river, but Blackport primarilly relies on trade for food.
 
-Blackport originated as a military base, but fell during the Uon war, and was later reclaimed by pirates, who built it up to its current form.
+<img src="../../images/blackport_map.png" alt="Top-down and profile maps of Blackport" class="img-full">
+
+Blackport originated as a military base, build in the middle of the Uon war. It fell near the end of the war, and was later reclaimed by pirates, who built it up to its current form.
 Most illicit or morally dubious trade goes through Blackport. This includes drugs derived from swamp plants, slaves from the xhal isles, and any other goods 
 that would be difficult to pass through Eosport or Haven. Rarely, this includes dangerous magical artifacts from the riftscape.
 
@@ -84,62 +113,71 @@ They tend to be primarly skilled in politics and espionage rather than magic or 
 The Lord of Blackport has direct authority over the Shadowsteel Guard and Citadel Staff.
 Typically goes about robed and masked when outside the citadel, so than no-one outside the guard and staff know quite how often leadership of the city changes.
 
-### Shadowsteel Company
+
+### Notable Organizations in Blackport
+
+#### Shadowsteel Company
 
 The Shadowsteel Company is a mercenary company based out of Blackport. While their services are for-hire, they are still largely under the control of the Lord of Blackport.
 The company is equiped with magic-blocking black-iron armor and weapons. They are primarly outfitted with crossbows and halberds.
 
-#### Shadowsteel Guard: 
+##### Shadowsteel Guard: 
 
 A branch of the Shadowsteel Company permanently garissoned on Blackport. Members of the company are recruited into the guard based on their loyalty.
 They guard the Citadel, and control entry into Blackport Harbor.
 
-### Citadel Staff
+#### Citadel Staff
 Network of clerks, bureaucrats and officials that manage finances, tarrifs, and city operations, as well as facilitating off-island smuggling and procurement through bribes, espionage, and blackmail.
 Reports directly to the Lord of Blackport. Most Lords of Blackport are killed by and sourced from the Citadel Staff.
 
-### Yellowjackets
+#### Yellowjackets
 Blackport Harbor Guard. Collects tarifs and maintains order. 
 Nominally a branch of the Citadel Staff, though the two groups do not really get along with each other.
 
-### Free-traders Association
+#### Free-traders Association
 Loosly organized collective of pirate captains, established to provide greater negotiating power with the Citadel. Controlls piracy, smuggling, and transport to and from the citadel.
 
-### Professional's Office
+#### Professional's Office
 An independant guild which manages sourcing and contracting assasinations, kidnapping, high-value theft, and other ilicit services
 
-### Records and Tarrifs Office
+#### Records and Tarrifs Office
 
 A large, and fairly brazen guildhouse for the Order of Sion.
 While it still functions and presents as a records and tarrifs office, it's identity is very much an open secret.
 It is not the largest Order of Sion office, but it is definitely the least hidden.
 
-### Guild of Dock and Warehouse Workers
+#### Guild of Dock and Warehouse Workers
 A rather well-organized laborer's union, whose power hinges on control of the warehouses (and their contents).
 They are tolerated by the citadel because they can play the guild off of the free-traders association to avoid either group establishing too much power.
 
-### Hospitality Guild
+#### Hospitality Guild
 Collective of inkeepers with control over inns and lodging, but also safehouses, trafficking, and prostitution.
 Loosly allied with the Free-traders association, with the goal of minimizing Citadel interference.
 
-## Haven
+### History of Blackport
+Blackport started as a naval base and garrison for the Elyos Coalition. It was built in the middle of the Uon-'daal war, sometime before 200BC. When New Aelmoss fell in 100 BC and the coalition capital moved to Teythmos, 
+the size of the base's garrison was reduced. It was eventualy captured and razed by the Uon in 10 BC.
 
-The third city at the mouth of the Great Eaos river and adjacent to Trader's Bay. Most of the bulk trade between Tethmos and the free cities goes through Haven. 
-The city also hosts many shipyards, which source wood from all along the river.
+After the Uon cataclysm, some opportunistic pirates took over the ruins of the garrison. The first "Lord of Blackport" was a pirate captain from this group who found a complete set of Uon armor in the ruins shortly after settling there.
+The pirates were able to scavenge many other arms from the base as well, making them well equiped and quite wealthy.
 
-It is the oldest of the free cities, founded in 2910 BC by refugees escaping the Lich wars.
-While it was named Haven due to the circumstances of its founding, this name has remained accurate in the modern day, where it has served as a refuge for people fleeing the Uon war, 
-and more recently as a safe harbour for slaves escaping Blackport and its environs.
+Around 18 AC, the new Elyos Republic and the Free Cities has re-organized well enough to do something about the increasingly well-organized pirates based on the island. Their first attempt was an unexpected failure.
+The island was eventually reclamed by a mage-breaker batallion turned mercenary company, though the reclaimed effort was relatively bloodless - after an initial show of force ending with the pirate captain at the bottom of Blackport Bay, 
+the pirate occupiers saw they were clearly overmatched. The company leader promptly turned face on the Elyos Republic and demanded control over the island to ensure the pirate raids stopped. 
 
-Haven is very much a city that has grown up over the ages, functioning more like a dozen cities in the guise of one.
-Districts are frequently dominated by enclaves of local, wealthy families, who have their own personal guards, supplemented by mercenary forces.
+The mercenaries set themselves up in the old garrison as the new rulers of Blackport, while the remaining pirates pivoted to smuggling and privateering. The Blackport remained relatively stable for the next few years.
 
-By its constitution, the city is managed by a representative democracy, with representatives elected from each of the many districts.
-In practice, it functions more as an oligarchy, with as the various entrenched powers across the cities districts have enough influence to sway the elections in their favour, baring the occasional coup.
-Despite this, the city is reasonably well-run, and a decent place to live for even its poorer residants.
+In 21 AC, a merchant from Bridgeport came to Blackport seeking a partneship, offering both easier passage through Bridgeport, and more sources of illicit goods across Traders Bay and the Great Eaos river. This delegate succesfully established an 
+alliance with the mercenary leader, and both were greatly enriched by the partnership. Not long after, a clerk overseeing the merchant operations in Blackport orchestrated a coup, killing the company leader and ousting the merchant from Bridgeport, 
+putting herself in sole control of operations. Shortly after establishing control over Blackport, the new leader established a more formal alliance with Bridgeport, and eventually joined the Free Cities in full.
 
-The council of representatives elects their own prime minister, to represent the city in the Council of Lords. While this role is prestigious, the prime minister does not hold any more power than any other representative, 
-and mainly serves as a face for the intersts of the council as a whole. 
+In 34 AC, after a relatively long period of stability, featuring a significant increase in the influence and legitimacy of Blackport, the former clerk and current Lord of the city was assasinated while traveling between Blackport and Eaosport.
+She was succeeded by a seinor member of her staff (no one ever found out for sure if they were responsible for the assasination). This new lord made some significant organizational changes to the leadership structure of Blackport, and began the practice
+of the Lord of Blackport always going around cloaked and hooded.
+
+As of 50 AC, the Lord of Blackport has been assasinated and replaced at least twice more (with all the cloak-and-dagger secrecy, no one knows for certain if there have been some undetected assasinations). The last couple of Lords have never shown their face, 
+and have been more or less indistinguishable. 
+
 
 ## Bridgeport
 
@@ -149,8 +187,12 @@ Some illicit trade from Blackport passes through Bridgeport, expediated by hefty
 
 Since it straddles the river, it is also a major hub of ground-based trade through central Eaos.
 
+<img src="../../images/bridgeport.png" alt="Top-down and profile maps of Bridgeport" class="img-full">
+
 The city itself is ruled by a single wealthy family, with the role of ruler being passed down through the family, though the specific line of inheritance is rather flexible, being influenced by competance and the favour of the current ruler.
-The ruling family itself has changed a few times over the cities history through various coups, but such changes are rare.
+The ruling family itself has changed a few times over the cities history through various coups, but such changes are rare. 
+
+Bridgeport was originally founded in 2490 BC, though the great bridge that gives it its name was not built until several centuries later.
 
 The Toll collectors and Gate Guards seen wherever goods and money flow through the city are employed directly by the ruling family.
 The city also employs a constabluary, tasked with keeping the peace and stopping crime. They are much less prominent than the Guards and Toll collectors, and hold less power.
@@ -160,32 +202,47 @@ The city also employs a constabluary, tasked with keeping the peace and stopping
 Elgate is a smaller city between Bridgeport, Eosport, and Haven. It subsits almost solely on income from tariffs and travellers (lodging, etc.). 
 The city is on the same delta as Eosport, and there is a little-travelled ground path between them.
 
+Elgate is currently run by a merchant family, which took control after the Elyos army moved out at the end of the Uon war.
+
+While the land on which Elgate sits has been populated for a very long time, it only really grew to a true city in 100 BC, after New Aelmos was razed by the Uon, and the fleeing inhabitiants moved north.
+It rapidly grew from a fortified refugee camp to a true city.
+
 ## Vindel
 
 Vindel is upriver of Bridgeport, on the northwest bank. It serves as a hub for many vinyards and other farms in the area, and is generally considered to produce the best wine in the region. 
-Ships goods overland to Elyos, as well as up and down-river.
+Ships goods overland to Elyos, as well as up and down-river. Vindel was founded in 2300 BC, and is ruled by a hereditary monarchy. 
+
 The farms and vinyards that feed Vindel overlap the borders of Elyos (even moreso than most of the Free Cities), but in practice they fall under the domain of Vindel.
-Many of the vinyards employ their own mercenary guards.
 The city itself employs two different guard forces
  - City Guards
  - Citadel Guards
+
+The winemakers and mercants of the city also hold significant political power, and many of the vinyards employ their own mercenary guards.
+
+At the end of the Uon war, Vindel initially became part of the Elyos Republic. However, it seceeded to join the Free Cities in 13 AC. This was mainly for economic reasons - The initial group of Free Cities included both Grandel and Bridgeport, 
+so Vindel was getting hit by tarrifs upriver and downriver. Joining the alliance brought vindel into the Free Cities trade group, getting them out of this undesireable situation.
 
 ## Grandel
 
 Grandel is Vindel's sister city. It is located in the center of a large swath of farmland, especially grain. The city produces a significant percent of the Free Cities food supplies, and also ships food overland to other regions.
 Like Vindel, the surrounding farmland extends into Elyos but still effectively belongs to the city.
+
+Grandel is the second-oldest of the free cities after Haven, and was founded in 2690 BC. Historically
+
 The city employs a cadre of rangers help keep its fields and farms secure and project power into the nominal borders of the Elyos republic. 
 In addition to food, Grandel produces wines, textiles, and other goods. It is the furthest upriver of the major free cities.
 
+Grandel was one of the four founders of the Free cities.
 
 ## Kenford
 
 This city straddles the river between Vindel and Grandel, and benefits from trade both up and down river.
 In addition to being a notable trade center (comparable to Eaosport, but not quite at large as Bridgeport or Haven), the city is also a respectable hub of magic.
-It hosts a guild of mages, not beholden to the Elyos empire (unlike the AoM&MA).
+It hosts a guild of mages, not beholden to the Elyos Republic (unlike the AoM&MA).
 
-Prior to the Uon War, Kenford was a small port city between Vindel and Grandel, of little renown. After the Free Cities split from the Elyos Republic in the aftermath of the war, it came under the leadership of a renowned
-Mage-general, who founded the Kenford Mages Guild, significantly increasing the cities importance. It is currently ruled by his son.
+Prior to the Uon War, Kenford was a small port city between Vindel and Grandel, of little renown, though still quite old, having been founded in 2200 BC. During the Uon war, it was the base of a operations of renowned Mage-general, 
+who established the Kenford Mages Guild in 30 BC. When the Free Cities split from the Elyos Republic in the aftermath of the war, he became the ruler of Kenford, and positioned the city as a center of arcane learning in the Free Cities, 
+independant from the Elyos-controled AoMMA. Since then, its importance has increased significantly. The city is currently ruled by his son.
 
 ### Layout
 

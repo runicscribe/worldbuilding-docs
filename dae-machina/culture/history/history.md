@@ -196,12 +196,6 @@ With the central Eaosian empire a desolate, infertile wasteland, and all of the 
 
 During this strife many civilian inhabitants fled northwest.
 
-## Ruins of Ælmos - First Era Æl’daal civilization
-
-Centered in what is now the great Eos desert. 
-Ruins – mostly tombs or mausoloeams. Obelisks and large statues are common. Step pyramids rare but present. Tombs usually have undead guardians (zombies + a sleep/wake spell. Generally have ornate animal death masks. 
-Some tombs house liches.
-
 ## Uon War
 Primarily Uon vs. Æl’daal & ‘jinn. Æl’fae (apart from the Xhal'fae who had already been fighting the Uon for a couple millenia) avoided major conflicts, but some groups did participate in guerilla tactics against the Uon. 
 A relatively small number of midh actually fought, but they did make many of the weapons for the ‘daal and ‘jinn. This may have led to the founding of the hollow cities?

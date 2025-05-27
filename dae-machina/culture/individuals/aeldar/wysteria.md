@@ -5,6 +5,8 @@ permalink: /dae-machina/culture/individuals/aeldar/wysteria
 
 # Wysteria
 
+<img src="../../../images/riftscape_mage.png" alt="Wysteria" class="img-right">
+
 **Name:** Wysteria
 **Demographics:** Mixed-blood Æl'xhal/Æl'daal; Riftlander
 **Born**: 30 AC

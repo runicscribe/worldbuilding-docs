@@ -85,7 +85,7 @@ Descendant of Enthu
 
 ----------------
 
-
+<img src="../../images/djinn_dawn.png" alt="Dawn, an air djinn" class="img-full">
 
 **Name:** Dawn
 
@@ -156,6 +156,8 @@ Ancient. Appears as a collection of floating rocks pouring water. Not discernabl
 
 **Name:** Shoal
 
+<img src="../../images/shoal.png" alt="A water 'jinn surrounded by floating water bubbles full of fish" class="img-right">
+
 **Demographics:** Female Water 'jinn
 
 **Description:** 
@@ -170,6 +172,8 @@ Body also often contains some number of fish. Also wears fine silks, color coord
 **Affiliations:** 
 
 ----------------
+
+<img src="../../images/djinn_umbra.png" alt="Umbra, a celestial djinn" class="img-right">
 
 **Name:** Umbra
 
@@ -241,13 +245,15 @@ Carries four broad-tipped scimitars, which he levitates when wielding them.
 
 ----------------
 
+<img src="../../images/kaohi.png" alt="Kaohi, a  fire/earth djinn" class="img-right">
+
 **Name:** Kaohi
 
 **Demographics:** Female Fire / Earth 'jinn
 
 **Description:** 
 
-Fase is sculped marble. Body is pure fire, but tightly controlled.
+Face is sculped marble. Body is pure fire, but tightly controlled.
 Hands are encased in segmented basalt.
 
 Typically wears a red robe enchanted to be be fireproof, bronze jewelry, and wields a Katana.
@@ -256,6 +262,8 @@ Grandaughter of Uriel.
 **Affiliations:** 
 
 ----------------
+
+<img src="../../images/djinn_uriel.png" alt="Uriel, a fire djinn" class="img-right">
 
 **Name:** Uriel
 
@@ -278,7 +286,7 @@ Wields a two-pointed spear with an ever-burning flame in its center.
 **Demographics:** Female Fire 'jinn / Water 'jinn (Fire dominant)
 
 **Description:** 
-Twinn of. 
+Twin of ... v
 
 
 **Affiliations:** 
@@ -290,7 +298,7 @@ Twinn of.
 **Demographics:** Female Fire 'jinn / Water 'jinn (Water dominant)
 
 **Description:** 
-Twin of.
+Twin of ... ^
 
 
 
@@ -329,6 +337,29 @@ Skin of blue-veined marble. Eyes, nails, teeth, and interior all consist of amet
 **Affiliations:** 
 
 ----------------
+
+**Name:** Karsa
+
+**Demographics:** Androgyne Earth 'jinn
+
+**Description:** 
+
+Skin of white quartz / granite, with striations that vary day by day - darker stone, gold, etc. Teeth an nails usually match this secondary material.
+Hair of amythyst. About 800 years old.
+
+Mapmaker. Shapes intricate 3D maps out of stone - cities, countries, etc.
+Each one is a practical work of art, and fetch a high price across the continent.
+
+Born in the Hollow Cities, but now lives in New Aelmos. Often travels with mercantile delegations to other parts of Eaos-Mhidda - Eaosport, Arcmuth, the Hollow Cities - sometimes the Sachean Isles, or even the Dhaigean Isles
+
+
+
+**Affiliations:** 
+
+----------------
+
+
+
 <h2 id="halfjinn">Dai'jinn</h4>
 
 **Name:** Mira
@@ -341,7 +372,7 @@ Red hair, which catches fire when she feels strong emotions. Generally poor cont
 
 Raised by a single mother (Ael'daal). Lost control of her 'jinn powers in her early teens, accidently burning down her home and killing her mother.
 
-Wears a fairly skimpy outfit of (fireproof) salamandar leather and dragonhide, and carries a singed oaken staff. Also has a melted metal neclace, her only memento from her youth.
+Wears a fairly skimpy outfit of (fireproof) salamandar leather and dragonhide, and carries a singed oaken staff. Also has a melted metal necklace, her only memento from her youth.
 
 **Affiliations:** 
 

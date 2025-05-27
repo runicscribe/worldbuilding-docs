@@ -41,7 +41,7 @@ In parallel, the more southern 'fae groups began demonstrating the hybrid human-
  
 Least impacted by Dragon Ael wars
 
-Main consequence is that there's much fewer Ael'daal in central and NE eaos (aside from Ironfire citadel)
+Main consequence is that there's much fewer non-fae Aeldar in central and NE eaos (aside from Ironfire citadel)
 Many groups take in remaining Ael'daal survivors, naturalizing them into pop.
 Following millenia sees a large increase in Ael'fae population in this area, and near-dissapearance of non-fae Ael.
 

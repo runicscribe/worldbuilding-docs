@@ -5,6 +5,8 @@ permalink: /dae-machina/culture/individuals/aeldar/queenofravens
 
 # Queen of Ravens
 
+<img src="../../../images/queenofravensfront.png" alt="Queen of Ravens" class="img-full">
+
 **Demographics:**: Elder Ael'fae (Female) – Immortal Shapeshifter
 
 **History**:

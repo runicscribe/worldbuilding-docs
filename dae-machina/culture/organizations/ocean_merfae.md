@@ -25,6 +25,7 @@ This tends to go down one of three distinct paths:
 
 Remora and Devourers are most common among Followers of the Leviathan, and often become god-kings of their own splinter tribes.
 
+<img src="../../images/mertongue_leviathan.png" alt="Underside view of a leviathan head, with a merfae merged with its tongue" class="img-full">
 
 ## *Unnamed Leviathan-city*
 

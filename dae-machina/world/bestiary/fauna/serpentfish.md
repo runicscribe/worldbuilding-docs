@@ -5,6 +5,8 @@ permalink: /dae-machina/world/bestiary/fauna/serpentfish
 
 # Serpentfish
 
+<img src="../../../images/serpentfish_sketch.png" alt="A fishlike creature with four eyes in two sockets, broad fins, and a long tail" class="img-right">
+
 4-6 eyes, long flexible body. Some have a bony skeleton, others have a partly or fully cartiligious skeleton.
 Typically have 2 pairs of lateral fins, one dorsal fin, one or two belly fins, and a large vertical tail fin.
 
@@ -23,6 +25,8 @@ Most serpentfish lay large numbers of eggs, and do not care for their young.
 ## Species:
 
 ### Tentaclefin
+
+<img src="../../../images/serpenfish2.png" alt="A fishlike creature with two tentacles and a long tail" class="img-full">
 
 Front pair of fins include tentacles ending in suction cups
 

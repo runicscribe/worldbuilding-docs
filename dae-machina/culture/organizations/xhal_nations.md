@@ -108,9 +108,19 @@ The Xencha who remained continued their practices through the Uon conquest, and 
 
 Near the later years of the Uon war, some groups of Xencha worked closely with the Elyos military, primarly acting as covert ops groups from inside Uon territory.
 
-The remenants of these groups still exist in the current day, living deep in the jungle and keeping many of the traditions of the original rebellion, preserved through a rich oral history.
-Many have moved to more hospitable regions in Kita Lau and Western Eaos in the wake of the cataclysm, but some remain in the riftscape, where their particular skills allow them to survive where others could not. 
+#### Post-Cataclysm
+
+Xencha Defiant have been defined by their resistance to a dominant empire for their entire history. With the Uon cataclysm and fall of the Uon empire, this is no longer the state of things.
+This paradigm shift has resulted in some changes.
+
+Many groups still stick to past traditions, living deep in the jungle and keeping many of the traditions of the original rebellion, preserved through a rich oral history.
+Of these, the majority have moved to more hospitable regions in Kita Lau and Western Eaos in the wake of the cataclysm, but some remain in the riftscape,
 Nowadays, they are most often referred to as the Xencha Remnant.
+
+Some traditionalists treat the rift as a new occupier, and have remained in the riftscape, where their particular skills allow them to survive where others could not.
+
+Other groups have began to look to the future, banding together to create the free civilization their ancestores dreamed of.
+They have taken residence on the Shards of Xuon, dismantling Uon and Xencha ruins to build the first Xencha metropolis.
 
 
 ### Xeres Reborn

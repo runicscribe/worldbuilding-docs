@@ -38,6 +38,8 @@ They are functionally immortal unless killed, and grow continously throughouth t
 
 Dragons primarily eat large mammillians, especially herd animals like deer or sheep. Dragons to not typically eat humans, but may do so if provoked
 
+See [Dragons](../../../culture/peoples/dragons) for more.
+
 ## Salamaders
 *Spina Senilacertus Squama*
 
@@ -66,6 +68,8 @@ Broad thick limbs, with flat, flipper-like paws with vestigial claws.
 *Spina Senilacertus Pecten*
 
 ### Cliffrunner
+
+<img src="../../../images/cliffrunner_lizard.png" alt="A six-legged lizard with a feathered crest and tail" class="img-full">
 
 Long tail, short neck. Wedge-shaped head with a feathered crest
 Very powerful hind legs for jumping. Excellent climbers, and capable swimmers.

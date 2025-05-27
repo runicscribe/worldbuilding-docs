@@ -5,12 +5,16 @@ permalink: /dae-machina/world/bestiary/elementals/furies
 
 # Furies (Spirit Elementals)
 
+<img src="../../../images/firefure.png" alt="A wolf made of flame, with a skull head" class="img-full">
+
 Furies (Spirit Elementals) are formed when a spirit fuses with an
 elemental. Most commonly occurs when a dynamic elemental kills
 something. The spirit component means that furies are generally more
 inteligent and more hostile than regular elementals. Furies can also be
 created artifically by a mage from a spirit and an elemental. Ascendend
 furies are rare, but possible.
+
+<img src="../../../images/skull_furies.png" alt="A wolf-skulled being of smoke fire, and a deer-skulled being of stone, in the shape of an avalanche" class="img-right">
 
 Skull Furies - The most common type of fury. Skull furies take the
 appearance of a dynamic elemental in the approximate shape of whaterver

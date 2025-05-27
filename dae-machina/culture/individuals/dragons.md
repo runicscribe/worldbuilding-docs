@@ -5,6 +5,7 @@ permalink: /dae-machina/culture/individuals/dragons
 
 # Dragons
 
+<img src="../../images/dragonspire_profile.png" alt="The dragon Ironfire, perched atop Dragonspire Citadel" class="img-full">
 
 **Name:** Ironfire; Lord of Dragonspire Citadel
 
@@ -21,6 +22,8 @@ Exceptionally potent fire magic, capable of reaching temperatures in excess of 2
 
 ----------------
 
+<img src="../../images/queen_of_the_valley.png" alt="A long, sinuous dragon with ornate horns" class="img-right">
+
 **Name:** Queen of the Valley
 
 **Demographics:** Female Western Dragon
@@ -32,8 +35,9 @@ An elemental shapeshifter, has transformed herself into an artificial dryad of t
 One of the eldest extant dragons, at about 50,000 (perhaps much older - 200 - 300 mill?) years old, predating the arrival of Ael on Quon Xi. Exceptionally wise and powerfull. Mostly ignores events external to the valley.
 
 
-
 ----------------
+
+<img src="../../images/dragonmage_cropped.png" alt="A spined dragon with nested sets of curved horns" class="img-right">
 
 **Name:** Unknown
 
@@ -102,7 +106,7 @@ Lives in a cave system under the flooded caldera of a dormant volcano.
 
 **Affiliations:** 
 
-
+Xeres Empire (Formerly)
 
 ----------------
 
@@ -122,6 +126,8 @@ Extremely athletic, and often travels the 1000 km between the isles and northern
 Whitescale Selkies
 
 ----------------
+
+<img src="../../images/xeres_suncrowned.png" alt="Xeres Suncrowned, a spined dragon with flat-tipped horns" class="img-right">
 
 **Name:** Xeres Suncrowned
 
@@ -197,6 +203,8 @@ Dragonhalls (formerly)
 
 ----------------
 
+<img src="../../images/dragonhalls_leader.png" alt="Turi Skyflower, a forest dragon, perched on her hind legs" class="img-full">
+
 **Name:** Turi Skyflower
 
 **Demographics:** F Western Dragon
@@ -241,7 +249,7 @@ Dragonhalls
 
 ----------------
 
-**Name:**
+**Name:** __ Silverscale
 
 **Demographics:** Female Plated Dragon
 
@@ -305,7 +313,7 @@ Dragonhalls
 ----------------
 
 
-**Name:** 
+**Name:** (The Twins)
 
 **Demographics:** Female Western Dragon(s)
 
@@ -326,7 +334,7 @@ Dragonhalls
 
 ----------------
 
-**Name:** Rahkaya Goldscorn 
+**Name:** Rahkaya Goldscorn
 
 **Demographics:** F Western Dragon
 
@@ -341,7 +349,7 @@ Dragonhalls, Xeres Empire (former, estranged)
 
 ----------------
 
-**Name:**
+**Name:**  Onshu Snowspine
 
 **Demographics:** M Western Dragon
 
@@ -358,7 +366,7 @@ Dragonhalls, Xeres Empire (formerly)
 
 ----------------
 
-**Name:**
+**Name:** Zayeh
 
 **Demographics:** M Plains Dragon
 
@@ -373,7 +381,7 @@ Dragonhalls
 
 ----------------
 
-**Name:**
+**Name:** Jiryu Skyfisher
 
 **Demographics:** F Western Dragon
 
@@ -381,7 +389,7 @@ Dragonhalls
 Born 2100 BC
 
 Originally from the South Xuon isles. Joined Dragonhalls in 0AC, after her home was ravaged by the Uon cataclysm.
-Recently engaged in a partnership with Xeres' daughter. Somewhat reclusive, and mostly avoids the human population of Dragonhalls. 
+Recently engaged in a partnership with Rahkaya Goldscorn. Somewhat reclusive, and mostly avoids the human population of Dragonhalls. 
 
 **Affiliations:** 
 Dragonhalls
@@ -408,6 +416,7 @@ Stored seperately, with a stasis enchantment delibratly designed so that it must
 **Affiliations:** 
 
 ----------------
+<img src="../../images/riftscarred_dragon.png" alt="A dragon covered in spikes" class="img-right">
 
 **Name:**  ___ Riftscarred
 
