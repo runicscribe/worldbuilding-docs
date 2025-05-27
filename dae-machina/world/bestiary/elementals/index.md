@@ -37,6 +37,8 @@ Static or mobile effects that only produce an effect upon some stimulus. Eg a li
 
 ## Static Elementals
 
+<img src="../../../images/earth_elemental.png" alt="A roughly humanoid figure made of boulders" class="img-full">
+
 Elementals that embody a physical object or place. Not very intelligent, but quite stubborn. Tend towards maintaining or organizing
 that which they embody. Examples include stone, hill, or mountain elementals, tree or forest elementals, etc.
 Static elementals are non-hostile and tend to ignore other beings. They are not dangerous unless you get in their way. Static elementals
@@ -48,6 +50,9 @@ Low intelligence. Generally just wander aimlessly. Can include islands or reefs 
 riftscape floating islands are wandering elementals. Other wanderes include earthen giants.
 
 ### Artisans
+
+<img src="../../../images/stone_vine_elemental_sketch.png" alt="A frog-shaped creature made of stones and vines" class="img-right">
+
 Somewhat more intelligent than wanderers, but very single-minded. Tend towards maintaining or organizing that which they embody. 
 Forest artisans often result in forests arranged in oddly specific patterns. Stone artisans arrange standing stones or cairns. 
 
@@ -125,12 +130,16 @@ These include Gyldraed, Vylderythe, and Ancients.
 
 ## Ancients
 
+<img src="../../../images/mountain_elemental.png" alt="A mountain sized figure rising out of the ground" class="img-full">
+
 Conventional elementals which embody massive and powerful forms, such as mountains,
 hurricanes, or ocean currents tend to manifest an alien intelligence after a few millenia of existence. 
 Such elementals can be classed as high elementals, and are commonly referred to as "Greater Elementals", "Elder Elementals", "Ancients", or similar.
 They are rare, and generally lie dormant for centuries at a time.
 
 ## Gyldraed
+
+<img src="../../../images/crystal_dryad.png" alt="A feminine humanoid figure formed of rock and long crystals" class="img-right">
 
 Gyldraed, sometimes called Anima, are manifestations of a distinctive and enduring location such as an ancient forest grove, mountain peak, spring, lake, valley,
 crystal cavern, etc. When interacting with people, they will manifest an avatar, taking the shape of a humanoid or animal constructed from the material of their domain. The actual form of a
@@ -154,6 +163,8 @@ Unlike a Gyldraed, they are ambulatory, and leave the land in their wake twisted
 Like Gyldraed, they can manifest a humanoid avatar to interact with people, though they rarely do so.
 
 ## Vyldarche
+
+<img src="../../../images/vyldarthe_wanderer.png" alt="A clouked humanoid formed from stones and vines" class="img-right">
 
 Vyldarche are smaller elementals of humanlike size and intelligence. They are primarily wanderers that constantly seek out new places and
 experiences. They have a wide range of appearances, typically mimicking the general shape of some living thing, be it Ael or beast.
