@@ -29,6 +29,8 @@ There are four main 'fae bloodlines, each originating from a different group of 
 
 ## Plains Tribes (Daal'fae)
 
+<img src="../../../images/daalfae_1.png" alt="A female deer fae" class="img-right">
+
 The Daal'fae are the oldest of the 'fae bloodlines, originating from the first Æl'daal Empire. They are the most varied of the three bloodlines, and inhabit the savannah and jungle regions of central Eaos. 
 
 The Daal'fae organize themselves into different tribes, based on their animal form. These tribes include Red Wolf, Wild Dog, Hyena, Antelope, Gazelle, Goat, Deer, Elk, and Lion. 
@@ -181,6 +183,8 @@ While hyenid 'fae will not hunt other sapient peoples, they put great importance
 Some hyena 'fae practice magic, most often focusing on earth-shaping, psychometry, and/or necromancy. 
 Hyena Necromancers tend to be just as good at quieting the undead as raising them, and may temporarily raise fresh carcasses as a way of more easily transporting their meat.
 
+<img src="../../../images/free_cities_hyenid_midwife.png" alt="A hyenid fae wearing a tunic and gloves" class="img-right">
+
 High rate of birth by caeserian section. Tend to be very good at it. Large number of Hyena 'fae that do live among other Aeldar are employed as midwives.
 
 The hyena 'fae language incorporates a lot of vocalizations, and is almost entirely unpronuncable by non-hyenids. Hyena 'fae are also incapable of making many of the sounds necessary to speak other Ael languages.
@@ -214,6 +218,8 @@ Like the hyena 'fae, the canid tribes muzzle shape makes them incapable of speak
 The canid 'fae body language is better understood by other 'fae tribes than the hyenid language, so this isn't much of an issue among the Daal'fae caravans or the shifter commune in southwest Eaos, 
 but it does make relations with the Ael'daal a bit more challenging. Despite these limitations, the canid tribes are enthusiastic and social enough that they don't let this get in the way.
 
+<img src="../../../images/free_cities_river_wolf.png" alt="A red wolf fae wearing a short vest and holding a barge pole" class="img-right">
+
 The canid 'fae that do live among the Ael are concentrated in the free cities, and most often work as dockhands, barge handlers, guards, and similar, where eloquent communication is not strictly necessary. 
 Most learn a local Ael'daal sign language dialect as their primary means of communication, and many also learn to write the writen language of the region. 
 This is usually supplemented by poor, barked imitations of a small number of spoken Ael words. 
@@ -244,6 +250,8 @@ All the mhid'fae clans - wolf, bear, and seal - periodically gather to exhange n
 
 ### Wolf Clan
 
+<img src="../../../images/wolf_fae_F.png" alt="A standing midh'fae and her wolf form" class="img-right">
+
 Wolf 'fae look similar to 'midh when in their human form, but tend to be somewhat darker skinned. 
 Clans consist of a single extended family, with one primary mating pair(This equates to the couple, their parents and grandparents, various single siblings, uncles, and cousins). 
 This gives typical pack sizes of 6-20 individuals. Parents and grandparents generally stay with the pack of their oldest child, with younger children leaving to form their own new packs. 
@@ -253,6 +261,9 @@ Wolf fae are generally monogamous, and mate for life. Inheritance (mainly of pro
 they leave the pack. Wolf 'fae generally dwell in extensive cave systems. Their dwellings hae a fairly communal layout. These caves tend to have elaborately carved pillars and walls, 
 and are decorated with carved bone and other trophies. Dwellings typically have a single large firepit in the main common room, and are otherwise furnished primarily with fur rugs. 
 Within their caves they may take human or wolf form, but are almost always in wolf form when they leave their caves.
+
+<img src="../../../images/wolf_fae_M.png" alt="A crouching midh'fae and his wolf form" class="img-left">
+
 When in human form, they typically wear nothing, but will put on simple fur wraps and cloaks, with clasps made of carved bone if they need to have dealings with Ael. 
 They will use stone or iron knives for skinning their prey when they want furs (most often deer or rabbits, but sometimes foxes, and occasionally bears), and often trade furs and scrimshaw to the 'daal and 'midh. They usually eat meat raw, 
 but will smoke and salt excess meat to provide a backup food supply in the winter when prey is scarce. 
@@ -288,6 +299,8 @@ A handful of clans can also be found across the Dragon’s Teeth archepelago, as
 
 ## Jungle Tribes (Xhal'fae)
 
+<img src="../../../images/xhalfae_spotted.png" alt="A clouded leopard fae wearing a feathered necklace" class="img-right">
+
 Originating from the Æl'xhal, the Xhal'fae inhabit the jungle in the northwestern reaches of Xuon and the Kita Lau isles. 
 They are comprised of various feline tribes (jaguars, leopards, tigers). Most Xhal'fae take on a humanoid form, but with notable animal features. They are still competent shapeshifters, but tend to use this ability to optimize their shape to
 the current situation rather than taking on a purely human or animal form.
@@ -316,6 +329,8 @@ During the collapse of the Xeres Empire, and subsequent war between the Ael and 
 
 ### Xhao'fae
 
+<img src="../../../images/xhao_fae.png" alt="A Xhao'fae picking fruit" class="img-right">
+
 The Xhao'fae are a group of shapeshifters that mimic the form of the hexapede lizards found across Kita Lau the east cost of Quon Xi.
 
 While the reptillian Xhao'fae and feline Xhal'fae are both shapeshifter tribes originating from the Ael'xhal, they came about independantly, with the Xhao'fae originating in Kita Lau around the end of the Dragon War, 
@@ -333,6 +348,7 @@ Xhao'fae are still primarly found in central Kita Lau. The Ael-supremacist natur
 Some Xhao'fae can occasionally be found around the edges of the riftscape, and in the Free Cities of Eaos.
 
 ## Merfae
+
 Serpentfish shapeshifters most often found around Kita Lau, and in the southern Eaos isles.
 Much like the Xhao'fae, they cannot shift between forms, and instead remain in a half-form with a fishlike tail and a humanlike body, including gills along their neck and torso.
 Many Merfae mages do learn shapeshifting abilities, but they most often tend towards chimeric shapeshifting, taking on characteristics of various deep-sea beasts.
@@ -341,6 +357,8 @@ Often have good relations with the Xhao'fae.
 
 There are three broad varieties of Merfae - Lauan Merfae, living in the coastal regions around Kita Lau; Abyssal merfae, living in the deep ocean all across Dael; 
 and Sache Merfae, living in the open ocean, and around the southern coast of Eaos. 
+
+<img src="../../../images/merfae_variants.png" alt="The three types of merfae" class="img-full">
 
 Merfae reproduce a similar fashion to serpentfish, though as with serpentfish, there is some variaton in reproductive strategy.
 Lauan and Abyssal Merfae lay many (hundreds to thousands) eggs all at once, which are fertilized externally. Their young hatch as larvae and look very different from their adult form. 
@@ -402,6 +420,8 @@ Less amphibuous than other merfae, mostly limited to the water.
 There are also a few small groups of unique 'fae not directly related to any of the major bloodlines:
 
 ### Thal'fae
+
+<img src="../../../images/thal_fae.png" alt="A thal'fae in human and shifted form" class="img-right">
 
 Thal'fae are the only lineage of 'fae unique to Quon Xi. 
 Unlike most other 'fae, there abilities stem from a mix of elemental magic and animal shapeshifting.

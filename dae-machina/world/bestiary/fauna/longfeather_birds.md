@@ -10,6 +10,8 @@ Long tail includes two vestigial limbs that give it exceptional maneuverability.
 
 ### Phoenix
 
+<img src="../../../images/phoenix.png" alt="A bird with a featherd crest and a long, three-tufted tail" class="img-full">
+
 Medium sized bird with an orange-red coloration and particularily long tailfeathers.
 Mainly eats insects, especially fireflies.
 
@@ -34,4 +36,4 @@ Occasionally used as fast mounts.
 ## Griffons
 
 Shorter tail, four legs instead of two.
-Skelatal structure is somewhat irregular - forelegs connect after wings, despite being posistioned in front
+Skeletal structure is somewhat irregular - forelegs connect after wings, despite being posistioned in front

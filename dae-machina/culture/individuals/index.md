@@ -37,6 +37,8 @@ Ancient. Resides in the Great library in the City of the Rising Sun.
 
 <h3 id="aeldaal">Æl'daal</h3>
 
+<img src="../../images/mage2.png" alt="Runil, a mage" class="img-full">
+
 **Name:** Rúnil
 
 **Demographics:** Male Æl'daal
@@ -400,6 +402,8 @@ Conrayd has since taken over the castle from his parents, and the two of them no
 **Affiliations:** 
 
 ----------------
+
+<img src="../../images/swordmaster.png" alt="A midh woman in a tabard wielding a fencing sword" class="img-right">
 
 **Name:**
 

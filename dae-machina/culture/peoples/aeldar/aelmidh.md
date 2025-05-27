@@ -1,5 +1,7 @@
 # Æl'mið 
 
+<img src="../../../images/futhern_midh.png" alt="A woman wearing robes decorated with runes" class="img-right">
+
 The Æl'mið inhabit the northen reaches of Eaos-Mhidda. They tend to be tall, with red or blond hair, and blue, green, or purple eyes.
 
 The 'mið have a natural affinity towards enchantment in all its forms. The Futhern Dal are known as great smiths and crafters of magical artifacts. The Dhaigean Islanders use enchanted warpaint and tattoos to enhance their physical abilities.

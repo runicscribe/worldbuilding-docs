@@ -80,7 +80,7 @@ Descendant of Enthu
 
 ----------------
 
-
+<img src="../../images/djinn_dawn.png" alt="Dawn, an air djinn" class="img-full">
 
 **Name:** Dawn
 
@@ -151,6 +151,8 @@ Ancient. Appears as a collection of floating rocks pouring water. Not discernabl
 
 **Name:** Shoal
 
+<img src="../../images/shoal.png" alt="A water 'jinn surrounded by floating water bubbles full of fish" class="img-right">
+
 **Demographics:** Female Water 'jinn
 
 **Description:** 
@@ -165,6 +167,8 @@ Body also often contains some number of fish. Also wears fine silks, color coord
 **Affiliations:** 
 
 ----------------
+
+<img src="../../images/djinn_umbra.png" alt="Umbra, a celestial djinn" class="img-right">
 
 **Name:** Umbra
 
@@ -236,13 +240,15 @@ Carries four broad-tipped scimitars, which he levitates when wielding them.
 
 ----------------
 
+<img src="../../images/kaohi.png" alt="Kaohi, a  fire/earth djinn" class="img-right">
+
 **Name:** Kaohi
 
 **Demographics:** Female Fire / Earth 'jinn
 
 **Description:** 
 
-Fase is sculped marble. Body is pure fire, but tightly controlled.
+Face is sculped marble. Body is pure fire, but tightly controlled.
 Hands are encased in segmented basalt.
 
 Typically wears a red robe enchanted to be be fireproof, bronze jewelry, and wields a Katana.
@@ -251,6 +257,8 @@ Grandaughter of Uriel.
 **Affiliations:** 
 
 ----------------
+
+<img src="../../images/djinn_uriel.png" alt="Uriel, a fire djinn" class="img-right">
 
 **Name:** Uriel
 

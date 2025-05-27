@@ -27,6 +27,9 @@ although their clothing also often incorporates cloth tassels. They also tend to
 Elder fire jinn tend towards flamboyant forms of pure flame. Wings or other extra limbs are common.
 
 ### Air (Lii'jinn)
+
+<img src="../../../images/air_jinn.png" alt="An air 'jinn wearing flowing robes" class="img-right">
+
 Air 'jinn have blonde, silver, or white hair, pale tan or light blue skin, and blue or grey irises. 
 
 Air 'jinn clothing is primarily comprised of ornate layered robes, usually with tassels and ribbons that will float dramatically in the wind. 
@@ -62,6 +65,9 @@ The offspring of 'jinn of two different types may manifest one of the elements o
 - Pyroclast 'jinn can shapeshift into hot, noxious smoke, and are the descendants of air and fire 'jinn. They are somewhat similar to shadow 'jinn.
 
 #### Celestial 'jinn (Sai'jinn)
+
+<img src="../../../images/celestialdjinn.png" alt="A celestial 'jinn" class="img-right">
+
 Celestial 'jinn have an affinity for three or more elements (High Celestial 'jinn have an affinity for all four of the classical elements). 
 Celestial 'jinn shapeshift into a cloud of smoke and dust, interspersed with lightning, crystals, and small glowing balls of plasma. 
 Their precise attributes vary depending on their elemental affinities. Celestial 'jinn often remain in a half form, with a humanoid torso, and a pillar of smoke in place of their legs. 

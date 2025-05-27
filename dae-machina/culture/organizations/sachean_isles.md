@@ -21,6 +21,8 @@ With a tidal range of around 2m, most of these cities have a sea-level area made
 Stairs and ladders run parallel to the walkways, allowing access to the upper and lower levels regardless of sea level.
 Rafts, boats, and larger floating platforms are common in the open areas, and are often anchored to these pillars.
 
+<img src="../../images/sachean_city.png" alt="Profile view of a multilevel city on the water, with a merfae and human in the foreground" class="img-full">
+
 Underwater and abovewater dwellings are often connected by floating lifts, which pass through the otherwise empty inter-tidal section of the building to join the abovewater and underwater parts. 
 Normally, these lifts rest on the ocean surface but can be raised via pulleys.
 Often, they are enveloped by stonework screens which water can pass through freely, while still providing some privacy.

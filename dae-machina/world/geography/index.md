@@ -1,7 +1,8 @@
 # Dae-Machina - The World
 
-The central planet of Dae'machina is called Terra Mendael, and is 30787 km in circumference at the equator (About 77% the size of Earth).
+The central planet of Dae'machina is called Terra Mendael (more commonly known as Dael), and is 30,787 km in circumference at the equator (About 77% the size of Earth).
 
+<img src="../../images/Worldmap_2014_post-cataclysm_compendium.png" alt="Continental Map of Terra Mendael" class="img-full">
 
 # Mhidda - Northeastern Continent: 
 
@@ -91,6 +92,8 @@ Kita Lau is a chain of tropical islands between Quon Xi and the Riftscape. It is
 
 <a name="riftscape" />
 # Riftscape
+
+<img src="../../images/riftscape_mage_climbing.png" alt="A leather-armored woman climbing a landskape of floating rocks and trailing vines, with crumbling ruins and dragon in the background" class="img-full">
 
 The Riftscape is a large artificial magical phenomena created when the Uon tried to create an artificial god/racial power source. This caused a magical overload across the Uon species, and threw the magical energies of the region 
 into chaos. The riftscape is very magically active. Mages are able to draw vast amounts of magical power from any point within the riftscape, but the results of any spells cast in this way will be chaotic and unpredicable. 

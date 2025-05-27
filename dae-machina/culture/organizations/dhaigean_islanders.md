@@ -9,6 +9,8 @@ The Southern Dhagian have decent relations with some of the northern Dhaigean cl
 
 ### Northern Dhaigean Clans
 
+<img src="../../images/WoadWarrior_M_lines.png" alt="A muscular, heavilly tattooed man wielding an enourmous stone sword" class="img-right">
+
 The Northern Dhaigean Clans are quite varied. Some are small, with only a couple dozen individuals, and some have thousands of members.
 Some are led by a council of elders, some by a single cheif. Some choose their leader based on strength, others based on wisdom or magical talent, others by popularity.
 

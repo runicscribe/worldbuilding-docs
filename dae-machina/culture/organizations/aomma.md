@@ -19,6 +19,8 @@ There is one dragon student, and two dragons on staff.
 
 ## Structure
 
+<img src="../../images/aomma.png" alt="Top-down map of the academy" class="img-full">
+
 ### Academy Center
 
 #### Central Tower

@@ -373,6 +373,8 @@ A null or a null shell is an artificially created construct that can be controll
 Remotely controlled corpses (typicaly called "null zombies") also fall into this category. Note that null shells are substantially more common than imprinted or soulbound constructs, 
 whereas conventional zombies are substantially more common than null zombies.
 
+<img src="../../images/golems.png" alt="A figure of clay, a figure of carved stone, and a figure of metal armor" class="img-full">
+
 Null shells can also be created from living beings through a method similar to domination, by erasing their conciousness and leaving only their involuntary functions intact. This is (obviously) highly immoral, and requires
 a fair amount of work to keep the empty body alive, and as such is exceptionally rare.
 

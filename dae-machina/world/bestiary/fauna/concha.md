@@ -51,6 +51,8 @@ They are all strictly aquatic, and typically have a long body, with many legs ad
 
 #### Living Island
 
+<img src="../../../images/living_island_sketch.png" alt="An enormous segmented crustation with a pointed nose and prominent gills" class="img-full">
+
 Living Islands are the largest creatures found on Dael, with the biggest specimens growing up to a kilometer long. 
 
 They have a pointed snout with two antenae and six feathery tentacles that are used to trap krill, jellyfish, and small fish. Where this snout meets their head, Living Islands have two pairs of black compound eyes, 
@@ -66,6 +68,8 @@ After they reach around 1 meter long, they spend more time in open waters. By th
 Living Islands are biologically immortal, and continue growing throughout their life. Kilometer-long specimens are exceptionally rare.
 
 #### Broadhead Leviathan
+
+<img src="../../../images/flathead_leviathan.png" alt="A large crustacean with a broad head" class="img-full">
 
 The broadhead leviathan is and active predator and fast swimmer. 
 They are typically 15-30 meters long and have a large, flat, head shaped like a wide diamond.
@@ -124,6 +128,8 @@ All limbs connect to the center body segment.
 Includes Kiteflys, seraphim moths, ...
 
 ### Seraphim Moth
+
+<img src="../../../images/seraphim_moth_sketch.png" alt="A 6-winged moth resembling a luna moth" class="img-full">
 
 Large, six-winged moth.
 

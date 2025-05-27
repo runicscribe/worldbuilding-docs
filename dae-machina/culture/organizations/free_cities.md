@@ -4,6 +4,8 @@ The *Free Cities* (also called "The Eight" or "The Eight Lordships") are a serie
 This river is readily traversible and forms the backbone of trade across central Eaos.
 It is roughly 3000km long and takes 4-8 weeks to traverse by boat (depending upon whether you are travelling up or downstream)
 
+<img src="../../images/free_cities_cropped_digitized.png" alt="Map of the Free Cities on the Great Eaos River" class="img-full">
+
 Methods of government vary between cities, although most are ruled by one person, generally a Lord or Guildmaster. 
 A council of Leaders from each city meets monthly to settle disputes and govern trade (and other interactions) between cities. There is frequent espionage and minor conflicts between cities (“squabbling”). 
 Varying amounts of corruption, smuggling and counter-espionage among the cities. The free cities are home to a wide and varied mix of peoples. 
@@ -63,6 +65,8 @@ Additionally, various gangs hold power over certain parts of the lower tier and 
 Haven is east of Eaosport, on a different tributary of the Great Eaos river delta, and adjacent to Trader's Bay. Most of the bulk trade between Tethmos and the free cities goes through Haven. 
 The city also hosts many shipyards, which source wood from all along the river.
 
+<img src="../../images/haven_map.png" alt="Top-down map of Haven" class="img-full">
+
 Haven is the oldest and largest of the free cities, founded in 2910 BC by refugees escaping the Lich wars.
 While it was named Haven due to the circumstances of its founding, this name has remained accurate in the modern day, where it has served as a refuge for people fleeing the Uon war, 
 and more recently as a safe harbour for slaves escaping Blackport and its environs.
@@ -82,6 +86,8 @@ and mainly serves as a face for the intersts of the council as a whole.
 The common wisdom in Eaos is that you can get anything in Blackport, for the right price.
 The main city of Blackport is on a crescent-shaped rocky isle at the mouth of the westernmost tributary of the Great Eaos River delta, and is not directly connected to the mainland. The nearest coast is full of impassible swampland, making the city especially isolated.
 There are some fishermen and farmers along the banks of the river, but Blackport primarilly relies on trade for food.
+
+<img src="../../images/blackport_map.png" alt="Top-down and profile maps of Blackport" class="img-full">
 
 Blackport originated as a military base, build in the middle of the Uon war. It fell near the end of the war, and was later reclaimed by pirates, who built it up to its current form.
 Most illicit or morally dubious trade goes through Blackport. This includes drugs derived from swamp plants, slaves from the xhal isles, and any other goods 
@@ -175,6 +181,8 @@ Some illicit trade from Blackport passes through Bridgeport, expediated by hefty
 (although these are sometimes smuggled through anyways). 
 
 Since it straddles the river, it is also a major hub of ground-based trade through central Eaos.
+
+<img src="../../images/bridgeport.png" alt="Top-down and profile maps of Bridgeport" class="img-full">
 
 The city itself is ruled by a single wealthy family, with the role of ruler being passed down through the family, though the specific line of inheritance is rather flexible, being influenced by competance and the favour of the current ruler.
 The ruling family itself has changed a few times over the cities history through various coups, but such changes are rare. 

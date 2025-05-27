@@ -122,6 +122,8 @@ any conflict with the Free Cities would have the potential to economically cripp
 
 ### Hollow Cities
 
+<img src="../../images/hollow_mountian.png" alt="A cutaway map of a multilevel underground city built into a mountain" class="img-full">
+
 Jointly founded by 'jinn, 'midh, 'daal, sometime after the 'jinn reconnected with the Eosian Aeldar in the aftermath of the lich wars.
 Lead by council of representatives of constituent Ael lineages.
 
@@ -130,6 +132,9 @@ Built underground, under the dragonspine mountains. Originally a single city, bu
 Primary exports are gems, metals, and magically shaped tools and art. Import a significant proportion of their food from the Elyos Republic.
 
 ### Dragonspire Citadel
+
+<img src="../../images/ironspire_map_cropped.png" alt="A map of a star-fortress on the side of a mountain" class="img-full">
+
 Dragonspire Citadel is an ancient walled citadel built at the base of the lair of the dragon Ironfire, on the edge of the Dragonspine mountans, about halfway between the AoMMA and the southern Midh territories.
 It is home to a thirveing community of miners, and supported by a number of nearby farms. In exchange for a tithe of their herds and mines, Ironfire lends his flame and magic to the forges of the citadel, '
 allowing it to produce the best steel in the region.
@@ -209,6 +214,8 @@ Adventurers usually prefer a durable outfit that is predominantly leather. Merch
 There is a substantial cultural gap between the first generation of Riftlanders, who lived through the Uon Cataclysm, and the younger generations, who did not.
 
 #### Underhill Crater
+
+<img src="../../images/riftlander_basin_notitle.png" alt="A crater with a city built on the side, and a large rocky outcropping with ruins built on top, floating in the middle" class="img-full">
 
 Capitol of the Riftlanders, insomuch as they have one - at any rate, the largest and wealthiest of the Riftlander cities.
 Old Uon Citadel, in the center of a large, floating piece of stone.

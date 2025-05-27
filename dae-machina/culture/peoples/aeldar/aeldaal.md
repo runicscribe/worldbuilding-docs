@@ -25,6 +25,8 @@ The greatest city-states remained those surrounding the great cities, but new st
 This region was much less densely populated, so these new states tended to control much more land then the city-states on the river. 
 Many small border wars cropped up between the new states in order to actually establish what each one controlled. 
 
+<img src="../../../images/free_cities_daal_merchant.png" alt="A woman with braided hair, a patterened sarong, and an apron" class="img-right">
+
 During this time, there was also some conflict with the Daal'fae, who had been living in central Eaos since well before the 'daal arrived. 
 After about a hundered years of fighting between various groups (though less and less in the latter half of this period) peace treaties were eventually established between most of the involved states, 
 laying the groundwork for a golden age of trade and cooperation between the 'daal – 'mið (though this would not truly bear fruit for another 500 years).
@@ -43,6 +45,8 @@ During this time, the central Eaosian 'daal also made contact with the Kingdom o
 This golden age ended in 500 BC, when the Uon completed their conquest of Xuon and began a campaign against Eaos, starting on the west coast.
 
 ### The Elyos Coalition (400 BC)
+
+<img src="../../../images/free_cities_daal_noble.png" alt="An ornately dressed man with a jaunty flat-topped hat, cloak, and embroidered long skirt." class="img-right">
 
 In the face of the Uon war, the various Æl‘daal states officially unify into the Elyos Coalition. Individual states retain control over internal affairs, but aggre to contribute resources and personall to the war effort, which is to be managed by a single joint authority.
 Officially, the Coalition was comprised of all the central Elyos States, several of the more southern 'midh territories (including Dragonspire Citadel, and the Hollow Cities, 

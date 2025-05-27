@@ -8,7 +8,9 @@ the largest population of dragons in a single place anywhere in the world. The d
 However, it has also collected a couple more eccentric dragons who prefer living among humans to the more traditional draconic lifestyle.
 A few of these dragons will even deign to be ridden by humans on a regular basis, most often on hunting trips.
 
-Dragonhalls is surrounded by extensive farmland on all sides, both in the surrounding valleys and lowlands, and in terraces up the edges of the mountains.
+Dragonhalls is surrounded by farmland on all sides, both in the surrounding valleys and lowlands, and in terraces up the edges of the mountains.
+
+<img src="../../images/dragonhalls_digitized.png" alt="Map of Dragonhalls and the surrounding region" class="img-full">
 
 ## Cuisine
 It is home to particular unique cuisine, which incorporates quite a lot of megafauna - wurms, levaithans, krakens, etc. 
@@ -98,8 +100,10 @@ In modern times, Dragonhalls boasts the closest relations between dragons and hu
 
 ## Government
 
-
 ### Leadership
+
+<img src="../../images/dragonhalls_leader.png" alt="The dragon Turi Skyflower" class="img-full">
+
 Strictly speaking, Turi Skyflower is the sole leader of Dragonhalls, and has complete power over everything.
 
 In practice, there's quite a bit more nuance.

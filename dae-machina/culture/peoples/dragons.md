@@ -105,6 +105,8 @@ The Ael typically try to classify dragons into five types, based on common group
 incidental 'mountain dragon' genes from a couple of generations up the family tree(which, given the lifespan of dragons, could be thousands of years ago) might suddenly show up in the child of two 'plains dragons'. 
 Many dragons show a mix of traits from these categories. Some dragons also use magic to further alter their appearance.
 
+<img src="../../images/dragon_sizes_digitized_scaled.png" alt="Profiles and wings of the five types of dragons" class="img-right">
+
 ### Gold / Horned / Plains Dragon
 
 Plains dragons are the largest type of dragon. They average 25-45m long and 5-9m at the shoulder, with a 1.7-3m long head.
