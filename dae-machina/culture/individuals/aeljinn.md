@@ -69,7 +69,7 @@ Was a protoge of the shaper of new Aelmos, some hundred years after the founding
 
 
 
-<h2 id="modernjinn">Contemporary 'jinn</h4>
+<h2 id="modernjinn">Contemporary 'jinn</h2>
 
 **Name:**
 
@@ -360,7 +360,7 @@ Born in the Hollow Cities, but now lives in New Aelmos. Often travels with merca
 
 
 
-<h2 id="halfjinn">Dai'jinn</h4>
+<h2 id="halfjinn">Dai'jinn</h2>
 
 **Name:** Mira
 
