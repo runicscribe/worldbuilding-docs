@@ -403,7 +403,7 @@ Conrayd has since taken over the castle from his parents, and the two of them no
 
 ----------------
 
-<img src="../../images/swordmaster.png" alt="A midh woman in a tabard wielding a fencing sword" class="img-right">
+<img src="../../images/swordsmaster.png" alt="A midh woman in a tabard wielding a fencing sword" class="img-right">
 
 **Name:**
 
@@ -550,6 +550,8 @@ The biggest danger to humans in its domain is starvation or thirst - while it ma
 ----------------
 
 <h3 id="vyldarthe">Vyldarthe</h3>
+
+<img src="../../images/vyldarthe_wanderer.png" alt="A cloaked humanoid formed from stones and vines" class="img-right">
 
 **Name:**
 

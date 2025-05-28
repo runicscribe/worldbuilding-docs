@@ -96,8 +96,8 @@ Apart from Wurms and Dragons, the largest land animals are Concha - Shorecombers
 The largest mammals are bears and yaks.
 
 No even-toed ungulates (in particular horses). Animal transport is slow - oxen and such.
-No whales. Only aquatic mammals are seals, otters, and similar.
-
+No whales. Only aquatic mammals are seals, otters, and similar. Aquatic megafauna is all crustaceans.
+No rodents - pest species are mostly insects, with some lizards and jellies.
 
 ## Cultural Inspirations
 

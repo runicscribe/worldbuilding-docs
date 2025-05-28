@@ -164,7 +164,7 @@ Like Gyldraed, they can manifest a humanoid avatar to interact with people, thou
 
 ## Vyldarche
 
-<img src="../../../images/vyldarthe_wanderer.png" alt="A clouked humanoid formed from stones and vines" class="img-right">
+<img src="../../../images/vyldarthe_wanderer.png" alt="A cloaked humanoid formed from stones and vines" class="img-right">
 
 Vyldarche are smaller elementals of humanlike size and intelligence. They are primarily wanderers that constantly seek out new places and
 experiences. They have a wide range of appearances, typically mimicking the general shape of some living thing, be it Ael or beast.

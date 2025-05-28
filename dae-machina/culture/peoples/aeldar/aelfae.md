@@ -421,7 +421,7 @@ There are also a few small groups of unique 'fae not directly related to any of 
 
 ### Thal'fae
 
-<img src="../../../images/thal_fae.png" alt="A thal'fae in human and shifted form" class="img-right">
+<img src="../../../images/thal_fae.png" alt="A thal'fae in human and shifted form" class="img-full">
 
 Thal'fae are the only lineage of 'fae unique to Quon Xi. 
 Unlike most other 'fae, there abilities stem from a mix of elemental magic and animal shapeshifting.
