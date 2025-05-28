@@ -5,7 +5,7 @@ permalink: /dae-machina/culture/individuals/aeljinn
 
 # Ael'jinn
 
-<h2 id="highjinn">High jinn</h4>
+<h2 id="highjinn">High jinn</h2>
 
 **Name:** Enthu, the Eternal
 

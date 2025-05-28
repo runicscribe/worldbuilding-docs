@@ -416,7 +416,7 @@ Stored seperately, with a stasis enchantment delibratly designed so that it must
 **Affiliations:** 
 
 ----------------
-<img src="../../images/riftscarred_dragon.png" alt="A dragon covered in spikes" class="img-right">
+<img src="../../images/riftscarred_dragon.png" alt="A dragon covered in spikes" class="img-full">
 
 **Name:**  ___ Riftscarred
 

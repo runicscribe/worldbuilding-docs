@@ -36,7 +36,7 @@ Members of this phylum reproduce sexually by spreading pollen between flowers. T
 
 ### Mana Bloom
 
-<img src="../../../images/mana_bloom.png" alt="A three-petaled flower" class="img-full">
+<img src="../../../images/mana_bloom_sketch.png" alt="A three-petaled flower" class="img-full">
 
 A three-petaled flower with a dark blue/blue-white patern. Each plant/stem has only a single flower.
 
@@ -57,7 +57,7 @@ Its edges are supernatually sharp, to dissuade large herbivores from eating it.
 
 ### Runewood Tree
 
-<img src="../../../images/runewood_tree.png" alt="A gnarled tree with trailling, willow-like branches and knots that appear to form the shapes of magical runes" class="img-full">
+<img src="../../../images/runewood_tree_sketch.png" alt="A gnarled tree with trailling, willow-like branches and knots that appear to form the shapes of magical runes" class="img-full">
 
 Gnarled willowey tree with tendril like branches and long, thin leaves. Leaves are natually a pale grey-green color, but react to any magical fields or auras by glowing with a color related to the inducing magical field.
 

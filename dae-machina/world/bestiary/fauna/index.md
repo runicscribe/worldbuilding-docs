@@ -62,8 +62,3 @@ Have a relatively natural biologies. Some chimeras are fertile and have their ow
 
 Creatures created by purely magical means. The archetypical example is oozes.
 
---
-Notes:
-
-No horses (on Eos only? perhaps on Zhal continent)
-No rodents - pest species are mostly insects, with some lizards and jellies.

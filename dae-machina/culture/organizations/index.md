@@ -50,7 +50,7 @@ While the land controlled by Dragonhalls is relatively small, the political and 
 ## Other Nations
 Nations with a unified government spanning many cities.
 
-### Dhaigean 
+### [Dhaigean](./dhaigean_islanders) 
 
 The Southwest region of Dhaigean Isles is all under control of a single nation.
 Decent relations than the druids and some of the northern Dhaigean clans, and with the Elyos Republic.

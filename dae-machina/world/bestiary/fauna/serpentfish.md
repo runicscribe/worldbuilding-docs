@@ -26,7 +26,7 @@ Most serpentfish lay large numbers of eggs, and do not care for their young.
 
 ### Tentaclefin
 
-<img src="../../../images/serpenfish2.png" alt="A fishlike creature with two tentacles and a long tail" class="img-full">
+<img src="../../../images/serpentfish2.png" alt="A fishlike creature with two tentacles and a long tail" class="img-full">
 
 Front pair of fins include tentacles ending in suction cups
 
