@@ -44,6 +44,22 @@ Sapients without hearts, such as elementals, liches, and eldar 'jinn don't have 
 For larger sub-day intervals, fractions of a day (most often 24 or 36), or arbitrary intervals based on some phenomena (time for a candle to burn, time for an hourglass to empty) are used.
 Many larger cities have a bell-tower, to mark fractions of a day. Otherwise, people figure out meeting times based on the position of the sun. 
 
+#### Local Time Differences
+
+For the most part, time is measured locally based on the position of the sun, and as one travels across the land, the local definition of time changes continuously, to match.
+
+However, some nations do declare certain official reckonings of time, typically based on the location of their capitol, for recordkeeping purposes. 
+Far-ranging mage communities and governments who use instantanous magical means of communication also generally keep track of differences in time between locations, to facilitate effective communication, 
+and may use magical timepieces calibrated to a certain location to aid in this. 
+
+Using the Academy of Magical and Martial Arts as a reference point:
+- Trader's Bay is 1 hour behind
+- Teythmos is 2 hours behind
+- The 'jinn Capitol of New Aelmos is 4 hours ahead
+- Dragonhalls is 5 hours behind
+- The Quon Xi East coast is 8 hours behind
+- The Quon Xi Capital is 10 hours behind. Quon Xi's "offical" time is based on this location.
+- The Quon Xi West coast is 11 hours behind
 
 ### Distance
 

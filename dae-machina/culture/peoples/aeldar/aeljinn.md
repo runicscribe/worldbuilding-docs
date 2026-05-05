@@ -117,23 +117,31 @@ Halfblooded 'jinn typically retain full shapeshifting abilities, and are not usu
 
 ### Ester's Lineage
 
-Εσϑερ (Ester) was an adventurous & magically inclined water 'jinn ~ 1500 yrs ago.
-Travelled Eos. Spent time among High'fae remenants.
+Εσϑερ (Ester) was an adventurous & magically inclined water 'jinn born approximately 1500 years ago. She was deeply interested in the nature of shapeshifting magic, and after spending her early adulthood studying 
+the knowledge of the 'jinn, she spent several years travelled Eaos to learn from other sources. She spent time among varios 'fae tribes and even tracked down some of the few remaining High 'fae to learn from them.
 
-Sired a new 'jinn (or 'fae) variant - Ester's descendants appear similar to water 'jinn at first glance, 
-but actually shapeshift into a unique variety of Ooze. They can change color at will, and secrete a powerful acid. 
-They also have mild psycic abilities, allowing them to better mimic others and communicate when in a form without a mouth.
+Her studies eventually led to a change in her very nature, gaining Ooze-like traits and mastering multiform shapeshifting. For a time, she existed as an ordinary multiform shapeshifter, splitting off and reintegrating forms as convenient.
+Eventually, one of her avatars spent enough time apart that when it returned to her it declined to reintegrate. This caused Ester to rething how she treated her avatars and stop reintigrating them into her main form entirely, triggering the 
+genesis of a new variant of 'jinn (or 'fae). After a few decades of this, Ester had become a collective of similar but distinct individuals. 
 
-Often, when appearing in human form, are still technically ooze-like in substance, just reshaped and colored accordingly.
-This ability also allows them to mimic the form of others, but this is only really good for fooling visual inspection, 
-as their skin still gelatinous, and they don't smell like a normal human.
+Ester's descendants appear similar to water 'jinn at first glance, in that they can shift into an amorphous, watery form. However, they are actually a unique variety of sapient Ooze. They can change color at will, and secrete a powerful acid. 
+They also have mild psycic abilities, allowing them to share memories with each other, read surface thoughts of nearby Ael to better mimic them, and to project their thoughts to others so they can communicate when in a form without a mouth.
+Like Oozes, they are capable of reproducing asexually through fission. As a consequnece, each individual is technically a biological clone of Ester. Individuals retain most of the memories of their projenitor, and tend to have a similar personality.
+Members of Ester's lineage are intelligent, curious, and excel at research. They are also talented mages and particularly skilled in transmutation. Individuals generally count their age as the time from when they last split.
 
-Like most 'jinn, they are effectively immortal.
+As over a milenia has passed since their genesis, any given individual has had enough unique experiences that there is still a fair amount of variation in interests, outlook, and demeanour among them. However, groups of recently split Esters are extreemely
+similar to each other. Such groups are sometimes refered to as Clades by their members, and named after the eldest common progenitor.
 
-Because they technically shapeshift into a creature, some consider them to be 'fae rather than 'jinn, even if their abilities
-are more like that of a 'water jinn than any 'fae. Most Ael'jinn do not consider them true 'jinn.
 
-Like Oozes, they are capable of reproducing asexually through fission.
+Generally, when appearing in other forms, they remain as an ooze-like in substance, just reshaped and colored accordingly. This ability allows them to very easily mimic the form of others, but this is only really good for fooling visual inspection, 
+as their skin still gelatinous, and they don't smell like a normal human. Like most 'jinn, they are effectively immortal.
+
+Because members of Ester's lineage technically shapeshift into a creature, some consider them to be 'fae rather than 'jinn, even if their abilities
+are more like that of a 'water jinn than any 'fae. Many Ael'jinn do not consider them true 'jinn, though others just consider them an aspect of Ester herself and consequently a Sha'jinn.
+
+
+Many are found in Quon Xi - because the original Ester never visited that continent, it makes an intriguing research opportunity for many of her descendents. Aditionally, their skill at mimicing Ael forms lets them avoid much of the 
+xenophobia towards non-'thal that is common in the Empire of the Rising Sun.
 
 
 ## Life Stages
@@ -177,6 +185,16 @@ Among close friends or relatives, there can be a great deal of additional situat
 Less positively, <Given name>'ai is sometimes used as an insult to older nascent 'jinn with the implication of being lesser for not having manifested powers (yet).
 
 Most High 'jinn do *not* follow these conventions, as they generally predate this aspect of 'jinn culture.
+
+### Marriage
+
+Being near-immortal, the traditional "'till death do us part" form of matrimony found in other Ael cultures is a rather larger commitment in 'jinn society.
+As such, they have slightly different customs in this regard.
+
+The conventional 'jinn equivalent of marriage is a ceremony that focuses on joining the families of the two partners together. While 'jinn culture is rather openminded about more casual relationships, 'jinn who have children together 
+are expected to go through this ceremony.  
+
+There is also a much rarer Soul Bonding ceremony, which more closely resembles a traditional marriage for other Ael. This ceremony represents an irrevocable bond for life between two 'jinn, and is exceptionally rare.
 
 ### Ael'jinn Principalities
 

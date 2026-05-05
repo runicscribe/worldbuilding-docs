@@ -46,13 +46,22 @@ Teleportation is sometimes used in such cases, but is not common.
 Primary method of land travel is by foot. (16 - 30 km / day, **20** km/day avg)
 Due to their animal forms, fae on average travel faster - up to **50** km/day
 
+Some [beasts of burden](../world/bestiary/fauna/beasts_of_burden) are also used for travel, but mostly to carry goods, as they tend to be slower than just walking.
+Notable creatures employed this way include:
+- Large crustaceans used for transport and cargo on the coasts of Eaos
+- Hexapede Lizards ridden in Kita Lau and the Riftlands, which are well suited to the rough terrain
+- Floating Jellyfish, as a means of (slow-moving) arieal transport near the edges of the Rift.
+- Levaithans and Wurms used as transport and mobile villages by the ocean-dwelling merfae 
+
 Sea travel - relatively sophisticated sailing ships - 100 - 200 km/day
   Sea - 9 - 18.5 km/h;  100 - 200 km/day; **150** average
   Upriver 5.6 km/h; **60** km/day for major rivers, 15 - 30 for smaller rivers.
   Downriver 11 - 22 km/h ; **120** - 240 km/day
-  
-Some [beasts of burden](../world/bestiary/fauna/beasts_of_burden) are also used for travel, but mostly to carry goods, as they tend to be slower than just walking.
-  
+
+The 'jinn usually rely on magic for transport, either via their natural abilities or through enchanted magical craft.
+
+The Elyos Republic has a functioning teleporter network conecting several of their major cities. This is primarly used to transport people, and valuable non-magical goods.
+
 ### Teleportation
 
 Over any significant distance, requires some form of potent focci at both source an destination
@@ -102,6 +111,23 @@ Magical Train system developed by the Empire of the Rising Sun, for transporting
 Uses a chanelling enchantment to levitate the trains and eliminate most fricton.
 Magical link to series of waterwheels and similar mechanisms to provide propulsion. 
 Relatively high-maintentance.
+
+### Jinn Floating Pavilions
+
+The 'jinn of the Principalities field few traditonal transports. 
+Casual travel between cities is facilitiated by a teleportation network. For other personal travel, their natural magic is usually sufficient.
+They are also too far away from most other nations to maintain consistent external trade routes. 
+
+In the rare cases where some form of group or cargo transport outside of the principalities is needed, 'jinn use enchanted floating pavillions.
+These can vary greatly in form and size - from a single carriage-sized room, to veritable flying fortresses. Some are fully open to the elements, some are fully enclosed rooms, and many are a mix of both.
+Most often they have a flat underside, so that they can rest on the ground if needed.
+
+These pavilions typically have some degree of radial symmetry - single circular rooms and 4 rooms joined in a triangle are both quite common.
+Different principalities tend to have different designs and styles. For instance, sea-jinn pavilions are amphibuous, and also have an open pool in the center for when they sit on the surface of the ocean.
+
+When such pavilions are used to travel to other nations, the local infrastructure often struggles with how they should be handled - sometimes they are moored as ships, sometimes they park outside the city, 
+sometimes they sit near a balcony of one of the taller buildings.
+
 
 ### Sample Travel Routes and Times
 

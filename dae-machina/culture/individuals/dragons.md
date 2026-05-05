@@ -76,7 +76,7 @@ Also a potent telepath.
 In human form: Stark white hair, pale skin, ice-blue eyes. Faint scale pattern at his temples 
 White-dyed armor of horizontal leather strips, white cloak trimmed with silver fur, carries a claymore of ancient design.
 
-Approx 5,600 years old. Fought with against the Ael in Ael-Dragon war.
+Approx 5,600 years old. Fought against the Ael in Ael-Dragon war.
 Some time afterwards, took human form, and sought out challenges. Spent time as the leader of various large Midh clan in the past.
 More recently, mostly fights monsters and bandits. Has slain at least one dragon while in human form.
 Fought with the Ael' in the Uon war.
@@ -227,7 +227,7 @@ Dragonhalls
 
 **Description:** 
 Born 5000 BC, somewhere on mainland Quon Xi. 
-Joined Dragonhalls around 2000 BC
+Joined Dragonhalls around 2000 BC* (Mabe bump this up to Queen's Valley Gathering in 1500)
 Current mate of the leader of Dragonhalls, and father to the Twins.
 
 **Affiliations:** 

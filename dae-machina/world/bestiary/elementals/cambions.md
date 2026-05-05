@@ -13,5 +13,7 @@ Cambions also tend to subconciously produce illusions to alter their apperance.
 Weaker cambions are usually temporary, and may manifest as psychological disorders. Stronger cambions tend to be a force to be reckoned with, and may persist for several centuries.
 Powerfull Cambions are immune to aging.
 
-Cambions are relatively rare. Cambions sometimes originate from cults that tried to summon and bind an elemental in a bid for easy power, and failed the binding part.
+Cambions are relatively rare. 
+Cambions sometimes originate from cults that tried to summon and bind an elemental in a bid for easy power, and failed the binding part.
 
+While still rare, cambions are more common among the 'fae, especially the Xhal'fae, than among other Aeldar groups.

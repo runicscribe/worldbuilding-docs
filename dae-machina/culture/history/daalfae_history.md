@@ -56,15 +56,17 @@ Some 'fae were more open than others, but overal relations were cordial.
 ## 3000 BC: Ael'Daal decline, Lich Wars
 
 Agricultural failures that marked the begining of the end for the early Ael'daal empire had little effect on the 'fae, but did drive the Ael ever-outward, often into lands where the 'fae had previously been the sole residents.
-Cased increase tensions, but nothing major
+This caused an increase in tensions, but no major conflicts.
 
-Many southeast fae tribes enslaved or destroyed. Of these, Hyena tribes are the only ones who still survive in modern day.
-Lion fae relatiosn with Ael soured. Never frendly, but at least cordial; now universally hostile.
-Antelope tribes flee north and east. Some 'fae groups among them chose to embrace new lands more intimately, starting the goat tribes.
+As the lich wars break out and the various lich-kings tightened their grasp on the region, many of the southeastern fae tribes were enslaved or destroyed. 
+Of these, Hyena tribes are the only ones who still survive in modern day. During the lich wars and the Hyenids were enslaved by the liches, and the more animilistic shape they have in the current day.
+ 
+The Lion-fae relations with the Ael permanently soured during this time. While they'd never been frendly, relations had at least been cordial. After the start of the lich wars, they became universally hostile to all Ael'daal.
+The antelope tribes flef north and east. Some 'fae groups among them chose to embrace new lands more intimately, starting the goat tribes.
 Some groups encounter the new Ael'jinn settlement.
 
-Ael'daal refugees begin settling southern great river. Northeast fae still see little impact.
-Some 'fae refugees take over a failed Ael settlement, starting the shapeshifter commune.
+As the lich wars reach their height, Ael'daal refugees begin settling the southern region of the great river. At this point, the northeast fae still see little impact from the displaced Ael.
+As the lich wars wane, some displaced 'fae take over a failed Ael settlement, starting the shapeshifter commune.
 
 ## 2300 BC: Ael'Daal expansion into central Eaos.
 
