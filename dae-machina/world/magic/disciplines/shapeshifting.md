@@ -3,7 +3,7 @@
 Shapeshifting is the transformation of ones body into a different form. Mages specializing in Shapeshifting are referred to as Shapeshifters or Arcane Shapeshifters (to differentiate them from natural shapeshifters). 
 Shapeshifting uses transmutation and sympathy, and sometimes Animancy and Telepathy.
 
-Shapeshifters are split fairly evenly among learned and instinctive shapeshifters (Not counting the ‘fae and other natural shapeshifters). 
+Shapeshifters are split fairly evenly among learned and instinctive shapeshifters (Not counting the [Æl’fae](../../../culture/peoples/aeldar/aelfae) and other natural shapeshifters). 
 Learned shapeshifters are generally capable of taking more forms then instinctive shapeshifters, as well as being more skilled at taking partial forms. 
 Shapeshifters who specialize in simple alterations to their appearance, or other forms of human-to-human shapeshifting are generally learned shapeshifters. 
 Instinctive shapeshifters tend to have a better mastery of a single animal form, including a better control over the instincts of their alternate form, 
@@ -84,7 +84,7 @@ With multiform shapeshifting, the shapeshifter splits into numerous small animal
 With elemental shapeshifting, the shapeshifter transforms their body into some inorganic substance, such as stone, fire, water or smoke, but are still able to move, use magic, and communicate.
 
 The Queen of Ravens is a (incredibly powerful) multiform shapeshifter (at this point, its a matter of debate as to whether or not numerous bodies should be considered a magical bloodline all their own). 
-The Æl’jinn are a magical bloodline of elemental shapeshifters (and in fact are the only magical bloodline of elemental shapeshifters that exists).
+The [Æl’jinn](../../../culture/peoples/aeldar/aeljinn) are a magical bloodline of elemental shapeshifters (and in fact are the only magical bloodline of elemental shapeshifters that exists).
 
 
 ## Shapeshifter Bloodlines

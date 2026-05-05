@@ -82,8 +82,9 @@ If this honorific is used by Ael, it is usually translated directly, rather than
 Most of the worldwide dragon population gathers every 756 years, to exchange news, discuss ammendments to the draconic accords, and introduce new dragons to the wider draconic community.
 The gathering begins following the full convergence at the start of the 756th year follwing the last gathering, and lasts 1 to 3 months. 
 The location of this gathering varies, but it is typically hosted within the domain of an elder dragon.
-This gathering started with the second draconic accords, and has continued ever since.
+This gathering started with the second draconic accords, and has continued ever since. Dragons generally measure time based on Gatherings and on Gathering's of Gatherings (756 Gatherings)
 
+The most recent Tricurcumlunar Gathering happened was the 264,550th since the accords, and the 706th since the last Gathering of Gatherings. It occured in 699 BC, at Dragonhalls. The next will happen in 7 years, near Ironfire Citadel.
 
 Ad-hoc gatherings also occur, to deal with urgent events that affect all dragonkind (the Ael-Dragon war and Uon cataclysm being two examples)
 

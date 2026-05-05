@@ -20,9 +20,9 @@ hunt other living things.
 Skull furies are not recommended for use as a familiar, as the fused
 minds of the elemental and the spirit have the tendancy to absorb or
 drive insane the bound mind of the mage. However, necromantically
-created skull furies can have contraints (eg. stay in a certain area,
+created skull furies can have constraints (eg. stay in a certain area,
 ignore certain people) placed on them, making them powerfull guardians.
-Skull furies were often used as guardians by the ancient Ael. Many of
+Skull furies were often used as guardians by the ancient Ael Lich kingdoms. Many of
 these guardians lie dormant in ancient tombs, only activating when an
 intruder passes by.
 

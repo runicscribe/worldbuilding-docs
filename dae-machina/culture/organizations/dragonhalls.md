@@ -17,7 +17,7 @@ It is home to particular unique cuisine, which incorporates quite a lot of megaf
 Harvesting wide-ranging aquatic megafauna is pretty much the only way for this many dragons in one place to be sustainable.
 
 Draconic residents help with the actual hunt, and in turn benifit from somewhat more sophisticated food preparation than is typical for dragons.
-Some dragons who don't reside in Dragonhalls sometimes visit just for the food.
+Occasionally, dragons who don't reside in Dragonhalls sometimes visit just for the food.
 
 ## Art and Architecture
 
@@ -91,10 +91,10 @@ It has grown substantially since this time
 It has maintained a sizeable population ever since. At any given time, between five and fifteen dragons have resided in Dragonhalls.
 
 Dragonhalls remained independant during the time of the Xeres Empire, and maintained somewhat more equal relations between dragons and humans during that time.
-As a consequence, it served as a haven for refugees from the empire during that time.
+As a consequence, it served as a haven for refugees from the empire during that period.
 
 The two founders died fighting the Uon in 1500 BC and 90 BC, respectively. However, they were successful in preventing the Uon from establishing a foothold in Kita Lau, and later assisted in the later stages of the conflict in Eaos.
-The current leader of Dragonhalls is the second child of the founders.
+The current leader of Dragonhalls is Turi Skyflower, the second child of the founders.
 
 In modern times, Dragonhalls boasts the closest relations between dragons and humans anywhere in the world. 
 

@@ -6,7 +6,8 @@ Often used as a rest stop by nomadic Daal'fae tribes.
 Over the years, the settlement has collected an eclectic assortment of fae inhabitants who felt they didn't fit in with their original family, but also didn't feel comfortable in the non-fae Ael cities 
 - a mix of midh, daal, and xhaal fae, a variety of half'fae, the occasional half-'jinn, and a handfull Ester's lineage 'jinn, as well as a significant number of varied direbeasts.
 
-The commune also grew substantially during the Uon war, as it took in a large number of Xhal'fae displaced by the conflict. Total pop is still less than 10k, and fairly spread out.
+The commune also grew substantially during the Uon war, as it took in a large number of Xhal'fae displaced by the conflict, making it the largest population of Xhal'fae in Elyos. 
+Total pop is still less than 10k, and fairly spread out.
 
 
 While the commune does not actually forbid regular Ael, it is not especially hospitable to them, so only a few especially ecentric individuals live there full time. 
@@ -15,7 +16,7 @@ In addition to these, there are a a moderate number of traders who pass through 
 Very different set of rules and assumptions from a normal Ael city, or even a 'fae clan.
 Adopted the 'daal practice of identifying armbands, although have developed their own system on top of this that also incorporates jewelry in different colors to indicate things such as sexual interest, etc. 
 No laws (or even cultural taboos) around nudity. 
-Public sex is permitted (even encouraged), but generally considered as an open invitation to join in.
+Public sex is permitted (even encouraged), but is also generally considered as an open invitation to join in.
 
 A ban on grievous violence and murder are the only truly hard laws in the commune. A small council is elected to enforce these laws, selected by nomination and confirmed through ritual combat.
 

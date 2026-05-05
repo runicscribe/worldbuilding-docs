@@ -25,11 +25,12 @@ Conflicts between the clans and the Drakkar of the isles hold no such civility.
 The southern isles are controlled by a single nation. They originated sometime after the dragon war, the extent of their borders has varied greatly in the intervening time.
 
 They are culturally rather distinct from other 'mið, though they still speak a similar language and worship the same gods. These cultural differences are most immediately apparent in their appearance. 
-They southern Dhagian are never seen in public with loose hair - it is either intricately braided, or wrapped in a headcloth. Men are most often clean-shaven.
+They southern Dhagian are never seen in public with loose hair - it is either intricately braided, or wrapped in a headcloth. Men most often have clean-shaven faces. However, long hair is also considered a status symbol and signifier of wealth - 
+the wealthiest members of society wear their hair in long braids, and many of the men have braided beards. Only slaves have shaven heads.
 They also have a distinctive style of dress - while the northern clans tend towards greatkilts and similar wrapped garments, the southern Dhaigean primarly wair well-tailored jackets over tunics and pants.
 
 They are treated much like any other clan by the northern Dhagian clans, albeit a large and powerfull one. They maintain trade relations with several of the northern clans.
 
-The southern Dhaigean are also skilled seafarers, another trait that sets them apart from the northern clans. Through this, they also maintain trade with the Elyos Republic, mainly though Teythmos.
+The southern Dhaigean are also skilled seafarers, another trait that sets them apart from the northern clans. Through this, they also maintain trade with the coastal Drakkar clans and the Elyos Republic, mainly though Teythmos.
 
 They have little contact with the Futhern Dal, as the Southern Dhaigean dislike traveling overland on the mainland, and the Futhern Dal don't travel by sea and have no citadels on the coast.

@@ -17,34 +17,35 @@ The free cities were originally part of the Elyos Coalition during the Uon-'daal
 
 ## Eosport
 
-The "face" of the free cities. Not the most wealthy or influential, but still quite important. Contains the meeting place for the free cities council.
-Generally agreed upon as neutral ground among the cities. 
-Eosport is also the primary port of travel between the free cities and Teythmos, and hosts embassies for a number of nations.
+Eaosort is regarded as the "face" of the Free Cities. While the city is not the most wealthy or influential, it is still quite important. In particular, the city contains the meeting place for the Free Cities council, 
+and is generally agreed upon as neutral ground among the cities. Eosport is also the primary port of travel between the free cities and Teythmos, and hosts embassies for a number of nations.
 
-Eaosport is primarly built on the ruins of the former Elyos capital, at the time called New Aelmos (not to be confused with the 'jinn city of the same name). It was originally founded in 2500 BC, 
-and razed by the Uon in 100 BC, after which the Elyos coalition moved their capital to Tethmos.
+Eaosport is primarly built on the ruins of the former capitol of the Elyos Coalition, and was originally named New Aelmos (not to be confused with the 'jinn city of the same name). 
+It was founded in 2500 BC, but razed by the Uon in 100 BC, after which the Elyos coalition moved their capital to Tethmos. The city was quickly recaptured, and served as a military base and staging ground through the last 100 years if the Uon war, 
+but it wasn't until after the war that a dedicated effort to rebuild began and the city became known as Eaosport.
 
 Eaosport is one of the four founding cities of the Free Cities Alliance, alongside Bridgeport, Grandel, and Kenford.
-It has not regained the size or power it had before the war, but is still a large and influential city.
 
-Eaosport is more stratified than Haven - noticible divide between Docks / Merchants Circle / Upper City
-In particular, different peacekeeping forces
- - Upper City Guards
- - City Watch - technically have jurisdiction over the whole city except the High Council Chambers, but in practice mostly only present in Merchants circle and various gates/bridges
- There are also private forces present in certain areas
- + Private Mercenaries employed as guards in the Merchants quarter, and some warehouses in the docks
- + Assorted Gangs in the docks
-
+In part due to the destruction and subsequent rebuilding of the city, Eaosport is more stratified than Haven, with a noticible divide between the three main tiers of the city.
+This is most immediately apparent in the different peacekeeping forces seen in the three tiers of the city.
+ - The **Upper City Guards** are a force dedicated to protecting the leadership of Eaosport and the High Council Chambers. The answer to the leader of Eaosport and to the treaty between the Free Cities, and to nothing else. While they wear quite ornate uniforms, 
+   they are not merely ceremonial, and each member of the guard is an elite soldier. Most are also competent mages. The guard includes an intelligence branch to identify and neutralize potential threats.
+ - The **City Watch** is supposed to be a peacekeeping force responsible for the whole of Eaosport (aside from the High Council Chambers). In practice it is mainly present in Merchants circle and at the various gates and bridges leading into the city 
+   and each of its circles.
+ - The lower city and slums lack any official peacekeeping presence. Instead, assorted gangs "provide" protection for the residents of both regions, while private mercenaries protect the assets of various merchants that are held in the warehouses and ships 
+   of the lower city. Such mercenaries can also be found in the Merchant's circle, guarding shops and other private buildings.
+   
 ### Layout
 
 <img src="../../images/eaosport_map_lb.png" alt="Top-down map of Eaosport" class="img-full">
 
 The city layout roughly follows that of the ruins it was built on top of.
-The main city is built on the southeast coast of the river, and divided into three tiers, each being further inland and higher in elevation.
+The main city is built on the southeast coast of the river, and divided into three tiers, each being further inland and higher in elevation, with walls (remaining from the original city) dividing them.
 These tiers are connected by three broad avenues, radiating from the city center.
- - The first tier is the main working hub of the city, consisting primarly of docks and warehouses.
- - The second tier is the middle city, with inns, merchants and marketplacess, dwellings, and artisans.
- - The third tier is the domain of the higher classes, containing manor houses of lords and wealthy merchants, embassies, banks, and select luxury shops.
+ - The first tier, called the **Docks** or the **Lower City**, is the main working hub of the city and consists primarly of docks and warehouses. This is almost entirely new construction, from the rebuilding effort after the Uon war
+ - The second tier is called the **Middle City** or the **Merchant's Circle**, with inns, merchants and marketplacess, dwellings, and artisans. This is also mostly new construction, though generally higher quality than that of the first tier.
+ - The third tier is called the **Upper City**, and is the domain of the higher classes, containing manor houses of lords and wealthy merchants, embassies, banks, and select luxury shops. Many of the original government buildings and palaces from 
+   this part New Alemos survived the city's destruction, and were restored during the building effort, giving this tier a distincly architectural style, incorporating much more stone than the wood-framed buildings typical of the new construction.  
 
 The city center is about 1.5 km inland, and includes various government buildings, with the Council of Lords at the center, where the eight lords of the Free Cities council meet.
 
@@ -75,7 +76,7 @@ Haven is very much a city that has grown up over the ages, functioning more like
 Districts are frequently dominated by enclaves of local, wealthy families, who have their own personal guards, supplemented by mercenary forces.
 
 By its constitution, the city is managed by a representative democracy, with representatives elected from each of the many districts.
-In practice, it functions more as an oligarchy, with as the various entrenched powers across the cities districts have enough influence to sway the elections in their favour, baring the occasional coup.
+In practice, it functions more as an oligarchy, as the various entrenched powers across the cities districts have enough influence to sway the elections in their favour, baring the occasional coup.
 Despite this, the city is reasonably well-run, and a decent place to live for even its poorer residants.
 
 The council of representatives elects their own prime minister, to represent the city in the Council of Lords. While this role is prestigious, the prime minister does not hold any more power than any other representative, 
@@ -185,7 +186,7 @@ Since it straddles the river, it is also a major hub of ground-based trade throu
 <img src="../../images/bridgeport.png" alt="Top-down and profile maps of Bridgeport" class="img-full">
 
 The city itself is ruled by a single wealthy family, with the role of ruler being passed down through the family, though the specific line of inheritance is rather flexible, being influenced by competance and the favour of the current ruler.
-The ruling family itself has changed a few times over the cities history through various coups, but such changes are rare. 
+The ruling family itself has changed a few times over the cities history through various coups, but such changes are rare. Including the current ruling family, there are five major families that control most of the wealth in Bridgeport
 
 Bridgeport was originally founded in 2490 BC, though the great bridge that gives it its name was not built until several centuries later.
 
@@ -195,39 +196,46 @@ The city also employs a constabluary, tasked with keeping the peace and stopping
 ## Elgate
 
 Elgate is a smaller city between Bridgeport, Eosport, and Haven. It subsits almost solely on income from tariffs and travellers (lodging, etc.). 
-The city is on the same delta as Eosport, and there is a little-travelled ground path between them.
+The city is on the same delta as Eosport, and there is a lightly-travelled ground path between them.
 
 Elgate is currently run by a merchant family, which took control after the Elyos army moved out at the end of the Uon war.
 
 While the land on which Elgate sits has been populated for a very long time, it only really grew to a true city in 100 BC, after New Aelmos was razed by the Uon, and the fleeing inhabitiants moved north.
-It rapidly grew from a fortified refugee camp to a true city.
+It rapidly grew from a fortified refugee camp to a true city during this time. This recent growth means that most of the buildings in Elgate are of a very modern style compared to the other Free cities, and mostly made of wood.
 
 ## Vindel
 
 Vindel is upriver of Bridgeport, on the northwest bank. It serves as a hub for many vinyards and other farms in the area, and is generally considered to produce the best wine in the region. 
-Ships goods overland to Elyos, as well as up and down-river. Vindel was founded in 2300 BC, and is ruled by a hereditary monarchy. 
+Ships goods overland to Elyos, as well as up and down-river. Vindel was founded in 2300 BC, and is ruled by a hereditary monarchy. While Vindel is best known for its wine, 
+the surrounding farms also produce a significant amount of food, much like Grandel.
 
 The farms and vinyards that feed Vindel overlap the borders of Elyos (even moreso than most of the Free Cities), but in practice they fall under the domain of Vindel.
 The city itself employs two different guard forces
- - City Guards
- - Citadel Guards
+ - City Guards, who answer to the city bureacracy and serve as a general policing force.
+ - Citadel Guards, who answer directly to the monarch of Vindel, guarding their, and acting as an escort when they represent the city at the Council of Lords.
 
-The winemakers and mercants of the city also hold significant political power, and many of the vinyards employ their own mercenary guards.
+The winemakers and merchents of the city hold significant power, and many employ their own mercenary guards.
 
 At the end of the Uon war, Vindel initially became part of the Elyos Republic. However, it seceeded to join the Free Cities in 13 AC. This was mainly for economic reasons - The initial group of Free Cities included both Grandel and Bridgeport, 
 so Vindel was getting hit by tarrifs upriver and downriver. Joining the alliance brought vindel into the Free Cities trade group, getting them out of this undesireable situation.
 
 ## Grandel
 
-Grandel is Vindel's sister city. It is located in the center of a large swath of farmland, especially grain. The city produces a significant percent of the Free Cities food supplies, and also ships food overland to other regions.
+Grandel is Vindel's sister city. It is located in the center of a large region of farmland, especially grain. The city produces a significant percent of the Free Cities food supplies, and also ships food overland to other regions.
 Like Vindel, the surrounding farmland extends into Elyos but still effectively belongs to the city.
 
-Grandel is the second-oldest of the free cities after Haven, and was founded in 2690 BC. Historically
+Grandel is the second-oldest of the free cities after Haven, and was founded in 2690 BC.
+Grandel has been surrounded by farmland for as long as the city has existed, and served as the focus for the Ael'daal's early expansion into cental Eaos.
+During this time, the 'daal ftequently came into conflict with the local 'fae, and in later years Grandel has remained a symbol of the tension between the two peoples.
+
+Even in the modern day, discrimination against the 'fae is very common in the city and the surounding regions.
 
 The city employs a cadre of rangers help keep its fields and farms secure and project power into the nominal borders of the Elyos republic. 
 In addition to food, Grandel produces wines, textiles, and other goods. It is the furthest upriver of the major free cities.
 
-Grandel was one of the four founders of the Free cities.
+Grandel is ruled by a council of merchant families, who elect a speaker each year that represents them on Council of Lords and to other foreign powers.
+
+Grandel was one of the original four founding cities of the Free cities.
 
 ## Kenford
 
@@ -235,9 +243,11 @@ This city straddles the river between Vindel and Grandel, and benefits from trad
 In addition to being a notable trade center (comparable to Eaosport, but not quite at large as Bridgeport or Haven), the city is also a respectable hub of magic.
 It hosts a guild of mages, not beholden to the Elyos Republic (unlike the AoM&MA).
 
-Prior to the Uon War, Kenford was a small port city between Vindel and Grandel, of little renown, though still quite old, having been founded in 2200 BC. During the Uon war, it was the base of a operations of renowned Mage-general, 
+Prior to the Uon War, Kenford was a small port city between Vindel and Grandel of little renown, though still quite old, having been founded in 2200 BC. During the Uon war, it was the base of a operations of renowned Mage-general, 
 who established the Kenford Mages Guild in 30 BC. When the Free Cities split from the Elyos Republic in the aftermath of the war, he became the ruler of Kenford, and positioned the city as a center of arcane learning in the Free Cities, 
 independant from the Elyos-controled AoMMA. Since then, its importance has increased significantly. The city is currently ruled by his son.
+
+Because Kenford's two neighboring cities are rather hostile to the 'fae, Kenford hosts a rather large population of 'fae, both transient and permanent residents.
 
 ### Layout
 
@@ -279,7 +289,7 @@ The current guildleader is in her late 50's, and has led the guild for over 20 y
 The Kenford guard is responsible for policing, security, customs, and taxation throughout the city. They report directly to the city's ruler.
 Their uniforms consist of a red-dyed leather surcoat with silver detailing and a cloak - grey for regular guards, grey with red trim for lieutenants, and red for captains. This has earned them the moniker "Greycloaks".
 
-The guard includes a disproportionate number of magical adepts, with most of the force having at least some magical talent, and almost half being skilled mages. 
+The guard includes a significant number of magical adepts, with most of the force having at least some magical talent, and almost half being skilled mages. 
 The adepts among the guard wield arcane staves capped in sky-blue crystal in place of spears.
 
 ## Others

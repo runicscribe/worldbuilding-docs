@@ -34,7 +34,7 @@ Clockwise
 
 <img src="../../images/crescent_route_deerfae.png" alt="An antelope fae wearing a poncho and carrying a backpack" class="img-right">
 
-This caravan route follows the edges of the Eaosport Sea: From the shapeshifter commune, to an occasional meeting with the center inland tribe, then through the coastel free cities, and ending at one of the northernmost Riftlander settlements.
+This caravan route follows the edges of the Eaosport Sea: From the shapeshifter commune, to an occasional meeting with the center inland tribe, then through the coastal free cities, and ending at one of the northernmost Riftlander settlements.
 Every 3-4 years, this includes a meeting with the Great Plains tribe shortly after leaving this settlement.
 The journey takes 3 months from start to end, for a 6 month round trip. As this journey lines up with a monthly interval, this caravan mainly follows the goldmoon.
 
@@ -98,13 +98,13 @@ Counterclockwise
 GP 1.3 after/EV .5 before
 
 ### Eastern Mountain Tribe
-
+-1 -2.* -2 0 -1 -2.* -2 0
 Clockwise circuit starting at Arcmuth, following the Dragonspine mountains, and returning through the northerly plains, returning to Arcmuth after three-fifths of a year.
-Meets wiht Northern Foothils tribe near Arcmuth about every 12 years.
+Meets with Northern Foothils tribe near Arcmuth about every 3 years.
 Meets with the Eastern Valley Tribe approximately every other year, except in years meeting the Northern Foothills tribe.
 
 Consists mainly of Goat Fae, plus some various antelopes.
-Similar to the Crescent Route, this caravan traverses a fairly rough route, mainly accross montainsides, and therefor includes few wagons, with everything being caried by the caravan members.
+Similar to the Crescent Route, this caravan traverses a fairly rough route, mainly accross montainsides, and therefore includes few wagons, with everything being caried by the caravan members.
 Shelters are mostly intricate folding contraptions made of wood and various textiles dyed in bright colors - cotton, wool, and others.
 
 4.2 mth Cycle (7 x 3/5)
@@ -113,6 +113,10 @@ Clockwise
 NF 1.2 mth before i
 
 ## Caravan Meeting Calendar
+
+Caravans have a long history of sophisticated time and date tracking based on lunar convergences, relative positions, and timing of moonrise and moonset, which allow them to reliably arrange meetings with other caravans at traditional times and locations.
+This is especially relevant for those caravans which meet irregularly.
+
 
 ```
      1                           2                           3                           4                           5                           6                           7                           8                           9                          10                          11                          12                          13                          14                          15

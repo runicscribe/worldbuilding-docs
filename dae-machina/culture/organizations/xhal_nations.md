@@ -62,9 +62,10 @@ Some tribes revere dragons as something to aspire to, but always from a distance
 
 Poor relations with the Quon Xi empire.
 
-### Coastal Merfae
+### Coastal (Lauan) Merfae
 
-Coastal Merfae often have close relations with nearby Ael'Xhal and Xhao'fae tribes.
+The Merfae found on the coastline of Kita Lau are typically subsitance hunters living in small, semi-nomadic clans. 
+They have an uneasy truce with the Ael - generally, they have close relations with nearby Ael'Xhal and Xhao'fae tribes, but are more wary of outsiders.
 
 ### Xencha Defiant
 
@@ -73,7 +74,8 @@ They are one of the very few communities in which Ael'xhal and Xhal'fae live tog
 
 While they may make camp in the same location for a while, they do not build permanent settlements, and can pack up camp and be ready to travel at a moment's notice.
 As a consequence, they keep few possesions, limited by what they can easily carry. The 'fae members of the Xencha are especually proud of their self-sufficiency, and typically eschew clothing and weapons, beyond their natural claws and fangs.
-The human members don't carry (or wear) much more, usually limiting themselves to simple (but well-made) weapons like spears and bows, along with pouches and sachels for food and medicines.
+The human members don't carry (or wear) much more, usually limiting themselves to simple (but well-made) weapons like spears and bows, along with pouches and sachels for food and medicines. Both 'fae and ael members regularly wear jewelry, 
+often of copper and semiprecious stones, though generally not too much, to retain their stealth and mobility.
 
 
 Despite their isolation and relatively aesetic living conditions, retain a fairly high level of technology, at least to the degree that is feasible with no industrialization.
@@ -166,8 +168,11 @@ Only a couple still practice human sacrifice.
 
 ### Rifttouched
 
-Mostly Xhal'fae, residing near the center of the Riftscape. Rare. Strange powers.
+Deep within the riftscape there are scattered groups of Xhal, almost all of them feline Xhal'fae. This group is somewhat mysterious, with every individual having strange and unique powers, often centered on manipulation of or resistence to magic.
+Those who continue to reside in the riftscape are mostly sustinence hunters. However, some groups have banded together and formed a budding civilization on the shards of Xuon at the outer edge of the rift. While this is a very young civilization,
+it has so far been quite prosperous, as the abilities of the Rifttouched have allowed them to thrive outside the deadly environment of the rift.
 
+A handful of individual Rifttouched can also be found scattered across Kita Lau, the Shards of Xuon, and Trader's Bay, most often working as some sort of mercenary.
 
 ### Lauan Dragon Cult
 

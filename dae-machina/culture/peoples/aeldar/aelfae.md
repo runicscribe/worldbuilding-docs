@@ -21,7 +21,7 @@ Pregnacy inhibits the ability to shapeshift. Æl'fae who become pregnant in anim
 Æl'fae social practices are usually loosly modeled on those of the animal form they favor. Various groups will also have their own unique cultural affects, like any other group of people.
 
 The specific subspecies represented by the animal forms of the various 'fae tribes generally do not exist as mundane animals. Such species did exist in the past, but were typically outcompeted by their 'fae counterparts, 
-or interbred with the fae so as to become indistinguishable. Mundane and magical animals which are similar generally do exist. Such counterparts are typically adapted to a slighly different ecological niche, 
+or interbred with the fae so as to become indistinguishable. Mundane and magical animals which are similar generally often do exist. Such counterparts are typically adapted to a slighly different ecological niche, 
 or have some unique ability which puts them on a more even footing with the local 'fae. In a couple cases there aren't any similar animals remaining. 
 For example, outside of the eastern Daal'fae there are no other extant animals which resemble lions (though in this case the vast desert caused by the lich wars was as much to blame as the fae for their extinction).
 
@@ -89,7 +89,7 @@ Magic among the cervid tribes is mosly limited to basic herbalism and healing ma
 
 ### Lion Tribes
 
-Among all the Daal'fae, the Lion Tribes have the fewest animal features in their humanoid form.
+Among all the Daal'fae, the Lion Tribes have the fewest animal features in their humanoid form. They are also among the oldest of the 'fae peoples.
 Their body appears entirely human, apart from a lion tail and claw-like nails. They have a human face, with a broad, blunt nose, leonine eyes, and ears that are halfway between human and lion.
 While they have quite dark skin like most southern 'daal, the majority of their body is covered in short, light-colored fur, which gives them them a paler complexion than most other daal'fae.
 Their dark skin is exposed on the inside of their ears, nose, and eyelids, the soles of their feet and hands, and their nether regions.  
@@ -413,8 +413,7 @@ Two pairs of gill slits on the torso, just below the ribs.
 
 Most Abyssal Merfae have some ability to alter their form, e.g add more tentacles.
 
-Less amphibuous than other merfae, mostly limited to the water. 
-
+Less amphibuous than other merfae, mostly limited to the water.
 
 ## Other 'fae
 There are also a few small groups of unique 'fae not directly related to any of the major bloodlines:
@@ -454,6 +453,29 @@ They are effectively immortal due to their shapeshifting magic, and generally ha
 High fae are quite rare, and most are from the age of the Ældar, before the modern fae tribes were formed, and as such are rather different than modern fae. 
 
 Unlike the High 'jinn who regularly live among modern 'jinn, High 'fae rarely take part in modern 'fae society.
+
+## Hybrid 'fae
+
+Most 'fae lineages can reproduce with other Ældar. The main exception to this are Merfae, who are mainly only fertile with other Merfae, and even then fertility between different Merfae lineages is low.
+
+The fertility of such pairings loosely corresponds to the physiological similarity between the two participants at time of coupling. 
+For example, a Midh'fae coupling with an Æl'daal while in human form would have a greater chance of conception than a Daal'fae coupling with an Æl'daal while in hybrid form.
+If the Midh'fae was instead in wolf form, they would have a lesser chance of conception (though still nonzero) than either of these pairings.
+
+The outcome of a succesful pairing will only sometimes inherit the appearance and abilities of their 'fae parent. Broadly speaking, the possible outcomes are described by Shapeshifter Bloodlines section of the 
+[discipline of shapeshifting page](../../../world/magic/disciplines/shapeshifting). Æl'fae ancestors further up the family tree will increase the likelyhood of their descendents inheriting 'fae traits.
+For those 'fae which default to a hybrid form, their half-blooded children may retain some animal features while not inheriting any shapeshifting abilities.
+
+Pairings between *different* fae bloodlines have less well defined outcomes, and can result in a variety of unique traits: 
+ - Mixed animal features in their hybrid form.
+ - Ability to shapeshift into two different animal forms.
+ - Ability to shapeshift into a single animal form that is a combination of their parents form.
+
+Unique traits are not guaranteed - the offspring of a hybrid pairing can also just have the same traits as one of their parents, most often their mother.
+Due to the long history of mixed-lineage 'fae communities and gatherings, and the prevelance of discrimination against 'fae by other Ældar, mixed blood 'fae offspring are relatively common.
+
+Æl'fae and Æl'jinn pairings produce similar outcomes to hybrid 'fae pairings. 
+
 
 ## Fae Cities
 

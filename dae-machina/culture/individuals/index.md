@@ -5,6 +5,7 @@ Individuals of note from the various peoples of Dae'machina
 ## Index
 
 * [Ældar](#aeldar)
+  * [Old Ældar](#oldaledar)
   * [Æl'daal](#aeldaal)
   * [Æl'fae](#aelfae)
   * [Æl'jinn](./aeljinn)
@@ -20,6 +21,7 @@ Individuals of note from the various peoples of Dae'machina
 
 <h2 id="aeldar">Ældar</h2>
 
+<h3 id="oldaeldar">Old Ældar</h3>
 **Name:**
 
 **Demographics:** Ael Spirit (Natural Revenant)  
@@ -29,135 +31,9 @@ Individuals of note from the various peoples of Dae'machina
 Librarian Spirit.
 Ancient. Resides in the Great library in the City of the Rising Sun.
 
-
-
 **Affiliations:** 
 
 ----------------
-
-<h3 id="aeldaal">Æl'daal</h3>
-
-<img src="../../images/mage2.png" alt="Runil, a mage" class="img-full">
-
-**Name:** Rúnil
-
-**Demographics:** Male Æl'daal
-
-**Description:** Pale Skin. Dark, straight hair short-cropped pointed beard.
-Born 34 AC. Son of a minor Free Cities noble. First cousin to the heir of Vindel, and 2nd cousin to Lord of Kenford. 
-Grew up in an estate near Vindel. Later, became a student at AoMMA. Eventually established his own tower somewhere north of the Free Cities.
-Ultimately became a lich.
-
-**Affiliations:** Free Cities, AoMMA, Eldar Council (after ~500 AC)
-
-----------------
-
-**Name:**
-
-**Demographics:** 
-
-**Description:** 
-
-
-Born 125 BC in the city of Armuth to a midh artificier-smith and a young daal battlemage.
-Fought as a soldier right as the Uon - 'daal war began to get serious, from 108 BC - 97 BC. Leg was wounded in combat, and became a blacksmith for the war effort for another 20 years, until retiring to a small town far away 
-from the fighting in 77 BC. Continued to forge masterwork swords for officers in the war, and was somewhat renowned among swordsmiths of the time.
---
-During retirement, was tempering sword for [?]
-Small geoup of Bandits (mostly hungry war deserters) march into town. Leader demands village's food.
-Smith grabs forge hammer confronts them, but is immediately backhanded by one of the bandits and knocked to the ground, injuring her badly enough that she can't immediately get back up.
-Things go south from here. Village headman confronts bandit leader, who runs him thorugh. Smith finds a preternatural burst of strength grabs unfinished sword, still hot, and rushes the bandits.
-Her body continues fighting long after she should have died, and once all the bandits were dead or gone, the sword lay atop her body, still hiltless, but honed to perfection.
---
-While some of the other villagers were injured in the fighting, the smith and the headman were the only casualties.
-Nearby soldiers show up an (hour? day?) after the fighting. Aghast at the carnage, help with cleanup.
-Smith's son and apprentice (age 13) finds blade in pile of metal scrap after cleanup & finishes it in her memory. Takes it with him a year later when he goes to join the [Uon] war.
-Gave sword to a young officer when he retired from active duty, knowing it would protect them.
-Near front lines during the cataclysm, and lost.
-The years following were rather chaotic. Eventually found by a riftlander, sold to a wandering mercenary, who was then killed by bandits.
-
-Soul remains in the sword. Guides combat of wielder, but can only be wielded by effectively by defenders of the innocent. Otherwise will sabotoge your actions, usually at a crucial junction.
-Telepathic, but not very talkative. Only speaks to a wielder she feels kinship with 
-
-TBD: 
-* Birthdate/Deathdate; What war is she a veteran of -> Either early Uon war ~100 BC, or daal-midh conflict ~2100BC
-* Sword - origionally comissioned for who?
-* Fate of village she defended - destroyed, but did everyone (anyone?) escape or not?
-* First wielder - righteous or evil?
-
-
-**Affiliations:** 
-
-----------------
-
-**Name:**
-
-**Demographics:** Female 'daal
-
-**Description:** 
-
-Dark, straight, shoulder-length hair. Broad shoulders.
-Typically wears an outfit consisting of knee-length leather boots, a knee-length diagonal-cut skirt, a cropped, diagonal cut vest with flared sleves, and a leather satchel.
-
-Skilled chimerist based out of Arcmuth. One of the largest suppliers of [null grubs](../../world/bestiary/fauna/abberations) in eastern Eaos.
-She maintains a private laboratory some ways outside of Arcmuth, along with a couple different storefronts in the city. She ocasionally runs practical chimerist classes at the AoM&MA.
-
-In addition to her main business producing null grubs, she also works in chimerism research, mainly involved producing various small bespoke chimeric constructs. 
-
-**Affiliations:** 
-AoM&MA, Arcmuth.
-
-----------------
-
-
-**Name:**
-
-**Demographics:** M Ael'Daal
-
-**Description:** 
-
-One of the founding members of the Necromancer County
-
-Primarly an agricultural/weather mage. Not skilled in necromancy. 
-
-Handles most of the public interactions and offloading of surplus crops. Quite moral, handles the necromancer county as an excellent scientific opportunity.
-
-
-**Affiliations:** 
-Necromancer County. AoMMA
-
-----------------
-
-**Name:**
-
-**Demographics:** F Ael'daal with shapeshifter heritage.
-
-**Description:** 
-
-Formerly high level animancy researcher at AoM&MA, who has since moved on to expirimental necromancy. Skilled in most applications of animancy, and is a strong shapeshifter. 
-Barring graverobbing and 'desecration' of corpses, generally moral.
-
-One of the founding members of the Necromancer County
-
-**Affiliations:** 
-Necromancer County, AoMMA, Sandwalker Hyena Tribe
-----------------
-
-**Name:**
-
-**Demographics:** F Ael'daal
-
-**Description:** 
-
-Archivist for the Order of Sion.
-
-Based in the Great Library in Eaosport.
-Has a magiacally supplemented memory.
-
-**Affiliations:** 
-Order of Sion
-----------------
-
 
 **Name:** Ael'syi Council
 
@@ -257,6 +133,128 @@ As a consequence, this lich saw a resurgance in power in the waning years of the
 
 ----------------
 
+<h3 id="aeldaal">Æl'daal</h3>
+
+<img src="../../images/mage2.png" alt="Runil, a mage" class="img-full">
+
+**Name:** Rúnil
+
+**Demographics:** Male Æl'daal
+
+**Description:** Pale Skin. Dark, straight hair short-cropped pointed beard.
+Born 34 AC. Son of a minor Free Cities noble. First cousin to the heir of Vindel, and 2nd cousin to Lord of Kenford. 
+Grew up in an estate near Vindel. Later, became a student at AoMMA, eventually specializing in enchanting.
+Responsible for crafting some of Wysteria's gear.
+
+Eventually established his own tower somewhere north of the Free Cities.
+Ultimately became a lich.
+
+**Affiliations:** Free Cities, AoMMA, Eldar Council (after ~500 AC)
+
+----------------
+
+**Name:** Charikleia of Teythmos
+
+**Demographics:** Female Æl'daal
+
+**Description:** 
+
+Charikleia is the current Archmage of the Academy of Magical and Martial Arts. Charikleia specializes in channelling and scrying. She is a very subtle magic-user. 
+While not the most powerfull, or most knowledgeable magic-user of the Academy, she is still skilled, fast, and subtle - and as a consequence could still beat most any normal mage arcane combat.
+Charikleia has a very extensive wardrobe - largely as a consequence of her noble background and the diplomatic work she is involved in. Her history of spycraft has led her to regularly carry concealed weapons and other tools of the trade
+In order to facilitate this, her wardrobe tends towards long sleeves and voluminous petticats.
+
+Charikleia has 2 children - a 39 year old daughter (though their relation is closer to cousins) and a 22 year old son.
+
+She was born a few years before the Uon Cataclysm, to a minor noble family near Teythmos.
+She married young, to another noble of similar standing. When he went to AoMMA to get an officer's certification, she followed, much to her parents chagrin.
+At the Academy, Charklieia studied both magic and the blade. Upon graduation, she took a position as a clerk in the Elyos Republic's intelligence service, on the southeast coast of the nation, near Traders bay.
+She spent the next 10 years working her way up throug the ranks, from clerk, to field-agent, to spymaster.
+
+Her time as a field agent was mostly spent in the Free Cities, in a variety of roles, from smuggler to noble courtesan. This period somewhat strained here relation with her husband, though they made up after she took up the role of spymaster.
+When husband completed 20 yrs of serivce in the Elyos Republic military, he retired to his family home near Teythmos. Charikleia followed, taking a lateral move to a secretarial position in the Teythmos High Council Chambers.
+While this might appear on its face a less prestigious role than spymaster it was in practice much the same, merely turned towards internal politics instead of other nations. After several years of this, 
+she moved to Arcmuth and worked as a diplomat between AoMMA and Free Cities, while also shadowing the current Archmage, before ascending to the role herself.
+Most people consider her ascension to the role of AoMMA's archmage a political move to reinforce the ties between Teythmos and AoMMA, given how far the academy is from the republic's capitol.
+While this isn't wrong, it is rather reductive. She has proven to be a very effective archmage, keeping the Academy operating at peak efficiency and using its reputation to strengthen relations between the Elyos Republic and the Free Cities.
+
+**Affiliations:** 
+Elyos Republic, AoMMA.
+
+
+----------------
+
+
+**Name:**
+
+**Demographics:** Female 'daal
+
+**Description:** 
+
+Dark, straight, shoulder-length hair. Broad shoulders.
+Typically wears an outfit consisting of knee-length leather boots, a knee-length diagonal-cut skirt, a cropped, diagonal cut vest with flared sleves, and a leather satchel.
+
+Skilled chimerist based out of Arcmuth. One of the largest suppliers of [null grubs](../../world/bestiary/fauna/abberations) in eastern Eaos.
+She maintains a private laboratory some ways outside of Arcmuth, along with a couple different storefronts in the city. She ocasionally runs practical chimerist classes at the AoM&MA.
+
+In addition to her main business producing null grubs, she also works in chimerism research, mainly involved producing various small bespoke chimeric constructs. 
+
+**Affiliations:** 
+AoM&MA, Arcmuth.
+
+----------------
+
+**Name:**
+
+**Demographics:** M Ael'Daal
+
+**Description:** 
+
+One of the founding members of the Necromancer County
+
+Primarly an agricultural/weather mage. Not skilled in necromancy. 
+
+Handles most of the public interactions and offloading of surplus crops. Quite moral, handles the necromancer county as an excellent scientific opportunity.
+
+
+**Affiliations:** 
+Necromancer County. AoMMA
+
+----------------
+
+**Name:**
+
+**Demographics:** F Ael'daal with shapeshifter heritage.
+
+**Description:** 
+
+Formerly high level animancy researcher at AoM&MA, who has since moved on to expirimental necromancy. Skilled in most applications of animancy, and is a strong shapeshifter. 
+Barring graverobbing and 'desecration' of corpses, generally moral.
+
+One of the founding members of the Necromancer County
+
+**Affiliations:** 
+Necromancer County, AoMMA, Sandwalker Hyena Tribe
+----------------
+
+**Name:**
+
+**Demographics:** F Ael'daal
+
+**Description:** 
+
+Archivist for the Order of Sion.
+
+Based in the Great Library in Eaosport.
+Has a magiacally supplemented memory.
+
+**Affiliations:** 
+Order of Sion
+----------------
+
+
+
+
 <h3 id="aelfae">Æl'fae</h3>
 
 * [Queen of Ravens](./aeldar/queenofravens)
@@ -348,11 +346,22 @@ The two of them kept Tala's human form a secret for some time, while Conrayd tau
 After some time of this, they engineered a way for Tala to meet Conrayd in public in her human form, followed by a public courtship and eventual marriage.
 
 Conrayd has since taken over the castle from his parents, and the two of them now jointly rule it.
-At some point, Tala's shapeshifting ability came out. By this time, the two of them were well-liked enough that it didn't cause too much of a fuss. 
+
+Tala still spends much of her time in wolf form, though after she learned to read, Tala began spending more time in human form to do so.
+Like most 'fae, Tala doesn't have much of a nudity taboo. In her and Conrayd's private quarters, she typically remains nude while in human form, even when there are servants about.
+
+When in public as a human, Tala favours clothes that are easy to slip out of if she ever sees the need to shift into her wolf form. This typically consists of slip-on shoes and light, single-piece dresses, sometimes paired with a shawl or cloak.
+This rather unique style has made Tala a bit of a fashion trendsetter in high-society circles among the Futhern Dal Protectorates.
+
+Tala also regularly enjoys hunting with Conrayd while in her wolf form.
+
+When Tala had her first child with Conrayd, she was rather dismayed to discover that the pregnancy inhibited her shapeshifting abilities.
+Afterwards, she took up the search for a mage who would be able to teach Conrayd how to shapeshift into a wolf, so that she could bear their next children while in her preferred wolf form. 
+This was not quite succesful, as Conrayd wasn't able to pick up the knack of shapeshifting. However, Tala was able to learn how to turn Conrayd into a wolf herself, which still served her goals.
+
+At some point, Tala's shapeshifting ability became widely known (before this, it had been an open secret among the castle servants for some time). 
+By the time it became common knowledge, the two of them were well-liked enough that it didn't cause too much of a fuss. 
 However, most people think Tala is a magic-user who can transform into a wolf, and not the other way around.
-
-Tala still spends much of her time in wolf form.
-
 
 **Affiliations:** 
 
@@ -467,6 +476,46 @@ Empire of the Rising Sun
 
 * [Wysteria](./aeldar/wysteria)
 
+-----------------
+
+**Name:**
+
+**Demographics:** Female Æl'midh/daal spirit revenant
+
+**Description:** 
+
+
+Born 125 BC in the city of Armuth to a midh artificier-smith and a young daal battlemage.
+Fought as a soldier right as the Uon - 'daal war began to get serious, from 108 BC - 97 BC. Leg was wounded in combat, and became a blacksmith for the war effort for another 20 years, until retiring to a small town far away 
+from the fighting in 77 BC. Continued to forge masterwork swords for officers in the war, and was somewhat renowned among swordsmiths of the time.
+--
+During retirement, was tempering sword for [?]
+Small geoup of Bandits (mostly hungry war deserters) march into town. Leader demands village's food.
+Smith grabs forge hammer confronts them, but is immediately backhanded by one of the bandits and knocked to the ground, injuring her badly enough that she can't immediately get back up.
+Things go south from here. Village headman confronts bandit leader, who runs him thorugh. Smith finds a preternatural burst of strength grabs unfinished sword, still hot, and rushes the bandits.
+Her body continues fighting long after she should have died, and once all the bandits were dead or gone, the sword lay atop her body, still hiltless, but honed to perfection.
+--
+While some of the other villagers were injured in the fighting, the smith and the headman were the only casualties.
+Nearby soldiers show up an (hour? day?) after the fighting. Aghast at the carnage, help with cleanup.
+Smith's son and apprentice (age 13) finds blade in pile of metal scrap after cleanup & finishes it in her memory. Takes it with him a year later when he goes to join the [Uon] war.
+Gave sword to a young officer when he retired from active duty, knowing it would protect them.
+Near front lines during the cataclysm, and lost.
+The years following were rather chaotic. Eventually found by a riftlander, sold to a wandering mercenary, who was then killed by bandits.
+
+Soul remains in the sword. Guides combat of wielder, but can only be wielded by effectively by defenders of the innocent. Otherwise will sabotoge your actions, usually at a crucial junction.
+Telepathic, but not very talkative. Only speaks to a wielder she feels kinship with 
+
+TBD: 
+* Birthdate/Deathdate; What war is she a veteran of -> Either early Uon war ~100 BC, or daal-midh conflict ~2100BC
+* Sword - origionally comissioned for who?
+* Fate of village she defended - destroyed, but did everyone (anyone?) escape or not?
+* First wielder - righteous or evil?
+
+
+**Affiliations:** 
+
+----------------
+
 **Name:**
 
 **Demographics:** Varies. Originally M Ael'daal.
@@ -479,7 +528,7 @@ Works as an assasin for the Order of Sion. Has the ability to swap minds with a 
 
 
 **Affiliations:** 
-Order of Scion
+Order of Sion
 ----------------
 
 

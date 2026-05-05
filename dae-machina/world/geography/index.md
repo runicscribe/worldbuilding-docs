@@ -44,6 +44,11 @@ It is sometimes called the "Worlds Edge", as the extreeme lattitude means the su
 The Dragonspine mountains are a large mountain chain stretching from the western edge of Mhidda to the southeastern edge of Eos, and serve as the dividing line between the two continents. 
 The mountains are full of ‘midh strongholds to the north, ‘jinn palaces to the south, and dragon caves throughout. 
 
+### The Shattered Peaks
+
+A series of mountains in the Dragonspine mountain range whose peaks were magically sheared off during the Dragon-Ael war, giving the skyline an especially jagged appearance.
+
+
 ## Runesea Isles (Dhaigean Isles)
 
 This large island is off the northwestern coast of the continent, and is inhabited by a unique civilization of ‘primitive’ midh, who specialize in enchanted warpaint.
